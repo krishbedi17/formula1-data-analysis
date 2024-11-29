@@ -2,11 +2,11 @@ import fastf1
 import pandas as pd
 
 df = pd.DataFrame()
-schedule = fastf1.get_event_schedule(2021)
+schedule = fastf1.get_event_schedule(2020)
 
-for i in range(1, 23):
+for i in range(1, 18):
     try:
-        session = fastf1.get_session(2021, i, 'R')
+        session = fastf1.get_session(2020, i, 'R')
         session.load()
 
         lap_data = session.laps
@@ -27,7 +27,7 @@ for i in range(1, 23):
 
         # Add race metadata
         round_df['RaceID'] = i
-        round_df['year'] = 2021
+        round_df['year'] = 2020
         round_df['EventName'] = event_name
 
         df = pd.concat([df, round_df], ignore_index=True)
@@ -37,5 +37,5 @@ for i in range(1, 23):
     except Exception as e:
         print(f"Could not load data for Round {i}: {e}")
 
-df.to_csv("2021_fastestlap.csv", index=False)
+df.to_csv("2020_fastestlap.csv", index=False)
 
