@@ -9,22 +9,26 @@ def get_season_schedule(year):
         if schedule:
             schedule_df = pd.json_normalize(schedule)
             schedule_df = schedule_df[[
-                'round', 'raceName', 'Circuit.circuitName', 'Circuit.Location.locality',
-                'Circuit.Location.country', 'date', 'time'
+                'round', 'raceName', 'Circuit.circuitId', 'Circuit.circuitName',
+                'Circuit.Location.locality', 'Circuit.Location.country',
+                'Circuit.Location.lat', 'Circuit.Location.long', 'date', 'time'
             ]]
+
+            # Rename columns for better readability
             schedule_df.rename(columns={
                 'round': 'Round',
                 'raceName': 'Race Name',
+                'Circuit.circuitId': 'Circuit ID',
                 'Circuit.circuitName': 'Circuit Name',
                 'Circuit.Location.locality': 'Locality',
                 'Circuit.Location.country': 'Country',
+                'Circuit.Location.lat': 'Latitude',
+                'Circuit.Location.long': 'Longitude',
                 'date': 'Date',
                 'time': 'Time'
             }, inplace=True)
+
             return schedule_df
-        else:
-            print(f"No data available for the year {year}.")
-            return pd.DataFrame()
 
     else:
         print(f"Failed to fetch data: {response.status_code}")
