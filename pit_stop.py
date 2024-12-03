@@ -53,7 +53,6 @@ def main():
         round_count = df['Round'].count()
 
         season_results = []
-
         for j in range(1, round_count + 1):
             results = get_pit_stops(i, j)
             if not results.empty:
