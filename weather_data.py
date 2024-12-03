@@ -1,6 +1,5 @@
 import fastf1
 import pandas as pd
-import numpy as np
 
 weather_df = pd.DataFrame()
 schedule = fastf1.get_event_schedule(2021)
