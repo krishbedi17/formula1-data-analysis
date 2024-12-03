@@ -23,7 +23,7 @@ for i in range(1, 23):
             'AirTemp': session.weather_data['AirTemp'].mean(),
             'Humidity': session.weather_data['Humidity'].mean(),
             'Pressure': session.weather_data['Pressure'].mean(),
-            'Rainfall': session.weather_data['Rainfall'].mean() ,  # True if ANY rainfall occurred
+            'Rainfall': session.weather_data['Rainfall'].mean() ,
             'TrackTemp': session.weather_data['TrackTemp'].mean(),
             'WindDirection': session.weather_data['WindDirection'].mean(),
             'WindSpeed': session.weather_data['WindSpeed'].mean()
