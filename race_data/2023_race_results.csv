@@ -1,0 +1,441 @@
+Race ID,Position,Last Name,First Name,Constructor,Points,Fastest Lap Time,Fastest Lap Avg Speed (kph),Status,Driver Code,Driver ID
+1,1,Verstappen,Max,Red Bull,25,01:36.2,202.452,Finished,VER,max_verstappen
+1,2,Pérez,Sergio,Red Bull,18,01:36.3,202.225,Finished,PER,perez
+1,3,Alonso,Fernando,Aston Martin,15,01:36.2,202.62,Finished,ALO,alonso
+1,4,Sainz,Carlos,Ferrari,12,01:37.1,200.588,Finished,SAI,sainz
+1,5,Hamilton,Lewis,Mercedes,10,01:36.5,201.802,Finished,HAM,hamilton
+1,6,Stroll,Lance,Aston Martin,8,01:36.5,201.802,Finished,STR,stroll
+1,7,Russell,George,Mercedes,6,01:37.2,200.401,Finished,RUS,russell
+1,8,Bottas,Valtteri,Alfa Romeo,4,01:37.4,200.075,Finished,BOT,bottas
+1,9,Gasly,Pierre,Alpine F1 Team,2,01:35.1,204.939,Finished,GAS,gasly
+1,10,Albon,Alexander,Williams,1,01:37.1,200.559,Finished,ALB,albon
+1,11,Tsunoda,Yuki,AlphaTauri,0,01:36.6,201.612,Finished,TSU,tsunoda
+1,12,Sargeant,Logan,Williams,0,01:36.0,202.871,+1 Lap,SAR,sargeant
+1,13,Magnussen,Kevin,Haas F1 Team,0,01:36.5,201.959,+1 Lap,MAG,kevin_magnussen
+1,14,de Vries,Nyck,AlphaTauri,0,01:37.7,199.4,+1 Lap,DEV,de_vries
+1,15,Hülkenberg,Nico,Haas F1 Team,0,01:36.6,201.656,+1 Lap,HUL,hulkenberg
+1,16,Zhou,Guanyu,Alfa Romeo,0,01:34.0,207.276,+1 Lap,ZHO,zhou
+1,17,Norris,Lando,McLaren,0,01:35.8,203.327,+2 Laps,NOR,norris
+1,18,Ocon,Esteban,Alpine F1 Team,0,01:36.8,201.278,Mechanical,OCO,ocon
+1,19,Leclerc,Charles,Ferrari,0,01:37.2,200.506,Engine,LEC,leclerc
+1,20,Piastri,Oscar,McLaren,0,01:40.7,193.494,Electrical,PIA,piastri
+2,1,Pérez,Sergio,Red Bull,25,01:32.2,241.098,Finished,PER,perez
+2,2,Verstappen,Max,Red Bull,19,01:31.9,241.838,Finished,VER,max_verstappen
+2,3,Alonso,Fernando,Aston Martin,15,01:32.2,240.962,Finished,ALO,alonso
+2,4,Russell,George,Mercedes,12,01:32.4,240.459,Finished,RUS,russell
+2,5,Hamilton,Lewis,Mercedes,10,01:32.9,239.145,Finished,HAM,hamilton
+2,6,Sainz,Carlos,Ferrari,8,01:32.8,239.451,Finished,SAI,sainz
+2,7,Leclerc,Charles,Ferrari,6,01:33.1,238.849,Finished,LEC,leclerc
+2,8,Ocon,Esteban,Alpine F1 Team,4,01:33.2,238.424,Finished,OCO,ocon
+2,9,Gasly,Pierre,Alpine F1 Team,2,01:33.4,237.99,Finished,GAS,gasly
+2,10,Magnussen,Kevin,Haas F1 Team,1,01:33.4,238.036,Finished,MAG,kevin_magnussen
+2,11,Tsunoda,Yuki,AlphaTauri,0,01:33.9,236.624,Finished,TSU,tsunoda
+2,12,Hülkenberg,Nico,Haas F1 Team,0,01:33.8,237.005,Finished,HUL,hulkenberg
+2,13,Zhou,Guanyu,Alfa Romeo,0,01:33.9,236.718,Finished,ZHO,zhou
+2,14,de Vries,Nyck,AlphaTauri,0,01:33.6,237.438,Finished,DEV,de_vries
+2,15,Piastri,Oscar,McLaren,0,01:34.3,235.731,Finished,PIA,piastri
+2,16,Sargeant,Logan,Williams,0,01:34.5,235.277,Finished,SAR,sargeant
+2,17,Norris,Lando,McLaren,0,01:34.1,236.144,Finished,NOR,norris
+2,18,Bottas,Valtteri,Alfa Romeo,0,01:34.4,235.489,+1 Lap,BOT,bottas
+2,19,Albon,Alexander,Williams,0,01:35.6,232.574,Brakes,ALB,albon
+2,20,Stroll,Lance,Aston Martin,0,01:35.1,233.617,Engine,STR,stroll
+3,1,Verstappen,Max,Red Bull,25,01:20.3,236.498,Finished,VER,max_verstappen
+3,2,Hamilton,Lewis,Mercedes,18,01:20.6,235.703,Finished,HAM,hamilton
+3,3,Alonso,Fernando,Aston Martin,15,01:20.5,236.105,Finished,ALO,alonso
+3,4,Stroll,Lance,Aston Martin,12,01:20.9,234.769,Finished,STR,stroll
+3,5,Pérez,Sergio,Red Bull,11,01:20.2,236.814,Finished,PER,perez
+3,6,Norris,Lando,McLaren,8,01:21.2,234.077,Finished,NOR,norris
+3,7,Hülkenberg,Nico,Haas F1 Team,6,01:21.1,234.219,Finished,HUL,hulkenberg
+3,8,Piastri,Oscar,McLaren,4,01:21.3,233.611,Finished,PIA,piastri
+3,9,Zhou,Guanyu,Alfa Romeo,2,01:21.8,232.229,Finished,ZHO,zhou
+3,10,Tsunoda,Yuki,AlphaTauri,1,01:21.8,232.314,Finished,TSU,tsunoda
+3,11,Bottas,Valtteri,Alfa Romeo,0,01:22.2,231.06,Finished,BOT,bottas
+3,12,Sainz,Carlos,Ferrari,0,01:20.5,236.131,Finished,SAI,sainz
+3,13,Gasly,Pierre,Alpine F1 Team,0,01:21.0,234.592,Collision,GAS,gasly
+3,14,Ocon,Esteban,Alpine F1 Team,0,01:21.2,233.991,Collision,OCO,ocon
+3,15,de Vries,Nyck,AlphaTauri,0,01:21.2,234.049,Collision,DEV,de_vries
+3,16,Sargeant,Logan,Williams,0,01:21.5,233.264,Collision,SAR,sargeant
+3,17,Magnussen,Kevin,Haas F1 Team,0,01:21.7,232.61,Accident,MAG,kevin_magnussen
+3,18,Russell,George,Mercedes,0,01:22.7,229.811,Engine,RUS,russell
+3,19,Albon,Alexander,Williams,0,01:23.3,227.966,Accident,ALB,albon
+3,20,Leclerc,Charles,Ferrari,0,,,Collision,LEC,leclerc
+4,1,Pérez,Sergio,Red Bull,25,01:44.6,206.625,Finished,PER,perez
+4,2,Verstappen,Max,Red Bull,18,01:44.2,207.333,Finished,VER,max_verstappen
+4,3,Leclerc,Charles,Ferrari,15,01:44.6,206.681,Finished,LEC,leclerc
+4,4,Alonso,Fernando,Aston Martin,12,01:44.2,207.315,Finished,ALO,alonso
+4,5,Sainz,Carlos,Ferrari,10,01:45.2,205.474,Finished,SAI,sainz
+4,6,Hamilton,Lewis,Mercedes,8,01:45.3,205.141,Finished,HAM,hamilton
+4,7,Stroll,Lance,Aston Martin,6,01:45.6,204.595,Finished,STR,stroll
+4,8,Russell,George,Mercedes,5,01:43.4,209.062,Finished,RUS,russell
+4,9,Norris,Lando,McLaren,2,01:45.7,204.38,Finished,NOR,norris
+4,10,Tsunoda,Yuki,AlphaTauri,1,01:45.7,204.401,Finished,TSU,tsunoda
+4,11,Piastri,Oscar,McLaren,0,01:45.6,204.587,Finished,PIA,piastri
+4,12,Albon,Alexander,Williams,0,01:45.9,204.019,Finished,ALB,albon
+4,13,Magnussen,Kevin,Haas F1 Team,0,01:45.9,204.164,Finished,MAG,kevin_magnussen
+4,14,Gasly,Pierre,Alpine F1 Team,0,01:45.5,204.764,Finished,GAS,gasly
+4,15,Ocon,Esteban,Alpine F1 Team,0,01:45.9,204.052,Finished,OCO,ocon
+4,16,Sargeant,Logan,Williams,0,01:46.5,202.916,Finished,SAR,sargeant
+4,17,Hülkenberg,Nico,Haas F1 Team,0,01:46.7,202.479,+1 Lap,HUL,hulkenberg
+4,18,Bottas,Valtteri,Alfa Romeo,0,01:46.3,203.292,+1 Lap,BOT,bottas
+4,19,Zhou,Guanyu,Alfa Romeo,0,01:47.6,200.931,Overheating,ZHO,zhou
+4,20,de Vries,Nyck,AlphaTauri,0,01:48.8,198.663,Accident,DEV,de_vries
+5,1,Verstappen,Max,Red Bull,26,01:29.7,217.184,Finished,VER,max_verstappen
+5,2,Pérez,Sergio,Red Bull,18,01:30.6,215.141,Finished,PER,perez
+5,3,Alonso,Fernando,Aston Martin,15,01:30.5,215.238,Finished,ALO,alonso
+5,4,Russell,George,Mercedes,12,01:31.0,214.065,Finished,RUS,russell
+5,5,Sainz,Carlos,Ferrari,10,01:31.4,213.252,Finished,SAI,sainz
+5,6,Hamilton,Lewis,Mercedes,8,01:30.7,214.882,Finished,HAM,hamilton
+5,7,Leclerc,Charles,Ferrari,6,01:31.4,213.084,Finished,LEC,leclerc
+5,8,Gasly,Pierre,Alpine F1 Team,4,01:32.0,211.84,Finished,GAS,gasly
+5,9,Ocon,Esteban,Alpine F1 Team,2,01:31.1,213.765,Finished,OCO,ocon
+5,10,Magnussen,Kevin,Haas F1 Team,1,01:31.7,212.487,Finished,MAG,kevin_magnussen
+5,11,Tsunoda,Yuki,AlphaTauri,0,01:31.0,214.011,Finished,TSU,tsunoda
+5,12,Stroll,Lance,Aston Martin,0,01:30.9,214.426,Finished,STR,stroll
+5,13,Bottas,Valtteri,Alfa Romeo,0,01:31.8,212.147,Finished,BOT,bottas
+5,14,Albon,Alexander,Williams,0,01:31.9,212.115,Finished,ALB,albon
+5,15,Hülkenberg,Nico,Haas F1 Team,0,01:30.9,214.334,Finished,HUL,hulkenberg
+5,16,Zhou,Guanyu,Alfa Romeo,0,01:31.7,212.383,Finished,ZHO,zhou
+5,17,Norris,Lando,McLaren,0,01:32.4,210.854,Finished,NOR,norris
+5,18,de Vries,Nyck,AlphaTauri,0,01:31.6,212.786,Finished,DEV,de_vries
+5,19,Piastri,Oscar,McLaren,0,01:32.0,211.76,+1 Lap,PIA,piastri
+5,20,Sargeant,Logan,Williams,0,01:32.4,210.893,+1 Lap,SAR,sargeant
+6,1,Verstappen,Max,Red Bull,25,01:16.6,156.822,Finished,VER,max_verstappen
+6,2,Alonso,Fernando,Aston Martin,18,01:16.7,156.678,Finished,ALO,alonso
+6,3,Ocon,Esteban,Alpine F1 Team,15,01:16.5,156.977,Finished,OCO,ocon
+6,4,Hamilton,Lewis,Mercedes,13,01:15.7,158.799,Finished,HAM,hamilton
+6,5,Russell,George,Mercedes,10,01:16.8,156.425,Finished,RUS,russell
+6,6,Leclerc,Charles,Ferrari,8,01:15.8,158.541,Finished,LEC,leclerc
+6,7,Gasly,Pierre,Alpine F1 Team,6,01:15.8,158.42,Finished,GAS,gasly
+6,8,Sainz,Carlos,Ferrari,4,01:16.4,157.14,Finished,SAI,sainz
+6,9,Norris,Lando,McLaren,2,01:17.8,154.324,+1 Lap,NOR,norris
+6,10,Piastri,Oscar,McLaren,1,01:17.5,154.983,+1 Lap,PIA,piastri
+6,11,Bottas,Valtteri,Alfa Romeo,0,01:17.8,154.363,+1 Lap,BOT,bottas
+6,12,de Vries,Nyck,AlphaTauri,0,01:17.6,154.887,+1 Lap,DEV,de_vries
+6,13,Zhou,Guanyu,Alfa Romeo,0,01:16.9,156.165,+1 Lap,ZHO,zhou
+6,14,Albon,Alexander,Williams,0,01:16.7,156.683,+1 Lap,ALB,albon
+6,15,Tsunoda,Yuki,AlphaTauri,0,01:17.7,154.649,+2 Laps,TSU,tsunoda
+6,16,Pérez,Sergio,Red Bull,0,01:16.3,157.51,+2 Laps,PER,perez
+6,17,Hülkenberg,Nico,Haas F1 Team,0,01:17.0,156.033,+2 Laps,HUL,hulkenberg
+6,18,Sargeant,Logan,Williams,0,01:17.3,155.406,+2 Laps,SAR,sargeant
+6,19,Magnussen,Kevin,Haas F1 Team,0,01:18.4,153.325,Collision damage,MAG,kevin_magnussen
+6,20,Stroll,Lance,Aston Martin,0,01:17.8,154.472,Accident,STR,stroll
+7,1,Verstappen,Max,Red Bull,26,01:16.3,219.641,Finished,VER,max_verstappen
+7,2,Hamilton,Lewis,Mercedes,18,01:16.7,218.649,Finished,HAM,hamilton
+7,3,Russell,George,Mercedes,15,01:17.9,215.283,Finished,RUS,russell
+7,4,Pérez,Sergio,Red Bull,12,01:16.7,218.678,Finished,PER,perez
+7,5,Sainz,Carlos,Ferrari,10,01:18.4,213.833,Finished,SAI,sainz
+7,6,Stroll,Lance,Aston Martin,8,01:18.7,212.967,Finished,STR,stroll
+7,7,Alonso,Fernando,Aston Martin,6,01:18.1,214.709,Finished,ALO,alonso
+7,8,Ocon,Esteban,Alpine F1 Team,4,01:18.9,212.362,Finished,OCO,ocon
+7,9,Zhou,Guanyu,Alfa Romeo,2,01:18.8,212.883,Finished,ZHO,zhou
+7,10,Gasly,Pierre,Alpine F1 Team,1,01:18.4,213.91,Finished,GAS,gasly
+7,11,Leclerc,Charles,Ferrari,0,01:18.4,213.959,Finished,LEC,leclerc
+7,12,Tsunoda,Yuki,AlphaTauri,0,01:18.9,212.475,Finished,TSU,tsunoda
+7,13,Piastri,Oscar,McLaren,0,01:18.7,213.083,+1 Lap,PIA,piastri
+7,14,de Vries,Nyck,AlphaTauri,0,01:18.6,213.313,+1 Lap,DEV,de_vries
+7,15,Hülkenberg,Nico,Haas F1 Team,0,01:18.8,212.821,+1 Lap,HUL,hulkenberg
+7,16,Albon,Alexander,Williams,0,01:19.1,211.861,+1 Lap,ALB,albon
+7,17,Norris,Lando,McLaren,0,01:17.2,217.216,+1 Lap,NOR,norris
+7,18,Magnussen,Kevin,Haas F1 Team,0,01:18.1,214.748,+1 Lap,MAG,kevin_magnussen
+7,19,Bottas,Valtteri,Alfa Romeo,0,01:18.2,214.273,+1 Lap,BOT,bottas
+7,20,Sargeant,Logan,Williams,0,01:19.2,211.556,+1 Lap,SAR,sargeant
+8,1,Verstappen,Max,Red Bull,25,01:15.6,207.683,Finished,VER,max_verstappen
+8,2,Alonso,Fernando,Aston Martin,18,01:15.8,207.176,Finished,ALO,alonso
+8,3,Hamilton,Lewis,Mercedes,15,01:15.4,208.228,Finished,HAM,hamilton
+8,4,Leclerc,Charles,Ferrari,12,01:15.9,206.826,Finished,LEC,leclerc
+8,5,Sainz,Carlos,Ferrari,10,01:15.9,206.815,Finished,SAI,sainz
+8,6,Pérez,Sergio,Red Bull,9,01:14.5,210.786,Finished,PER,perez
+8,7,Albon,Alexander,Williams,6,01:16.9,204.11,Finished,ALB,albon
+8,8,Ocon,Esteban,Alpine F1 Team,4,01:16.8,204.469,Finished,OCO,ocon
+8,9,Stroll,Lance,Aston Martin,2,01:16.6,205.051,Finished,STR,stroll
+8,10,Bottas,Valtteri,Alfa Romeo,1,01:16.6,204.888,Finished,BOT,bottas
+8,11,Piastri,Oscar,McLaren,0,01:16.6,204.96,Finished,PIA,piastri
+8,12,Gasly,Pierre,Alpine F1 Team,0,01:16.4,205.424,Finished,GAS,gasly
+8,13,Norris,Lando,McLaren,0,01:16.4,205.562,Finished,NOR,norris
+8,14,Tsunoda,Yuki,AlphaTauri,0,01:16.7,204.779,Finished,TSU,tsunoda
+8,15,Hülkenberg,Nico,Haas F1 Team,0,01:17.2,203.278,+1 Lap,HUL,hulkenberg
+8,16,Zhou,Guanyu,Alfa Romeo,0,01:17.1,203.652,+1 Lap,ZHO,zhou
+8,17,Magnussen,Kevin,Haas F1 Team,0,01:16.1,206.231,+1 Lap,MAG,kevin_magnussen
+8,18,de Vries,Nyck,AlphaTauri,0,01:16.7,204.805,+1 Lap,DEV,de_vries
+8,19,Russell,George,Mercedes,0,01:17.1,203.634,Brakes,RUS,russell
+8,20,Sargeant,Logan,Williams,0,01:18.4,200.155,Engine,SAR,sargeant
+9,1,Verstappen,Max,Red Bull,26,01:07.0,231.97,Finished,VER,max_verstappen
+9,2,Leclerc,Charles,Ferrari,18,01:08.8,225.876,Finished,LEC,leclerc
+9,3,Pérez,Sergio,Red Bull,15,01:08.1,228.227,Finished,PER,perez
+9,4,Norris,Lando,McLaren,12,01:08.7,226.142,Finished,NOR,norris
+9,5,Alonso,Fernando,Aston Martin,10,01:09.1,224.934,Finished,ALO,alonso
+9,6,Sainz,Carlos,Ferrari,8,01:08.9,225.679,Finished,SAI,sainz
+9,7,Russell,George,Mercedes,6,01:09.3,224.366,Finished,RUS,russell
+9,8,Hamilton,Lewis,Mercedes,4,01:09.2,224.765,Finished,HAM,hamilton
+9,9,Stroll,Lance,Aston Martin,2,01:08.5,227.054,Finished,STR,stroll
+9,10,Gasly,Pierre,Alpine F1 Team,1,01:09.0,225.136,Finished,GAS,gasly
+9,11,Albon,Alexander,Williams,0,01:09.6,223.473,Finished,ALB,albon
+9,12,Zhou,Guanyu,Alfa Romeo,0,01:09.8,222.749,+1 Lap,ZHO,zhou
+9,13,Sargeant,Logan,Williams,0,01:09.6,223.309,+1 Lap,SAR,sargeant
+9,14,Ocon,Esteban,Alpine F1 Team,0,01:09.8,222.714,+1 Lap,OCO,ocon
+9,15,Bottas,Valtteri,Alfa Romeo,0,01:09.9,222.259,+1 Lap,BOT,bottas
+9,16,Piastri,Oscar,McLaren,0,01:09.9,222.507,+1 Lap,PIA,piastri
+9,17,de Vries,Nyck,AlphaTauri,0,01:09.9,222.539,+1 Lap,DEV,de_vries
+9,18,Magnussen,Kevin,Haas F1 Team,0,01:10.2,221.511,+1 Lap,MAG,kevin_magnussen
+9,19,Tsunoda,Yuki,AlphaTauri,0,01:09.6,223.28,+1 Lap,TSU,tsunoda
+9,20,Hülkenberg,Nico,Haas F1 Team,0,01:11.1,218.737,Power loss,HUL,hulkenberg
+10,1,Verstappen,Max,Red Bull,26,01:30.3,234.922,Finished,VER,max_verstappen
+10,2,Norris,Lando,McLaren,18,01:30.5,234.226,Finished,NOR,norris
+10,3,Hamilton,Lewis,Mercedes,15,01:30.5,234.221,Finished,HAM,hamilton
+10,4,Piastri,Oscar,McLaren,12,01:30.9,233.435,Finished,PIA,piastri
+10,5,Russell,George,Mercedes,10,01:31.1,232.733,Finished,RUS,russell
+10,6,Pérez,Sergio,Red Bull,8,01:30.9,233.271,Finished,PER,perez
+10,7,Alonso,Fernando,Aston Martin,6,01:31.3,232.188,Finished,ALO,alonso
+10,8,Albon,Alexander,Williams,4,01:31.3,232.353,Finished,ALB,albon
+10,9,Leclerc,Charles,Ferrari,2,01:31.3,232.399,Finished,LEC,leclerc
+10,10,Sainz,Carlos,Ferrari,1,01:31.4,232.116,Finished,SAI,sainz
+10,11,Sargeant,Logan,Williams,0,01:31.7,231.274,Finished,SAR,sargeant
+10,12,Bottas,Valtteri,Alfa Romeo,0,01:31.9,230.888,Finished,BOT,bottas
+10,13,Hülkenberg,Nico,Haas F1 Team,0,01:31.8,231.08,Finished,HUL,hulkenberg
+10,14,Stroll,Lance,Aston Martin,0,01:31.5,231.756,Finished,STR,stroll
+10,15,Zhou,Guanyu,Alfa Romeo,0,01:31.8,231.097,Finished,ZHO,zhou
+10,16,Tsunoda,Yuki,AlphaTauri,0,01:32.1,230.307,Finished,TSU,tsunoda
+10,17,de Vries,Nyck,AlphaTauri,0,01:32.4,229.636,Finished,DEV,de_vries
+10,18,Gasly,Pierre,Alpine F1 Team,0,01:31.5,231.678,Collision damage,GAS,gasly
+10,19,Magnussen,Kevin,Haas F1 Team,0,01:33.4,227.169,Engine,MAG,kevin_magnussen
+10,20,Ocon,Esteban,Alpine F1 Team,0,01:33.9,225.754,Oil leak,OCO,ocon
+11,1,Verstappen,Max,Red Bull,26,01:20.5,195.91,Finished,VER,max_verstappen
+11,2,Norris,Lando,McLaren,18,01:22.2,191.919,Finished,NOR,norris
+11,3,Pérez,Sergio,Red Bull,15,01:22.3,191.647,Finished,PER,perez
+11,4,Hamilton,Lewis,Mercedes,12,01:21.6,193.277,Finished,HAM,hamilton
+11,5,Piastri,Oscar,McLaren,10,01:22.7,190.625,Finished,PIA,piastri
+11,6,Russell,George,Mercedes,8,01:22.2,191.966,Finished,RUS,russell
+11,7,Leclerc,Charles,Ferrari,6,01:22.5,191.242,Finished,LEC,leclerc
+11,8,Sainz,Carlos,Ferrari,4,01:22.6,190.976,Finished,SAI,sainz
+11,9,Alonso,Fernando,Aston Martin,2,01:22.7,190.604,Finished,ALO,alonso
+11,10,Stroll,Lance,Aston Martin,1,01:23.4,189.051,+1 Lap,STR,stroll
+11,11,Albon,Alexander,Williams,0,01:24.1,187.643,+1 Lap,ALB,albon
+11,12,Bottas,Valtteri,Alfa Romeo,0,01:23.7,188.54,+1 Lap,BOT,bottas
+11,13,Ricciardo,Daniel,AlphaTauri,0,01:23.9,187.904,+1 Lap,RIC,ricciardo
+11,14,Hülkenberg,Nico,Haas F1 Team,0,01:23.6,188.716,+1 Lap,HUL,hulkenberg
+11,15,Tsunoda,Yuki,AlphaTauri,0,01:23.3,189.405,+1 Lap,TSU,tsunoda
+11,16,Zhou,Guanyu,Alfa Romeo,0,01:23.7,188.333,+1 Lap,ZHO,zhou
+11,17,Magnussen,Kevin,Haas F1 Team,0,01:23.9,188.061,+1 Lap,MAG,kevin_magnussen
+11,18,Sargeant,Logan,Williams,0,01:23.5,188.89,Retired,SAR,sargeant
+11,19,Ocon,Esteban,Alpine F1 Team,0,,,Collision damage,OCO,ocon
+11,20,Gasly,Pierre,Alpine F1 Team,0,,,Collision damage,GAS,gasly
+12,1,Verstappen,Max,Red Bull,25,01:48.9,231.49,Finished,VER,max_verstappen
+12,2,Pérez,Sergio,Red Bull,18,01:50.3,228.581,Finished,PER,perez
+12,3,Leclerc,Charles,Ferrari,15,01:50.4,228.316,Finished,LEC,leclerc
+12,4,Hamilton,Lewis,Mercedes,13,01:47.3,234.978,Finished,HAM,hamilton
+12,5,Alonso,Fernando,Aston Martin,10,01:50.9,227.283,Finished,ALO,alonso
+12,6,Russell,George,Mercedes,8,01:50.6,227.972,Finished,RUS,russell
+12,7,Norris,Lando,McLaren,6,01:51.7,225.769,Finished,NOR,norris
+12,8,Ocon,Esteban,Alpine F1 Team,4,01:50.4,228.31,Finished,OCO,ocon
+12,9,Stroll,Lance,Aston Martin,2,01:51.3,226.55,Finished,STR,stroll
+12,10,Tsunoda,Yuki,AlphaTauri,1,01:51.4,226.353,Finished,TSU,tsunoda
+12,11,Gasly,Pierre,Alpine F1 Team,0,01:50.9,227.339,Finished,GAS,gasly
+12,12,Bottas,Valtteri,Alfa Romeo,0,01:50.5,228.153,Finished,BOT,bottas
+12,13,Zhou,Guanyu,Alfa Romeo,0,01:50.2,228.83,Finished,ZHO,zhou
+12,14,Albon,Alexander,Williams,0,01:49.8,229.553,Finished,ALB,albon
+12,15,Magnussen,Kevin,Haas F1 Team,0,01:51.0,227.171,Finished,MAG,kevin_magnussen
+12,16,Ricciardo,Daniel,AlphaTauri,0,01:51.0,227.169,Finished,RIC,ricciardo
+12,17,Sargeant,Logan,Williams,0,01:50.5,228.213,Finished,SAR,sargeant
+12,18,Hülkenberg,Nico,Haas F1 Team,0,01:49.9,229.415,Finished,HUL,hulkenberg
+12,19,Sainz,Carlos,Ferrari,0,01:53.1,222.864,Collision damage,SAI,sainz
+12,20,Piastri,Oscar,McLaren,0,,,Collision damage,PIA,piastri
+13,1,Verstappen,Max,Red Bull,25,01:13.9,207.505,Finished,VER,max_verstappen
+13,2,Alonso,Fernando,Aston Martin,19,01:13.8,207.651,Finished,ALO,alonso
+13,3,Gasly,Pierre,Alpine F1 Team,15,01:14.4,205.967,Finished,GAS,gasly
+13,4,Pérez,Sergio,Red Bull,12,01:14.2,206.549,Finished,PER,perez
+13,5,Sainz,Carlos,Ferrari,10,01:14.9,204.612,Finished,SAI,sainz
+13,6,Hamilton,Lewis,Mercedes,8,01:13.9,207.463,Finished,HAM,hamilton
+13,7,Norris,Lando,McLaren,6,01:14.4,206.108,Finished,NOR,norris
+13,8,Albon,Alexander,Williams,4,01:14.5,205.892,Finished,ALB,albon
+13,9,Piastri,Oscar,McLaren,2,01:14.3,206.36,Finished,PIA,piastri
+13,10,Ocon,Esteban,Alpine F1 Team,1,01:14.6,205.61,Finished,OCO,ocon
+13,11,Stroll,Lance,Aston Martin,0,01:15.2,203.966,Finished,STR,stroll
+13,12,Hülkenberg,Nico,Haas F1 Team,0,01:14.5,205.881,Finished,HUL,hulkenberg
+13,13,Lawson,Liam,AlphaTauri,0,01:14.8,204.923,Finished,LAW,lawson
+13,14,Bottas,Valtteri,Alfa Romeo,0,01:14.7,205.258,Finished,BOT,bottas
+13,15,Tsunoda,Yuki,AlphaTauri,0,01:16.3,201.072,Finished,TSU,tsunoda
+13,16,Magnussen,Kevin,Haas F1 Team,0,01:15.5,203.107,Finished,MAG,kevin_magnussen
+13,17,Russell,George,Mercedes,0,01:15.1,204.094,Finished,RUS,russell
+13,18,Zhou,Guanyu,Alfa Romeo,0,01:15.4,203.301,Accident,ZHO,zhou
+13,19,Leclerc,Charles,Ferrari,0,01:17.3,198.408,Undertray,LEC,leclerc
+13,20,Sargeant,Logan,Williams,0,01:17.4,198.095,Accident,SAR,sargeant
+14,1,Verstappen,Max,Red Bull,25,01:25.2,244.659,Finished,VER,max_verstappen
+14,2,Pérez,Sergio,Red Bull,18,01:25.5,243.853,Finished,PER,perez
+14,3,Sainz,Carlos,Ferrari,15,01:25.5,243.912,Finished,SAI,sainz
+14,4,Leclerc,Charles,Ferrari,12,01:25.6,243.687,Finished,LEC,leclerc
+14,5,Russell,George,Mercedes,10,01:25.8,242.929,Finished,RUS,russell
+14,6,Hamilton,Lewis,Mercedes,8,01:25.6,243.682,Finished,HAM,hamilton
+14,7,Albon,Alexander,Williams,6,01:26.4,241.405,Finished,ALB,albon
+14,8,Norris,Lando,McLaren,4,01:26.1,242.092,Finished,NOR,norris
+14,9,Alonso,Fernando,Aston Martin,2,01:26.1,242.201,Finished,ALO,alonso
+14,10,Bottas,Valtteri,Alfa Romeo,1,01:26.0,242.531,Finished,BOT,bottas
+14,11,Lawson,Liam,AlphaTauri,0,01:25.8,242.944,Finished,LAW,lawson
+14,12,Piastri,Oscar,McLaren,0,01:25.1,245.142,Finished,PIA,piastri
+14,13,Sargeant,Logan,Williams,0,01:26.8,240.152,Finished,SAR,sargeant
+14,14,Zhou,Guanyu,Alfa Romeo,0,01:26.0,242.545,Finished,ZHO,zhou
+14,15,Gasly,Pierre,Alpine F1 Team,0,01:25.8,243.181,Finished,GAS,gasly
+14,16,Stroll,Lance,Aston Martin,0,01:26.6,240.77,Finished,STR,stroll
+14,17,Hülkenberg,Nico,Haas F1 Team,0,01:25.9,242.796,+1 Lap,HUL,hulkenberg
+14,18,Magnussen,Kevin,Haas F1 Team,0,01:26.3,241.716,+1 Lap,MAG,kevin_magnussen
+14,19,Ocon,Esteban,Alpine F1 Team,0,01:27.0,239.812,Steering,OCO,ocon
+14,20,Tsunoda,Yuki,AlphaTauri,0,,,Engine,TSU,tsunoda
+15,1,Sainz,Carlos,Ferrari,25,01:37.7,182.089,Finished,SAI,sainz
+15,2,Norris,Lando,McLaren,18,01:38.0,181.384,Finished,NOR,norris
+15,3,Hamilton,Lewis,Mercedes,16,01:35.9,185.507,Finished,HAM,hamilton
+15,4,Leclerc,Charles,Ferrari,12,01:38.3,180.961,Finished,LEC,leclerc
+15,5,Verstappen,Max,Red Bull,10,01:36.6,184.147,Finished,VER,max_verstappen
+15,6,Gasly,Pierre,Alpine F1 Team,8,01:38.3,180.957,Finished,GAS,gasly
+15,7,Piastri,Oscar,McLaren,6,01:38.5,180.562,Finished,PIA,piastri
+15,8,Pérez,Sergio,Red Bull,4,01:37.1,183.136,Finished,PER,perez
+15,9,Lawson,Liam,AlphaTauri,2,01:39.0,179.585,Finished,LAW,lawson
+15,10,Magnussen,Kevin,Haas F1 Team,1,01:38.1,181.271,Finished,MAG,kevin_magnussen
+15,11,Albon,Alexander,Williams,0,01:37.3,182.696,Finished,ALB,albon
+15,12,Zhou,Guanyu,Alfa Romeo,0,01:39.3,179.064,Finished,ZHO,zhou
+15,13,Hülkenberg,Nico,Haas F1 Team,0,01:39.9,177.977,Finished,HUL,hulkenberg
+15,14,Sargeant,Logan,Williams,0,01:38.5,180.491,Finished,SAR,sargeant
+15,15,Alonso,Fernando,Aston Martin,0,01:36.5,184.374,Finished,ALO,alonso
+15,16,Russell,George,Mercedes,0,01:36.3,184.724,Accident,RUS,russell
+15,17,Bottas,Valtteri,Alfa Romeo,0,01:38.1,181.33,Technical,BOT,bottas
+15,18,Ocon,Esteban,Alpine F1 Team,0,01:39.9,177.964,Gearbox,OCO,ocon
+15,19,Tsunoda,Yuki,AlphaTauri,0,,,Collision,TSU,tsunoda
+15,20,Stroll,Lance,Aston Martin,0,,,Withdrew,STR,stroll
+16,1,Verstappen,Max,Red Bull,26,01:34.2,221.963,Finished,VER,max_verstappen
+16,2,Norris,Lando,McLaren,18,01:35.2,219.484,Finished,NOR,norris
+16,3,Piastri,Oscar,McLaren,15,01:36.3,217.021,Finished,PIA,piastri
+16,4,Leclerc,Charles,Ferrari,12,01:36.4,216.944,Finished,LEC,leclerc
+16,5,Hamilton,Lewis,Mercedes,10,01:35.6,218.648,Finished,HAM,hamilton
+16,6,Sainz,Carlos,Ferrari,8,01:36.2,217.339,Finished,SAI,sainz
+16,7,Russell,George,Mercedes,6,01:37.7,214.076,Finished,RUS,russell
+16,8,Alonso,Fernando,Aston Martin,4,01:37.2,215.067,Finished,ALO,alonso
+16,9,Ocon,Esteban,Alpine F1 Team,2,01:37.4,214.636,Finished,OCO,ocon
+16,10,Gasly,Pierre,Alpine F1 Team,1,01:36.4,216.924,Finished,GAS,gasly
+16,11,Lawson,Liam,AlphaTauri,0,01:38.3,212.738,+1 Lap,LAW,lawson
+16,12,Tsunoda,Yuki,AlphaTauri,0,01:37.8,213.824,+1 Lap,TSU,tsunoda
+16,13,Zhou,Guanyu,Alfa Romeo,0,01:37.8,213.774,+1 Lap,ZHO,zhou
+16,14,Hülkenberg,Nico,Haas F1 Team,0,01:37.3,214.963,+1 Lap,HUL,hulkenberg
+16,15,Magnussen,Kevin,Haas F1 Team,0,01:37.8,213.662,+1 Lap,MAG,kevin_magnussen
+16,16,Albon,Alexander,Williams,0,01:39.2,210.769,Collision damage,ALB,albon
+16,17,Sargeant,Logan,Williams,0,01:38.8,211.488,Collision damage,SAR,sargeant
+16,18,Stroll,Lance,Aston Martin,0,01:39.0,211.057,Rear wing,STR,stroll
+16,19,Pérez,Sergio,Red Bull,0,01:39.7,209.672,Collision damage,PER,perez
+16,20,Bottas,Valtteri,Alfa Romeo,0,02:02.8,170.3,Collision damage,BOT,bottas
+17,1,Verstappen,Max,Red Bull,26,01:24.3,231.364,Finished,VER,max_verstappen
+17,2,Piastri,Oscar,McLaren,18,01:24.9,229.724,Finished,PIA,piastri
+17,3,Norris,Lando,McLaren,15,01:24.8,229.938,Finished,NOR,norris
+17,4,Russell,George,Mercedes,12,01:25.8,227.45,Finished,RUS,russell
+17,5,Leclerc,Charles,Ferrari,10,01:25.0,229.532,Finished,LEC,leclerc
+17,6,Alonso,Fernando,Aston Martin,8,01:26.0,226.723,Finished,ALO,alonso
+17,7,Ocon,Esteban,Alpine F1 Team,6,01:26.5,225.661,Finished,OCO,ocon
+17,8,Bottas,Valtteri,Alfa Romeo,4,01:26.7,225.135,Finished,BOT,bottas
+17,9,Zhou,Guanyu,Alfa Romeo,2,01:26.3,225.993,Finished,ZHO,zhou
+17,10,Pérez,Sergio,Red Bull,1,01:26.2,226.263,Finished,PER,perez
+17,11,Stroll,Lance,Aston Martin,0,01:26.4,225.917,Finished,STR,stroll
+17,12,Gasly,Pierre,Alpine F1 Team,0,01:26.3,226.027,Finished,GAS,gasly
+17,13,Albon,Alexander,Williams,0,01:26.7,225.098,Finished,ALB,albon
+17,14,Magnussen,Kevin,Haas F1 Team,0,01:27.1,224.061,+1 Lap,MAG,kevin_magnussen
+17,15,Tsunoda,Yuki,AlphaTauri,0,01:27.2,223.786,+1 Lap,TSU,tsunoda
+17,16,Hülkenberg,Nico,Haas F1 Team,0,01:26.5,225.559,+1 Lap,HUL,hulkenberg
+17,17,Lawson,Liam,AlphaTauri,0,01:27.1,223.943,+1 Lap,LAW,lawson
+17,18,Sargeant,Logan,Williams,0,01:28.0,221.729,Illness,SAR,sargeant
+17,19,Hamilton,Lewis,Mercedes,0,,,Collision,HAM,hamilton
+17,20,Sainz,Carlos,Ferrari,0,,,Fuel leak,SAI,sainz
+18,1,Verstappen,Max,Red Bull,25,01:40.0,198.412,Finished,VER,max_verstappen
+18,2,Norris,Lando,McLaren,18,01:40.0,198.497,Finished,NOR,norris
+18,3,Sainz,Carlos,Ferrari,15,01:40.0,198.4,Finished,SAI,sainz
+18,4,Pérez,Sergio,Red Bull,12,01:39.7,198.991,Finished,PER,perez
+18,5,Russell,George,Mercedes,10,01:39.4,199.68,Finished,RUS,russell
+18,6,Gasly,Pierre,Alpine F1 Team,8,01:40.4,197.653,Finished,GAS,gasly
+18,7,Stroll,Lance,Aston Martin,6,01:39.9,198.65,Finished,STR,stroll
+18,8,Tsunoda,Yuki,AlphaTauri,5,01:38.1,202.231,Finished,TSU,tsunoda
+18,9,Albon,Alexander,Williams,2,01:41.4,195.783,Finished,ALB,albon
+18,10,Sargeant,Logan,Williams,1,01:41.2,196.041,Finished,SAR,sargeant
+18,11,Hülkenberg,Nico,Haas F1 Team,0,01:40.9,196.648,Finished,HUL,hulkenberg
+18,12,Bottas,Valtteri,Alfa Romeo,0,01:42.0,194.629,Finished,BOT,bottas
+18,13,Zhou,Guanyu,Alfa Romeo,0,01:41.9,194.807,+1 Lap,ZHO,zhou
+18,14,Magnussen,Kevin,Haas F1 Team,0,01:41.5,195.523,+1 Lap,MAG,kevin_magnussen
+18,15,Ricciardo,Daniel,AlphaTauri,0,01:39.4,199.734,+1 Lap,RIC,ricciardo
+18,16,Alonso,Fernando,Aston Martin,0,01:40.0,198.559,Undertray,ALO,alonso
+18,17,Piastri,Oscar,McLaren,0,01:42.7,193.24,Radiator,PIA,piastri
+18,18,Ocon,Esteban,Alpine F1 Team,0,01:44.8,189.397,Collision damage,OCO,ocon
+18,19,Hamilton,Lewis,Mercedes,0,01:39.6,199.301,Disqualified,HAM,hamilton
+18,20,Leclerc,Charles,Ferrari,0,,,Disqualified,LEC,leclerc
+19,1,Verstappen,Max,Red Bull,25,01:21.6,189.78,Finished,VER,max_verstappen
+19,2,Hamilton,Lewis,Mercedes,19,01:21.3,190.503,Finished,HAM,hamilton
+19,3,Leclerc,Charles,Ferrari,15,01:22.3,188.194,Finished,LEC,leclerc
+19,4,Sainz,Carlos,Ferrari,12,01:22.5,187.722,Finished,SAI,sainz
+19,5,Norris,Lando,McLaren,10,01:21.9,189.085,Finished,NOR,norris
+19,6,Russell,George,Mercedes,8,01:22.8,187.175,Finished,RUS,russell
+19,7,Ricciardo,Daniel,AlphaTauri,6,01:22.7,187.404,Finished,RIC,ricciardo
+19,8,Piastri,Oscar,McLaren,4,01:22.8,187.22,Finished,PIA,piastri
+19,9,Albon,Alexander,Williams,2,01:22.8,187.191,Finished,ALB,albon
+19,10,Ocon,Esteban,Alpine F1 Team,1,01:23.0,186.733,Finished,OCO,ocon
+19,11,Gasly,Pierre,Alpine F1 Team,0,01:23.2,186.163,Finished,GAS,gasly
+19,12,Tsunoda,Yuki,AlphaTauri,0,01:22.5,187.808,Finished,TSU,tsunoda
+19,13,Hülkenberg,Nico,Haas F1 Team,0,01:23.2,186.181,Finished,HUL,hulkenberg
+19,14,Zhou,Guanyu,Alfa Romeo,0,01:23.6,185.412,Finished,ZHO,zhou
+19,15,Bottas,Valtteri,Alfa Romeo,0,01:23.2,186.306,Finished,BOT,bottas
+19,16,Sargeant,Logan,Williams,0,01:23.0,186.672,Retired,SAR,sargeant
+19,17,Stroll,Lance,Aston Martin,0,01:23.3,186.103,Collision damage,STR,stroll
+19,18,Alonso,Fernando,Aston Martin,0,01:23.5,185.492,Withdrew,ALO,alonso
+19,19,Magnussen,Kevin,Haas F1 Team,0,01:23.1,186.351,Accident,MAG,kevin_magnussen
+19,20,Pérez,Sergio,Red Bull,0,,,Collision damage,PER,perez
+20,1,Verstappen,Max,Red Bull,25,01:13.4,211.277,Finished,VER,max_verstappen
+20,2,Norris,Lando,McLaren,19,01:12.5,214.005,Finished,NOR,norris
+20,3,Alonso,Fernando,Aston Martin,15,01:14.4,208.382,Finished,ALO,alonso
+20,4,Pérez,Sergio,Red Bull,12,01:14.1,209.276,Finished,PER,perez
+20,5,Stroll,Lance,Aston Martin,10,01:14.0,209.607,Finished,STR,stroll
+20,6,Sainz,Carlos,Ferrari,8,01:14.4,208.483,Finished,SAI,sainz
+20,7,Gasly,Pierre,Alpine F1 Team,6,01:14.5,208.161,Finished,GAS,gasly
+20,8,Hamilton,Lewis,Mercedes,4,01:14.7,207.554,Finished,HAM,hamilton
+20,9,Tsunoda,Yuki,AlphaTauri,2,01:14.2,208.974,Finished,TSU,tsunoda
+20,10,Ocon,Esteban,Alpine F1 Team,1,01:14.2,209.045,+1 Lap,OCO,ocon
+20,11,Sargeant,Logan,Williams,0,01:15.7,204.816,+1 Lap,SAR,sargeant
+20,12,Hülkenberg,Nico,Haas F1 Team,0,01:15.0,206.732,+1 Lap,HUL,hulkenberg
+20,13,Ricciardo,Daniel,AlphaTauri,0,01:13.9,210.007,+1 Lap,RIC,ricciardo
+20,14,Piastri,Oscar,McLaren,0,01:14.3,208.752,+2 Laps,PIA,piastri
+20,15,Russell,George,Mercedes,0,01:14.9,207.014,Overheating,RUS,russell
+20,16,Bottas,Valtteri,Alfa Romeo,0,01:15.7,204.835,Engine,BOT,bottas
+20,17,Zhou,Guanyu,Alfa Romeo,0,01:16.2,203.489,Engine,ZHO,zhou
+20,18,Magnussen,Kevin,Haas F1 Team,0,,,Collision,MAG,kevin_magnussen
+20,19,Albon,Alexander,Williams,0,,,Collision,ALB,albon
+20,20,Leclerc,Charles,Ferrari,0,,,Engine,LEC,leclerc
+21,1,Verstappen,Max,Red Bull,25,01:35.6,233.476,Finished,VER,max_verstappen
+21,2,Leclerc,Charles,Ferrari,18,01:35.7,233.342,Finished,LEC,leclerc
+21,3,Pérez,Sergio,Red Bull,15,01:35.9,232.685,Finished,PER,perez
+21,4,Ocon,Esteban,Alpine F1 Team,12,01:36.6,231.004,Finished,OCO,ocon
+21,5,Stroll,Lance,Aston Martin,10,01:36.6,231.131,Finished,STR,stroll
+21,6,Sainz,Carlos,Ferrari,8,01:36.0,232.576,Finished,SAI,sainz
+21,7,Hamilton,Lewis,Mercedes,6,01:35.7,233.227,Finished,HAM,hamilton
+21,8,Russell,George,Mercedes,4,01:36.1,232.365,Finished,RUS,russell
+21,9,Alonso,Fernando,Aston Martin,2,01:36.6,231.191,Finished,ALO,alonso
+21,10,Piastri,Oscar,McLaren,2,01:35.5,233.779,Finished,PIA,piastri
+21,11,Gasly,Pierre,Alpine F1 Team,0,01:36.9,230.346,Finished,GAS,gasly
+21,12,Albon,Alexander,Williams,0,01:37.4,229.296,Finished,ALB,albon
+21,13,Magnussen,Kevin,Haas F1 Team,0,01:37.5,229.065,Finished,MAG,kevin_magnussen
+21,14,Ricciardo,Daniel,AlphaTauri,0,01:37.1,229.884,Finished,RIC,ricciardo
+21,15,Zhou,Guanyu,Alfa Romeo,0,01:37.4,229.253,Finished,ZHO,zhou
+21,16,Sargeant,Logan,Williams,0,01:37.7,228.397,Finished,SAR,sargeant
+21,17,Bottas,Valtteri,Alfa Romeo,0,01:37.6,228.814,Finished,BOT,bottas
+21,18,Tsunoda,Yuki,AlphaTauri,0,01:37.6,228.755,Gearbox,TSU,tsunoda
+21,19,Hülkenberg,Nico,Haas F1 Team,0,01:37.6,228.807,Engine,HUL,hulkenberg
+21,20,Norris,Lando,McLaren,0,01:59.3,187.079,Accident,NOR,norris
+22,1,Verstappen,Max,Red Bull,26,01:27.0,218.541,Finished,VER,max_verstappen
+22,2,Leclerc,Charles,Ferrari,18,01:28.2,215.553,Finished,LEC,leclerc
+22,3,Russell,George,Mercedes,15,01:28.2,215.582,Finished,RUS,russell
+22,4,Pérez,Sergio,Red Bull,12,01:27.5,217.292,Finished,PER,perez
+22,5,Norris,Lando,McLaren,10,01:28.2,215.639,Finished,NOR,norris
+22,6,Piastri,Oscar,McLaren,8,01:28.1,215.702,Finished,PIA,piastri
+22,7,Alonso,Fernando,Aston Martin,6,01:28.3,215.414,Finished,ALO,alonso
+22,8,Tsunoda,Yuki,AlphaTauri,4,01:29.3,213,Finished,TSU,tsunoda
+22,9,Hamilton,Lewis,Mercedes,2,01:28.4,215.131,Finished,HAM,hamilton
+22,10,Stroll,Lance,Aston Martin,1,01:28.1,215.918,Finished,STR,stroll
+22,11,Ricciardo,Daniel,AlphaTauri,0,01:28.6,214.648,Finished,RIC,ricciardo
+22,12,Ocon,Esteban,Alpine F1 Team,0,01:30.0,211.162,Finished,OCO,ocon
+22,13,Gasly,Pierre,Alpine F1 Team,0,01:29.0,213.575,Finished,GAS,gasly
+22,14,Albon,Alexander,Williams,0,01:27.8,216.422,Finished,ALB,albon
+22,15,Hülkenberg,Nico,Haas F1 Team,0,01:29.2,213.093,Finished,HUL,hulkenberg
+22,16,Sargeant,Logan,Williams,0,01:28.6,214.626,Finished,SAR,sargeant
+22,17,Zhou,Guanyu,Alfa Romeo,0,01:28.7,214.224,Finished,ZHO,zhou
+22,18,Sainz,Carlos,Ferrari,0,01:29.5,212.534,Retired,SAI,sainz
+22,19,Bottas,Valtteri,Alfa Romeo,0,01:29.9,211.562,+1 Lap,BOT,bottas
+22,20,Magnussen,Kevin,Haas F1 Team,0,01:29.9,211.395,+1 Lap,MAG,kevin_magnussen
