@@ -1,0 +1,441 @@
+Race ID,Position,Last Name,First Name,Constructor,Points,Fastest Lap Time,Fastest Lap Avg Speed (kph),Status,Driver Code,year
+1,1,Hamilton,Lewis,Mercedes,25,01:34.0,207.235,Finished,HAM,2021
+1,2,Verstappen,Max,Red Bull,18,01:33.2,208.984,Finished,VER,2021
+1,3,Bottas,Valtteri,Mercedes,16,01:32.1,211.566,Finished,BOT,2021
+1,4,Norris,Lando,McLaren,12,01:34.4,206.398,Finished,NOR,2021
+1,5,Pérez,Sergio,Red Bull,10,01:34.0,207.334,Finished,PER,2021
+1,6,Leclerc,Charles,Ferrari,8,01:35.0,205.112,Finished,LEC,2021
+1,7,Ricciardo,Daniel,McLaren,6,01:34.9,205.233,Finished,RIC,2021
+1,8,Sainz,Carlos,Ferrari,4,01:34.5,206.151,Finished,SAI,2021
+1,9,Tsunoda,Yuki,AlphaTauri,2,01:34.8,205.603,Finished,TSU,2021
+1,10,Stroll,Lance,Aston Martin,1,01:34.9,205.378,Finished,STR,2021
+1,11,Räikkönen,Kimi,Alfa Romeo,0,01:35.2,204.672,Finished,RAI,2021
+1,12,Giovinazzi,Antonio,Alfa Romeo,0,01:35.1,204.823,+1 Lap,GIO,2021
+1,13,Ocon,Esteban,Alpine F1 Team,0,01:35.3,204.548,+1 Lap,OCO,2021
+1,14,Russell,George,Williams,0,01:35.0,205.008,+1 Lap,RUS,2021
+1,15,Vettel,Sebastian,Aston Martin,0,01:35.6,203.871,+1 Lap,VET,2021
+1,16,Schumacher,Mick,Haas F1 Team,0,01:36.1,202.667,+1 Lap,MSC,2021
+1,17,Gasly,Pierre,AlphaTauri,0,01:34.1,207.069,Retired,GAS,2021
+1,18,Latifi,Nicholas,Williams,0,01:36.6,201.685,Retired,LAT,2021
+1,19,Alonso,Fernando,Alpine F1 Team,0,01:36.1,202.816,Brakes,ALO,2021
+1,20,Mazepin,Nikita,Haas F1 Team,0,,,Accident,MAZ,2021
+2,1,Verstappen,Max,Red Bull,25,01:17.5,227.96,Finished,VER,2021
+2,2,Hamilton,Lewis,Mercedes,19,01:16.7,230.403,Finished,HAM,2021
+2,3,Norris,Lando,McLaren,15,01:18.3,225.819,Finished,NOR,2021
+2,4,Leclerc,Charles,Ferrari,12,01:18.4,225.473,Finished,LEC,2021
+2,5,Sainz,Carlos,Ferrari,10,01:18.5,225.154,Finished,SAI,2021
+2,6,Ricciardo,Daniel,McLaren,8,01:19.3,222.739,Finished,RIC,2021
+2,7,Gasly,Pierre,AlphaTauri,6,01:19.0,223.718,Finished,GAS,2021
+2,8,Stroll,Lance,Aston Martin,4,01:18.8,224.32,Finished,STR,2021
+2,9,Ocon,Esteban,Alpine F1 Team,2,01:19.4,222.512,Finished,OCO,2021
+2,10,Alonso,Fernando,Alpine F1 Team,1,01:19.4,222.526,Finished,ALO,2021
+2,11,Pérez,Sergio,Red Bull,0,01:19.4,222.585,Finished,PER,2021
+2,12,Tsunoda,Yuki,AlphaTauri,0,01:18.3,225.603,Finished,TSU,2021
+2,13,Räikkönen,Kimi,Alfa Romeo,0,01:18.4,225.548,Finished,RAI,2021
+2,14,Giovinazzi,Antonio,Alfa Romeo,0,01:19.5,222.378,+1 Lap,GIO,2021
+2,15,Vettel,Sebastian,Aston Martin,0,01:19.1,223.491,Gearbox,VET,2021
+2,16,Schumacher,Mick,Haas F1 Team,0,01:19.2,223.156,+2 Laps,MSC,2021
+2,17,Mazepin,Nikita,Haas F1 Team,0,01:20.4,219.8,+2 Laps,MAZ,2021
+2,18,Bottas,Valtteri,Mercedes,0,01:28.5,199.721,Collision,BOT,2021
+2,19,Russell,George,Williams,0,01:26.5,204.203,Collision,RUS,2021
+2,20,Latifi,Nicholas,Williams,0,,,Collision,LAT,2021
+3,1,Hamilton,Lewis,Mercedes,25,01:20.9,206.971,Finished,HAM,2021
+3,2,Verstappen,Max,Red Bull,18,01:20.7,207.581,Finished,VER,2021
+3,3,Bottas,Valtteri,Mercedes,16,01:19.9,209.738,Finished,BOT,2021
+3,4,Pérez,Sergio,Red Bull,12,01:20.6,207.715,Finished,PER,2021
+3,5,Norris,Lando,McLaren,10,01:21.7,205.038,Finished,NOR,2021
+3,6,Leclerc,Charles,Ferrari,8,01:21.5,205.541,Finished,LEC,2021
+3,7,Ocon,Esteban,Alpine F1 Team,6,01:21.9,204.562,Finished,OCO,2021
+3,8,Alonso,Fernando,Alpine F1 Team,4,01:21.0,206.718,Finished,ALO,2021
+3,9,Ricciardo,Daniel,McLaren,2,01:22.0,204.31,Finished,RIC,2021
+3,10,Gasly,Pierre,AlphaTauri,1,01:22.0,204.243,Finished,GAS,2021
+3,11,Sainz,Carlos,Ferrari,0,01:22.3,203.471,Finished,SAI,2021
+3,12,Giovinazzi,Antonio,Alfa Romeo,0,01:22.2,203.862,+1 Lap,GIO,2021
+3,13,Vettel,Sebastian,Aston Martin,0,01:22.4,203.246,+1 Lap,VET,2021
+3,14,Stroll,Lance,Aston Martin,0,01:22.0,204.352,+1 Lap,STR,2021
+3,15,Tsunoda,Yuki,AlphaTauri,0,01:22.1,204.133,+1 Lap,TSU,2021
+3,16,Russell,George,Williams,0,01:22.7,202.661,+1 Lap,RUS,2021
+3,17,Schumacher,Mick,Haas F1 Team,0,01:22.8,202.414,+2 Laps,MSC,2021
+3,18,Latifi,Nicholas,Williams,0,01:23.2,201.44,+2 Laps,LAT,2021
+3,19,Mazepin,Nikita,Haas F1 Team,0,01:23.6,200.27,+2 Laps,MAZ,2021
+3,20,Räikkönen,Kimi,Alfa Romeo,0,,,Collision damage,RAI,2021
+4,1,Hamilton,Lewis,Mercedes,25,01:20.7,208.64,Finished,HAM,2021
+4,2,Verstappen,Max,Red Bull,19,01:18.1,215.357,Finished,VER,2021
+4,3,Bottas,Valtteri,Mercedes,15,01:19.4,211.884,Finished,BOT,2021
+4,4,Leclerc,Charles,Ferrari,12,01:20.5,209.174,Finished,LEC,2021
+4,5,Pérez,Sergio,Red Bull,10,01:19.5,211.743,Finished,PER,2021
+4,6,Ricciardo,Daniel,McLaren,8,01:21.9,205.612,Finished,RIC,2021
+4,7,Sainz,Carlos,Ferrari,6,01:21.6,206.33,Finished,SAI,2021
+4,8,Norris,Lando,McLaren,4,01:21.3,207.064,+1 Lap,NOR,2021
+4,9,Ocon,Esteban,Alpine F1 Team,2,01:23.3,202.014,+1 Lap,OCO,2021
+4,10,Gasly,Pierre,AlphaTauri,1,01:21.4,206.82,+1 Lap,GAS,2021
+4,11,Stroll,Lance,Aston Martin,0,01:22.6,203.735,+1 Lap,STR,2021
+4,12,Räikkönen,Kimi,Alfa Romeo,0,01:22.9,203.094,+1 Lap,RAI,2021
+4,13,Vettel,Sebastian,Aston Martin,0,01:22.8,203.211,+1 Lap,VET,2021
+4,14,Russell,George,Williams,0,01:23.2,202.264,+1 Lap,RUS,2021
+4,15,Giovinazzi,Antonio,Alfa Romeo,0,01:22.8,203.255,+1 Lap,GIO,2021
+4,16,Latifi,Nicholas,Williams,0,01:22.9,203.003,+1 Lap,LAT,2021
+4,17,Alonso,Fernando,Alpine F1 Team,0,01:21.2,207.311,+1 Lap,ALO,2021
+4,18,Schumacher,Mick,Haas F1 Team,0,01:22.6,203.661,+2 Laps,MSC,2021
+4,19,Mazepin,Nikita,Haas F1 Team,0,01:24.0,200.261,+2 Laps,MAZ,2021
+4,20,Tsunoda,Yuki,AlphaTauri,0,01:24.8,198.408,Electrical,TSU,2021
+5,1,Verstappen,Max,Red Bull,25,01:14.6,160.929,Finished,VER,2021
+5,2,Sainz,Carlos,Ferrari,18,01:14.6,160.989,Finished,SAI,2021
+5,3,Norris,Lando,McLaren,15,01:14.7,160.883,Finished,NOR,2021
+5,4,Pérez,Sergio,Red Bull,12,01:14.6,161.138,Finished,PER,2021
+5,5,Vettel,Sebastian,Aston Martin,10,01:15.3,159.503,Finished,VET,2021
+5,6,Gasly,Pierre,AlphaTauri,8,01:15.4,159.3,Finished,GAS,2021
+5,7,Hamilton,Lewis,Mercedes,7,01:12.9,164.769,Finished,HAM,2021
+5,8,Stroll,Lance,Aston Martin,4,01:14.7,160.875,+1 Lap,STR,2021
+5,9,Ocon,Esteban,Alpine F1 Team,2,01:15.3,159.503,+1 Lap,OCO,2021
+5,10,Giovinazzi,Antonio,Alfa Romeo,1,01:15.3,159.472,+1 Lap,GIO,2021
+5,11,Räikkönen,Kimi,Alfa Romeo,0,01:15.0,160.237,+1 Lap,RAI,2021
+5,12,Ricciardo,Daniel,McLaren,0,01:14.6,161.082,+1 Lap,RIC,2021
+5,13,Alonso,Fernando,Alpine F1 Team,0,01:15.0,160.12,+1 Lap,ALO,2021
+5,14,Russell,George,Williams,0,01:15.5,159.033,+1 Lap,RUS,2021
+5,15,Latifi,Nicholas,Williams,0,01:15.6,158.961,+1 Lap,LAT,2021
+5,16,Tsunoda,Yuki,AlphaTauri,0,01:14.0,162.259,+1 Lap,TSU,2021
+5,17,Mazepin,Nikita,Haas F1 Team,0,01:16.9,156.287,+3 Laps,MAZ,2021
+5,18,Schumacher,Mick,Haas F1 Team,0,01:16.4,157.189,+3 Laps,MSC,2021
+5,19,Bottas,Valtteri,Mercedes,0,01:15.7,158.682,Wheel nut,BOT,2021
+5,20,Leclerc,Charles,Ferrari,0,,,Driveshaft,LEC,2021
+6,1,Pérez,Sergio,Red Bull,25,01:44.7,206.432,Finished,PER,2021
+6,2,Vettel,Sebastian,Aston Martin,18,01:44.9,206.032,Finished,VET,2021
+6,3,Gasly,Pierre,AlphaTauri,15,01:45.2,205.386,Finished,GAS,2021
+6,4,Leclerc,Charles,Ferrari,12,01:45.4,205.071,Finished,LEC,2021
+6,5,Norris,Lando,McLaren,10,01:45.3,205.18,Finished,NOR,2021
+6,6,Alonso,Fernando,Alpine F1 Team,8,01:45.6,204.601,Finished,ALO,2021
+6,7,Tsunoda,Yuki,AlphaTauri,6,01:44.9,205.936,Finished,TSU,2021
+6,8,Sainz,Carlos,Ferrari,4,01:45.7,204.454,Finished,SAI,2021
+6,9,Ricciardo,Daniel,McLaren,2,01:45.7,204.428,Finished,RIC,2021
+6,10,Räikkönen,Kimi,Alfa Romeo,1,01:45.6,204.645,Finished,RAI,2021
+6,11,Giovinazzi,Antonio,Alfa Romeo,0,01:45.6,204.696,Finished,GIO,2021
+6,12,Bottas,Valtteri,Mercedes,0,01:45.7,204.521,Finished,BOT,2021
+6,13,Schumacher,Mick,Haas F1 Team,0,01:47.6,200.799,Finished,MSC,2021
+6,14,Mazepin,Nikita,Haas F1 Team,0,01:47.7,200.569,Finished,MAZ,2021
+6,15,Hamilton,Lewis,Mercedes,0,01:44.8,206.27,Finished,HAM,2021
+6,16,Latifi,Nicholas,Williams,0,01:46.6,202.712,Finished,LAT,2021
+6,17,Russell,George,Williams,0,01:46.0,203.954,Gearbox,RUS,2021
+6,18,Verstappen,Max,Red Bull,0,01:44.5,206.839,Accident,VER,2021
+6,19,Stroll,Lance,Aston Martin,0,01:46.2,203.478,Accident,STR,2021
+6,20,Ocon,Esteban,Alpine F1 Team,0,01:50.9,194.955,Turbo,OCO,2021
+7,1,Verstappen,Max,Red Bull,26,01:36.4,218.156,Finished,VER,2021
+7,2,Hamilton,Lewis,Mercedes,18,01:37.4,215.903,Finished,HAM,2021
+7,3,Pérez,Sergio,Red Bull,15,01:36.7,217.504,Finished,PER,2021
+7,4,Bottas,Valtteri,Mercedes,12,01:37.0,216.905,Finished,BOT,2021
+7,5,Norris,Lando,McLaren,10,01:37.4,215.87,Finished,NOR,2021
+7,6,Ricciardo,Daniel,McLaren,8,01:38.3,213.896,Finished,RIC,2021
+7,7,Gasly,Pierre,AlphaTauri,6,01:38.1,214.378,Finished,GAS,2021
+7,8,Alonso,Fernando,Alpine F1 Team,4,01:37.6,215.382,Finished,ALO,2021
+7,9,Vettel,Sebastian,Aston Martin,2,01:37.1,216.508,Finished,VET,2021
+7,10,Stroll,Lance,Aston Martin,1,01:37.8,214.981,Finished,STR,2021
+7,11,Sainz,Carlos,Ferrari,0,01:38.9,212.584,Finished,SAI,2021
+7,12,Russell,George,Williams,0,01:38.3,213.918,+1 Lap,RUS,2021
+7,13,Tsunoda,Yuki,AlphaTauri,0,01:39.0,212.479,+1 Lap,TSU,2021
+7,14,Ocon,Esteban,Alpine F1 Team,0,01:38.6,213.2,+1 Lap,OCO,2021
+7,15,Giovinazzi,Antonio,Alfa Romeo,0,01:38.7,213.077,+1 Lap,GIO,2021
+7,16,Leclerc,Charles,Ferrari,0,01:37.7,215.304,+1 Lap,LEC,2021
+7,17,Räikkönen,Kimi,Alfa Romeo,0,01:38.0,214.621,+1 Lap,RAI,2021
+7,18,Latifi,Nicholas,Williams,0,01:38.3,213.92,+1 Lap,LAT,2021
+7,19,Schumacher,Mick,Haas F1 Team,0,01:38.8,212.765,+1 Lap,MSC,2021
+7,20,Mazepin,Nikita,Haas F1 Team,0,01:39.3,211.758,+1 Lap,MAZ,2021
+8,1,Verstappen,Max,Red Bull,25,01:08.0,228.542,Finished,VER,2021
+8,2,Hamilton,Lewis,Mercedes,19,01:07.1,231.811,Finished,HAM,2021
+8,3,Bottas,Valtteri,Mercedes,15,01:08.6,226.537,Finished,BOT,2021
+8,4,Pérez,Sergio,Red Bull,12,01:07.9,228.956,Finished,PER,2021
+8,5,Norris,Lando,McLaren,10,01:08.9,225.604,+1 Lap,NOR,2021
+8,6,Sainz,Carlos,Ferrari,8,01:08.6,226.57,+1 Lap,SAI,2021
+8,7,Leclerc,Charles,Ferrari,6,01:08.7,226.145,+1 Lap,LEC,2021
+8,8,Stroll,Lance,Aston Martin,4,01:09.8,222.746,+1 Lap,STR,2021
+8,9,Alonso,Fernando,Alpine F1 Team,2,01:09.7,222.867,+1 Lap,ALO,2021
+8,10,Tsunoda,Yuki,AlphaTauri,1,01:09.7,223.184,+1 Lap,TSU,2021
+8,11,Räikkönen,Kimi,Alfa Romeo,0,01:09.1,224.869,+1 Lap,RAI,2021
+8,12,Vettel,Sebastian,Aston Martin,0,01:09.8,222.637,+1 Lap,VET,2021
+8,13,Ricciardo,Daniel,McLaren,0,01:09.3,224.295,+1 Lap,RIC,2021
+8,14,Ocon,Esteban,Alpine F1 Team,0,01:09.6,223.421,+1 Lap,OCO,2021
+8,15,Giovinazzi,Antonio,Alfa Romeo,0,01:09.7,222.95,+1 Lap,GIO,2021
+8,16,Schumacher,Mick,Haas F1 Team,0,01:10.0,222.052,+2 Laps,MSC,2021
+8,17,Latifi,Nicholas,Williams,0,01:10.1,221.739,+3 Laps,LAT,2021
+8,18,Mazepin,Nikita,Haas F1 Team,0,01:11.0,219.092,+3 Laps,MAZ,2021
+8,19,Russell,George,Williams,0,01:10.5,220.496,Engine,RUS,2021
+8,20,Gasly,Pierre,AlphaTauri,0,,,Collision,GAS,2021
+9,1,Verstappen,Max,Red Bull,26,01:06.2,234.815,Finished,VER,2021
+9,2,Bottas,Valtteri,Mercedes,18,01:08.4,227.349,Finished,BOT,2021
+9,3,Norris,Lando,McLaren,15,01:08.5,227.027,Finished,NOR,2021
+9,4,Hamilton,Lewis,Mercedes,12,01:08.1,228.177,Finished,HAM,2021
+9,5,Sainz,Carlos,Ferrari,10,01:07.8,229.402,Finished,SAI,2021
+9,6,Pérez,Sergio,Red Bull,8,01:08.2,227.956,Finished,PER,2021
+9,7,Ricciardo,Daniel,McLaren,6,01:08.8,225.876,Finished,RIC,2021
+9,8,Leclerc,Charles,Ferrari,4,01:08.7,226.277,Finished,LEC,2021
+9,9,Gasly,Pierre,AlphaTauri,2,01:08.1,228.11,Finished,GAS,2021
+9,10,Alonso,Fernando,Alpine F1 Team,1,01:08.4,227.246,+1 Lap,ALO,2021
+9,11,Russell,George,Williams,0,01:08.9,225.613,+1 Lap,RUS,2021
+9,12,Tsunoda,Yuki,AlphaTauri,0,01:08.5,227.08,+1 Lap,TSU,2021
+9,13,Stroll,Lance,Aston Martin,0,01:08.7,226.405,+1 Lap,STR,2021
+9,14,Giovinazzi,Antonio,Alfa Romeo,0,01:09.0,225.149,+1 Lap,GIO,2021
+9,15,Räikkönen,Kimi,Alfa Romeo,0,01:08.9,225.699,+1 Lap,RAI,2021
+9,16,Latifi,Nicholas,Williams,0,01:08.5,226.865,+1 Lap,LAT,2021
+9,17,Vettel,Sebastian,Aston Martin,0,01:08.4,227.196,Collision,VET,2021
+9,18,Schumacher,Mick,Haas F1 Team,0,01:09.4,224.007,+2 Laps,MSC,2021
+9,19,Mazepin,Nikita,Haas F1 Team,0,01:09.8,222.842,+2 Laps,MAZ,2021
+9,20,Ocon,Esteban,Alpine F1 Team,0,,,Collision,OCO,2021
+10,1,Hamilton,Lewis,Mercedes,25,01:29.7,236.43,Finished,HAM,2021
+10,2,Leclerc,Charles,Ferrari,18,01:30.6,234.159,Finished,LEC,2021
+10,3,Bottas,Valtteri,Mercedes,15,01:30.5,234.275,Finished,BOT,2021
+10,4,Norris,Lando,McLaren,12,01:31.4,231.979,Finished,NOR,2021
+10,5,Ricciardo,Daniel,McLaren,10,01:31.3,232.325,Finished,RIC,2021
+10,6,Sainz,Carlos,Ferrari,8,01:31.2,232.48,Finished,SAI,2021
+10,7,Alonso,Fernando,Alpine F1 Team,6,01:31.7,231.276,Finished,ALO,2021
+10,8,Stroll,Lance,Aston Martin,4,01:32.0,230.537,Finished,STR,2021
+10,9,Ocon,Esteban,Alpine F1 Team,2,01:32.2,229.992,Finished,OCO,2021
+10,10,Tsunoda,Yuki,AlphaTauri,1,01:30.8,233.497,Finished,TSU,2021
+10,11,Gasly,Pierre,AlphaTauri,0,01:30.3,234.945,Finished,GAS,2021
+10,12,Russell,George,Williams,0,01:32.0,230.394,+1 Lap,RUS,2021
+10,13,Giovinazzi,Antonio,Alfa Romeo,0,01:32.3,229.653,+1 Lap,GIO,2021
+10,14,Latifi,Nicholas,Williams,0,01:32.5,229.328,+1 Lap,LAT,2021
+10,15,Räikkönen,Kimi,Alfa Romeo,0,01:31.9,230.78,+1 Lap,RAI,2021
+10,16,Pérez,Sergio,Red Bull,0,01:28.6,239.317,+1 Lap,PER,2021
+10,17,Mazepin,Nikita,Haas F1 Team,0,01:32.9,228.262,+1 Lap,MAZ,2021
+10,18,Schumacher,Mick,Haas F1 Team,0,01:32.9,228.377,+1 Lap,MSC,2021
+10,19,Vettel,Sebastian,Aston Martin,0,01:33.1,227.894,Retired,VET,2021
+10,20,Verstappen,Max,Red Bull,0,,,Collision,VER,2021
+11,1,Ocon,Esteban,Alpine F1 Team,25,01:21.4,193.704,Finished,OCO,2021
+11,2,Hamilton,Lewis,Mercedes,18,01:18.7,200.363,Finished,HAM,2021
+11,3,Sainz,Carlos,Ferrari,15,01:21.4,193.699,Finished,SAI,2021
+11,4,Alonso,Fernando,Alpine F1 Team,12,01:20.4,196.264,Finished,ALO,2021
+11,5,Gasly,Pierre,AlphaTauri,11,01:18.4,201.183,Finished,GAS,2021
+11,6,Tsunoda,Yuki,AlphaTauri,8,01:22.5,191.286,Finished,TSU,2021
+11,7,Latifi,Nicholas,Williams,6,01:22.8,190.406,Finished,LAT,2021
+11,8,Russell,George,Williams,4,01:22.1,192.074,Finished,RUS,2021
+11,9,Verstappen,Max,Red Bull,2,01:20.9,194.843,Finished,VER,2021
+11,10,Räikkönen,Kimi,Alfa Romeo,1,01:21.5,193.473,+1 Lap,RAI,2021
+11,11,Ricciardo,Daniel,McLaren,0,01:22.8,190.473,+1 Lap,RIC,2021
+11,12,Schumacher,Mick,Haas F1 Team,0,01:22.7,190.683,+1 Lap,MSC,2021
+11,13,Giovinazzi,Antonio,Alfa Romeo,0,01:22.7,190.625,+1 Lap,GIO,2021
+11,14,Mazepin,Nikita,Haas F1 Team,0,,,Collision,MAZ,2021
+11,15,Norris,Lando,McLaren,0,,,Collision,NOR,2021
+11,16,Bottas,Valtteri,Mercedes,0,,,Collision,BOT,2021
+11,17,Pérez,Sergio,Red Bull,0,,,Collision,PER,2021
+11,18,Leclerc,Charles,Ferrari,0,,,Collision,LEC,2021
+11,19,Stroll,Lance,Aston Martin,0,,,Collision,STR,2021
+11,20,Vettel,Sebastian,Aston Martin,0,01:21.5,193.613,Disqualified,VET,2021
+12,1,Verstappen,Max,Red Bull,12.5,,,Finished,VER,2021
+12,2,Russell,George,Williams,9,,,Finished,RUS,2021
+12,3,Hamilton,Lewis,Mercedes,7.5,,,Finished,HAM,2021
+12,4,Ricciardo,Daniel,McLaren,6,,,Finished,RIC,2021
+12,5,Vettel,Sebastian,Aston Martin,5,,,Finished,VET,2021
+12,6,Gasly,Pierre,AlphaTauri,4,,,Finished,GAS,2021
+12,7,Ocon,Esteban,Alpine F1 Team,3,,,Finished,OCO,2021
+12,8,Leclerc,Charles,Ferrari,2,,,Finished,LEC,2021
+12,9,Latifi,Nicholas,Williams,1,,,Finished,LAT,2021
+12,10,Sainz,Carlos,Ferrari,0.5,,,Finished,SAI,2021
+12,11,Alonso,Fernando,Alpine F1 Team,0,,,Finished,ALO,2021
+12,12,Bottas,Valtteri,Mercedes,0,,,Finished,BOT,2021
+12,13,Giovinazzi,Antonio,Alfa Romeo,0,,,Finished,GIO,2021
+12,14,Norris,Lando,McLaren,0,,,Finished,NOR,2021
+12,15,Tsunoda,Yuki,AlphaTauri,0,,,Finished,TSU,2021
+12,16,Schumacher,Mick,Haas F1 Team,0,,,Finished,MSC,2021
+12,17,Mazepin,Nikita,Haas F1 Team,0,,,Finished,MAZ,2021
+12,18,Räikkönen,Kimi,Alfa Romeo,0,,,Finished,RAI,2021
+12,19,Pérez,Sergio,Red Bull,0,,,Finished,PER,2021
+12,20,Stroll,Lance,Aston Martin,0,,,Finished,STR,2021
+13,1,Verstappen,Max,Red Bull,25,01:13.3,209.244,Finished,VER,2021
+13,2,Hamilton,Lewis,Mercedes,19,01:11.1,215.654,Finished,HAM,2021
+13,3,Bottas,Valtteri,Mercedes,15,01:12.5,211.338,Finished,BOT,2021
+13,4,Gasly,Pierre,AlphaTauri,12,01:14.8,204.929,+1 Lap,GAS,2021
+13,5,Leclerc,Charles,Ferrari,10,01:14.8,205.033,+1 Lap,LEC,2021
+13,6,Alonso,Fernando,Alpine F1 Team,8,01:14.3,206.294,+1 Lap,ALO,2021
+13,7,Sainz,Carlos,Ferrari,6,01:15.3,203.725,+1 Lap,SAI,2021
+13,8,Pérez,Sergio,Red Bull,4,01:13.5,208.714,+1 Lap,PER,2021
+13,9,Ocon,Esteban,Alpine F1 Team,2,01:14.7,205.321,+1 Lap,OCO,2021
+13,10,Norris,Lando,McLaren,1,01:14.2,206.535,+1 Lap,NOR,2021
+13,11,Ricciardo,Daniel,McLaren,0,01:14.9,204.65,+1 Lap,RIC,2021
+13,12,Stroll,Lance,Aston Martin,0,01:15.6,202.78,+2 Laps,STR,2021
+13,13,Vettel,Sebastian,Aston Martin,0,01:14.0,207.312,+2 Laps,VET,2021
+13,14,Giovinazzi,Antonio,Alfa Romeo,0,01:15.1,204.091,+2 Laps,GIO,2021
+13,15,Kubica,Robert,Alfa Romeo,0,01:15.4,203.234,+2 Laps,KUB,2021
+13,16,Latifi,Nicholas,Williams,0,01:15.8,202.301,+2 Laps,LAT,2021
+13,17,Russell,George,Williams,0,01:15.6,202.734,Gearbox,RUS,2021
+13,18,Schumacher,Mick,Haas F1 Team,0,01:15.9,201.936,+3 Laps,MSC,2021
+13,19,Tsunoda,Yuki,AlphaTauri,0,01:15.8,202.319,Power Unit,TSU,2021
+13,20,Mazepin,Nikita,Haas F1 Team,0,01:16.1,201.567,Hydraulics,MAZ,2021
+14,1,Ricciardo,Daniel,McLaren,26,01:24.8,245.894,Finished,RIC,2021
+14,2,Norris,Lando,McLaren,18,01:25.0,245.434,Finished,NOR,2021
+14,3,Bottas,Valtteri,Mercedes,15,01:24.8,245.85,Finished,BOT,2021
+14,4,Leclerc,Charles,Ferrari,12,01:25.3,244.433,Finished,LEC,2021
+14,5,Pérez,Sergio,Red Bull,10,01:25.2,244.901,Finished,PER,2021
+14,6,Sainz,Carlos,Ferrari,8,01:25.6,243.747,Finished,SAI,2021
+14,7,Stroll,Lance,Aston Martin,6,01:25.9,242.912,Finished,STR,2021
+14,8,Alonso,Fernando,Alpine F1 Team,4,01:25.5,243.995,Finished,ALO,2021
+14,9,Russell,George,Williams,2,01:25.8,242.963,Finished,RUS,2021
+14,10,Ocon,Esteban,Alpine F1 Team,1,01:25.6,243.727,Finished,OCO,2021
+14,11,Latifi,Nicholas,Williams,0,01:26.0,242.63,Finished,LAT,2021
+14,12,Vettel,Sebastian,Aston Martin,0,01:25.9,242.672,Finished,VET,2021
+14,13,Giovinazzi,Antonio,Alfa Romeo,0,01:25.7,243.295,Finished,GIO,2021
+14,14,Kubica,Robert,Alfa Romeo,0,01:25.8,242.924,Finished,KUB,2021
+14,15,Schumacher,Mick,Haas F1 Team,0,01:26.7,240.52,Finished,MSC,2021
+14,16,Mazepin,Nikita,Haas F1 Team,0,01:27.2,239.155,Power Unit,MAZ,2021
+14,17,Hamilton,Lewis,Mercedes,0,01:25.9,242.864,Collision,HAM,2021
+14,18,Verstappen,Max,Red Bull,0,01:25.2,244.852,Collision,VER,2021
+14,19,Gasly,Pierre,AlphaTauri,0,01:29.0,234.31,Suspension,GAS,2021
+14,20,Tsunoda,Yuki,AlphaTauri,0,,,Brakes,TSU,2021
+15,1,Hamilton,Lewis,Mercedes,25,01:37.6,215.76,Finished,HAM,2021
+15,2,Verstappen,Max,Red Bull,18,01:38.4,213.959,Finished,VER,2021
+15,3,Sainz,Carlos,Ferrari,15,01:39.3,212.024,Finished,SAI,2021
+15,4,Ricciardo,Daniel,McLaren,12,01:39.1,212.388,Finished,RIC,2021
+15,5,Bottas,Valtteri,Mercedes,10,01:38.2,214.352,Finished,BOT,2021
+15,6,Alonso,Fernando,Alpine F1 Team,8,01:38.7,213.331,Finished,ALO,2021
+15,7,Norris,Lando,McLaren,7,01:37.4,216.096,Finished,NOR,2021
+15,8,Räikkönen,Kimi,Alfa Romeo,4,01:40.3,209.921,Finished,RAI,2021
+15,9,Pérez,Sergio,Red Bull,2,01:39.2,212.193,Finished,PER,2021
+15,10,Russell,George,Williams,1,01:40.6,209.28,Finished,RUS,2021
+15,11,Stroll,Lance,Aston Martin,0,01:40.5,209.555,Finished,STR,2021
+15,12,Vettel,Sebastian,Aston Martin,0,01:39.3,212.116,+1 Lap,VET,2021
+15,13,Gasly,Pierre,AlphaTauri,0,01:38.3,214.214,+1 Lap,GAS,2021
+15,14,Ocon,Esteban,Alpine F1 Team,0,01:40.6,209.276,+1 Lap,OCO,2021
+15,15,Leclerc,Charles,Ferrari,0,01:39.0,212.667,+1 Lap,LEC,2021
+15,16,Giovinazzi,Antonio,Alfa Romeo,0,01:39.1,212.53,+1 Lap,GIO,2021
+15,17,Tsunoda,Yuki,AlphaTauri,0,01:40.0,210.612,+1 Lap,TSU,2021
+15,18,Mazepin,Nikita,Haas F1 Team,0,01:41.7,206.982,+2 Laps,MAZ,2021
+15,19,Latifi,Nicholas,Williams,0,01:40.0,210.528,Accident,LAT,2021
+15,20,Schumacher,Mick,Haas F1 Team,0,01:40.3,209.948,Oil leak,MSC,2021
+16,1,Bottas,Valtteri,Mercedes,26,01:30.4,212.5,Finished,BOT,2021
+16,2,Verstappen,Max,Red Bull,18,01:32.8,207.169,Finished,VER,2021
+16,3,Pérez,Sergio,Red Bull,15,01:32.5,207.841,Finished,PER,2021
+16,4,Leclerc,Charles,Ferrari,12,01:32.7,207.218,Finished,LEC,2021
+16,5,Hamilton,Lewis,Mercedes,10,01:32.8,207.16,Finished,HAM,2021
+16,6,Gasly,Pierre,AlphaTauri,8,01:32.8,207.046,Finished,GAS,2021
+16,7,Norris,Lando,McLaren,6,01:32.4,207.87,Finished,NOR,2021
+16,8,Sainz,Carlos,Ferrari,4,01:31.9,209.057,Finished,SAI,2021
+16,9,Stroll,Lance,Aston Martin,2,01:32.6,207.506,Finished,STR,2021
+16,10,Ocon,Esteban,Alpine F1 Team,1,01:34.6,203.171,+1 Lap,OCO,2021
+16,11,Giovinazzi,Antonio,Alfa Romeo,0,01:32.9,206.845,+1 Lap,GIO,2021
+16,12,Räikkönen,Kimi,Alfa Romeo,0,01:32.6,207.556,+1 Lap,RAI,2021
+16,13,Ricciardo,Daniel,McLaren,0,01:33.3,206.067,+1 Lap,RIC,2021
+16,14,Tsunoda,Yuki,AlphaTauri,0,01:32.8,206.979,+1 Lap,TSU,2021
+16,15,Russell,George,Williams,0,01:33.4,205.749,+1 Lap,RUS,2021
+16,16,Alonso,Fernando,Alpine F1 Team,0,01:33.3,206.073,+1 Lap,ALO,2021
+16,17,Latifi,Nicholas,Williams,0,01:33.7,205.149,+1 Lap,LAT,2021
+16,18,Vettel,Sebastian,Aston Martin,0,01:32.7,207.233,+1 Lap,VET,2021
+16,19,Schumacher,Mick,Haas F1 Team,0,01:34.2,203.98,+2 Laps,MSC,2021
+16,20,Mazepin,Nikita,Haas F1 Team,0,01:35.4,201.353,+2 Laps,MAZ,2021
+17,1,Verstappen,Max,Red Bull,25,01:39.1,200.278,Finished,VER,2021
+17,2,Hamilton,Lewis,Mercedes,19,01:38.5,201.521,Finished,HAM,2021
+17,3,Pérez,Sergio,Red Bull,15,01:39.6,199.333,Finished,PER,2021
+17,4,Leclerc,Charles,Ferrari,12,01:39.3,199.861,Finished,LEC,2021
+17,5,Ricciardo,Daniel,McLaren,10,01:40.3,197.785,Finished,RIC,2021
+17,6,Bottas,Valtteri,Mercedes,8,01:40.1,198.176,Finished,BOT,2021
+17,7,Sainz,Carlos,Ferrari,6,01:40.4,197.722,Finished,SAI,2021
+17,8,Norris,Lando,McLaren,4,01:40.2,198.016,Finished,NOR,2021
+17,9,Tsunoda,Yuki,AlphaTauri,2,01:41.2,196.209,+1 Lap,TSU,2021
+17,10,Vettel,Sebastian,Aston Martin,1,01:40.5,197.517,+1 Lap,VET,2021
+17,11,Giovinazzi,Antonio,Alfa Romeo,0,01:41.1,196.221,+1 Lap,GIO,2021
+17,12,Stroll,Lance,Aston Martin,0,01:41.2,196.135,+1 Lap,STR,2021
+17,13,Räikkönen,Kimi,Alfa Romeo,0,01:41.3,195.843,+1 Lap,RAI,2021
+17,14,Russell,George,Williams,0,01:41.1,196.269,+1 Lap,RUS,2021
+17,15,Latifi,Nicholas,Williams,0,01:41.8,194.924,+1 Lap,LAT,2021
+17,16,Schumacher,Mick,Haas F1 Team,0,01:41.4,195.737,+2 Laps,MSC,2021
+17,17,Mazepin,Nikita,Haas F1 Team,0,01:42.9,192.9,+2 Laps,MAZ,2021
+17,18,Alonso,Fernando,Alpine F1 Team,0,01:40.1,198.335,Rear wing,ALO,2021
+17,19,Ocon,Esteban,Alpine F1 Team,0,01:42.2,194.207,Mechanical,OCO,2021
+17,20,Gasly,Pierre,AlphaTauri,0,01:42.0,194.547,Suspension,GAS,2021
+18,1,Verstappen,Max,Red Bull,25,01:19.0,196.134,Finished,VER,2021
+18,2,Hamilton,Lewis,Mercedes,18,01:19.8,194.116,Finished,HAM,2021
+18,3,Pérez,Sergio,Red Bull,15,01:19.5,194.976,Finished,PER,2021
+18,4,Gasly,Pierre,AlphaTauri,12,01:20.5,192.453,Finished,GAS,2021
+18,5,Leclerc,Charles,Ferrari,10,01:20.7,192.083,Finished,LEC,2021
+18,6,Sainz,Carlos,Ferrari,8,01:20.1,193.484,+1 Lap,SAI,2021
+18,7,Vettel,Sebastian,Aston Martin,6,01:20.5,192.572,+1 Lap,VET,2021
+18,8,Räikkönen,Kimi,Alfa Romeo,4,01:20.7,191.969,+1 Lap,RAI,2021
+18,9,Alonso,Fernando,Alpine F1 Team,2,01:20.7,191.973,+1 Lap,ALO,2021
+18,10,Norris,Lando,McLaren,1,01:20.6,192.197,+1 Lap,NOR,2021
+18,11,Giovinazzi,Antonio,Alfa Romeo,0,01:21.5,190.061,+1 Lap,GIO,2021
+18,12,Ricciardo,Daniel,McLaren,0,01:21.1,191.126,+1 Lap,RIC,2021
+18,13,Ocon,Esteban,Alpine F1 Team,0,01:21.3,190.47,+1 Lap,OCO,2021
+18,14,Stroll,Lance,Aston Martin,0,01:20.9,191.454,+2 Laps,STR,2021
+18,15,Bottas,Valtteri,Mercedes,0,01:17.8,199.223,+2 Laps,BOT,2021
+18,16,Russell,George,Williams,0,01:22.0,188.919,+2 Laps,RUS,2021
+18,17,Latifi,Nicholas,Williams,0,01:21.5,190.008,+2 Laps,LAT,2021
+18,18,Mazepin,Nikita,Haas F1 Team,0,01:21.4,190.344,+3 Laps,MAZ,2021
+18,19,Schumacher,Mick,Haas F1 Team,0,,,Collision,MSC,2021
+18,20,Tsunoda,Yuki,AlphaTauri,0,,,Collision,TSU,2021
+19,1,Hamilton,Lewis,Mercedes,25,01:12.0,215.503,Finished,HAM,2021
+19,2,Verstappen,Max,Red Bull,18,01:12.5,214.005,Finished,VER,2021
+19,3,Bottas,Valtteri,Mercedes,15,01:12.5,213.887,Finished,BOT,2021
+19,4,Pérez,Sergio,Red Bull,13,01:11.0,218.453,Finished,PER,2021
+19,5,Leclerc,Charles,Ferrari,10,01:12.8,213.018,Finished,LEC,2021
+19,6,Sainz,Carlos,Ferrari,8,01:12.7,213.346,Finished,SAI,2021
+19,7,Gasly,Pierre,AlphaTauri,6,01:13.2,211.839,+1 Lap,GAS,2021
+19,8,Ocon,Esteban,Alpine F1 Team,4,01:14.4,208.415,+1 Lap,OCO,2021
+19,9,Alonso,Fernando,Alpine F1 Team,2,01:13.9,209.848,+1 Lap,ALO,2021
+19,10,Norris,Lando,McLaren,1,01:13.8,210.306,+1 Lap,NOR,2021
+19,11,Vettel,Sebastian,Aston Martin,0,01:13.6,210.668,+1 Lap,VET,2021
+19,12,Räikkönen,Kimi,Alfa Romeo,0,01:12.6,213.607,+1 Lap,RAI,2021
+19,13,Russell,George,Williams,0,01:14.4,208.626,+1 Lap,RUS,2021
+19,14,Giovinazzi,Antonio,Alfa Romeo,0,01:14.2,208.985,+1 Lap,GIO,2021
+19,15,Tsunoda,Yuki,AlphaTauri,0,01:14.2,209.05,+1 Lap,TSU,2021
+19,16,Latifi,Nicholas,Williams,0,01:14.6,207.896,+1 Lap,LAT,2021
+19,17,Mazepin,Nikita,Haas F1 Team,0,01:15.0,206.958,+2 Laps,MAZ,2021
+19,18,Schumacher,Mick,Haas F1 Team,0,01:13.8,210.215,+2 Laps,MSC,2021
+19,19,Ricciardo,Daniel,McLaren,0,01:14.4,208.379,Power loss,RIC,2021
+19,20,Stroll,Lance,Aston Martin,0,01:15.3,205.887,Collision damage,STR,2021
+20,1,Hamilton,Lewis,Mercedes,25,01:25.1,227.633,Finished,HAM,2021
+20,2,Verstappen,Max,Red Bull,19,01:23.2,232.799,Finished,VER,2021
+20,3,Alonso,Fernando,Alpine F1 Team,15,01:26.7,223.437,Finished,ALO,2021
+20,4,Pérez,Sergio,Red Bull,12,01:25.6,226.227,Finished,PER,2021
+20,5,Ocon,Esteban,Alpine F1 Team,10,01:27.1,222.464,Finished,OCO,2021
+20,6,Stroll,Lance,Aston Martin,8,01:27.4,221.713,Finished,STR,2021
+20,7,Sainz,Carlos,Ferrari,6,01:26.6,223.726,Finished,SAI,2021
+20,8,Leclerc,Charles,Ferrari,4,01:26.6,223.765,Finished,LEC,2021
+20,9,Norris,Lando,McLaren,2,01:25.7,225.876,+1 Lap,NOR,2021
+20,10,Vettel,Sebastian,Aston Martin,1,01:26.4,224.078,+1 Lap,VET,2021
+20,11,Gasly,Pierre,AlphaTauri,0,01:27.0,222.572,+1 Lap,GAS,2021
+20,12,Ricciardo,Daniel,McLaren,0,01:27.2,222.115,+1 Lap,RIC,2021
+20,13,Tsunoda,Yuki,AlphaTauri,0,01:27.0,222.51,+1 Lap,TSU,2021
+20,14,Räikkönen,Kimi,Alfa Romeo,0,01:26.4,224.275,+1 Lap,RAI,2021
+20,15,Giovinazzi,Antonio,Alfa Romeo,0,01:27.8,220.534,+1 Lap,GIO,2021
+20,16,Schumacher,Mick,Haas F1 Team,0,01:28.4,219.065,+1 Lap,MSC,2021
+20,17,Russell,George,Williams,0,01:25.8,225.818,+2 Laps,RUS,2021
+20,18,Mazepin,Nikita,Haas F1 Team,0,01:27.3,221.754,+2 Laps,MAZ,2021
+20,19,Latifi,Nicholas,Williams,0,01:28.7,218.275,Puncture,LAT,2021
+20,20,Bottas,Valtteri,Mercedes,0,01:27.2,221.992,Damage,BOT,2021
+21,1,Hamilton,Lewis,Mercedes,26,01:30.7,244.962,Finished,HAM,2021
+21,2,Verstappen,Max,Red Bull,18,01:31.5,242.943,Finished,VER,2021
+21,3,Bottas,Valtteri,Mercedes,15,01:31.4,243.155,Finished,BOT,2021
+21,4,Ocon,Esteban,Alpine F1 Team,12,01:31.8,242.125,Finished,OCO,2021
+21,5,Ricciardo,Daniel,McLaren,10,01:32.7,239.725,Finished,RIC,2021
+21,6,Gasly,Pierre,AlphaTauri,8,01:32.3,240.813,Finished,GAS,2021
+21,7,Leclerc,Charles,Ferrari,6,01:31.6,242.643,Finished,LEC,2021
+21,8,Sainz,Carlos,Ferrari,4,01:31.9,241.983,Finished,SAI,2021
+21,9,Giovinazzi,Antonio,Alfa Romeo,2,01:32.9,239.34,Finished,GIO,2021
+21,10,Norris,Lando,McLaren,1,01:31.9,241.817,Finished,NOR,2021
+21,11,Stroll,Lance,Aston Martin,0,01:32.8,239.498,Finished,STR,2021
+21,12,Latifi,Nicholas,Williams,0,01:32.8,239.635,Finished,LAT,2021
+21,13,Alonso,Fernando,Alpine F1 Team,0,01:31.6,242.558,+1 Lap,ALO,2021
+21,14,Tsunoda,Yuki,AlphaTauri,0,01:32.5,240.269,+1 Lap,TSU,2021
+21,15,Räikkönen,Kimi,Alfa Romeo,0,01:32.8,239.565,+1 Lap,RAI,2021
+21,16,Vettel,Sebastian,Aston Martin,0,01:34.0,236.375,Collision damage,VET,2021
+21,17,Pérez,Sergio,Red Bull,0,01:34.1,236.104,Collision,PER,2021
+21,18,Mazepin,Nikita,Haas F1 Team,0,01:37.0,229.036,Collision,MAZ,2021
+21,19,Russell,George,Williams,0,01:36.1,231.211,Collision,RUS,2021
+21,20,Schumacher,Mick,Haas F1 Team,0,01:36.0,231.421,Accident,MSC,2021
+22,1,Verstappen,Max,Red Bull,26,01:26.1,220.8,Finished,VER,2021
+22,2,Hamilton,Lewis,Mercedes,18,01:26.6,219.495,Finished,HAM,2021
+22,3,Sainz,Carlos,Ferrari,15,01:27.6,216.982,Finished,SAI,2021
+22,4,Tsunoda,Yuki,AlphaTauri,12,01:27.5,217.285,Finished,TSU,2021
+22,5,Gasly,Pierre,AlphaTauri,10,01:27.3,217.668,Finished,GAS,2021
+22,6,Bottas,Valtteri,Mercedes,8,01:26.9,218.871,Finished,BOT,2021
+22,7,Norris,Lando,McLaren,6,01:26.8,219.123,Finished,NOR,2021
+22,8,Alonso,Fernando,Alpine F1 Team,4,01:27.6,217.01,Finished,ALO,2021
+22,9,Ocon,Esteban,Alpine F1 Team,2,01:28.2,215.431,Finished,OCO,2021
+22,10,Leclerc,Charles,Ferrari,1,01:28.4,214.983,Finished,LEC,2021
+22,11,Vettel,Sebastian,Aston Martin,0,01:28.3,215.299,Finished,VET,2021
+22,12,Ricciardo,Daniel,McLaren,0,01:28.7,214.28,+1 Lap,RIC,2021
+22,13,Stroll,Lance,Aston Martin,0,01:28.6,214.657,+1 Lap,STR,2021
+22,14,Schumacher,Mick,Haas F1 Team,0,01:29.5,212.522,+1 Lap,MSC,2021
+22,15,Pérez,Sergio,Red Bull,0,01:26.4,219.993,Engine,PER,2021
+22,16,Latifi,Nicholas,Williams,0,01:29.3,212.912,Accident,LAT,2021
+22,17,Giovinazzi,Antonio,Alfa Romeo,0,01:29.4,212.557,Gearbox,GIO,2021
+22,18,Russell,George,Williams,0,01:30.6,209.732,Gearbox,RUS,2021
+22,19,Räikkönen,Kimi,Alfa Romeo,0,01:29.7,211.951,Brakes,RAI,2021
+22,20,Mazepin,Nikita,Haas F1 Team,0,,,Illness,MAZ,2021
