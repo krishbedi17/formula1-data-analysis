@@ -1,0 +1,441 @@
+Round,Driver First Name,Driver Last Name,Constructor Name,Position,Q1 Time,Q2 Time,Q3 Time
+0,Max,Verstappen,Red Bull,1,1:31.295,1:30.503,1:29.708
+0,Sergio,Pérez,Red Bull,2,1:31.479,1:30.746,1:29.846
+0,Charles,Leclerc,Ferrari,3,1:31.094,1:30.282,1:30.000
+0,Carlos,Sainz,Ferrari,4,1:30.993,1:30.515,1:30.154
+0,Fernando,Alonso,Aston Martin,5,1:31.158,1:30.645,1:30.336
+0,George,Russell,Mercedes,6,1:31.057,1:30.507,1:30.340
+0,Lewis,Hamilton,Mercedes,7,1:31.543,1:30.513,1:30.384
+0,Lance,Stroll,Aston Martin,8,1:31.184,1:31.127,1:30.836
+0,Esteban,Ocon,Alpine F1 Team,9,1:31.508,1:30.914,1:30.984
+0,Nico,Hülkenberg,Haas F1 Team,10,1:31.204,1:30.809,
+0,Lando,Norris,McLaren,11,1:31.652,1:31.381,
+0,Valtteri,Bottas,Alfa Romeo,12,1:31.504,1:31.443,
+0,Guanyu,Zhou,Alfa Romeo,13,1:31.615,1:31.473,
+0,Yuki,Tsunoda,AlphaTauri,14,1:31.400,1:32.510,
+0,Alexander,Albon,Williams,15,1:31.461,,
+0,Logan,Sargeant,Williams,16,1:31.652,,
+0,Kevin,Magnussen,Haas F1 Team,17,1:31.892,,
+0,Oscar,Piastri,McLaren,18,1:32.101,,
+0,Nyck,de Vries,AlphaTauri,19,1:32.121,,
+0,Pierre,Gasly,Alpine F1 Team,20,1:32.181,,
+1,Max,Verstappen,Red Bull,1,1:31.295,1:30.503,1:29.708
+1,Sergio,Pérez,Red Bull,2,1:31.479,1:30.746,1:29.846
+1,Charles,Leclerc,Ferrari,3,1:31.094,1:30.282,1:30.000
+1,Carlos,Sainz,Ferrari,4,1:30.993,1:30.515,1:30.154
+1,Fernando,Alonso,Aston Martin,5,1:31.158,1:30.645,1:30.336
+1,George,Russell,Mercedes,6,1:31.057,1:30.507,1:30.340
+1,Lewis,Hamilton,Mercedes,7,1:31.543,1:30.513,1:30.384
+1,Lance,Stroll,Aston Martin,8,1:31.184,1:31.127,1:30.836
+1,Esteban,Ocon,Alpine F1 Team,9,1:31.508,1:30.914,1:30.984
+1,Nico,Hülkenberg,Haas F1 Team,10,1:31.204,1:30.809,
+1,Lando,Norris,McLaren,11,1:31.652,1:31.381,
+1,Valtteri,Bottas,Alfa Romeo,12,1:31.504,1:31.443,
+1,Guanyu,Zhou,Alfa Romeo,13,1:31.615,1:31.473,
+1,Yuki,Tsunoda,AlphaTauri,14,1:31.400,1:32.510,
+1,Alexander,Albon,Williams,15,1:31.461,,
+1,Logan,Sargeant,Williams,16,1:31.652,,
+1,Kevin,Magnussen,Haas F1 Team,17,1:31.892,,
+1,Oscar,Piastri,McLaren,18,1:32.101,,
+1,Nyck,de Vries,AlphaTauri,19,1:32.121,,
+1,Pierre,Gasly,Alpine F1 Team,20,1:32.181,,
+2,Sergio,Pérez,Red Bull,1,1:29.244,1:28.635,1:28.265
+2,Charles,Leclerc,Ferrari,2,1:29.376,1:28.903,1:28.420
+2,Fernando,Alonso,Aston Martin,3,1:29.298,1:28.757,1:28.730
+2,George,Russell,Mercedes,4,1:29.592,1:29.132,1:28.857
+2,Carlos,Sainz,Ferrari,5,1:29.411,1:28.957,1:28.931
+2,Lance,Stroll,Aston Martin,6,1:29.335,1:28.962,1:28.945
+2,Esteban,Ocon,Alpine F1 Team,7,1:29.707,1:29.255,1:29.078
+2,Lewis,Hamilton,Mercedes,8,1:29.689,1:29.374,1:29.223
+2,Oscar,Piastri,McLaren,9,1:29.706,1:29.378,1:29.243
+2,Pierre,Gasly,Alpine F1 Team,10,1:29.890,1:29.411,1:29.357
+2,Nico,Hülkenberg,Haas F1 Team,11,1:29.547,1:29.451,
+2,Guanyu,Zhou,Alfa Romeo,12,1:29.654,1:29.461,
+2,Kevin,Magnussen,Haas F1 Team,13,1:29.744,1:29.634,
+2,Valtteri,Bottas,Alfa Romeo,14,1:29.929,1:29.668,
+2,Max,Verstappen,Red Bull,15,1:28.761,1:49.953,
+2,Yuki,Tsunoda,AlphaTauri,16,1:29.939,,
+2,Alexander,Albon,Williams,17,1:29.994,,
+2,Nyck,de Vries,AlphaTauri,18,1:30.244,,
+2,Lando,Norris,McLaren,19,1:30.447,,
+2,Logan,Sargeant,Williams,20,2:08.510,,
+3,Max,Verstappen,Red Bull,1,1:17.384,1:17.056,1:16.732
+3,George,Russell,Mercedes,2,1:17.654,1:17.513,1:16.968
+3,Lewis,Hamilton,Mercedes,3,1:17.689,1:17.551,1:17.104
+3,Fernando,Alonso,Aston Martin,4,1:17.832,1:17.283,1:17.139
+3,Carlos,Sainz,Ferrari,5,1:17.928,1:17.349,1:17.270
+3,Lance,Stroll,Aston Martin,6,1:17.873,1:17.616,1:17.308
+3,Charles,Leclerc,Ferrari,7,1:18.218,1:17.390,1:17.369
+3,Alexander,Albon,Williams,8,1:17.962,1:17.761,1:17.609
+3,Pierre,Gasly,Alpine F1 Team,9,1:18.312,1:17.574,1:17.675
+3,Nico,Hülkenberg,Haas F1 Team,10,1:18.029,1:17.412,1:17.735
+3,Esteban,Ocon,Alpine F1 Team,11,1:17.770,1:17.768,
+3,Yuki,Tsunoda,AlphaTauri,12,1:18.471,1:18.099,
+3,Lando,Norris,McLaren,13,1:18.243,1:18.119,
+3,Kevin,Magnussen,Haas F1 Team,14,1:18.159,1:18.129,
+3,Nyck,de Vries,AlphaTauri,15,1:18.450,1:18.335,
+3,Oscar,Piastri,McLaren,16,1:18.517,,
+3,Guanyu,Zhou,Alfa Romeo,17,1:18.540,,
+3,Logan,Sargeant,Williams,18,1:18.557,,
+3,Valtteri,Bottas,Alfa Romeo,19,1:18.714,,
+3,Sergio,Pérez,Red Bull,20,,,
+4,Charles,Leclerc,Ferrari,1,1:41.269,1:41.037,1:40.203
+4,Max,Verstappen,Red Bull,2,1:41.398,1:40.822,1:40.391
+4,Sergio,Pérez,Red Bull,3,1:41.756,1:41.131,1:40.495
+4,Carlos,Sainz,Ferrari,4,1:42.197,1:41.369,1:41.016
+4,Lewis,Hamilton,Mercedes,5,1:42.113,1:41.650,1:41.177
+4,Fernando,Alonso,Aston Martin,6,1:41.720,1:41.370,1:41.253
+4,Lando,Norris,McLaren,7,1:42.154,1:41.485,1:41.281
+4,Yuki,Tsunoda,AlphaTauri,8,1:42.234,1:41.569,1:41.581
+4,Lance,Stroll,Aston Martin,9,1:42.524,1:41.576,1:41.611
+4,Oscar,Piastri,McLaren,10,1:42.455,1:41.636,1:41.611
+4,George,Russell,Mercedes,11,1:42.073,1:41.654,
+4,Esteban,Ocon,Alpine F1 Team,12,1:42.622,1:41.798,
+4,Alexander,Albon,Williams,13,1:42.171,1:41.818,
+4,Valtteri,Bottas,Alfa Romeo,14,1:42.582,1:42.259,
+4,Logan,Sargeant,Williams,15,1:42.242,1:42.395,
+4,Guanyu,Zhou,Alfa Romeo,16,1:42.642,,
+4,Nico,Hülkenberg,Haas F1 Team,17,1:42.755,,
+4,Kevin,Magnussen,Haas F1 Team,18,1:43.417,,
+4,Pierre,Gasly,Alpine F1 Team,19,1:44.853,,
+4,Nyck,de Vries,AlphaTauri,20,,,
+5,Sergio,Pérez,Red Bull,1,1:27.713,1:27.328,1:26.841
+5,Fernando,Alonso,Aston Martin,2,1:28.179,1:27.097,1:27.202
+5,Carlos,Sainz,Ferrari,3,1:27.686,1:27.148,1:27.349
+5,Kevin,Magnussen,Haas F1 Team,4,1:27.809,1:27.673,1:27.767
+5,Pierre,Gasly,Alpine F1 Team,5,1:28.061,1:27.612,1:27.786
+5,George,Russell,Mercedes,6,1:28.086,1:27.743,1:27.804
+5,Charles,Leclerc,Ferrari,7,1:27.713,1:26.964,1:27.861
+5,Esteban,Ocon,Alpine F1 Team,8,1:27.872,1:27.444,1:27.935
+5,Max,Verstappen,Red Bull,9,1:27.363,1:26.814,
+5,Valtteri,Bottas,Alfa Romeo,10,1:27.864,1:27.564,
+5,Alexander,Albon,Williams,11,1:28.234,1:27.795,
+5,Nico,Hülkenberg,Haas F1 Team,12,1:27.945,1:27.903,
+5,Lewis,Hamilton,Mercedes,13,1:27.846,1:27.975,
+5,Guanyu,Zhou,Alfa Romeo,14,1:28.180,1:28.091,
+5,Nyck,de Vries,AlphaTauri,15,1:28.325,1:28.395,
+5,Lando,Norris,McLaren,16,1:28.394,,
+5,Yuki,Tsunoda,AlphaTauri,17,1:28.429,,
+5,Lance,Stroll,Aston Martin,18,1:28.476,,
+5,Oscar,Piastri,McLaren,19,1:28.484,,
+5,Logan,Sargeant,Williams,20,1:28.577,,
+6,Max,Verstappen,Red Bull,1,1:12.386,1:11.908,1:11.365
+6,Fernando,Alonso,Aston Martin,2,1:12.886,1:12.107,1:11.449
+6,Charles,Leclerc,Ferrari,3,1:12.912,1:12.103,1:11.471
+6,Esteban,Ocon,Alpine F1 Team,4,1:12.967,1:12.248,1:11.553
+6,Carlos,Sainz,Ferrari,5,1:12.717,1:12.210,1:11.630
+6,Lewis,Hamilton,Mercedes,6,1:12.872,1:12.156,1:11.725
+6,Pierre,Gasly,Alpine F1 Team,7,1:13.033,1:12.169,1:11.933
+6,George,Russell,Mercedes,8,1:12.769,1:12.151,1:11.964
+6,Yuki,Tsunoda,AlphaTauri,9,1:12.642,1:12.249,1:12.082
+6,Lando,Norris,McLaren,10,1:12.877,1:12.377,1:12.254
+6,Oscar,Piastri,McLaren,11,1:13.006,1:12.395,
+6,Nyck,de Vries,AlphaTauri,12,1:13.054,1:12.428,
+6,Alexander,Albon,Williams,13,1:12.706,1:12.527,
+6,Lance,Stroll,Aston Martin,14,1:12.722,1:12.623,
+6,Valtteri,Bottas,Alfa Romeo,15,1:13.038,1:12.625,
+6,Logan,Sargeant,Williams,16,1:13.113,,
+6,Kevin,Magnussen,Haas F1 Team,17,1:13.270,,
+6,Nico,Hülkenberg,Haas F1 Team,18,1:13.279,,
+6,Guanyu,Zhou,Alfa Romeo,19,1:13.523,,
+6,Sergio,Pérez,Red Bull,20,1:13.850,,
+7,Max,Verstappen,Red Bull,1,1:13.615,1:12.760,1:12.272
+7,Carlos,Sainz,Ferrari,2,1:13.411,1:12.790,1:12.734
+7,Lando,Norris,McLaren,3,1:13.295,1:12.776,1:12.792
+7,Pierre,Gasly,Alpine F1 Team,4,1:13.471,1:13.186,1:12.816
+7,Lewis,Hamilton,Mercedes,5,1:12.937,1:12.999,1:12.818
+7,Lance,Stroll,Aston Martin,6,1:13.766,1:13.082,1:12.994
+7,Esteban,Ocon,Alpine F1 Team,7,1:13.433,1:13.001,1:13.083
+7,Nico,Hülkenberg,Haas F1 Team,8,1:13.420,1:13.283,1:13.229
+7,Fernando,Alonso,Aston Martin,9,1:13.747,1:13.098,1:13.507
+7,Oscar,Piastri,McLaren,10,1:13.691,1:13.059,1:13.682
+7,Sergio,Pérez,Red Bull,11,1:13.874,1:13.334,
+7,George,Russell,Mercedes,12,1:13.326,1:13.447,
+7,Guanyu,Zhou,Alfa Romeo,13,1:13.677,1:13.521,
+7,Nyck,de Vries,AlphaTauri,14,1:13.581,1:14.083,
+7,Yuki,Tsunoda,AlphaTauri,15,1:13.862,1:14.477,
+7,Valtteri,Bottas,Alfa Romeo,16,1:13.977,,
+7,Kevin,Magnussen,Haas F1 Team,17,1:14.042,,
+7,Alexander,Albon,Williams,18,1:14.063,,
+7,Charles,Leclerc,Ferrari,19,1:14.079,,
+7,Logan,Sargeant,Williams,20,1:14.699,,
+8,Max,Verstappen,Red Bull,1,1:20.851,1:19.092,1:25.858
+8,Nico,Hülkenberg,Haas F1 Team,2,1:22.730,1:20.305,1:27.102
+8,Fernando,Alonso,Aston Martin,3,1:21.481,1:19.776,1:27.286
+8,Lewis,Hamilton,Mercedes,4,1:21.554,1:20.426,1:27.627
+8,George,Russell,Mercedes,5,1:21.798,1:20.098,1:27.893
+8,Esteban,Ocon,Alpine F1 Team,6,1:22.114,1:20.406,1:27.945
+8,Lando,Norris,McLaren,7,1:21.998,1:19.347,1:28.046
+8,Carlos,Sainz,Ferrari,8,1:22.248,1:19.856,1:29.294
+8,Oscar,Piastri,McLaren,9,1:22.190,1:19.659,1:31.349
+8,Alexander,Albon,Williams,10,1:21.938,1:18.725,
+8,Charles,Leclerc,Ferrari,11,1:21.843,1:20.615,
+8,Sergio,Pérez,Red Bull,12,1:22.151,1:20.959,
+8,Lance,Stroll,Aston Martin,13,1:22.677,1:21.484,
+8,Kevin,Magnussen,Haas F1 Team,14,1:22.351,1:21.678,
+8,Valtteri,Bottas,Alfa Romeo,15,1:22.332,1:21.821,
+8,Yuki,Tsunoda,AlphaTauri,16,1:22.746,,
+8,Pierre,Gasly,Alpine F1 Team,17,1:22.886,,
+8,Nyck,de Vries,AlphaTauri,18,1:23.137,,
+8,Logan,Sargeant,Williams,19,1:23.337,,
+8,Guanyu,Zhou,Alfa Romeo,20,1:23.342,,
+9,Max,Verstappen,Red Bull,1,1:05.116,1:04.951,1:04.391
+9,Charles,Leclerc,Ferrari,2,1:05.577,1:05.087,1:04.439
+9,Carlos,Sainz,Ferrari,3,1:05.339,1:04.975,1:04.581
+9,Lando,Norris,McLaren,4,1:05.617,1:05.038,1:04.658
+9,Lewis,Hamilton,Mercedes,5,1:05.673,1:05.188,1:04.819
+9,Lance,Stroll,Aston Martin,6,1:05.710,1:05.121,1:04.893
+9,Fernando,Alonso,Aston Martin,7,1:05.655,1:05.181,1:04.911
+9,Nico,Hülkenberg,Haas F1 Team,8,1:05.740,1:05.362,1:05.090
+9,Pierre,Gasly,Alpine F1 Team,9,1:05.515,1:05.308,1:05.170
+9,Alexander,Albon,Williams,10,1:05.673,1:05.387,1:05.823
+9,George,Russell,Mercedes,11,1:05.686,1:05.428,
+9,Esteban,Ocon,Alpine F1 Team,12,1:05.729,1:05.453,
+9,Oscar,Piastri,McLaren,13,1:05.683,1:05.605,
+9,Valtteri,Bottas,Alfa Romeo,14,1:05.763,1:05.680,
+9,Sergio,Pérez,Red Bull,15,1:05.177,2:06.688,
+9,Yuki,Tsunoda,AlphaTauri,16,1:05.784,,
+9,Guanyu,Zhou,Alfa Romeo,17,1:05.818,,
+9,Logan,Sargeant,Williams,18,1:05.948,,
+9,Kevin,Magnussen,Haas F1 Team,19,1:05.971,,
+9,Nyck,de Vries,AlphaTauri,20,1:05.974,,
+10,Max,Verstappen,Red Bull,1,1:29.428,1:27.702,1:26.720
+10,Lando,Norris,McLaren,2,1:28.917,1:28.042,1:26.961
+10,Oscar,Piastri,McLaren,3,1:29.874,1:27.845,1:27.092
+10,Charles,Leclerc,Ferrari,4,1:29.143,1:28.361,1:27.136
+10,Carlos,Sainz,Ferrari,5,1:29.865,1:28.265,1:27.148
+10,George,Russell,Mercedes,6,1:29.412,1:28.782,1:27.155
+10,Lewis,Hamilton,Mercedes,7,1:29.415,1:28.545,1:27.211
+10,Alexander,Albon,Williams,8,1:29.466,1:28.067,1:27.530
+10,Fernando,Alonso,Aston Martin,9,1:29.949,1:28.368,1:27.659
+10,Pierre,Gasly,Alpine F1 Team,10,1:29.533,1:28.751,1:27.689
+10,Nico,Hülkenberg,Haas F1 Team,11,1:29.603,1:28.896,
+10,Lance,Stroll,Aston Martin,12,1:29.448,1:28.935,
+10,Esteban,Ocon,Alpine F1 Team,13,1:29.700,1:28.956,
+10,Logan,Sargeant,Williams,14,1:29.873,1:29.031,
+10,Valtteri,Bottas,Alfa Romeo,15,1:29.798,,
+10,Sergio,Pérez,Red Bull,16,1:29.968,,
+10,Yuki,Tsunoda,AlphaTauri,17,1:30.025,,
+10,Guanyu,Zhou,Alfa Romeo,18,1:30.123,,
+10,Nyck,de Vries,AlphaTauri,19,1:30.513,,
+10,Kevin,Magnussen,Haas F1 Team,20,1:32.378,,
+11,Lewis,Hamilton,Mercedes,1,1:18.577,1:17.427,1:16.609
+11,Max,Verstappen,Red Bull,2,1:18.318,1:17.547,1:16.612
+11,Lando,Norris,McLaren,3,1:18.697,1:17.328,1:16.694
+11,Oscar,Piastri,McLaren,4,1:18.464,1:17.571,1:16.905
+11,Guanyu,Zhou,Alfa Romeo,5,1:18.143,1:17.700,1:16.971
+11,Charles,Leclerc,Ferrari,6,1:18.440,1:17.580,1:16.992
+11,Valtteri,Bottas,Alfa Romeo,7,1:18.775,1:17.563,1:17.034
+11,Fernando,Alonso,Aston Martin,8,1:18.580,1:17.701,1:17.035
+11,Sergio,Pérez,Red Bull,9,1:18.360,1:17.675,1:17.045
+11,Nico,Hülkenberg,Haas F1 Team,10,1:18.695,1:17.652,1:17.186
+11,Carlos,Sainz,Ferrari,11,1:18.393,1:17.703,
+11,Esteban,Ocon,Alpine F1 Team,12,1:18.854,1:17.841,
+11,Daniel,Ricciardo,AlphaTauri,13,1:18.906,1:18.002,
+11,Lance,Stroll,Aston Martin,14,1:18.782,1:18.144,
+11,Pierre,Gasly,Alpine F1 Team,15,1:18.743,1:18.217,
+11,Alexander,Albon,Williams,16,1:18.917,,
+11,Yuki,Tsunoda,AlphaTauri,17,1:18.919,,
+11,George,Russell,Mercedes,18,1:19.027,,
+11,Kevin,Magnussen,Haas F1 Team,19,1:19.206,,
+11,Logan,Sargeant,Williams,20,1:19.248,,
+12,Max,Verstappen,Red Bull,1,1:58.515,1:52.784,1:46.168
+12,Charles,Leclerc,Ferrari,2,1:58.300,1:52.017,1:46.988
+12,Sergio,Pérez,Red Bull,3,1:58.899,1:52.353,1:47.045
+12,Lewis,Hamilton,Mercedes,4,1:58.563,1:52.345,1:47.087
+12,Carlos,Sainz,Ferrari,5,1:58.688,1:51.711,1:47.152
+12,Oscar,Piastri,McLaren,6,1:58.872,1:51.534,1:47.365
+12,Lando,Norris,McLaren,7,1:59.981,1:52.252,1:47.669
+12,George,Russell,Mercedes,8,1:59.035,1:52.605,1:47.805
+12,Fernando,Alonso,Aston Martin,9,1:58.834,1:52.751,1:47.843
+12,Lance,Stroll,Aston Martin,10,1:59.663,1:52.193,1:48.841
+12,Yuki,Tsunoda,AlphaTauri,11,1:59.044,1:53.148,
+12,Pierre,Gasly,Alpine F1 Team,12,1:59.511,1:53.671,
+12,Kevin,Magnussen,Haas F1 Team,13,2:00.020,1:54.160,
+12,Valtteri,Bottas,Alfa Romeo,14,1:59.484,1:54.694,
+12,Esteban,Ocon,Alpine F1 Team,15,1:59.634,1:56.372,
+12,Alexander,Albon,Williams,16,2:00.314,,
+12,Guanyu,Zhou,Alfa Romeo,17,2:00.832,,
+12,Logan,Sargeant,Williams,18,2:01.535,,
+12,Daniel,Ricciardo,AlphaTauri,19,2:02.159,,
+12,Nico,Hülkenberg,Haas F1 Team,20,2:03.166,,
+13,Max,Verstappen,Red Bull,1,1:20.965,1:18.856,1:10.567
+13,Lando,Norris,McLaren,2,1:21.276,1:19.769,1:11.104
+13,George,Russell,Mercedes,3,1:21.345,1:19.620,1:11.294
+13,Alexander,Albon,Williams,4,1:20.939,1:19.399,1:11.419
+13,Fernando,Alonso,Aston Martin,5,1:21.840,1:19.429,1:11.506
+13,Carlos,Sainz,Ferrari,6,1:21.321,1:19.929,1:11.754
+13,Sergio,Pérez,Red Bull,7,1:21.972,1:19.856,1:11.880
+13,Oscar,Piastri,McLaren,8,1:21.231,1:19.392,1:11.938
+13,Charles,Leclerc,Ferrari,9,1:22.019,1:19.600,1:12.665
+13,Logan,Sargeant,Williams,10,1:22.036,1:20.067,1:16.748
+13,Lance,Stroll,Aston Martin,11,1:21.570,1:20.121,
+13,Pierre,Gasly,Alpine F1 Team,12,1:21.735,1:20.128,
+13,Lewis,Hamilton,Mercedes,13,1:21.919,1:20.151,
+13,Yuki,Tsunoda,AlphaTauri,14,1:21.781,1:20.230,
+13,Nico,Hülkenberg,Haas F1 Team,15,1:21.891,1:20.250,
+13,Guanyu,Zhou,Alfa Romeo,16,1:22.067,,
+13,Esteban,Ocon,Alpine F1 Team,17,1:22.110,,
+13,Kevin,Magnussen,Haas F1 Team,18,1:22.192,,
+13,Valtteri,Bottas,Alfa Romeo,19,1:22.260,,
+13,Liam,Lawson,AlphaTauri,20,1:23.420,,
+14,Carlos,Sainz,Ferrari,1,1:21.965,1:20.991,1:20.294
+14,Max,Verstappen,Red Bull,2,1:21.573,1:20.937,1:20.307
+14,Charles,Leclerc,Ferrari,3,1:21.788,1:20.977,1:20.361
+14,George,Russell,Mercedes,4,1:22.148,1:21.382,1:20.671
+14,Sergio,Pérez,Red Bull,5,1:21.911,1:21.240,1:20.688
+14,Alexander,Albon,Williams,6,1:21.661,1:21.272,1:20.760
+14,Oscar,Piastri,McLaren,7,1:22.106,1:21.527,1:20.785
+14,Lewis,Hamilton,Mercedes,8,1:21.977,1:21.369,1:20.820
+14,Lando,Norris,McLaren,9,1:21.995,1:21.581,1:20.979
+14,Fernando,Alonso,Aston Martin,10,1:22.043,1:21.543,1:21.417
+14,Yuki,Tsunoda,AlphaTauri,11,1:21.852,1:21.594,
+14,Liam,Lawson,AlphaTauri,12,1:22.112,1:21.758,
+14,Nico,Hülkenberg,Haas F1 Team,13,1:22.343,1:21.776,
+14,Valtteri,Bottas,Alfa Romeo,14,1:22.249,1:21.940,
+14,Logan,Sargeant,Williams,15,1:21.930,1:21.944,
+14,Guanyu,Zhou,Alfa Romeo,16,1:22.390,,
+14,Pierre,Gasly,Alpine F1 Team,17,1:22.545,,
+14,Esteban,Ocon,Alpine F1 Team,18,1:22.548,,
+14,Kevin,Magnussen,Haas F1 Team,19,1:22.592,,
+14,Lance,Stroll,Aston Martin,20,1:22.860,,
+15,Carlos,Sainz,Ferrari,1,1:32.339,1:31.439,1:30.984
+15,George,Russell,Mercedes,2,1:32.331,1:31.743,1:31.056
+15,Charles,Leclerc,Ferrari,3,1:32.406,1:32.012,1:31.063
+15,Lando,Norris,McLaren,4,1:32.483,1:31.951,1:31.270
+15,Lewis,Hamilton,Mercedes,5,1:32.651,1:32.019,1:31.485
+15,Kevin,Magnussen,Haas F1 Team,6,1:32.242,1:31.892,1:31.575
+15,Fernando,Alonso,Aston Martin,7,1:32.584,1:31.835,1:31.615
+15,Esteban,Ocon,Alpine F1 Team,8,1:32.369,1:32.089,1:31.673
+15,Nico,Hülkenberg,Haas F1 Team,9,1:32.100,1:31.994,1:31.808
+15,Liam,Lawson,AlphaTauri,10,1:32.215,1:32.166,1:32.268
+15,Max,Verstappen,Red Bull,11,1:32.398,1:32.173,
+15,Pierre,Gasly,Alpine F1 Team,12,1:32.452,1:32.274,
+15,Sergio,Pérez,Red Bull,13,1:32.099,1:32.310,
+15,Alexander,Albon,Williams,14,1:32.668,1:33.719,
+15,Yuki,Tsunoda,AlphaTauri,15,1:31.991,,
+15,Valtteri,Bottas,Alfa Romeo,16,1:32.809,,
+15,Oscar,Piastri,McLaren,17,1:32.902,,
+15,Logan,Sargeant,Williams,18,1:33.252,,
+15,Guanyu,Zhou,Alfa Romeo,19,1:33.258,,
+15,Lance,Stroll,Aston Martin,20,1:33.397,,
+16,Max,Verstappen,Red Bull,1,1:29.878,1:29.964,1:28.877
+16,Oscar,Piastri,McLaren,2,1:30.439,1:30.122,1:29.458
+16,Lando,Norris,McLaren,3,1:30.063,1:30.296,1:29.493
+16,Charles,Leclerc,Ferrari,4,1:30.393,1:29.940,1:29.542
+16,Sergio,Pérez,Red Bull,5,1:30.652,1:29.965,1:29.650
+16,Carlos,Sainz,Ferrari,6,1:30.651,1:30.067,1:29.850
+16,Lewis,Hamilton,Mercedes,7,1:30.811,1:30.040,1:29.908
+16,George,Russell,Mercedes,8,1:30.811,1:30.268,1:30.219
+16,Yuki,Tsunoda,AlphaTauri,9,1:30.733,1:30.204,1:30.303
+16,Fernando,Alonso,Aston Martin,10,1:30.971,1:30.465,1:30.560
+16,Liam,Lawson,AlphaTauri,11,1:30.425,1:30.508,
+16,Pierre,Gasly,Alpine F1 Team,12,1:30.843,1:30.509,
+16,Alexander,Albon,Williams,13,1:30.941,1:30.537,
+16,Esteban,Ocon,Alpine F1 Team,14,1:30.960,1:30.586,
+16,Kevin,Magnussen,Haas F1 Team,15,1:30.976,1:30.665,
+16,Valtteri,Bottas,Alfa Romeo,16,1:31.049,,
+16,Lance,Stroll,Aston Martin,17,1:31.181,,
+16,Nico,Hülkenberg,Haas F1 Team,18,1:31.299,,
+16,Guanyu,Zhou,Alfa Romeo,19,1:31.398,,
+16,Logan,Sargeant,Williams,20,,,
+17,Max,Verstappen,Red Bull,1,1:25.007,1:24.483,1:23.778
+17,George,Russell,Mercedes,2,1:25.334,1:24.827,1:24.219
+17,Lewis,Hamilton,Mercedes,3,1:26.076,1:24.381,1:24.305
+17,Fernando,Alonso,Aston Martin,4,1:25.223,1:25.241,1:24.369
+17,Charles,Leclerc,Ferrari,5,1:25.452,1:25.079,1:24.424
+17,Oscar,Piastri,McLaren,6,1:25.266,1:24.724,1:24.540
+17,Pierre,Gasly,Alpine F1 Team,7,1:25.566,1:24.918,1:24.553
+17,Esteban,Ocon,Alpine F1 Team,8,1:25.711,1:24.928,1:24.763
+17,Valtteri,Bottas,Alfa Romeo,9,1:26.038,1:25.297,1:25.058
+17,Lando,Norris,McLaren,10,1:25.131,1:24.685,
+17,Yuki,Tsunoda,AlphaTauri,11,1:26.058,1:25.301,
+17,Carlos,Sainz,Ferrari,12,1:25.808,1:25.328,
+17,Sergio,Pérez,Red Bull,13,1:25.991,1:25.462,
+17,Alexander,Albon,Williams,14,1:26.118,1:25.707,
+17,Nico,Hülkenberg,Haas F1 Team,15,1:25.904,1:25.783,
+17,Logan,Sargeant,Williams,16,1:26.210,,
+17,Lance,Stroll,Aston Martin,17,1:26.345,,
+17,Liam,Lawson,AlphaTauri,18,1:26.635,,
+17,Kevin,Magnussen,Haas F1 Team,19,1:27.046,,
+17,Guanyu,Zhou,Alfa Romeo,20,1:27.432,,
+18,Charles,Leclerc,Ferrari,1,1:36.061,1:35.004,1:34.723
+18,Lando,Norris,McLaren,2,1:35.110,1:35.441,1:34.853
+18,Lewis,Hamilton,Mercedes,3,1:35.091,1:35.240,1:34.862
+18,Carlos,Sainz,Ferrari,4,1:35.824,1:35.302,1:34.945
+18,George,Russell,Mercedes,5,1:36.165,1:35.606,1:35.079
+18,Max,Verstappen,Red Bull,6,1:35.346,1:35.008,1:35.081
+18,Pierre,Gasly,Alpine F1 Team,7,1:36.158,1:35.496,1:35.089
+18,Esteban,Ocon,Alpine F1 Team,8,1:36.131,1:35.413,1:35.154
+18,Sergio,Pérez,Red Bull,9,1:35.989,1:35.679,1:35.173
+18,Oscar,Piastri,McLaren,10,1:36.064,1:35.576,1:35.467
+18,Yuki,Tsunoda,AlphaTauri,11,1:35.913,1:35.697,
+18,Guanyu,Zhou,Alfa Romeo,12,1:36.052,1:35.698,
+18,Valtteri,Bottas,Alfa Romeo,13,1:36.082,1:35.858,
+18,Kevin,Magnussen,Haas F1 Team,14,1:36.009,1:35.880,
+18,Daniel,Ricciardo,AlphaTauri,15,1:36.213,1:35.974,
+18,Nico,Hülkenberg,Haas F1 Team,16,1:36.235,,
+18,Fernando,Alonso,Aston Martin,17,1:36.268,,
+18,Alexander,Albon,Williams,18,1:36.315,,
+18,Lance,Stroll,Aston Martin,19,1:36.589,,
+18,Logan,Sargeant,Williams,20,1:36.827,,
+19,Charles,Leclerc,Ferrari,1,1:18.401,1:17.901,1:17.166
+19,Carlos,Sainz,Ferrari,2,1:18.755,1:18.382,1:17.233
+19,Max,Verstappen,Red Bull,3,1:18.099,1:17.625,1:17.263
+19,Daniel,Ricciardo,AlphaTauri,4,1:18.341,1:17.706,1:17.382
+19,Sergio,Pérez,Red Bull,5,1:18.553,1:18.124,1:17.423
+19,Lewis,Hamilton,Mercedes,6,1:18.677,1:17.571,1:17.454
+19,Oscar,Piastri,McLaren,7,1:18.241,1:17.874,1:17.623
+19,George,Russell,Mercedes,8,1:18.893,1:17.673,1:17.674
+19,Valtteri,Bottas,Alfa Romeo,9,1:18.429,1:18.016,1:18.032
+19,Guanyu,Zhou,Alfa Romeo,10,1:19.016,1:18.440,1:18.050
+19,Pierre,Gasly,Alpine F1 Team,11,1:18.945,1:18.521,
+19,Nico,Hülkenberg,Haas F1 Team,12,1:18.969,1:18.524,
+19,Fernando,Alonso,Aston Martin,13,1:18.848,1:18.738,
+19,Alexander,Albon,Williams,14,1:18.828,1:19.147,
+19,Yuki,Tsunoda,AlphaTauri,15,1:18.890,,
+19,Esteban,Ocon,Alpine F1 Team,16,1:19.080,,
+19,Kevin,Magnussen,Haas F1 Team,17,1:19.163,,
+19,Lance,Stroll,Aston Martin,18,1:19.227,,
+19,Lando,Norris,McLaren,19,1:21.554,,
+19,Logan,Sargeant,Williams,20,,,
+20,Max,Verstappen,Red Bull,1,1:10.436,1:10.162,1:10.727
+20,Charles,Leclerc,Ferrari,2,1:10.472,1:10.303,1:11.021
+20,Lance,Stroll,Aston Martin,3,1:10.551,1:10.375,1:11.344
+20,Fernando,Alonso,Aston Martin,4,1:10.557,1:10.237,1:11.387
+20,Lewis,Hamilton,Mercedes,5,1:10.604,1:10.266,1:11.469
+20,George,Russell,Mercedes,6,1:10.340,1:10.316,1:11.590
+20,Lando,Norris,McLaren,7,1:10.623,1:10.021,1:11.987
+20,Carlos,Sainz,Ferrari,8,1:10.624,1:10.254,1:11.989
+20,Sergio,Pérez,Red Bull,9,1:10.668,1:10.219,1:12.321
+20,Oscar,Piastri,McLaren,10,1:10.519,1:10.330,
+20,Nico,Hülkenberg,Haas F1 Team,11,1:10.475,1:10.547,
+20,Esteban,Ocon,Alpine F1 Team,12,1:10.763,1:10.562,
+20,Pierre,Gasly,Alpine F1 Team,13,1:10.793,1:10.567,
+20,Kevin,Magnussen,Haas F1 Team,14,1:10.602,1:10.723,
+20,Alexander,Albon,Williams,15,1:10.621,1:10.840,
+20,Yuki,Tsunoda,AlphaTauri,16,1:10.837,,
+20,Daniel,Ricciardo,AlphaTauri,17,1:10.843,,
+20,Valtteri,Bottas,Alfa Romeo,18,1:10.955,,
+20,Logan,Sargeant,Williams,19,1:11.035,,
+20,Guanyu,Zhou,Alfa Romeo,20,1:11.275,,
+21,Charles,Leclerc,Ferrari,1,1:33.617,1:32.775,1:32.726
+21,Carlos,Sainz,Ferrari,2,1:33.851,1:33.338,1:32.770
+21,Max,Verstappen,Red Bull,3,1:34.190,1:33.572,1:33.104
+21,George,Russell,Mercedes,4,1:34.137,1:33.351,1:33.112
+21,Pierre,Gasly,Alpine F1 Team,5,1:34.272,1:33.494,1:33.239
+21,Alexander,Albon,Williams,6,1:34.634,1:33.588,1:33.323
+21,Logan,Sargeant,Williams,7,1:34.525,1:33.733,1:33.513
+21,Valtteri,Bottas,Alfa Romeo,8,1:34.305,1:33.809,1:33.525
+21,Kevin,Magnussen,Haas F1 Team,9,1:34.337,1:33.664,1:33.537
+21,Fernando,Alonso,Aston Martin,10,1:34.422,1:33.617,1:33.555
+21,Lewis,Hamilton,Mercedes,11,1:34.307,1:33.837,
+21,Sergio,Pérez,Red Bull,12,1:34.574,1:33.855,
+21,Nico,Hülkenberg,Haas F1 Team,13,1:34.265,1:33.979,
+21,Lance,Stroll,Aston Martin,14,1:34.504,1:34.199,
+21,Daniel,Ricciardo,AlphaTauri,15,1:34.683,1:34.308,
+21,Lando,Norris,McLaren,16,1:34.703,,
+21,Esteban,Ocon,Alpine F1 Team,17,1:34.834,,
+21,Guanyu,Zhou,Alfa Romeo,18,1:34.849,,
+21,Oscar,Piastri,McLaren,19,1:34.850,,
+21,Yuki,Tsunoda,AlphaTauri,20,1:36.447,,
