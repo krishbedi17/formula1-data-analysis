@@ -1,341 +1,341 @@
-DriverNumber,BroadcastName,Abbreviation,DriverId,TeamName,TeamColor,TeamId,FirstName,LastName,FullName,HeadshotUrl,CountryCode,Position,ClassifiedPosition,GridPosition,Q1,Q2,Q3,Time,Status,Points,raceID,year,EventName,Location
-77,V BOTTAS,BOT,bottas,Mercedes,00D2BE,mercedes,Valtteri,Bottas,Valtteri Bottas,https://www.formula1.com/content/dam/fom-website/drivers/V/VALBOT01_Valtteri_Bottas/valbot01.png.transform/1col/image.png,,1.0,1,1.0,,,,0 days 01:30:55.739000,Finished,25.0,1,2020,Austrian,Spielberg
-16,C LECLERC,LEC,leclerc,Ferrari,DC0000,ferrari,Charles,Leclerc,Charles Leclerc,https://www.formula1.com/content/dam/fom-website/drivers/C/CHALEC01_Charles_Leclerc/chalec01.png.transform/1col/image.png,,2.0,2,7.0,,,,0 days 00:00:02.700000,Finished,18.0,1,2020,Austrian,Spielberg
-4,L NORRIS,NOR,norris,McLaren,FF8700,mclaren,Lando,Norris,Lando Norris,https://www.formula1.com/content/dam/fom-website/drivers/L/LANNOR01_Lando_Norris/lannor01.png.transform/1col/image.png,,3.0,3,3.0,,,,0 days 00:00:05.491000,Finished,16.0,1,2020,Austrian,Spielberg
-44,L HAMILTON,HAM,hamilton,Mercedes,00D2BE,mercedes,Lewis,Hamilton,Lewis Hamilton,https://www.formula1.com/content/dam/fom-website/drivers/L/LEWHAM01_Lewis_Hamilton/lewham01.png.transform/1col/image.png,,4.0,4,5.0,,,,0 days 00:00:05.689000,Finished,12.0,1,2020,Austrian,Spielberg
-55,C SAINZ,SAI,sainz,McLaren,FF8700,mclaren,Carlos,Sainz,Carlos Sainz,https://www.formula1.com/content/dam/fom-website/drivers/C/CARSAI01_Carlos_Sainz/carsai01.png.transform/1col/image.png,,5.0,5,8.0,,,,0 days 00:00:08.903000,Finished,10.0,1,2020,Austrian,Spielberg
-11,S PEREZ,PER,perez,Racing Point,F596C8,racing_point,Sergio,Perez,Sergio Perez,https://www.formula1.com/content/dam/fom-website/drivers/S/SERPER01_Sergio_Perez/serper01.png.transform/1col/image.png,,6.0,6,6.0,,,,0 days 00:00:15.092000,Finished,8.0,1,2020,Austrian,Spielberg
-10,P GASLY,GAS,gasly,AlphaTauri,ffffff,alphatauri,Pierre,Gasly,Pierre Gasly,https://www.formula1.com/content/dam/fom-website/drivers/P/PIEGAS01_Pierre_Gasly/piegas01.png.transform/1col/image.png,,7.0,7,12.0,,,,0 days 00:00:16.682000,Finished,6.0,1,2020,Austrian,Spielberg
-31,E OCON,OCO,ocon,Renault,FFF500,renault,Esteban,Ocon,Esteban Ocon,https://www.formula1.com/content/dam/fom-website/drivers/E/ESTOCO01_Esteban_Ocon/estoco01.png.transform/1col/image.png,,8.0,8,14.0,,,,0 days 00:00:17.456000,Finished,4.0,1,2020,Austrian,Spielberg
-99,A GIOVINAZZI,GIO,giovinazzi,Alfa Romeo Racing,9B0000,alfa,Antonio,Giovinazzi,Antonio Giovinazzi,https://www.formula1.com/content/dam/fom-website/drivers/A/ANTGIO01_Antonio_Giovinazzi/antgio01.png.transform/1col/image.png,,9.0,9,18.0,,,,0 days 00:00:21.146000,Finished,2.0,1,2020,Austrian,Spielberg
-5,S VETTEL,VET,vettel,Ferrari,DC0000,ferrari,Sebastian,Vettel,Sebastian Vettel,https://www.formula1.com/content/dam/fom-website/drivers/S/SEBVET01_Sebastian_Vettel/sebvet01.png.transform/1col/image.png,,10.0,10,11.0,,,,0 days 00:00:24.545000,Finished,1.0,1,2020,Austrian,Spielberg
-6,N LATIFI,LAT,latifi,Williams,0082fa,williams,Nicholas,Latifi,Nicholas Latifi,https://www.formula1.com/content/dam/fom-website/drivers/N/NICLAF01_Nicholas_Latifi/niclaf01.png.transform/1col/image.png,,11.0,11,20.0,,,,0 days 00:00:31.650000,Finished,0.0,1,2020,Austrian,Spielberg
-26,D KVYAT,KVY,kvyat,AlphaTauri,ffffff,alphatauri,Daniil,Kvyat,Daniil Kvyat,https://www.formula1.com/content/dam/fom-website/drivers/D/DANKVY01_Daniil_Kvyat/dankvy01.png.transform/1col/image.png,,12.0,12,13.0,,,,,Suspension,0.0,1,2020,Austrian,Spielberg
-23,A ALBON,ALB,albon,Red Bull Racing,1E41FF,red_bull,Alexander,Albon,Alexander Albon,https://www.formula1.com/content/dam/fom-website/drivers/A/ALEALB01_Alexander_Albon/alealb01.png.transform/1col/image.png,,13.0,13,4.0,,,,,Electronics,0.0,1,2020,Austrian,Spielberg
-7,K RAIKKONEN,RAI,raikkonen,Alfa Romeo Racing,9B0000,alfa,Kimi,Räikkönen,Kimi Räikkönen,https://www.formula1.com/content/dam/fom-website/drivers/K/KIMRAI01_Kimi_R%C3%A4ikk%C3%B6nen/kimrai01.png.transform/1col/image.png,,14.0,R,19.0,,,,,Wheel,0.0,1,2020,Austrian,Spielberg
-63,G RUSSELL,RUS,russell,Williams,0082fa,williams,George,Russell,George Russell,https://www.formula1.com/content/dam/fom-website/drivers/G/GEORUS01_George_Russell/georus01.png.transform/1col/image.png,,15.0,R,17.0,,,,,Fuel pressure,0.0,1,2020,Austrian,Spielberg
-8,R GROSJEAN,GRO,grosjean,Haas F1 Team,787878,haas,Romain,Grosjean,Romain Grosjean,https://www.formula1.com/content/dam/fom-website/drivers/R/ROMGRO01_Romain_Grosjean/romgro01.png.transform/1col/image.png,,16.0,R,15.0,,,,,Brakes,0.0,1,2020,Austrian,Spielberg
-20,K MAGNUSSEN,MAG,kevin_magnussen,Haas F1 Team,787878,haas,Kevin,Magnussen,Kevin Magnussen,https://www.formula1.com/content/dam/fom-website/drivers/K/KEVMAG01_Kevin_Magnussen/kevmag01.png.transform/1col/image.png,,17.0,R,16.0,,,,,Brakes,0.0,1,2020,Austrian,Spielberg
-18,L STROLL,STR,stroll,Racing Point,F596C8,racing_point,Lance,Stroll,Lance Stroll,https://www.formula1.com/content/dam/fom-website/drivers/L/LANSTR01_Lance_Stroll/lanstr01.png.transform/1col/image.png,,18.0,R,9.0,,,,,Engine,0.0,1,2020,Austrian,Spielberg
-3,D RICCIARDO,RIC,ricciardo,Renault,FFF500,renault,Daniel,Ricciardo,Daniel Ricciardo,https://www.formula1.com/content/dam/fom-website/drivers/D/DANRIC01_Daniel_Ricciardo/danric01.png.transform/1col/image.png,,19.0,R,10.0,,,,,Overheating,0.0,1,2020,Austrian,Spielberg
-33,M VERSTAPPEN,VER,max_verstappen,Red Bull Racing,1E41FF,red_bull,Max,Verstappen,Max Verstappen,https://www.formula1.com/content/dam/fom-website/drivers/M/MAXVER01_Max_Verstappen/maxver01.png.transform/1col/image.png,,20.0,R,2.0,,,,,Electronics,0.0,1,2020,Austrian,Spielberg
-44,L HAMILTON,HAM,hamilton,Mercedes,00D2BE,mercedes,Lewis,Hamilton,Lewis Hamilton,https://www.formula1.com/content/dam/fom-website/drivers/L/LEWHAM01_Lewis_Hamilton/lewham01.png.transform/1col/image.png,,1.0,1,1.0,,,,0 days 01:22:50.683000,Finished,25.0,2,2020,Styrian,Spielberg
-77,V BOTTAS,BOT,bottas,Mercedes,00D2BE,mercedes,Valtteri,Bottas,Valtteri Bottas,https://www.formula1.com/content/dam/fom-website/drivers/V/VALBOT01_Valtteri_Bottas/valbot01.png.transform/1col/image.png,,2.0,2,4.0,,,,0 days 00:00:13.719000,Finished,18.0,2,2020,Styrian,Spielberg
-33,M VERSTAPPEN,VER,max_verstappen,Red Bull Racing,1E41FF,red_bull,Max,Verstappen,Max Verstappen,https://www.formula1.com/content/dam/fom-website/drivers/M/MAXVER01_Max_Verstappen/maxver01.png.transform/1col/image.png,,3.0,3,2.0,,,,0 days 00:00:33.698000,Finished,15.0,2,2020,Styrian,Spielberg
-23,A ALBON,ALB,albon,Red Bull Racing,1E41FF,red_bull,Alexander,Albon,Alexander Albon,https://www.formula1.com/content/dam/fom-website/drivers/A/ALEALB01_Alexander_Albon/alealb01.png.transform/1col/image.png,,4.0,4,6.0,,,,0 days 00:00:44.400000,Finished,12.0,2,2020,Styrian,Spielberg
-4,L NORRIS,NOR,norris,McLaren,FF8700,mclaren,Lando,Norris,Lando Norris,https://www.formula1.com/content/dam/fom-website/drivers/L/LANNOR01_Lando_Norris/lannor01.png.transform/1col/image.png,,5.0,5,9.0,,,,0 days 00:01:01.470000,Finished,10.0,2,2020,Styrian,Spielberg
-11,S PEREZ,PER,perez,Racing Point,F596C8,racing_point,Sergio,Perez,Sergio Perez,https://www.formula1.com/content/dam/fom-website/drivers/S/SERPER01_Sergio_Perez/serper01.png.transform/1col/image.png,,6.0,6,17.0,,,,0 days 00:01:02.387000,Finished,8.0,2,2020,Styrian,Spielberg
-18,L STROLL,STR,stroll,Racing Point,F596C8,racing_point,Lance,Stroll,Lance Stroll,https://www.formula1.com/content/dam/fom-website/drivers/L/LANSTR01_Lance_Stroll/lanstr01.png.transform/1col/image.png,,7.0,7,12.0,,,,0 days 00:01:02.453000,Finished,6.0,2,2020,Styrian,Spielberg
-3,D RICCIARDO,RIC,ricciardo,Renault,FFF500,renault,Daniel,Ricciardo,Daniel Ricciardo,https://www.formula1.com/content/dam/fom-website/drivers/D/DANRIC01_Daniel_Ricciardo/danric01.png.transform/1col/image.png,,8.0,8,8.0,,,,0 days 00:01:02.591000,Finished,4.0,2,2020,Styrian,Spielberg
-55,C SAINZ,SAI,sainz,McLaren,FF8700,mclaren,Carlos,Sainz,Carlos Sainz,https://www.formula1.com/content/dam/fom-website/drivers/C/CARSAI01_Carlos_Sainz/carsai01.png.transform/1col/image.png,,9.0,9,3.0,,,,,+1 Lap,3.0,2,2020,Styrian,Spielberg
-26,D KVYAT,KVY,kvyat,AlphaTauri,ffffff,alphatauri,Daniil,Kvyat,Daniil Kvyat,https://www.formula1.com/content/dam/fom-website/drivers/D/DANKVY01_Daniil_Kvyat/dankvy01.png.transform/1col/image.png,,10.0,10,13.0,,,,,+1 Lap,1.0,2,2020,Styrian,Spielberg
-7,K RAIKKONEN,RAI,raikkonen,Alfa Romeo Racing,9B0000,alfa,Kimi,Räikkönen,Kimi Räikkönen,https://www.formula1.com/content/dam/fom-website/drivers/K/KIMRAI01_Kimi_R%C3%A4ikk%C3%B6nen/kimrai01.png.transform/1col/image.png,,11.0,11,16.0,,,,,+1 Lap,0.0,2,2020,Styrian,Spielberg
-20,K MAGNUSSEN,MAG,kevin_magnussen,Haas F1 Team,787878,haas,Kevin,Magnussen,Kevin Magnussen,https://www.formula1.com/content/dam/fom-website/drivers/K/KEVMAG01_Kevin_Magnussen/kevmag01.png.transform/1col/image.png,,12.0,12,15.0,,,,,+1 Lap,0.0,2,2020,Styrian,Spielberg
-8,R GROSJEAN,GRO,grosjean,Haas F1 Team,787878,haas,Romain,Grosjean,Romain Grosjean,https://www.formula1.com/content/dam/fom-website/drivers/R/ROMGRO01_Romain_Grosjean/romgro01.png.transform/1col/image.png,,13.0,13,0.0,,,,,+1 Lap,0.0,2,2020,Styrian,Spielberg
-99,A GIOVINAZZI,GIO,giovinazzi,Alfa Romeo Racing,9B0000,alfa,Antonio,Giovinazzi,Antonio Giovinazzi,https://www.formula1.com/content/dam/fom-website/drivers/A/ANTGIO01_Antonio_Giovinazzi/antgio01.png.transform/1col/image.png,,14.0,14,19.0,,,,,+1 Lap,0.0,2,2020,Styrian,Spielberg
-10,P GASLY,GAS,gasly,AlphaTauri,ffffff,alphatauri,Pierre,Gasly,Pierre Gasly,https://www.formula1.com/content/dam/fom-website/drivers/P/PIEGAS01_Pierre_Gasly/piegas01.png.transform/1col/image.png,,15.0,15,7.0,,,,,+1 Lap,0.0,2,2020,Styrian,Spielberg
-63,G RUSSELL,RUS,russell,Williams,0082fa,williams,George,Russell,George Russell,https://www.formula1.com/content/dam/fom-website/drivers/G/GEORUS01_George_Russell/georus01.png.transform/1col/image.png,,16.0,16,11.0,,,,,+2 Laps,0.0,2,2020,Styrian,Spielberg
-6,N LATIFI,LAT,latifi,Williams,0082fa,williams,Nicholas,Latifi,Nicholas Latifi,https://www.formula1.com/content/dam/fom-website/drivers/N/NICLAF01_Nicholas_Latifi/niclaf01.png.transform/1col/image.png,,17.0,17,18.0,,,,,+2 Laps,0.0,2,2020,Styrian,Spielberg
-31,E OCON,OCO,ocon,Renault,FFF500,renault,Esteban,Ocon,Esteban Ocon,https://www.formula1.com/content/dam/fom-website/drivers/E/ESTOCO01_Esteban_Ocon/estoco01.png.transform/1col/image.png,,18.0,R,5.0,,,,,Overheating,0.0,2,2020,Styrian,Spielberg
-16,C LECLERC,LEC,leclerc,Ferrari,DC0000,ferrari,Charles,Leclerc,Charles Leclerc,https://www.formula1.com/content/dam/fom-website/drivers/C/CHALEC01_Charles_Leclerc/chalec01.png.transform/1col/image.png,,19.0,R,14.0,,,,,Collision damage,0.0,2,2020,Styrian,Spielberg
-5,S VETTEL,VET,vettel,Ferrari,DC0000,ferrari,Sebastian,Vettel,Sebastian Vettel,https://www.formula1.com/content/dam/fom-website/drivers/S/SEBVET01_Sebastian_Vettel/sebvet01.png.transform/1col/image.png,,20.0,R,10.0,,,,,Collision damage,0.0,2,2020,Styrian,Spielberg
-44,L HAMILTON,HAM,hamilton,Mercedes,00D2BE,mercedes,Lewis,Hamilton,Lewis Hamilton,https://www.formula1.com/content/dam/fom-website/drivers/L/LEWHAM01_Lewis_Hamilton/lewham01.png.transform/1col/image.png,,1.0,1,1.0,,,,0 days 01:36:12.473000,Finished,26.0,3,2020,Hungarian,Budapest
-33,M VERSTAPPEN,VER,max_verstappen,Red Bull Racing,1E41FF,red_bull,Max,Verstappen,Max Verstappen,https://www.formula1.com/content/dam/fom-website/drivers/M/MAXVER01_Max_Verstappen/maxver01.png.transform/1col/image.png,,2.0,2,7.0,,,,0 days 00:00:08.702000,Finished,18.0,3,2020,Hungarian,Budapest
-77,V BOTTAS,BOT,bottas,Mercedes,00D2BE,mercedes,Valtteri,Bottas,Valtteri Bottas,https://www.formula1.com/content/dam/fom-website/drivers/V/VALBOT01_Valtteri_Bottas/valbot01.png.transform/1col/image.png,,3.0,3,2.0,,,,0 days 00:00:09.452000,Finished,15.0,3,2020,Hungarian,Budapest
-18,L STROLL,STR,stroll,Racing Point,F596C8,racing_point,Lance,Stroll,Lance Stroll,https://www.formula1.com/content/dam/fom-website/drivers/L/LANSTR01_Lance_Stroll/lanstr01.png.transform/1col/image.png,,4.0,4,3.0,,,,0 days 00:00:57.579000,Finished,12.0,3,2020,Hungarian,Budapest
-23,A ALBON,ALB,albon,Red Bull Racing,1E41FF,red_bull,Alexander,Albon,Alexander Albon,https://www.formula1.com/content/dam/fom-website/drivers/A/ALEALB01_Alexander_Albon/alealb01.png.transform/1col/image.png,,5.0,5,13.0,,,,0 days 00:01:18.316000,Finished,10.0,3,2020,Hungarian,Budapest
-5,S VETTEL,VET,vettel,Ferrari,DC0000,ferrari,Sebastian,Vettel,Sebastian Vettel,https://www.formula1.com/content/dam/fom-website/drivers/S/SEBVET01_Sebastian_Vettel/sebvet01.png.transform/1col/image.png,,6.0,6,5.0,,,,,+1 Lap,8.0,3,2020,Hungarian,Budapest
-11,S PEREZ,PER,perez,Racing Point,F596C8,racing_point,Sergio,Perez,Sergio Perez,https://www.formula1.com/content/dam/fom-website/drivers/S/SERPER01_Sergio_Perez/serper01.png.transform/1col/image.png,,7.0,7,4.0,,,,,+1 Lap,6.0,3,2020,Hungarian,Budapest
-3,D RICCIARDO,RIC,ricciardo,Renault,FFF500,renault,Daniel,Ricciardo,Daniel Ricciardo,https://www.formula1.com/content/dam/fom-website/drivers/D/DANRIC01_Daniel_Ricciardo/danric01.png.transform/1col/image.png,,8.0,8,11.0,,,,,+1 Lap,4.0,3,2020,Hungarian,Budapest
-55,C SAINZ,SAI,sainz,McLaren,FF8700,mclaren,Carlos,Sainz,Carlos Sainz,https://www.formula1.com/content/dam/fom-website/drivers/C/CARSAI01_Carlos_Sainz/carsai01.png.transform/1col/image.png,,9.0,9,9.0,,,,,+1 Lap,2.0,3,2020,Hungarian,Budapest
-20,K MAGNUSSEN,MAG,kevin_magnussen,Haas F1 Team,787878,haas,Kevin,Magnussen,Kevin Magnussen,https://www.formula1.com/content/dam/fom-website/drivers/K/KEVMAG01_Kevin_Magnussen/kevmag01.png.transform/1col/image.png,,10.0,10,0.0,,,,,+1 Lap,1.0,3,2020,Hungarian,Budapest
-16,C LECLERC,LEC,leclerc,Ferrari,DC0000,ferrari,Charles,Leclerc,Charles Leclerc,https://www.formula1.com/content/dam/fom-website/drivers/C/CHALEC01_Charles_Leclerc/chalec01.png.transform/1col/image.png,,11.0,11,6.0,,,,,+1 Lap,0.0,3,2020,Hungarian,Budapest
-26,D KVYAT,KVY,kvyat,AlphaTauri,ffffff,alphatauri,Daniil,Kvyat,Daniil Kvyat,https://www.formula1.com/content/dam/fom-website/drivers/D/DANKVY01_Daniil_Kvyat/dankvy01.png.transform/1col/image.png,,12.0,12,17.0,,,,,+1 Lap,0.0,3,2020,Hungarian,Budapest
-4,L NORRIS,NOR,norris,McLaren,FF8700,mclaren,Lando,Norris,Lando Norris,https://www.formula1.com/content/dam/fom-website/drivers/L/LANNOR01_Lando_Norris/lannor01.png.transform/1col/image.png,,13.0,13,8.0,,,,,+1 Lap,0.0,3,2020,Hungarian,Budapest
-31,E OCON,OCO,ocon,Renault,FFF500,renault,Esteban,Ocon,Esteban Ocon,https://www.formula1.com/content/dam/fom-website/drivers/E/ESTOCO01_Esteban_Ocon/estoco01.png.transform/1col/image.png,,14.0,14,14.0,,,,,+1 Lap,0.0,3,2020,Hungarian,Budapest
-7,K RAIKKONEN,RAI,raikkonen,Alfa Romeo Racing,9B0000,alfa,Kimi,Räikkönen,Kimi Räikkönen,https://www.formula1.com/content/dam/fom-website/drivers/K/KIMRAI01_Kimi_R%C3%A4ikk%C3%B6nen/kimrai01.png.transform/1col/image.png,,15.0,15,20.0,,,,,+1 Lap,0.0,3,2020,Hungarian,Budapest
-8,R GROSJEAN,GRO,grosjean,Haas F1 Team,787878,haas,Romain,Grosjean,Romain Grosjean,https://www.formula1.com/content/dam/fom-website/drivers/R/ROMGRO01_Romain_Grosjean/romgro01.png.transform/1col/image.png,,16.0,16,0.0,,,,,+1 Lap,0.0,3,2020,Hungarian,Budapest
-99,A GIOVINAZZI,GIO,giovinazzi,Alfa Romeo Racing,9B0000,alfa,Antonio,Giovinazzi,Antonio Giovinazzi,https://www.formula1.com/content/dam/fom-website/drivers/A/ANTGIO01_Antonio_Giovinazzi/antgio01.png.transform/1col/image.png,,17.0,17,19.0,,,,,+1 Lap,0.0,3,2020,Hungarian,Budapest
-63,G RUSSELL,RUS,russell,Williams,0082fa,williams,George,Russell,George Russell,https://www.formula1.com/content/dam/fom-website/drivers/G/GEORUS01_George_Russell/georus01.png.transform/1col/image.png,,18.0,18,12.0,,,,,+1 Lap,0.0,3,2020,Hungarian,Budapest
-6,N LATIFI,LAT,latifi,Williams,0082fa,williams,Nicholas,Latifi,Nicholas Latifi,https://www.formula1.com/content/dam/fom-website/drivers/N/NICLAF01_Nicholas_Latifi/niclaf01.png.transform/1col/image.png,,19.0,19,15.0,,,,,+5 Laps,0.0,3,2020,Hungarian,Budapest
-10,P GASLY,GAS,gasly,AlphaTauri,ffffff,alphatauri,Pierre,Gasly,Pierre Gasly,https://www.formula1.com/content/dam/fom-website/drivers/P/PIEGAS01_Pierre_Gasly/piegas01.png.transform/1col/image.png,,20.0,R,10.0,,,,,Engine,0.0,3,2020,Hungarian,Budapest
-44,L HAMILTON,HAM,hamilton,Mercedes,00D2BE,mercedes,Lewis,Hamilton,Lewis Hamilton,https://www.formula1.com/content/dam/fom-website/drivers/L/LEWHAM01_Lewis_Hamilton/lewham01.png.transform/1col/image.png,,1.0,1,1.0,,,,0 days 01:28:01.283000,Finished,25.0,4,2020,British,Silverstone
-33,M VERSTAPPEN,VER,max_verstappen,Red Bull Racing,1E41FF,red_bull,Max,Verstappen,Max Verstappen,https://www.formula1.com/content/dam/fom-website/drivers/M/MAXVER01_Max_Verstappen/maxver01.png.transform/1col/image.png,,2.0,2,3.0,,,,0 days 00:00:05.856000,Finished,19.0,4,2020,British,Silverstone
-16,C LECLERC,LEC,leclerc,Ferrari,DC0000,ferrari,Charles,Leclerc,Charles Leclerc,https://www.formula1.com/content/dam/fom-website/drivers/C/CHALEC01_Charles_Leclerc/chalec01.png.transform/1col/image.png,,3.0,3,4.0,,,,0 days 00:00:18.474000,Finished,15.0,4,2020,British,Silverstone
-3,D RICCIARDO,RIC,ricciardo,Renault,FFF500,renault,Daniel,Ricciardo,Daniel Ricciardo,https://www.formula1.com/content/dam/fom-website/drivers/D/DANRIC01_Daniel_Ricciardo/danric01.png.transform/1col/image.png,,4.0,4,8.0,,,,0 days 00:00:19.650000,Finished,12.0,4,2020,British,Silverstone
-4,L NORRIS,NOR,norris,McLaren,FF8700,mclaren,Lando,Norris,Lando Norris,https://www.formula1.com/content/dam/fom-website/drivers/L/LANNOR01_Lando_Norris/lannor01.png.transform/1col/image.png,,5.0,5,5.0,,,,0 days 00:00:22.277000,Finished,10.0,4,2020,British,Silverstone
-31,E OCON,OCO,ocon,Renault,FFF500,renault,Esteban,Ocon,Esteban Ocon,https://www.formula1.com/content/dam/fom-website/drivers/E/ESTOCO01_Esteban_Ocon/estoco01.png.transform/1col/image.png,,6.0,6,9.0,,,,0 days 00:00:26.937000,Finished,8.0,4,2020,British,Silverstone
-10,P GASLY,GAS,gasly,AlphaTauri,ffffff,alphatauri,Pierre,Gasly,Pierre Gasly,https://www.formula1.com/content/dam/fom-website/drivers/P/PIEGAS01_Pierre_Gasly/piegas01.png.transform/1col/image.png,,7.0,7,11.0,,,,0 days 00:00:31.188000,Finished,6.0,4,2020,British,Silverstone
-23,A ALBON,ALB,albon,Red Bull Racing,1E41FF,red_bull,Alexander,Albon,Alexander Albon,https://www.formula1.com/content/dam/fom-website/drivers/A/ALEALB01_Alexander_Albon/alealb01.png.transform/1col/image.png,,8.0,8,12.0,,,,0 days 00:00:32.670000,Finished,4.0,4,2020,British,Silverstone
-18,L STROLL,STR,stroll,Racing Point,F596C8,racing_point,Lance,Stroll,Lance Stroll,https://www.formula1.com/content/dam/fom-website/drivers/L/LANSTR01_Lance_Stroll/lanstr01.png.transform/1col/image.png,,9.0,9,6.0,,,,0 days 00:00:37.311000,Finished,2.0,4,2020,British,Silverstone
-5,S VETTEL,VET,vettel,Ferrari,DC0000,ferrari,Sebastian,Vettel,Sebastian Vettel,https://www.formula1.com/content/dam/fom-website/drivers/S/SEBVET01_Sebastian_Vettel/sebvet01.png.transform/1col/image.png,,10.0,10,10.0,,,,0 days 00:00:41.857000,Finished,1.0,4,2020,British,Silverstone
-77,V BOTTAS,BOT,bottas,Mercedes,00D2BE,mercedes,Valtteri,Bottas,Valtteri Bottas,https://www.formula1.com/content/dam/fom-website/drivers/V/VALBOT01_Valtteri_Bottas/valbot01.png.transform/1col/image.png,,11.0,11,2.0,,,,0 days 00:00:42.167000,Finished,0.0,4,2020,British,Silverstone
-63,G RUSSELL,RUS,russell,Williams,0082fa,williams,George,Russell,George Russell,https://www.formula1.com/content/dam/fom-website/drivers/G/GEORUS01_George_Russell/georus01.png.transform/1col/image.png,,12.0,12,20.0,,,,0 days 00:00:52.004000,Finished,0.0,4,2020,British,Silverstone
-55,C SAINZ,SAI,sainz,McLaren,FF8700,mclaren,Carlos,Sainz,Carlos Sainz,https://www.formula1.com/content/dam/fom-website/drivers/C/CARSAI01_Carlos_Sainz/carsai01.png.transform/1col/image.png,,13.0,13,7.0,,,,0 days 00:00:53.370000,Finished,0.0,4,2020,British,Silverstone
-99,A GIOVINAZZI,GIO,giovinazzi,Alfa Romeo Racing,9B0000,alfa,Antonio,Giovinazzi,Antonio Giovinazzi,https://www.formula1.com/content/dam/fom-website/drivers/A/ANTGIO01_Antonio_Giovinazzi/antgio01.png.transform/1col/image.png,,14.0,14,15.0,,,,0 days 00:00:54.205000,Finished,0.0,4,2020,British,Silverstone
-6,N LATIFI,LAT,latifi,Williams,0082fa,williams,Nicholas,Latifi,Nicholas Latifi,https://www.formula1.com/content/dam/fom-website/drivers/N/NICLAF01_Nicholas_Latifi/niclaf01.png.transform/1col/image.png,,15.0,15,18.0,,,,0 days 00:00:54.549000,Finished,0.0,4,2020,British,Silverstone
-8,R GROSJEAN,GRO,grosjean,Haas F1 Team,787878,haas,Romain,Grosjean,Romain Grosjean,https://www.formula1.com/content/dam/fom-website/drivers/R/ROMGRO01_Romain_Grosjean/romgro01.png.transform/1col/image.png,,16.0,16,17.0,,,,0 days 00:00:55.050000,Finished,0.0,4,2020,British,Silverstone
-7,K RAIKKONEN,RAI,raikkonen,Alfa Romeo Racing,9B0000,alfa,Kimi,Räikkönen,Kimi Räikkönen,https://www.formula1.com/content/dam/fom-website/drivers/K/KIMRAI01_Kimi_R%C3%A4ikk%C3%B6nen/kimrai01.png.transform/1col/image.png,,17.0,17,16.0,,,,,+1 Lap,0.0,4,2020,British,Silverstone
-26,D KVYAT,KVY,kvyat,AlphaTauri,ffffff,alphatauri,Daniil,Kvyat,Daniil Kvyat,https://www.formula1.com/content/dam/fom-website/drivers/D/DANKVY01_Daniil_Kvyat/dankvy01.png.transform/1col/image.png,,18.0,R,19.0,,,,,Accident,0.0,4,2020,British,Silverstone
-20,K MAGNUSSEN,MAG,kevin_magnussen,Haas F1 Team,787878,haas,Kevin,Magnussen,Kevin Magnussen,https://www.formula1.com/content/dam/fom-website/drivers/K/KEVMAG01_Kevin_Magnussen/kevmag01.png.transform/1col/image.png,,19.0,R,14.0,,,,,Collision,0.0,4,2020,British,Silverstone
-27,N HULKENBERG,HUL,hulkenberg,Racing Point,F596C8,racing_point,Nico,Hulkenberg,Nico Hulkenberg,None,,20.0,W,13.0,,,,,Power Unit,0.0,4,2020,British,Silverstone
-33,M VERSTAPPEN,VER,max_verstappen,Red Bull Racing,1E41FF,red_bull,Max,Verstappen,Max Verstappen,https://www.formula1.com/content/dam/fom-website/drivers/M/MAXVER01_Max_Verstappen/maxver01.png.transform/1col/image.png,,1.0,1,4.0,,,,0 days 01:19:41.993000,Finished,25.0,5,2020,70th Anniversary,Silverstone
-44,L HAMILTON,HAM,hamilton,Mercedes,00D2BE,mercedes,Lewis,Hamilton,Lewis Hamilton,https://www.formula1.com/content/dam/fom-website/drivers/L/LEWHAM01_Lewis_Hamilton/lewham01.png.transform/1col/image.png,,2.0,2,2.0,,,,0 days 00:00:11.326000,Finished,19.0,5,2020,70th Anniversary,Silverstone
-77,V BOTTAS,BOT,bottas,Mercedes,00D2BE,mercedes,Valtteri,Bottas,Valtteri Bottas,https://www.formula1.com/content/dam/fom-website/drivers/V/VALBOT01_Valtteri_Bottas/valbot01.png.transform/1col/image.png,,3.0,3,1.0,,,,0 days 00:00:19.231000,Finished,15.0,5,2020,70th Anniversary,Silverstone
-16,C LECLERC,LEC,leclerc,Ferrari,DC0000,ferrari,Charles,Leclerc,Charles Leclerc,https://www.formula1.com/content/dam/fom-website/drivers/C/CHALEC01_Charles_Leclerc/chalec01.png.transform/1col/image.png,,4.0,4,8.0,,,,0 days 00:00:29.289000,Finished,12.0,5,2020,70th Anniversary,Silverstone
-23,A ALBON,ALB,albon,Red Bull Racing,1E41FF,red_bull,Alexander,Albon,Alexander Albon,https://www.formula1.com/content/dam/fom-website/drivers/A/ALEALB01_Alexander_Albon/alealb01.png.transform/1col/image.png,,5.0,5,9.0,,,,0 days 00:00:39.146000,Finished,10.0,5,2020,70th Anniversary,Silverstone
-18,L STROLL,STR,stroll,Racing Point,F596C8,racing_point,Lance,Stroll,Lance Stroll,https://www.formula1.com/content/dam/fom-website/drivers/L/LANSTR01_Lance_Stroll/lanstr01.png.transform/1col/image.png,,6.0,6,6.0,,,,0 days 00:00:42.538000,Finished,8.0,5,2020,70th Anniversary,Silverstone
-27,N HULKENBERG,HUL,hulkenberg,Racing Point,F596C8,racing_point,Nico,Hulkenberg,Nico Hulkenberg,None,,7.0,7,3.0,,,,0 days 00:00:55.951000,Finished,6.0,5,2020,70th Anniversary,Silverstone
-31,E OCON,OCO,ocon,Renault,FFF500,renault,Esteban,Ocon,Esteban Ocon,https://www.formula1.com/content/dam/fom-website/drivers/E/ESTOCO01_Esteban_Ocon/estoco01.png.transform/1col/image.png,,8.0,8,14.0,,,,0 days 00:01:04.773000,Finished,4.0,5,2020,70th Anniversary,Silverstone
-4,L NORRIS,NOR,norris,McLaren,FF8700,mclaren,Lando,Norris,Lando Norris,https://www.formula1.com/content/dam/fom-website/drivers/L/LANNOR01_Lando_Norris/lannor01.png.transform/1col/image.png,,9.0,9,10.0,,,,0 days 00:01:05.544000,Finished,2.0,5,2020,70th Anniversary,Silverstone
-26,D KVYAT,KVY,kvyat,AlphaTauri,ffffff,alphatauri,Daniil,Kvyat,Daniil Kvyat,https://www.formula1.com/content/dam/fom-website/drivers/D/DANKVY01_Daniil_Kvyat/dankvy01.png.transform/1col/image.png,,10.0,10,16.0,,,,0 days 00:01:09.669000,Finished,1.0,5,2020,70th Anniversary,Silverstone
-10,P GASLY,GAS,gasly,AlphaTauri,ffffff,alphatauri,Pierre,Gasly,Pierre Gasly,https://www.formula1.com/content/dam/fom-website/drivers/P/PIEGAS01_Pierre_Gasly/piegas01.png.transform/1col/image.png,,11.0,11,7.0,,,,0 days 00:01:10.642000,Finished,0.0,5,2020,70th Anniversary,Silverstone
-5,S VETTEL,VET,vettel,Ferrari,DC0000,ferrari,Sebastian,Vettel,Sebastian Vettel,https://www.formula1.com/content/dam/fom-website/drivers/S/SEBVET01_Sebastian_Vettel/sebvet01.png.transform/1col/image.png,,12.0,12,11.0,,,,0 days 00:01:13.370000,Finished,0.0,5,2020,70th Anniversary,Silverstone
-55,C SAINZ,SAI,sainz,McLaren,FF8700,mclaren,Carlos,Sainz,Carlos Sainz,https://www.formula1.com/content/dam/fom-website/drivers/C/CARSAI01_Carlos_Sainz/carsai01.png.transform/1col/image.png,,13.0,13,12.0,,,,0 days 00:01:14.070000,Finished,0.0,5,2020,70th Anniversary,Silverstone
-3,D RICCIARDO,RIC,ricciardo,Renault,FFF500,renault,Daniel,Ricciardo,Daniel Ricciardo,https://www.formula1.com/content/dam/fom-website/drivers/D/DANRIC01_Daniel_Ricciardo/danric01.png.transform/1col/image.png,,14.0,14,5.0,,,,,+1 Lap,0.0,5,2020,70th Anniversary,Silverstone
-7,K RAIKKONEN,RAI,raikkonen,Alfa Romeo Racing,9B0000,alfa,Kimi,Räikkönen,Kimi Räikkönen,https://www.formula1.com/content/dam/fom-website/drivers/K/KIMRAI01_Kimi_R%C3%A4ikk%C3%B6nen/kimrai01.png.transform/1col/image.png,,15.0,15,20.0,,,,,+1 Lap,0.0,5,2020,70th Anniversary,Silverstone
-8,R GROSJEAN,GRO,grosjean,Haas F1 Team,787878,haas,Romain,Grosjean,Romain Grosjean,https://www.formula1.com/content/dam/fom-website/drivers/R/ROMGRO01_Romain_Grosjean/romgro01.png.transform/1col/image.png,,16.0,16,13.0,,,,,+1 Lap,0.0,5,2020,70th Anniversary,Silverstone
-99,A GIOVINAZZI,GIO,giovinazzi,Alfa Romeo Racing,9B0000,alfa,Antonio,Giovinazzi,Antonio Giovinazzi,https://www.formula1.com/content/dam/fom-website/drivers/A/ANTGIO01_Antonio_Giovinazzi/antgio01.png.transform/1col/image.png,,17.0,17,19.0,,,,,+1 Lap,0.0,5,2020,70th Anniversary,Silverstone
-63,G RUSSELL,RUS,russell,Williams,0082fa,williams,George,Russell,George Russell,https://www.formula1.com/content/dam/fom-website/drivers/G/GEORUS01_George_Russell/georus01.png.transform/1col/image.png,,18.0,18,15.0,,,,,+1 Lap,0.0,5,2020,70th Anniversary,Silverstone
-6,N LATIFI,LAT,latifi,Williams,0082fa,williams,Nicholas,Latifi,Nicholas Latifi,https://www.formula1.com/content/dam/fom-website/drivers/N/NICLAF01_Nicholas_Latifi/niclaf01.png.transform/1col/image.png,,19.0,19,18.0,,,,,+1 Lap,0.0,5,2020,70th Anniversary,Silverstone
-20,K MAGNUSSEN,MAG,kevin_magnussen,Haas F1 Team,787878,haas,Kevin,Magnussen,Kevin Magnussen,https://www.formula1.com/content/dam/fom-website/drivers/K/KEVMAG01_Kevin_Magnussen/kevmag01.png.transform/1col/image.png,,20.0,R,17.0,,,,,Retired,0.0,5,2020,70th Anniversary,Silverstone
-44,L HAMILTON,HAM,hamilton,Mercedes,00D2BE,mercedes,Lewis,Hamilton,Lewis Hamilton,https://www.formula1.com/content/dam/fom-website/drivers/L/LEWHAM01_Lewis_Hamilton/lewham01.png.transform/1col/image.png,,1.0,1,1.0,,,,0 days 01:31:45.279000,Finished,25.0,6,2020,Spanish,Barcelona
-33,M VERSTAPPEN,VER,max_verstappen,Red Bull Racing,1E41FF,red_bull,Max,Verstappen,Max Verstappen,https://www.formula1.com/content/dam/fom-website/drivers/M/MAXVER01_Max_Verstappen/maxver01.png.transform/1col/image.png,,2.0,2,3.0,,,,0 days 00:00:24.177000,Finished,18.0,6,2020,Spanish,Barcelona
-77,V BOTTAS,BOT,bottas,Mercedes,00D2BE,mercedes,Valtteri,Bottas,Valtteri Bottas,https://www.formula1.com/content/dam/fom-website/drivers/V/VALBOT01_Valtteri_Bottas/valbot01.png.transform/1col/image.png,,3.0,3,2.0,,,,0 days 00:00:44.752000,Finished,16.0,6,2020,Spanish,Barcelona
-18,L STROLL,STR,stroll,Racing Point,F596C8,racing_point,Lance,Stroll,Lance Stroll,https://www.formula1.com/content/dam/fom-website/drivers/L/LANSTR01_Lance_Stroll/lanstr01.png.transform/1col/image.png,,4.0,4,5.0,,,,,+1 Lap,12.0,6,2020,Spanish,Barcelona
-11,S PEREZ,PER,perez,Racing Point,F596C8,racing_point,Sergio,Perez,Sergio Perez,https://www.formula1.com/content/dam/fom-website/drivers/S/SERPER01_Sergio_Perez/serper01.png.transform/1col/image.png,,5.0,5,4.0,,,,,+1 Lap,10.0,6,2020,Spanish,Barcelona
-55,C SAINZ,SAI,sainz,McLaren,FF8700,mclaren,Carlos,Sainz,Carlos Sainz,https://www.formula1.com/content/dam/fom-website/drivers/C/CARSAI01_Carlos_Sainz/carsai01.png.transform/1col/image.png,,6.0,6,7.0,,,,,+1 Lap,8.0,6,2020,Spanish,Barcelona
-5,S VETTEL,VET,vettel,Ferrari,DC0000,ferrari,Sebastian,Vettel,Sebastian Vettel,https://www.formula1.com/content/dam/fom-website/drivers/S/SEBVET01_Sebastian_Vettel/sebvet01.png.transform/1col/image.png,,7.0,7,11.0,,,,,+1 Lap,6.0,6,2020,Spanish,Barcelona
-23,A ALBON,ALB,albon,Red Bull Racing,1E41FF,red_bull,Alexander,Albon,Alexander Albon,https://www.formula1.com/content/dam/fom-website/drivers/A/ALEALB01_Alexander_Albon/alealb01.png.transform/1col/image.png,,8.0,8,6.0,,,,,+1 Lap,4.0,6,2020,Spanish,Barcelona
-10,P GASLY,GAS,gasly,AlphaTauri,ffffff,alphatauri,Pierre,Gasly,Pierre Gasly,https://www.formula1.com/content/dam/fom-website/drivers/P/PIEGAS01_Pierre_Gasly/piegas01.png.transform/1col/image.png,,9.0,9,10.0,,,,,+1 Lap,2.0,6,2020,Spanish,Barcelona
-4,L NORRIS,NOR,norris,McLaren,FF8700,mclaren,Lando,Norris,Lando Norris,https://www.formula1.com/content/dam/fom-website/drivers/L/LANNOR01_Lando_Norris/lannor01.png.transform/1col/image.png,,10.0,10,8.0,,,,,+1 Lap,1.0,6,2020,Spanish,Barcelona
-3,D RICCIARDO,RIC,ricciardo,Renault,FFF500,renault,Daniel,Ricciardo,Daniel Ricciardo,https://www.formula1.com/content/dam/fom-website/drivers/D/DANRIC01_Daniel_Ricciardo/danric01.png.transform/1col/image.png,,11.0,11,13.0,,,,,+1 Lap,0.0,6,2020,Spanish,Barcelona
-26,D KVYAT,KVY,kvyat,AlphaTauri,ffffff,alphatauri,Daniil,Kvyat,Daniil Kvyat,https://www.formula1.com/content/dam/fom-website/drivers/D/DANKVY01_Daniil_Kvyat/dankvy01.png.transform/1col/image.png,,12.0,12,12.0,,,,,+1 Lap,0.0,6,2020,Spanish,Barcelona
-31,E OCON,OCO,ocon,Renault,FFF500,renault,Esteban,Ocon,Esteban Ocon,https://www.formula1.com/content/dam/fom-website/drivers/E/ESTOCO01_Esteban_Ocon/estoco01.png.transform/1col/image.png,,13.0,13,15.0,,,,,+1 Lap,0.0,6,2020,Spanish,Barcelona
-7,K RAIKKONEN,RAI,raikkonen,Alfa Romeo Racing,9B0000,alfa,Kimi,Räikkönen,Kimi Räikkönen,https://www.formula1.com/content/dam/fom-website/drivers/K/KIMRAI01_Kimi_R%C3%A4ikk%C3%B6nen/kimrai01.png.transform/1col/image.png,,14.0,14,14.0,,,,,+1 Lap,0.0,6,2020,Spanish,Barcelona
-20,K MAGNUSSEN,MAG,kevin_magnussen,Haas F1 Team,787878,haas,Kevin,Magnussen,Kevin Magnussen,https://www.formula1.com/content/dam/fom-website/drivers/K/KEVMAG01_Kevin_Magnussen/kevmag01.png.transform/1col/image.png,,15.0,15,16.0,,,,,+1 Lap,0.0,6,2020,Spanish,Barcelona
-99,A GIOVINAZZI,GIO,giovinazzi,Alfa Romeo Racing,9B0000,alfa,Antonio,Giovinazzi,Antonio Giovinazzi,https://www.formula1.com/content/dam/fom-website/drivers/A/ANTGIO01_Antonio_Giovinazzi/antgio01.png.transform/1col/image.png,,16.0,16,20.0,,,,,+1 Lap,0.0,6,2020,Spanish,Barcelona
-63,G RUSSELL,RUS,russell,Williams,0082fa,williams,George,Russell,George Russell,https://www.formula1.com/content/dam/fom-website/drivers/G/GEORUS01_George_Russell/georus01.png.transform/1col/image.png,,17.0,17,18.0,,,,,+1 Lap,0.0,6,2020,Spanish,Barcelona
-6,N LATIFI,LAT,latifi,Williams,0082fa,williams,Nicholas,Latifi,Nicholas Latifi,https://www.formula1.com/content/dam/fom-website/drivers/N/NICLAF01_Nicholas_Latifi/niclaf01.png.transform/1col/image.png,,18.0,18,19.0,,,,,+2 Laps,0.0,6,2020,Spanish,Barcelona
-8,R GROSJEAN,GRO,grosjean,Haas F1 Team,787878,haas,Romain,Grosjean,Romain Grosjean,https://www.formula1.com/content/dam/fom-website/drivers/R/ROMGRO01_Romain_Grosjean/romgro01.png.transform/1col/image.png,,19.0,19,17.0,,,,,+2 Laps,0.0,6,2020,Spanish,Barcelona
-16,C LECLERC,LEC,leclerc,Ferrari,DC0000,ferrari,Charles,Leclerc,Charles Leclerc,https://www.formula1.com/content/dam/fom-website/drivers/C/CHALEC01_Charles_Leclerc/chalec01.png.transform/1col/image.png,,20.0,R,9.0,,,,,Electronics,0.0,6,2020,Spanish,Barcelona
-44,L HAMILTON,HAM,hamilton,Mercedes,00D2BE,mercedes,Lewis,Hamilton,Lewis Hamilton,https://www.formula1.com/content/dam/fom-website/drivers/L/LEWHAM01_Lewis_Hamilton/lewham01.png.transform/1col/image.png,,1.0,1,1.0,,,,0 days 01:24:08.761000,Finished,25.0,7,2020,Belgian,Spa-Francorchamps
-77,V BOTTAS,BOT,bottas,Mercedes,00D2BE,mercedes,Valtteri,Bottas,Valtteri Bottas,https://www.formula1.com/content/dam/fom-website/drivers/V/VALBOT01_Valtteri_Bottas/valbot01.png.transform/1col/image.png,,2.0,2,2.0,,,,0 days 00:00:08.448000,Finished,18.0,7,2020,Belgian,Spa-Francorchamps
-33,M VERSTAPPEN,VER,max_verstappen,Red Bull Racing,1E41FF,red_bull,Max,Verstappen,Max Verstappen,https://www.formula1.com/content/dam/fom-website/drivers/M/MAXVER01_Max_Verstappen/maxver01.png.transform/1col/image.png,,3.0,3,3.0,,,,0 days 00:00:15.455000,Finished,15.0,7,2020,Belgian,Spa-Francorchamps
-3,D RICCIARDO,RIC,ricciardo,Renault,FFF500,renault,Daniel,Ricciardo,Daniel Ricciardo,https://www.formula1.com/content/dam/fom-website/drivers/D/DANRIC01_Daniel_Ricciardo/danric01.png.transform/1col/image.png,,4.0,4,4.0,,,,0 days 00:00:18.877000,Finished,13.0,7,2020,Belgian,Spa-Francorchamps
-31,E OCON,OCO,ocon,Renault,FFF500,renault,Esteban,Ocon,Esteban Ocon,https://www.formula1.com/content/dam/fom-website/drivers/E/ESTOCO01_Esteban_Ocon/estoco01.png.transform/1col/image.png,,5.0,5,6.0,,,,0 days 00:00:40.650000,Finished,10.0,7,2020,Belgian,Spa-Francorchamps
-23,A ALBON,ALB,albon,Red Bull Racing,1E41FF,red_bull,Alexander,Albon,Alexander Albon,https://www.formula1.com/content/dam/fom-website/drivers/A/ALEALB01_Alexander_Albon/alealb01.png.transform/1col/image.png,,6.0,6,5.0,,,,0 days 00:00:42.712000,Finished,8.0,7,2020,Belgian,Spa-Francorchamps
-4,L NORRIS,NOR,norris,McLaren,FF8700,mclaren,Lando,Norris,Lando Norris,https://www.formula1.com/content/dam/fom-website/drivers/L/LANNOR01_Lando_Norris/lannor01.png.transform/1col/image.png,,7.0,7,10.0,,,,0 days 00:00:43.774000,Finished,6.0,7,2020,Belgian,Spa-Francorchamps
-10,P GASLY,GAS,gasly,AlphaTauri,ffffff,alphatauri,Pierre,Gasly,Pierre Gasly,https://www.formula1.com/content/dam/fom-website/drivers/P/PIEGAS01_Pierre_Gasly/piegas01.png.transform/1col/image.png,,8.0,8,12.0,,,,0 days 00:00:47.371000,Finished,4.0,7,2020,Belgian,Spa-Francorchamps
-18,L STROLL,STR,stroll,Racing Point,F596C8,racing_point,Lance,Stroll,Lance Stroll,https://www.formula1.com/content/dam/fom-website/drivers/L/LANSTR01_Lance_Stroll/lanstr01.png.transform/1col/image.png,,9.0,9,9.0,,,,0 days 00:00:52.603000,Finished,2.0,7,2020,Belgian,Spa-Francorchamps
-11,S PEREZ,PER,perez,Racing Point,F596C8,racing_point,Sergio,Perez,Sergio Perez,https://www.formula1.com/content/dam/fom-website/drivers/S/SERPER01_Sergio_Perez/serper01.png.transform/1col/image.png,,10.0,10,8.0,,,,0 days 00:00:53.179000,Finished,1.0,7,2020,Belgian,Spa-Francorchamps
-26,D KVYAT,KVY,kvyat,AlphaTauri,ffffff,alphatauri,Daniil,Kvyat,Daniil Kvyat,https://www.formula1.com/content/dam/fom-website/drivers/D/DANKVY01_Daniil_Kvyat/dankvy01.png.transform/1col/image.png,,11.0,11,11.0,,,,0 days 00:01:10.200000,Finished,0.0,7,2020,Belgian,Spa-Francorchamps
-7,K RAIKKONEN,RAI,raikkonen,Alfa Romeo Racing,9B0000,alfa,Kimi,Räikkönen,Kimi Räikkönen,https://www.formula1.com/content/dam/fom-website/drivers/K/KIMRAI01_Kimi_R%C3%A4ikk%C3%B6nen/kimrai01.png.transform/1col/image.png,,12.0,12,16.0,,,,0 days 00:01:11.504000,Finished,0.0,7,2020,Belgian,Spa-Francorchamps
-5,S VETTEL,VET,vettel,Ferrari,DC0000,ferrari,Sebastian,Vettel,Sebastian Vettel,https://www.formula1.com/content/dam/fom-website/drivers/S/SEBVET01_Sebastian_Vettel/sebvet01.png.transform/1col/image.png,,13.0,13,14.0,,,,0 days 00:01:12.894000,Finished,0.0,7,2020,Belgian,Spa-Francorchamps
-16,C LECLERC,LEC,leclerc,Ferrari,DC0000,ferrari,Charles,Leclerc,Charles Leclerc,https://www.formula1.com/content/dam/fom-website/drivers/C/CHALEC01_Charles_Leclerc/chalec01.png.transform/1col/image.png,,14.0,14,13.0,,,,0 days 00:01:14.920000,Finished,0.0,7,2020,Belgian,Spa-Francorchamps
-8,R GROSJEAN,GRO,grosjean,Haas F1 Team,787878,haas,Romain,Grosjean,Romain Grosjean,https://www.formula1.com/content/dam/fom-website/drivers/R/ROMGRO01_Romain_Grosjean/romgro01.png.transform/1col/image.png,,15.0,15,17.0,,,,0 days 00:01:16.793000,Finished,0.0,7,2020,Belgian,Spa-Francorchamps
-6,N LATIFI,LAT,latifi,Williams,0082fa,williams,Nicholas,Latifi,Nicholas Latifi,https://www.formula1.com/content/dam/fom-website/drivers/N/NICLAF01_Nicholas_Latifi/niclaf01.png.transform/1col/image.png,,16.0,16,19.0,,,,0 days 00:01:17.795000,Finished,0.0,7,2020,Belgian,Spa-Francorchamps
-20,K MAGNUSSEN,MAG,kevin_magnussen,Haas F1 Team,787878,haas,Kevin,Magnussen,Kevin Magnussen,https://www.formula1.com/content/dam/fom-website/drivers/K/KEVMAG01_Kevin_Magnussen/kevmag01.png.transform/1col/image.png,,17.0,17,20.0,,,,0 days 00:01:25.540000,Finished,0.0,7,2020,Belgian,Spa-Francorchamps
-99,A GIOVINAZZI,GIO,giovinazzi,Alfa Romeo Racing,9B0000,alfa,Antonio,Giovinazzi,Antonio Giovinazzi,https://www.formula1.com/content/dam/fom-website/drivers/A/ANTGIO01_Antonio_Giovinazzi/antgio01.png.transform/1col/image.png,,18.0,R,18.0,,,,,Accident,0.0,7,2020,Belgian,Spa-Francorchamps
-63,G RUSSELL,RUS,russell,Williams,0082fa,williams,George,Russell,George Russell,https://www.formula1.com/content/dam/fom-website/drivers/G/GEORUS01_George_Russell/georus01.png.transform/1col/image.png,,19.0,R,15.0,,,,,Debris,0.0,7,2020,Belgian,Spa-Francorchamps
-55,C SAINZ,SAI,sainz,McLaren,FF8700,mclaren,Carlos,Sainz,Carlos Sainz,https://www.formula1.com/content/dam/fom-website/drivers/C/CARSAI01_Carlos_Sainz/carsai01.png.transform/1col/image.png,,20.0,W,7.0,,,,,Exhaust,0.0,7,2020,Belgian,Spa-Francorchamps
-10,P GASLY,GAS,gasly,AlphaTauri,ffffff,alphatauri,Pierre,Gasly,Pierre Gasly,https://www.formula1.com/content/dam/fom-website/drivers/P/PIEGAS01_Pierre_Gasly/piegas01.png.transform/1col/image.png,,1.0,1,10.0,,,,0 days 01:47:06.056000,Finished,25.0,8,2020,Italian,Monza
-55,C SAINZ,SAI,sainz,McLaren,FF8700,mclaren,Carlos,Sainz,Carlos Sainz,https://www.formula1.com/content/dam/fom-website/drivers/C/CARSAI01_Carlos_Sainz/carsai01.png.transform/1col/image.png,,2.0,2,3.0,,,,0 days 00:00:00.415000,Finished,18.0,8,2020,Italian,Monza
-18,L STROLL,STR,stroll,Racing Point,F596C8,racing_point,Lance,Stroll,Lance Stroll,https://www.formula1.com/content/dam/fom-website/drivers/L/LANSTR01_Lance_Stroll/lanstr01.png.transform/1col/image.png,,3.0,3,8.0,,,,0 days 00:00:03.358000,Finished,15.0,8,2020,Italian,Monza
-4,L NORRIS,NOR,norris,McLaren,FF8700,mclaren,Lando,Norris,Lando Norris,https://www.formula1.com/content/dam/fom-website/drivers/L/LANNOR01_Lando_Norris/lannor01.png.transform/1col/image.png,,4.0,4,6.0,,,,0 days 00:00:06,Finished,12.0,8,2020,Italian,Monza
-77,V BOTTAS,BOT,bottas,Mercedes,00D2BE,mercedes,Valtteri,Bottas,Valtteri Bottas,https://www.formula1.com/content/dam/fom-website/drivers/V/VALBOT01_Valtteri_Bottas/valbot01.png.transform/1col/image.png,,5.0,5,2.0,,,,0 days 00:00:07.108000,Finished,10.0,8,2020,Italian,Monza
-3,D RICCIARDO,RIC,ricciardo,Renault,FFF500,renault,Daniel,Ricciardo,Daniel Ricciardo,https://www.formula1.com/content/dam/fom-website/drivers/D/DANRIC01_Daniel_Ricciardo/danric01.png.transform/1col/image.png,,6.0,6,7.0,,,,0 days 00:00:08.391000,Finished,8.0,8,2020,Italian,Monza
-44,L HAMILTON,HAM,hamilton,Mercedes,00D2BE,mercedes,Lewis,Hamilton,Lewis Hamilton,https://www.formula1.com/content/dam/fom-website/drivers/L/LEWHAM01_Lewis_Hamilton/lewham01.png.transform/1col/image.png,,7.0,7,1.0,,,,0 days 00:00:17.245000,Finished,7.0,8,2020,Italian,Monza
-31,E OCON,OCO,ocon,Renault,FFF500,renault,Esteban,Ocon,Esteban Ocon,https://www.formula1.com/content/dam/fom-website/drivers/E/ESTOCO01_Esteban_Ocon/estoco01.png.transform/1col/image.png,,8.0,8,12.0,,,,0 days 00:00:18.691000,Finished,4.0,8,2020,Italian,Monza
-26,D KVYAT,KVY,kvyat,AlphaTauri,ffffff,alphatauri,Daniil,Kvyat,Daniil Kvyat,https://www.formula1.com/content/dam/fom-website/drivers/D/DANKVY01_Daniil_Kvyat/dankvy01.png.transform/1col/image.png,,9.0,9,11.0,,,,0 days 00:00:22.208000,Finished,2.0,8,2020,Italian,Monza
-11,S PEREZ,PER,perez,Racing Point,F596C8,racing_point,Sergio,Perez,Sergio Perez,https://www.formula1.com/content/dam/fom-website/drivers/S/SERPER01_Sergio_Perez/serper01.png.transform/1col/image.png,,10.0,10,4.0,,,,0 days 00:00:23.224000,Finished,1.0,8,2020,Italian,Monza
-6,N LATIFI,LAT,latifi,Williams,0082fa,williams,Nicholas,Latifi,Nicholas Latifi,https://www.formula1.com/content/dam/fom-website/drivers/N/NICLAF01_Nicholas_Latifi/niclaf01.png.transform/1col/image.png,,11.0,11,20.0,,,,0 days 00:00:32.876000,Finished,0.0,8,2020,Italian,Monza
-8,R GROSJEAN,GRO,grosjean,Haas F1 Team,787878,haas,Romain,Grosjean,Romain Grosjean,https://www.formula1.com/content/dam/fom-website/drivers/R/ROMGRO01_Romain_Grosjean/romgro01.png.transform/1col/image.png,,12.0,12,16.0,,,,0 days 00:00:35.164000,Finished,0.0,8,2020,Italian,Monza
-7,K RAIKKONEN,RAI,raikkonen,Alfa Romeo Racing,9B0000,alfa,Kimi,Räikkönen,Kimi Räikkönen,https://www.formula1.com/content/dam/fom-website/drivers/K/KIMRAI01_Kimi_R%C3%A4ikk%C3%B6nen/kimrai01.png.transform/1col/image.png,,13.0,13,14.0,,,,0 days 00:00:36.312000,Finished,0.0,8,2020,Italian,Monza
-63,G RUSSELL,RUS,russell,Williams,0082fa,williams,George,Russell,George Russell,https://www.formula1.com/content/dam/fom-website/drivers/G/GEORUS01_George_Russell/georus01.png.transform/1col/image.png,,14.0,14,19.0,,,,0 days 00:00:36.593000,Finished,0.0,8,2020,Italian,Monza
-23,A ALBON,ALB,albon,Red Bull Racing,1E41FF,red_bull,Alexander,Albon,Alexander Albon,https://www.formula1.com/content/dam/fom-website/drivers/A/ALEALB01_Alexander_Albon/alealb01.png.transform/1col/image.png,,15.0,15,9.0,,,,0 days 00:00:37.533000,Finished,0.0,8,2020,Italian,Monza
-99,A GIOVINAZZI,GIO,giovinazzi,Alfa Romeo Racing,9B0000,alfa,Antonio,Giovinazzi,Antonio Giovinazzi,https://www.formula1.com/content/dam/fom-website/drivers/A/ANTGIO01_Antonio_Giovinazzi/antgio01.png.transform/1col/image.png,,16.0,16,18.0,,,,0 days 00:00:55.199000,Finished,0.0,8,2020,Italian,Monza
-33,M VERSTAPPEN,VER,max_verstappen,Red Bull Racing,1E41FF,red_bull,Max,Verstappen,Max Verstappen,https://www.formula1.com/content/dam/fom-website/drivers/M/MAXVER01_Max_Verstappen/maxver01.png.transform/1col/image.png,,17.0,R,5.0,,,,,Power Unit,0.0,8,2020,Italian,Monza
-16,C LECLERC,LEC,leclerc,Ferrari,DC0000,ferrari,Charles,Leclerc,Charles Leclerc,https://www.formula1.com/content/dam/fom-website/drivers/C/CHALEC01_Charles_Leclerc/chalec01.png.transform/1col/image.png,,18.0,R,13.0,,,,,Accident,0.0,8,2020,Italian,Monza
-20,K MAGNUSSEN,MAG,kevin_magnussen,Haas F1 Team,787878,haas,Kevin,Magnussen,Kevin Magnussen,https://www.formula1.com/content/dam/fom-website/drivers/K/KEVMAG01_Kevin_Magnussen/kevmag01.png.transform/1col/image.png,,19.0,R,15.0,,,,,Power Unit,0.0,8,2020,Italian,Monza
-5,S VETTEL,VET,vettel,Ferrari,DC0000,ferrari,Sebastian,Vettel,Sebastian Vettel,https://www.formula1.com/content/dam/fom-website/drivers/S/SEBVET01_Sebastian_Vettel/sebvet01.png.transform/1col/image.png,,20.0,R,17.0,,,,,Brakes,0.0,8,2020,Italian,Monza
-44,L HAMILTON,HAM,hamilton,Mercedes,00D2BE,mercedes,Lewis,Hamilton,Lewis Hamilton,https://www.formula1.com/content/dam/fom-website/drivers/L/LEWHAM01_Lewis_Hamilton/lewham01.png.transform/1col/image.png,,1.0,1,1.0,,,,0 days 02:19:35.060000,Finished,26.0,9,2020,Tuscan,Mugello
-77,V BOTTAS,BOT,bottas,Mercedes,00D2BE,mercedes,Valtteri,Bottas,Valtteri Bottas,https://www.formula1.com/content/dam/fom-website/drivers/V/VALBOT01_Valtteri_Bottas/valbot01.png.transform/1col/image.png,,2.0,2,2.0,,,,0 days 00:00:04.880000,Finished,18.0,9,2020,Tuscan,Mugello
-23,A ALBON,ALB,albon,Red Bull Racing,1E41FF,red_bull,Alexander,Albon,Alexander Albon,https://www.formula1.com/content/dam/fom-website/drivers/A/ALEALB01_Alexander_Albon/alealb01.png.transform/1col/image.png,,3.0,3,4.0,,,,0 days 00:00:08.064000,Finished,15.0,9,2020,Tuscan,Mugello
-3,D RICCIARDO,RIC,ricciardo,Renault,FFF500,renault,Daniel,Ricciardo,Daniel Ricciardo,https://www.formula1.com/content/dam/fom-website/drivers/D/DANRIC01_Daniel_Ricciardo/danric01.png.transform/1col/image.png,,4.0,4,8.0,,,,0 days 00:00:10.417000,Finished,12.0,9,2020,Tuscan,Mugello
-11,S PEREZ,PER,perez,Racing Point,F596C8,racing_point,Sergio,Perez,Sergio Perez,https://www.formula1.com/content/dam/fom-website/drivers/S/SERPER01_Sergio_Perez/serper01.png.transform/1col/image.png,,5.0,5,7.0,,,,0 days 00:00:15.650000,Finished,10.0,9,2020,Tuscan,Mugello
-4,L NORRIS,NOR,norris,McLaren,FF8700,mclaren,Lando,Norris,Lando Norris,https://www.formula1.com/content/dam/fom-website/drivers/L/LANNOR01_Lando_Norris/lannor01.png.transform/1col/image.png,,6.0,6,11.0,,,,0 days 00:00:18.883000,Finished,8.0,9,2020,Tuscan,Mugello
-26,D KVYAT,KVY,kvyat,AlphaTauri,ffffff,alphatauri,Daniil,Kvyat,Daniil Kvyat,https://www.formula1.com/content/dam/fom-website/drivers/D/DANKVY01_Daniil_Kvyat/dankvy01.png.transform/1col/image.png,,7.0,7,12.0,,,,0 days 00:00:21.756000,Finished,6.0,9,2020,Tuscan,Mugello
-16,C LECLERC,LEC,leclerc,Ferrari,DC0000,ferrari,Charles,Leclerc,Charles Leclerc,https://www.formula1.com/content/dam/fom-website/drivers/C/CHALEC01_Charles_Leclerc/chalec01.png.transform/1col/image.png,,8.0,8,5.0,,,,0 days 00:00:28.345000,Finished,4.0,9,2020,Tuscan,Mugello
-7,K RAIKKONEN,RAI,raikkonen,Alfa Romeo Racing,9B0000,alfa,Kimi,Räikkönen,Kimi Räikkönen,https://www.formula1.com/content/dam/fom-website/drivers/K/KIMRAI01_Kimi_R%C3%A4ikk%C3%B6nen/kimrai01.png.transform/1col/image.png,,9.0,9,13.0,,,,0 days 00:00:29.770000,Finished,2.0,9,2020,Tuscan,Mugello
-5,S VETTEL,VET,vettel,Ferrari,DC0000,ferrari,Sebastian,Vettel,Sebastian Vettel,https://www.formula1.com/content/dam/fom-website/drivers/S/SEBVET01_Sebastian_Vettel/sebvet01.png.transform/1col/image.png,,10.0,10,14.0,,,,0 days 00:00:29.983000,Finished,1.0,9,2020,Tuscan,Mugello
-63,G RUSSELL,RUS,russell,Williams,0082fa,williams,George,Russell,George Russell,https://www.formula1.com/content/dam/fom-website/drivers/G/GEORUS01_George_Russell/georus01.png.transform/1col/image.png,,11.0,11,18.0,,,,0 days 00:00:32.404000,Finished,0.0,9,2020,Tuscan,Mugello
-8,R GROSJEAN,GRO,grosjean,Haas F1 Team,787878,haas,Romain,Grosjean,Romain Grosjean,https://www.formula1.com/content/dam/fom-website/drivers/R/ROMGRO01_Romain_Grosjean/romgro01.png.transform/1col/image.png,,12.0,12,15.0,,,,0 days 00:00:42.036000,Finished,0.0,9,2020,Tuscan,Mugello
-18,L STROLL,STR,stroll,Racing Point,F596C8,racing_point,Lance,Stroll,Lance Stroll,https://www.formula1.com/content/dam/fom-website/drivers/L/LANSTR01_Lance_Stroll/lanstr01.png.transform/1col/image.png,,13.0,R,6.0,,,,,Puncture,0.0,9,2020,Tuscan,Mugello
-31,E OCON,OCO,ocon,Renault,FFF500,renault,Esteban,Ocon,Esteban Ocon,https://www.formula1.com/content/dam/fom-website/drivers/E/ESTOCO01_Esteban_Ocon/estoco01.png.transform/1col/image.png,,14.0,R,10.0,,,,,Brakes,0.0,9,2020,Tuscan,Mugello
-6,N LATIFI,LAT,latifi,Williams,0082fa,williams,Nicholas,Latifi,Nicholas Latifi,https://www.formula1.com/content/dam/fom-website/drivers/N/NICLAF01_Nicholas_Latifi/niclaf01.png.transform/1col/image.png,,15.0,R,19.0,,,,,Collision,0.0,9,2020,Tuscan,Mugello
-20,K MAGNUSSEN,MAG,kevin_magnussen,Haas F1 Team,787878,haas,Kevin,Magnussen,Kevin Magnussen,https://www.formula1.com/content/dam/fom-website/drivers/K/KEVMAG01_Kevin_Magnussen/kevmag01.png.transform/1col/image.png,,16.0,R,20.0,,,,,Collision,0.0,9,2020,Tuscan,Mugello
-99,A GIOVINAZZI,GIO,giovinazzi,Alfa Romeo Racing,9B0000,alfa,Antonio,Giovinazzi,Antonio Giovinazzi,https://www.formula1.com/content/dam/fom-website/drivers/A/ANTGIO01_Antonio_Giovinazzi/antgio01.png.transform/1col/image.png,,17.0,R,17.0,,,,,Collision,0.0,9,2020,Tuscan,Mugello
-55,C SAINZ,SAI,sainz,McLaren,FF8700,mclaren,Carlos,Sainz,Carlos Sainz,https://www.formula1.com/content/dam/fom-website/drivers/C/CARSAI01_Carlos_Sainz/carsai01.png.transform/1col/image.png,,18.0,R,9.0,,,,,Collision,0.0,9,2020,Tuscan,Mugello
-33,M VERSTAPPEN,VER,max_verstappen,Red Bull Racing,1E41FF,red_bull,Max,Verstappen,Max Verstappen,https://www.formula1.com/content/dam/fom-website/drivers/M/MAXVER01_Max_Verstappen/maxver01.png.transform/1col/image.png,,19.0,R,3.0,,,,,Collision,0.0,9,2020,Tuscan,Mugello
-10,P GASLY,GAS,gasly,AlphaTauri,ffffff,alphatauri,Pierre,Gasly,Pierre Gasly,https://www.formula1.com/content/dam/fom-website/drivers/P/PIEGAS01_Pierre_Gasly/piegas01.png.transform/1col/image.png,,20.0,R,16.0,,,,,Collision,0.0,9,2020,Tuscan,Mugello
-77,V BOTTAS,BOT,bottas,Mercedes,00D2BE,mercedes,Valtteri,Bottas,Valtteri Bottas,https://www.formula1.com/content/dam/fom-website/drivers/V/VALBOT01_Valtteri_Bottas/valbot01.png.transform/1col/image.png,,1.0,1,3.0,,,,0 days 01:34:00.364000,Finished,26.0,10,2020,Russian,Sochi
-33,M VERSTAPPEN,VER,max_verstappen,Red Bull Racing,1E41FF,red_bull,Max,Verstappen,Max Verstappen,https://www.formula1.com/content/dam/fom-website/drivers/M/MAXVER01_Max_Verstappen/maxver01.png.transform/1col/image.png,,2.0,2,2.0,,,,0 days 00:00:07.729000,Finished,18.0,10,2020,Russian,Sochi
-44,L HAMILTON,HAM,hamilton,Mercedes,00D2BE,mercedes,Lewis,Hamilton,Lewis Hamilton,https://www.formula1.com/content/dam/fom-website/drivers/L/LEWHAM01_Lewis_Hamilton/lewham01.png.transform/1col/image.png,,3.0,3,1.0,,,,0 days 00:00:22.729000,Finished,15.0,10,2020,Russian,Sochi
-11,S PEREZ,PER,perez,Racing Point,F596C8,racing_point,Sergio,Perez,Sergio Perez,https://www.formula1.com/content/dam/fom-website/drivers/S/SERPER01_Sergio_Perez/serper01.png.transform/1col/image.png,,4.0,4,4.0,,,,0 days 00:00:30.558000,Finished,12.0,10,2020,Russian,Sochi
-3,D RICCIARDO,RIC,ricciardo,Renault,FFF500,renault,Daniel,Ricciardo,Daniel Ricciardo,https://www.formula1.com/content/dam/fom-website/drivers/D/DANRIC01_Daniel_Ricciardo/danric01.png.transform/1col/image.png,,5.0,5,5.0,,,,0 days 00:00:52.065000,Finished,10.0,10,2020,Russian,Sochi
-16,C LECLERC,LEC,leclerc,Ferrari,DC0000,ferrari,Charles,Leclerc,Charles Leclerc,https://www.formula1.com/content/dam/fom-website/drivers/C/CHALEC01_Charles_Leclerc/chalec01.png.transform/1col/image.png,,6.0,6,10.0,,,,0 days 00:01:02.186000,Finished,8.0,10,2020,Russian,Sochi
-31,E OCON,OCO,ocon,Renault,FFF500,renault,Esteban,Ocon,Esteban Ocon,https://www.formula1.com/content/dam/fom-website/drivers/E/ESTOCO01_Esteban_Ocon/estoco01.png.transform/1col/image.png,,7.0,7,7.0,,,,0 days 00:01:08.006000,Finished,6.0,10,2020,Russian,Sochi
-26,D KVYAT,KVY,kvyat,AlphaTauri,ffffff,alphatauri,Daniil,Kvyat,Daniil Kvyat,https://www.formula1.com/content/dam/fom-website/drivers/D/DANKVY01_Daniil_Kvyat/dankvy01.png.transform/1col/image.png,,8.0,8,11.0,,,,0 days 00:01:08.740000,Finished,4.0,10,2020,Russian,Sochi
-10,P GASLY,GAS,gasly,AlphaTauri,ffffff,alphatauri,Pierre,Gasly,Pierre Gasly,https://www.formula1.com/content/dam/fom-website/drivers/P/PIEGAS01_Pierre_Gasly/piegas01.png.transform/1col/image.png,,9.0,9,9.0,,,,0 days 00:01:29.766000,Finished,2.0,10,2020,Russian,Sochi
-23,A ALBON,ALB,albon,Red Bull Racing,1E41FF,red_bull,Alexander,Albon,Alexander Albon,https://www.formula1.com/content/dam/fom-website/drivers/A/ALEALB01_Alexander_Albon/alealb01.png.transform/1col/image.png,,10.0,10,15.0,,,,0 days 00:01:37.860000,Finished,1.0,10,2020,Russian,Sochi
-99,A GIOVINAZZI,GIO,giovinazzi,Alfa Romeo Racing,9B0000,alfa,Antonio,Giovinazzi,Antonio Giovinazzi,https://www.formula1.com/content/dam/fom-website/drivers/A/ANTGIO01_Antonio_Giovinazzi/antgio01.png.transform/1col/image.png,,11.0,11,17.0,,,,,+1 Lap,0.0,10,2020,Russian,Sochi
-20,K MAGNUSSEN,MAG,kevin_magnussen,Haas F1 Team,787878,haas,Kevin,Magnussen,Kevin Magnussen,https://www.formula1.com/content/dam/fom-website/drivers/K/KEVMAG01_Kevin_Magnussen/kevmag01.png.transform/1col/image.png,,12.0,12,18.0,,,,,+1 Lap,0.0,10,2020,Russian,Sochi
-5,S VETTEL,VET,vettel,Ferrari,DC0000,ferrari,Sebastian,Vettel,Sebastian Vettel,https://www.formula1.com/content/dam/fom-website/drivers/S/SEBVET01_Sebastian_Vettel/sebvet01.png.transform/1col/image.png,,13.0,13,14.0,,,,,+1 Lap,0.0,10,2020,Russian,Sochi
-7,K RAIKKONEN,RAI,raikkonen,Alfa Romeo Racing,9B0000,alfa,Kimi,Räikkönen,Kimi Räikkönen,https://www.formula1.com/content/dam/fom-website/drivers/K/KIMRAI01_Kimi_R%C3%A4ikk%C3%B6nen/kimrai01.png.transform/1col/image.png,,14.0,14,19.0,,,,,+1 Lap,0.0,10,2020,Russian,Sochi
-4,L NORRIS,NOR,norris,McLaren,FF8700,mclaren,Lando,Norris,Lando Norris,https://www.formula1.com/content/dam/fom-website/drivers/L/LANNOR01_Lando_Norris/lannor01.png.transform/1col/image.png,,15.0,15,8.0,,,,,+1 Lap,0.0,10,2020,Russian,Sochi
-6,N LATIFI,LAT,latifi,Williams,0082fa,williams,Nicholas,Latifi,Nicholas Latifi,https://www.formula1.com/content/dam/fom-website/drivers/N/NICLAF01_Nicholas_Latifi/niclaf01.png.transform/1col/image.png,,16.0,16,20.0,,,,,+1 Lap,0.0,10,2020,Russian,Sochi
-8,R GROSJEAN,GRO,grosjean,Haas F1 Team,787878,haas,Romain,Grosjean,Romain Grosjean,https://www.formula1.com/content/dam/fom-website/drivers/R/ROMGRO01_Romain_Grosjean/romgro01.png.transform/1col/image.png,,17.0,17,16.0,,,,,+1 Lap,0.0,10,2020,Russian,Sochi
-63,G RUSSELL,RUS,russell,Williams,0082fa,williams,George,Russell,George Russell,https://www.formula1.com/content/dam/fom-website/drivers/G/GEORUS01_George_Russell/georus01.png.transform/1col/image.png,,18.0,18,13.0,,,,,+1 Lap,0.0,10,2020,Russian,Sochi
-55,C SAINZ,SAI,sainz,McLaren,FF8700,mclaren,Carlos,Sainz,Carlos Sainz,https://www.formula1.com/content/dam/fom-website/drivers/C/CARSAI01_Carlos_Sainz/carsai01.png.transform/1col/image.png,,19.0,R,6.0,,,,,Accident,0.0,10,2020,Russian,Sochi
-18,L STROLL,STR,stroll,Racing Point,F596C8,racing_point,Lance,Stroll,Lance Stroll,https://www.formula1.com/content/dam/fom-website/drivers/L/LANSTR01_Lance_Stroll/lanstr01.png.transform/1col/image.png,,20.0,R,12.0,,,,,Collision,0.0,10,2020,Russian,Sochi
-44,L HAMILTON,HAM,hamilton,Mercedes,00D2BE,mercedes,Lewis,Hamilton,Lewis Hamilton,https://www.formula1.com/content/dam/fom-website/drivers/L/LEWHAM01_Lewis_Hamilton/lewham01.png.transform/1col/image.png,,1.0,1,2.0,,,,0 days 01:35:49.641000,Finished,25.0,11,2020,Eifel,Nürburgring
-33,M VERSTAPPEN,VER,max_verstappen,Red Bull Racing,1E41FF,red_bull,Max,Verstappen,Max Verstappen,https://www.formula1.com/content/dam/fom-website/drivers/M/MAXVER01_Max_Verstappen/maxver01.png.transform/1col/image.png,,2.0,2,3.0,,,,0 days 00:00:04.470000,Finished,19.0,11,2020,Eifel,Nürburgring
-3,D RICCIARDO,RIC,ricciardo,Renault,FFF500,renault,Daniel,Ricciardo,Daniel Ricciardo,https://www.formula1.com/content/dam/fom-website/drivers/D/DANRIC01_Daniel_Ricciardo/danric01.png.transform/1col/image.png,,3.0,3,6.0,,,,0 days 00:00:14.613000,Finished,15.0,11,2020,Eifel,Nürburgring
-11,S PEREZ,PER,perez,Racing Point,F596C8,racing_point,Sergio,Perez,Sergio Perez,https://www.formula1.com/content/dam/fom-website/drivers/S/SERPER01_Sergio_Perez/serper01.png.transform/1col/image.png,,4.0,4,9.0,,,,0 days 00:00:16.070000,Finished,12.0,11,2020,Eifel,Nürburgring
-55,C SAINZ,SAI,sainz,McLaren,FF8700,mclaren,Carlos,Sainz,Carlos Sainz,https://www.formula1.com/content/dam/fom-website/drivers/C/CARSAI01_Carlos_Sainz/carsai01.png.transform/1col/image.png,,5.0,5,10.0,,,,0 days 00:00:21.905000,Finished,10.0,11,2020,Eifel,Nürburgring
-10,P GASLY,GAS,gasly,AlphaTauri,ffffff,alphatauri,Pierre,Gasly,Pierre Gasly,https://www.formula1.com/content/dam/fom-website/drivers/P/PIEGAS01_Pierre_Gasly/piegas01.png.transform/1col/image.png,,6.0,6,12.0,,,,0 days 00:00:22.766000,Finished,8.0,11,2020,Eifel,Nürburgring
-16,C LECLERC,LEC,leclerc,Ferrari,DC0000,ferrari,Charles,Leclerc,Charles Leclerc,https://www.formula1.com/content/dam/fom-website/drivers/C/CHALEC01_Charles_Leclerc/chalec01.png.transform/1col/image.png,,7.0,7,4.0,,,,0 days 00:00:30.814000,Finished,6.0,11,2020,Eifel,Nürburgring
-27,N HULKENBERG,HUL,hulkenberg,Racing Point,F596C8,racing_point,Nico,Hulkenberg,Nico Hulkenberg,None,,8.0,8,20.0,,,,0 days 00:00:32.596000,Finished,4.0,11,2020,Eifel,Nürburgring
-8,R GROSJEAN,GRO,grosjean,Haas F1 Team,787878,haas,Romain,Grosjean,Romain Grosjean,https://www.formula1.com/content/dam/fom-website/drivers/R/ROMGRO01_Romain_Grosjean/romgro01.png.transform/1col/image.png,,9.0,9,16.0,,,,0 days 00:00:39.081000,Finished,2.0,11,2020,Eifel,Nürburgring
-99,A GIOVINAZZI,GIO,giovinazzi,Alfa Romeo Racing,9B0000,alfa,Antonio,Giovinazzi,Antonio Giovinazzi,https://www.formula1.com/content/dam/fom-website/drivers/A/ANTGIO01_Antonio_Giovinazzi/antgio01.png.transform/1col/image.png,,10.0,10,14.0,,,,0 days 00:00:40.035000,Finished,1.0,11,2020,Eifel,Nürburgring
-5,S VETTEL,VET,vettel,Ferrari,DC0000,ferrari,Sebastian,Vettel,Sebastian Vettel,https://www.formula1.com/content/dam/fom-website/drivers/S/SEBVET01_Sebastian_Vettel/sebvet01.png.transform/1col/image.png,,11.0,11,11.0,,,,0 days 00:00:40.810000,Finished,0.0,11,2020,Eifel,Nürburgring
-7,K RAIKKONEN,RAI,raikkonen,Alfa Romeo Racing,9B0000,alfa,Kimi,Räikkönen,Kimi Räikkönen,https://www.formula1.com/content/dam/fom-website/drivers/K/KIMRAI01_Kimi_R%C3%A4ikk%C3%B6nen/kimrai01.png.transform/1col/image.png,,12.0,12,19.0,,,,0 days 00:00:41.476000,Finished,0.0,11,2020,Eifel,Nürburgring
-20,K MAGNUSSEN,MAG,kevin_magnussen,Haas F1 Team,787878,haas,Kevin,Magnussen,Kevin Magnussen,https://www.formula1.com/content/dam/fom-website/drivers/K/KEVMAG01_Kevin_Magnussen/kevmag01.png.transform/1col/image.png,,13.0,13,15.0,,,,0 days 00:00:49.585000,Finished,0.0,11,2020,Eifel,Nürburgring
-6,N LATIFI,LAT,latifi,Williams,0082fa,williams,Nicholas,Latifi,Nicholas Latifi,https://www.formula1.com/content/dam/fom-website/drivers/N/NICLAF01_Nicholas_Latifi/niclaf01.png.transform/1col/image.png,,14.0,14,18.0,,,,0 days 00:00:54.449000,Finished,0.0,11,2020,Eifel,Nürburgring
-26,D KVYAT,KVY,kvyat,AlphaTauri,ffffff,alphatauri,Daniil,Kvyat,Daniil Kvyat,https://www.formula1.com/content/dam/fom-website/drivers/D/DANKVY01_Daniil_Kvyat/dankvy01.png.transform/1col/image.png,,15.0,15,13.0,,,,0 days 00:00:55.588000,Finished,0.0,11,2020,Eifel,Nürburgring
-4,L NORRIS,NOR,norris,McLaren,FF8700,mclaren,Lando,Norris,Lando Norris,https://www.formula1.com/content/dam/fom-website/drivers/L/LANNOR01_Lando_Norris/lannor01.png.transform/1col/image.png,,16.0,R,8.0,,,,,Power Unit,0.0,11,2020,Eifel,Nürburgring
-23,A ALBON,ALB,albon,Red Bull Racing,1E41FF,red_bull,Alexander,Albon,Alexander Albon,https://www.formula1.com/content/dam/fom-website/drivers/A/ALEALB01_Alexander_Albon/alealb01.png.transform/1col/image.png,,17.0,R,5.0,,,,,Radiator,0.0,11,2020,Eifel,Nürburgring
-31,E OCON,OCO,ocon,Renault,FFF500,renault,Esteban,Ocon,Esteban Ocon,https://www.formula1.com/content/dam/fom-website/drivers/E/ESTOCO01_Esteban_Ocon/estoco01.png.transform/1col/image.png,,18.0,R,7.0,,,,,Gearbox,0.0,11,2020,Eifel,Nürburgring
-77,V BOTTAS,BOT,bottas,Mercedes,00D2BE,mercedes,Valtteri,Bottas,Valtteri Bottas,https://www.formula1.com/content/dam/fom-website/drivers/V/VALBOT01_Valtteri_Bottas/valbot01.png.transform/1col/image.png,,19.0,R,1.0,,,,,Power Unit,0.0,11,2020,Eifel,Nürburgring
-63,G RUSSELL,RUS,russell,Williams,0082fa,williams,George,Russell,George Russell,https://www.formula1.com/content/dam/fom-website/drivers/G/GEORUS01_George_Russell/georus01.png.transform/1col/image.png,,20.0,R,17.0,,,,,Collision,0.0,11,2020,Eifel,Nürburgring
-44,L HAMILTON,HAM,hamilton,Mercedes,00D2BE,mercedes,Lewis,Hamilton,Lewis Hamilton,https://www.formula1.com/content/dam/fom-website/drivers/L/LEWHAM01_Lewis_Hamilton/lewham01.png.transform/1col/image.png,,1.0,1,1.0,,,,0 days 01:29:56.828000,Finished,26.0,12,2020,Portuguese,Portimão
-77,V BOTTAS,BOT,bottas,Mercedes,00D2BE,mercedes,Valtteri,Bottas,Valtteri Bottas,https://www.formula1.com/content/dam/fom-website/drivers/V/VALBOT01_Valtteri_Bottas/valbot01.png.transform/1col/image.png,,2.0,2,2.0,,,,0 days 00:00:25.592000,Finished,18.0,12,2020,Portuguese,Portimão
-33,M VERSTAPPEN,VER,max_verstappen,Red Bull Racing,1E41FF,red_bull,Max,Verstappen,Max Verstappen,https://www.formula1.com/content/dam/fom-website/drivers/M/MAXVER01_Max_Verstappen/maxver01.png.transform/1col/image.png,,3.0,3,3.0,,,,0 days 00:00:34.508000,Finished,15.0,12,2020,Portuguese,Portimão
-16,C LECLERC,LEC,leclerc,Ferrari,DC0000,ferrari,Charles,Leclerc,Charles Leclerc,https://www.formula1.com/content/dam/fom-website/drivers/C/CHALEC01_Charles_Leclerc/chalec01.png.transform/1col/image.png,,4.0,4,4.0,,,,0 days 00:01:05.312000,Finished,12.0,12,2020,Portuguese,Portimão
-10,P GASLY,GAS,gasly,AlphaTauri,ffffff,alphatauri,Pierre,Gasly,Pierre Gasly,https://www.formula1.com/content/dam/fom-website/drivers/P/PIEGAS01_Pierre_Gasly/piegas01.png.transform/1col/image.png,,5.0,5,9.0,,,,,+1 Lap,10.0,12,2020,Portuguese,Portimão
-55,C SAINZ,SAI,sainz,McLaren,FF8700,mclaren,Carlos,Sainz,Carlos Sainz,https://www.formula1.com/content/dam/fom-website/drivers/C/CARSAI01_Carlos_Sainz/carsai01.png.transform/1col/image.png,,6.0,6,7.0,,,,,+1 Lap,8.0,12,2020,Portuguese,Portimão
-11,S PEREZ,PER,perez,Racing Point,F596C8,racing_point,Sergio,Perez,Sergio Perez,https://www.formula1.com/content/dam/fom-website/drivers/S/SERPER01_Sergio_Perez/serper01.png.transform/1col/image.png,,7.0,7,5.0,,,,,+1 Lap,6.0,12,2020,Portuguese,Portimão
-31,E OCON,OCO,ocon,Renault,FFF500,renault,Esteban,Ocon,Esteban Ocon,https://www.formula1.com/content/dam/fom-website/drivers/E/ESTOCO01_Esteban_Ocon/estoco01.png.transform/1col/image.png,,8.0,8,11.0,,,,,+1 Lap,4.0,12,2020,Portuguese,Portimão
-3,D RICCIARDO,RIC,ricciardo,Renault,FFF500,renault,Daniel,Ricciardo,Daniel Ricciardo,https://www.formula1.com/content/dam/fom-website/drivers/D/DANRIC01_Daniel_Ricciardo/danric01.png.transform/1col/image.png,,9.0,9,10.0,,,,,+1 Lap,2.0,12,2020,Portuguese,Portimão
-5,S VETTEL,VET,vettel,Ferrari,DC0000,ferrari,Sebastian,Vettel,Sebastian Vettel,https://www.formula1.com/content/dam/fom-website/drivers/S/SEBVET01_Sebastian_Vettel/sebvet01.png.transform/1col/image.png,,10.0,10,15.0,,,,,+1 Lap,1.0,12,2020,Portuguese,Portimão
-7,K RAIKKONEN,RAI,raikkonen,Alfa Romeo Racing,9B0000,alfa,Kimi,Räikkönen,Kimi Räikkönen,https://www.formula1.com/content/dam/fom-website/drivers/K/KIMRAI01_Kimi_R%C3%A4ikk%C3%B6nen/kimrai01.png.transform/1col/image.png,,11.0,11,16.0,,,,,+1 Lap,0.0,12,2020,Portuguese,Portimão
-23,A ALBON,ALB,albon,Red Bull Racing,1E41FF,red_bull,Alexander,Albon,Alexander Albon,https://www.formula1.com/content/dam/fom-website/drivers/A/ALEALB01_Alexander_Albon/alealb01.png.transform/1col/image.png,,12.0,12,6.0,,,,,+1 Lap,0.0,12,2020,Portuguese,Portimão
-4,L NORRIS,NOR,norris,McLaren,FF8700,mclaren,Lando,Norris,Lando Norris,https://www.formula1.com/content/dam/fom-website/drivers/L/LANNOR01_Lando_Norris/lannor01.png.transform/1col/image.png,,13.0,13,8.0,,,,,+1 Lap,0.0,12,2020,Portuguese,Portimão
-63,G RUSSELL,RUS,russell,Williams,0082fa,williams,George,Russell,George Russell,https://www.formula1.com/content/dam/fom-website/drivers/G/GEORUS01_George_Russell/georus01.png.transform/1col/image.png,,14.0,14,14.0,,,,,+1 Lap,0.0,12,2020,Portuguese,Portimão
-99,A GIOVINAZZI,GIO,giovinazzi,Alfa Romeo Racing,9B0000,alfa,Antonio,Giovinazzi,Antonio Giovinazzi,https://www.formula1.com/content/dam/fom-website/drivers/A/ANTGIO01_Antonio_Giovinazzi/antgio01.png.transform/1col/image.png,,15.0,15,17.0,,,,,+1 Lap,0.0,12,2020,Portuguese,Portimão
-20,K MAGNUSSEN,MAG,kevin_magnussen,Haas F1 Team,787878,haas,Kevin,Magnussen,Kevin Magnussen,https://www.formula1.com/content/dam/fom-website/drivers/K/KEVMAG01_Kevin_Magnussen/kevmag01.png.transform/1col/image.png,,16.0,16,19.0,,,,,+1 Lap,0.0,12,2020,Portuguese,Portimão
-8,R GROSJEAN,GRO,grosjean,Haas F1 Team,787878,haas,Romain,Grosjean,Romain Grosjean,https://www.formula1.com/content/dam/fom-website/drivers/R/ROMGRO01_Romain_Grosjean/romgro01.png.transform/1col/image.png,,17.0,17,18.0,,,,,+1 Lap,0.0,12,2020,Portuguese,Portimão
-6,N LATIFI,LAT,latifi,Williams,0082fa,williams,Nicholas,Latifi,Nicholas Latifi,https://www.formula1.com/content/dam/fom-website/drivers/N/NICLAF01_Nicholas_Latifi/niclaf01.png.transform/1col/image.png,,18.0,18,20.0,,,,,+2 Laps,0.0,12,2020,Portuguese,Portimão
-26,D KVYAT,KVY,kvyat,AlphaTauri,ffffff,alphatauri,Daniil,Kvyat,Daniil Kvyat,https://www.formula1.com/content/dam/fom-website/drivers/D/DANKVY01_Daniil_Kvyat/dankvy01.png.transform/1col/image.png,,19.0,19,13.0,,,,,+2 Laps,0.0,12,2020,Portuguese,Portimão
-18,L STROLL,STR,stroll,Racing Point,F596C8,racing_point,Lance,Stroll,Lance Stroll,https://www.formula1.com/content/dam/fom-website/drivers/L/LANSTR01_Lance_Stroll/lanstr01.png.transform/1col/image.png,,20.0,R,12.0,,,,,Collision damage,0.0,12,2020,Portuguese,Portimão
-44,L HAMILTON,HAM,hamilton,Mercedes,00D2BE,mercedes,Lewis,Hamilton,Lewis Hamilton,https://www.formula1.com/content/dam/fom-website/drivers/L/LEWHAM01_Lewis_Hamilton/lewham01.png.transform/1col/image.png,,1.0,1,2.0,,,,0 days 01:28:32.430000,Finished,26.0,13,2020,Emilia Romagna,Imola
-77,V BOTTAS,BOT,bottas,Mercedes,00D2BE,mercedes,Valtteri,Bottas,Valtteri Bottas,https://www.formula1.com/content/dam/fom-website/drivers/V/VALBOT01_Valtteri_Bottas/valbot01.png.transform/1col/image.png,,2.0,2,1.0,,,,0 days 00:00:05.783000,Finished,18.0,13,2020,Emilia Romagna,Imola
-3,D RICCIARDO,RIC,ricciardo,Renault,FFF500,renault,Daniel,Ricciardo,Daniel Ricciardo,https://www.formula1.com/content/dam/fom-website/drivers/D/DANRIC01_Daniel_Ricciardo/danric01.png.transform/1col/image.png,,3.0,3,5.0,,,,0 days 00:00:14.320000,Finished,15.0,13,2020,Emilia Romagna,Imola
-26,D KVYAT,KVY,kvyat,AlphaTauri,ffffff,alphatauri,Daniil,Kvyat,Daniil Kvyat,https://www.formula1.com/content/dam/fom-website/drivers/D/DANKVY01_Daniil_Kvyat/dankvy01.png.transform/1col/image.png,,4.0,4,8.0,,,,0 days 00:00:15.141000,Finished,12.0,13,2020,Emilia Romagna,Imola
-16,C LECLERC,LEC,leclerc,Ferrari,DC0000,ferrari,Charles,Leclerc,Charles Leclerc,https://www.formula1.com/content/dam/fom-website/drivers/C/CHALEC01_Charles_Leclerc/chalec01.png.transform/1col/image.png,,5.0,5,7.0,,,,0 days 00:00:19.111000,Finished,10.0,13,2020,Emilia Romagna,Imola
-11,S PEREZ,PER,perez,Racing Point,F596C8,racing_point,Sergio,Perez,Sergio Perez,https://www.formula1.com/content/dam/fom-website/drivers/S/SERPER01_Sergio_Perez/serper01.png.transform/1col/image.png,,6.0,6,11.0,,,,0 days 00:00:19.652000,Finished,8.0,13,2020,Emilia Romagna,Imola
-55,C SAINZ,SAI,sainz,McLaren,FF8700,mclaren,Carlos,Sainz,Carlos Sainz,https://www.formula1.com/content/dam/fom-website/drivers/C/CARSAI01_Carlos_Sainz/carsai01.png.transform/1col/image.png,,7.0,7,10.0,,,,0 days 00:00:20.230000,Finished,6.0,13,2020,Emilia Romagna,Imola
-4,L NORRIS,NOR,norris,McLaren,FF8700,mclaren,Lando,Norris,Lando Norris,https://www.formula1.com/content/dam/fom-website/drivers/L/LANNOR01_Lando_Norris/lannor01.png.transform/1col/image.png,,8.0,8,9.0,,,,0 days 00:00:21.131000,Finished,4.0,13,2020,Emilia Romagna,Imola
-7,K RAIKKONEN,RAI,raikkonen,Alfa Romeo Racing,9B0000,alfa,Kimi,Räikkönen,Kimi Räikkönen,https://www.formula1.com/content/dam/fom-website/drivers/K/KIMRAI01_Kimi_R%C3%A4ikk%C3%B6nen/kimrai01.png.transform/1col/image.png,,9.0,9,18.0,,,,0 days 00:00:22.224000,Finished,2.0,13,2020,Emilia Romagna,Imola
-99,A GIOVINAZZI,GIO,giovinazzi,Alfa Romeo Racing,9B0000,alfa,Antonio,Giovinazzi,Antonio Giovinazzi,https://www.formula1.com/content/dam/fom-website/drivers/A/ANTGIO01_Antonio_Giovinazzi/antgio01.png.transform/1col/image.png,,10.0,10,20.0,,,,0 days 00:00:26.398000,Finished,1.0,13,2020,Emilia Romagna,Imola
-6,N LATIFI,LAT,latifi,Williams,0082fa,williams,Nicholas,Latifi,Nicholas Latifi,https://www.formula1.com/content/dam/fom-website/drivers/N/NICLAF01_Nicholas_Latifi/niclaf01.png.transform/1col/image.png,,11.0,11,19.0,,,,0 days 00:00:27.135000,Finished,0.0,13,2020,Emilia Romagna,Imola
-5,S VETTEL,VET,vettel,Ferrari,DC0000,ferrari,Sebastian,Vettel,Sebastian Vettel,https://www.formula1.com/content/dam/fom-website/drivers/S/SEBVET01_Sebastian_Vettel/sebvet01.png.transform/1col/image.png,,12.0,12,14.0,,,,0 days 00:00:28.453000,Finished,0.0,13,2020,Emilia Romagna,Imola
-18,L STROLL,STR,stroll,Racing Point,F596C8,racing_point,Lance,Stroll,Lance Stroll,https://www.formula1.com/content/dam/fom-website/drivers/L/LANSTR01_Lance_Stroll/lanstr01.png.transform/1col/image.png,,13.0,13,15.0,,,,0 days 00:00:29.163000,Finished,0.0,13,2020,Emilia Romagna,Imola
-8,R GROSJEAN,GRO,grosjean,Haas F1 Team,787878,haas,Romain,Grosjean,Romain Grosjean,https://www.formula1.com/content/dam/fom-website/drivers/R/ROMGRO01_Romain_Grosjean/romgro01.png.transform/1col/image.png,,14.0,14,16.0,,,,0 days 00:00:32.935000,Finished,0.0,13,2020,Emilia Romagna,Imola
-23,A ALBON,ALB,albon,Red Bull Racing,1E41FF,red_bull,Alexander,Albon,Alexander Albon,https://www.formula1.com/content/dam/fom-website/drivers/A/ALEALB01_Alexander_Albon/alealb01.png.transform/1col/image.png,,15.0,15,6.0,,,,0 days 00:00:57.284000,Finished,0.0,13,2020,Emilia Romagna,Imola
-63,G RUSSELL,RUS,russell,Williams,0082fa,williams,George,Russell,George Russell,https://www.formula1.com/content/dam/fom-website/drivers/G/GEORUS01_George_Russell/georus01.png.transform/1col/image.png,,16.0,R,13.0,,,,,Accident,0.0,13,2020,Emilia Romagna,Imola
-33,M VERSTAPPEN,VER,max_verstappen,Red Bull Racing,1E41FF,red_bull,Max,Verstappen,Max Verstappen,https://www.formula1.com/content/dam/fom-website/drivers/M/MAXVER01_Max_Verstappen/maxver01.png.transform/1col/image.png,,17.0,R,3.0,,,,,Puncture,0.0,13,2020,Emilia Romagna,Imola
-20,K MAGNUSSEN,MAG,kevin_magnussen,Haas F1 Team,787878,haas,Kevin,Magnussen,Kevin Magnussen,https://www.formula1.com/content/dam/fom-website/drivers/K/KEVMAG01_Kevin_Magnussen/kevmag01.png.transform/1col/image.png,,18.0,R,17.0,,,,,Illness,0.0,13,2020,Emilia Romagna,Imola
-31,E OCON,OCO,ocon,Renault,FFF500,renault,Esteban,Ocon,Esteban Ocon,https://www.formula1.com/content/dam/fom-website/drivers/E/ESTOCO01_Esteban_Ocon/estoco01.png.transform/1col/image.png,,19.0,R,12.0,,,,,Gearbox,0.0,13,2020,Emilia Romagna,Imola
-10,P GASLY,GAS,gasly,AlphaTauri,ffffff,alphatauri,Pierre,Gasly,Pierre Gasly,https://www.formula1.com/content/dam/fom-website/drivers/P/PIEGAS01_Pierre_Gasly/piegas01.png.transform/1col/image.png,,20.0,R,4.0,,,,,Water pressure,0.0,13,2020,Emilia Romagna,Imola
-44,L HAMILTON,HAM,hamilton,Mercedes,00D2BE,mercedes,Lewis,Hamilton,Lewis Hamilton,https://www.formula1.com/content/dam/fom-website/drivers/L/LEWHAM01_Lewis_Hamilton/lewham01.png.transform/1col/image.png,,1.0,1,6.0,,,,0 days 01:42:19.313000,Finished,25.0,14,2020,Turkish,Istanbul
-11,S PEREZ,PER,perez,Racing Point,F596C8,racing_point,Sergio,Perez,Sergio Perez,https://www.formula1.com/content/dam/fom-website/drivers/S/SERPER01_Sergio_Perez/serper01.png.transform/1col/image.png,,2.0,2,3.0,,,,0 days 00:00:31.633000,Finished,18.0,14,2020,Turkish,Istanbul
-5,S VETTEL,VET,vettel,Ferrari,DC0000,ferrari,Sebastian,Vettel,Sebastian Vettel,https://www.formula1.com/content/dam/fom-website/drivers/S/SEBVET01_Sebastian_Vettel/sebvet01.png.transform/1col/image.png,,3.0,3,11.0,,,,0 days 00:00:31.960000,Finished,15.0,14,2020,Turkish,Istanbul
-16,C LECLERC,LEC,leclerc,Ferrari,DC0000,ferrari,Charles,Leclerc,Charles Leclerc,https://www.formula1.com/content/dam/fom-website/drivers/C/CHALEC01_Charles_Leclerc/chalec01.png.transform/1col/image.png,,4.0,4,12.0,,,,0 days 00:00:33.858000,Finished,12.0,14,2020,Turkish,Istanbul
-55,C SAINZ,SAI,sainz,McLaren,FF8700,mclaren,Carlos,Sainz,Carlos Sainz,https://www.formula1.com/content/dam/fom-website/drivers/C/CARSAI01_Carlos_Sainz/carsai01.png.transform/1col/image.png,,5.0,5,15.0,,,,0 days 00:00:34.363000,Finished,10.0,14,2020,Turkish,Istanbul
-33,M VERSTAPPEN,VER,max_verstappen,Red Bull Racing,1E41FF,red_bull,Max,Verstappen,Max Verstappen,https://www.formula1.com/content/dam/fom-website/drivers/M/MAXVER01_Max_Verstappen/maxver01.png.transform/1col/image.png,,6.0,6,2.0,,,,0 days 00:00:44.873000,Finished,8.0,14,2020,Turkish,Istanbul
-23,A ALBON,ALB,albon,Red Bull Racing,1E41FF,red_bull,Alexander,Albon,Alexander Albon,https://www.formula1.com/content/dam/fom-website/drivers/A/ALEALB01_Alexander_Albon/alealb01.png.transform/1col/image.png,,7.0,7,4.0,,,,0 days 00:00:46.484000,Finished,6.0,14,2020,Turkish,Istanbul
-4,L NORRIS,NOR,norris,McLaren,FF8700,mclaren,Lando,Norris,Lando Norris,https://www.formula1.com/content/dam/fom-website/drivers/L/LANNOR01_Lando_Norris/lannor01.png.transform/1col/image.png,,8.0,8,14.0,,,,0 days 00:01:01.259000,Finished,5.0,14,2020,Turkish,Istanbul
-18,L STROLL,STR,stroll,Racing Point,F596C8,racing_point,Lance,Stroll,Lance Stroll,https://www.formula1.com/content/dam/fom-website/drivers/L/LANSTR01_Lance_Stroll/lanstr01.png.transform/1col/image.png,,9.0,9,1.0,,,,0 days 00:01:12.353000,Finished,2.0,14,2020,Turkish,Istanbul
-3,D RICCIARDO,RIC,ricciardo,Renault,FFF500,renault,Daniel,Ricciardo,Daniel Ricciardo,https://www.formula1.com/content/dam/fom-website/drivers/D/DANRIC01_Daniel_Ricciardo/danric01.png.transform/1col/image.png,,10.0,10,5.0,,,,0 days 00:01:35.460000,Finished,1.0,14,2020,Turkish,Istanbul
-31,E OCON,OCO,ocon,Renault,FFF500,renault,Esteban,Ocon,Esteban Ocon,https://www.formula1.com/content/dam/fom-website/drivers/E/ESTOCO01_Esteban_Ocon/estoco01.png.transform/1col/image.png,,11.0,11,7.0,,,,,+1 Lap,0.0,14,2020,Turkish,Istanbul
-26,D KVYAT,KVY,kvyat,AlphaTauri,ffffff,alphatauri,Daniil,Kvyat,Daniil Kvyat,https://www.formula1.com/content/dam/fom-website/drivers/D/DANKVY01_Daniil_Kvyat/dankvy01.png.transform/1col/image.png,,12.0,12,16.0,,,,,+1 Lap,0.0,14,2020,Turkish,Istanbul
-10,P GASLY,GAS,gasly,AlphaTauri,ffffff,alphatauri,Pierre,Gasly,Pierre Gasly,https://www.formula1.com/content/dam/fom-website/drivers/P/PIEGAS01_Pierre_Gasly/piegas01.png.transform/1col/image.png,,13.0,13,19.0,,,,,+1 Lap,0.0,14,2020,Turkish,Istanbul
-77,V BOTTAS,BOT,bottas,Mercedes,00D2BE,mercedes,Valtteri,Bottas,Valtteri Bottas,https://www.formula1.com/content/dam/fom-website/drivers/V/VALBOT01_Valtteri_Bottas/valbot01.png.transform/1col/image.png,,14.0,14,9.0,,,,,+1 Lap,0.0,14,2020,Turkish,Istanbul
-7,K RAIKKONEN,RAI,raikkonen,Alfa Romeo Racing,9B0000,alfa,Kimi,Räikkönen,Kimi Räikkönen,https://www.formula1.com/content/dam/fom-website/drivers/K/KIMRAI01_Kimi_R%C3%A4ikk%C3%B6nen/kimrai01.png.transform/1col/image.png,,15.0,15,8.0,,,,,+1 Lap,0.0,14,2020,Turkish,Istanbul
-63,G RUSSELL,RUS,russell,Williams,0082fa,williams,George,Russell,George Russell,https://www.formula1.com/content/dam/fom-website/drivers/G/GEORUS01_George_Russell/georus01.png.transform/1col/image.png,,16.0,16,0.0,,,,,+1 Lap,0.0,14,2020,Turkish,Istanbul
-20,K MAGNUSSEN,MAG,kevin_magnussen,Haas F1 Team,787878,haas,Kevin,Magnussen,Kevin Magnussen,https://www.formula1.com/content/dam/fom-website/drivers/K/KEVMAG01_Kevin_Magnussen/kevmag01.png.transform/1col/image.png,,17.0,17,13.0,,,,,Withdrew,0.0,14,2020,Turkish,Istanbul
-8,R GROSJEAN,GRO,grosjean,Haas F1 Team,787878,haas,Romain,Grosjean,Romain Grosjean,https://www.formula1.com/content/dam/fom-website/drivers/R/ROMGRO01_Romain_Grosjean/romgro01.png.transform/1col/image.png,,18.0,R,17.0,,,,,Collision damage,0.0,14,2020,Turkish,Istanbul
-6,N LATIFI,LAT,latifi,Williams,0082fa,williams,Nicholas,Latifi,Nicholas Latifi,https://www.formula1.com/content/dam/fom-website/drivers/N/NICLAF01_Nicholas_Latifi/niclaf01.png.transform/1col/image.png,,19.0,R,0.0,,,,,Collision damage,0.0,14,2020,Turkish,Istanbul
-99,A GIOVINAZZI,GIO,giovinazzi,Alfa Romeo Racing,9B0000,alfa,Antonio,Giovinazzi,Antonio Giovinazzi,https://www.formula1.com/content/dam/fom-website/drivers/A/ANTGIO01_Antonio_Giovinazzi/antgio01.png.transform/1col/image.png,,20.0,R,10.0,,,,,Gearbox,0.0,14,2020,Turkish,Istanbul
-44,L HAMILTON,HAM,hamilton,Mercedes,00D2BE,mercedes,Lewis,Hamilton,Lewis Hamilton,https://www.formula1.com/content/dam/fom-website/drivers/L/LEWHAM01_Lewis_Hamilton/lewham01.png.transform/1col/image.png,,1.0,1,1.0,,,,0 days 02:59:47.515000,Finished,25.0,15,2020,Bahrain,Sakhir
-33,M VERSTAPPEN,VER,max_verstappen,Red Bull Racing,1E41FF,red_bull,Max,Verstappen,Max Verstappen,https://www.formula1.com/content/dam/fom-website/drivers/M/MAXVER01_Max_Verstappen/maxver01.png.transform/1col/image.png,,2.0,2,3.0,,,,0 days 00:00:01.254000,Finished,19.0,15,2020,Bahrain,Sakhir
-23,A ALBON,ALB,albon,Red Bull Racing,1E41FF,red_bull,Alexander,Albon,Alexander Albon,https://www.formula1.com/content/dam/fom-website/drivers/A/ALEALB01_Alexander_Albon/alealb01.png.transform/1col/image.png,,3.0,3,4.0,,,,0 days 00:00:08.005000,Finished,15.0,15,2020,Bahrain,Sakhir
-4,L NORRIS,NOR,norris,McLaren,FF8700,mclaren,Lando,Norris,Lando Norris,https://www.formula1.com/content/dam/fom-website/drivers/L/LANNOR01_Lando_Norris/lannor01.png.transform/1col/image.png,,4.0,4,9.0,,,,0 days 00:00:11.337000,Finished,12.0,15,2020,Bahrain,Sakhir
-55,C SAINZ,SAI,sainz,McLaren,FF8700,mclaren,Carlos,Sainz,Carlos Sainz,https://www.formula1.com/content/dam/fom-website/drivers/C/CARSAI01_Carlos_Sainz/carsai01.png.transform/1col/image.png,,5.0,5,15.0,,,,0 days 00:00:11.787000,Finished,10.0,15,2020,Bahrain,Sakhir
-10,P GASLY,GAS,gasly,AlphaTauri,ffffff,alphatauri,Pierre,Gasly,Pierre Gasly,https://www.formula1.com/content/dam/fom-website/drivers/P/PIEGAS01_Pierre_Gasly/piegas01.png.transform/1col/image.png,,6.0,6,8.0,,,,0 days 00:00:11.942000,Finished,8.0,15,2020,Bahrain,Sakhir
-3,D RICCIARDO,RIC,ricciardo,Renault,FFF500,renault,Daniel,Ricciardo,Daniel Ricciardo,https://www.formula1.com/content/dam/fom-website/drivers/D/DANRIC01_Daniel_Ricciardo/danric01.png.transform/1col/image.png,,7.0,7,6.0,,,,0 days 00:00:19.368000,Finished,6.0,15,2020,Bahrain,Sakhir
-77,V BOTTAS,BOT,bottas,Mercedes,00D2BE,mercedes,Valtteri,Bottas,Valtteri Bottas,https://www.formula1.com/content/dam/fom-website/drivers/V/VALBOT01_Valtteri_Bottas/valbot01.png.transform/1col/image.png,,8.0,8,2.0,,,,0 days 00:00:19.680000,Finished,4.0,15,2020,Bahrain,Sakhir
-31,E OCON,OCO,ocon,Renault,FFF500,renault,Esteban,Ocon,Esteban Ocon,https://www.formula1.com/content/dam/fom-website/drivers/E/ESTOCO01_Esteban_Ocon/estoco01.png.transform/1col/image.png,,9.0,9,7.0,,,,0 days 00:00:22.803000,Finished,2.0,15,2020,Bahrain,Sakhir
-16,C LECLERC,LEC,leclerc,Ferrari,DC0000,ferrari,Charles,Leclerc,Charles Leclerc,https://www.formula1.com/content/dam/fom-website/drivers/C/CHALEC01_Charles_Leclerc/chalec01.png.transform/1col/image.png,,10.0,10,12.0,,,,,+1 Lap,1.0,15,2020,Bahrain,Sakhir
-26,D KVYAT,KVY,kvyat,AlphaTauri,ffffff,alphatauri,Daniil,Kvyat,Daniil Kvyat,https://www.formula1.com/content/dam/fom-website/drivers/D/DANKVY01_Daniil_Kvyat/dankvy01.png.transform/1col/image.png,,11.0,11,10.0,,,,,+1 Lap,0.0,15,2020,Bahrain,Sakhir
-63,G RUSSELL,RUS,russell,Williams,0082fa,williams,George,Russell,George Russell,https://www.formula1.com/content/dam/fom-website/drivers/G/GEORUS01_George_Russell/georus01.png.transform/1col/image.png,,12.0,12,14.0,,,,,+1 Lap,0.0,15,2020,Bahrain,Sakhir
-5,S VETTEL,VET,vettel,Ferrari,DC0000,ferrari,Sebastian,Vettel,Sebastian Vettel,https://www.formula1.com/content/dam/fom-website/drivers/S/SEBVET01_Sebastian_Vettel/sebvet01.png.transform/1col/image.png,,13.0,13,11.0,,,,,+1 Lap,0.0,15,2020,Bahrain,Sakhir
-6,N LATIFI,LAT,latifi,Williams,0082fa,williams,Nicholas,Latifi,Nicholas Latifi,https://www.formula1.com/content/dam/fom-website/drivers/N/NICLAF01_Nicholas_Latifi/niclaf01.png.transform/1col/image.png,,14.0,14,20.0,,,,,+1 Lap,0.0,15,2020,Bahrain,Sakhir
-7,K RAIKKONEN,RAI,raikkonen,Alfa Romeo Racing,9B0000,alfa,Kimi,Räikkönen,Kimi Räikkönen,https://www.formula1.com/content/dam/fom-website/drivers/K/KIMRAI01_Kimi_R%C3%A4ikk%C3%B6nen/kimrai01.png.transform/1col/image.png,,15.0,15,17.0,,,,,+1 Lap,0.0,15,2020,Bahrain,Sakhir
-99,A GIOVINAZZI,GIO,giovinazzi,Alfa Romeo Racing,9B0000,alfa,Antonio,Giovinazzi,Antonio Giovinazzi,https://www.formula1.com/content/dam/fom-website/drivers/A/ANTGIO01_Antonio_Giovinazzi/antgio01.png.transform/1col/image.png,,16.0,16,16.0,,,,,+1 Lap,0.0,15,2020,Bahrain,Sakhir
-20,K MAGNUSSEN,MAG,kevin_magnussen,Haas F1 Team,787878,haas,Kevin,Magnussen,Kevin Magnussen,https://www.formula1.com/content/dam/fom-website/drivers/K/KEVMAG01_Kevin_Magnussen/kevmag01.png.transform/1col/image.png,,17.0,17,18.0,,,,,+1 Lap,0.0,15,2020,Bahrain,Sakhir
-11,S PEREZ,PER,perez,Racing Point,F596C8,racing_point,Sergio,Perez,Sergio Perez,https://www.formula1.com/content/dam/fom-website/drivers/S/SERPER01_Sergio_Perez/serper01.png.transform/1col/image.png,,18.0,18,5.0,,,,,Engine,0.0,15,2020,Bahrain,Sakhir
-18,L STROLL,STR,stroll,Racing Point,F596C8,racing_point,Lance,Stroll,Lance Stroll,https://www.formula1.com/content/dam/fom-website/drivers/L/LANSTR01_Lance_Stroll/lanstr01.png.transform/1col/image.png,,19.0,R,13.0,,,,,Collision,0.0,15,2020,Bahrain,Sakhir
-8,R GROSJEAN,GRO,grosjean,Haas F1 Team,787878,haas,Romain,Grosjean,Romain Grosjean,https://www.formula1.com/content/dam/fom-website/drivers/R/ROMGRO01_Romain_Grosjean/romgro01.png.transform/1col/image.png,,20.0,R,19.0,,,,,Collision,0.0,15,2020,Bahrain,Sakhir
-77,V BOTTAS,BOT,,Mercedes,00D2BE,,Valtteri,Bottas,Valtteri Bottas,https://www.formula1.com/content/dam/fom-website/drivers/V/VALBOT01_Valtteri_Bottas/valbot01.png.transform/1col/image.png,,,,,,,,,,,16,2020,Sakhir,Sakhir
-63,G RUSSELL,RUS,,Mercedes,00D2BE,,George,Russell,George Russell,https://www.formula1.com/content/dam/fom-website/drivers/G/GEORUS01_George_Russell/georus01.png.transform/1col/image.png,,,,,,,,,,,16,2020,Sakhir,Sakhir
-33,M VERSTAPPEN,VER,,Red Bull Racing,1E41FF,,Max,Verstappen,Max Verstappen,https://www.formula1.com/content/dam/fom-website/drivers/M/MAXVER01_Max_Verstappen/maxver01.png.transform/1col/image.png,,,,,,,,,,,16,2020,Sakhir,Sakhir
-16,C LECLERC,LEC,,Ferrari,DC0000,,Charles,Leclerc,Charles Leclerc,https://www.formula1.com/content/dam/fom-website/drivers/C/CHALEC01_Charles_Leclerc/chalec01.png.transform/1col/image.png,,,,,,,,,,,16,2020,Sakhir,Sakhir
-11,S PEREZ,PER,,Racing Point,F596C8,,Sergio,Perez,Sergio Perez,https://www.formula1.com/content/dam/fom-website/drivers/S/SERPER01_Sergio_Perez/serper01.png.transform/1col/image.png,,,,,,,,,,,16,2020,Sakhir,Sakhir
-26,D KVYAT,KVY,,AlphaTauri,ffffff,,Daniil,Kvyat,Daniil Kvyat,https://www.formula1.com/content/dam/fom-website/drivers/D/DANKVY01_Daniil_Kvyat/dankvy01.png.transform/1col/image.png,,,,,,,,,,,16,2020,Sakhir,Sakhir
-3,D RICCIARDO,RIC,,Renault,FFF500,,Daniel,Ricciardo,Daniel Ricciardo,https://www.formula1.com/content/dam/fom-website/drivers/D/DANRIC01_Daniel_Ricciardo/danric01.png.transform/1col/image.png,,,,,,,,,,,16,2020,Sakhir,Sakhir
-55,C SAINZ,SAI,,McLaren,FF8700,,Carlos,Sainz,Carlos Sainz,https://www.formula1.com/content/dam/fom-website/drivers/C/CARSAI01_Carlos_Sainz/carsai01.png.transform/1col/image.png,,,,,,,,,,,16,2020,Sakhir,Sakhir
-10,P GASLY,GAS,,AlphaTauri,ffffff,,Pierre,Gasly,Pierre Gasly,https://www.formula1.com/content/dam/fom-website/drivers/P/PIEGAS01_Pierre_Gasly/piegas01.png.transform/1col/image.png,,,,,,,,,,,16,2020,Sakhir,Sakhir
-18,L STROLL,STR,,Racing Point,F596C8,,Lance,Stroll,Lance Stroll,https://www.formula1.com/content/dam/fom-website/drivers/L/LANSTR01_Lance_Stroll/lanstr01.png.transform/1col/image.png,,,,,,,,,,,16,2020,Sakhir,Sakhir
-31,E OCON,OCO,,Renault,FFF500,,Esteban,Ocon,Esteban Ocon,https://www.formula1.com/content/dam/fom-website/drivers/E/ESTOCO01_Esteban_Ocon/estoco01.png.transform/1col/image.png,,,,,,,,,,,16,2020,Sakhir,Sakhir
-23,A ALBON,ALB,,Red Bull Racing,1E41FF,,Alexander,Albon,Alexander Albon,https://www.formula1.com/content/dam/fom-website/drivers/A/ALEALB01_Alexander_Albon/alealb01.png.transform/1col/image.png,,,,,,,,,,,16,2020,Sakhir,Sakhir
-5,S VETTEL,VET,,Ferrari,DC0000,,Sebastian,Vettel,Sebastian Vettel,https://www.formula1.com/content/dam/fom-website/drivers/S/SEBVET01_Sebastian_Vettel/sebvet01.png.transform/1col/image.png,,,,,,,,,,,16,2020,Sakhir,Sakhir
-99,A GIOVINAZZI,GIO,,Alfa Romeo Racing,9B0000,,Antonio,Giovinazzi,Antonio Giovinazzi,https://www.formula1.com/content/dam/fom-website/drivers/A/ANTGIO01_Antonio_Giovinazzi/antgio01.png.transform/1col/image.png,,,,,,,,,,,16,2020,Sakhir,Sakhir
-20,K MAGNUSSEN,MAG,,Haas F1 Team,787878,,Kevin,Magnussen,Kevin Magnussen,https://www.formula1.com/content/dam/fom-website/drivers/K/KEVMAG01_Kevin_Magnussen/kevmag01.png.transform/1col/image.png,,,,,,,,,,,16,2020,Sakhir,Sakhir
-6,N LATIFI,LAT,,Williams,0082fa,,Nicholas,Latifi,Nicholas Latifi,https://www.formula1.com/content/dam/fom-website/drivers/N/NICLAF01_Nicholas_Latifi/niclaf01.png.transform/1col/image.png,,,,,,,,,,,16,2020,Sakhir,Sakhir
-89,J AITKEN,AIT,,Williams,0082fa,,Jack,Aitken,Jack Aitken,None,,,,,,,,,,,16,2020,Sakhir,Sakhir
-7,K RAIKKONEN,RAI,,Alfa Romeo Racing,9B0000,,Kimi,Räikkönen,Kimi Räikkönen,https://www.formula1.com/content/dam/fom-website/drivers/K/KIMRAI01_Kimi_R%C3%A4ikk%C3%B6nen/kimrai01.png.transform/1col/image.png,,,,,,,,,,,16,2020,Sakhir,Sakhir
-4,L NORRIS,NOR,,McLaren,FF8700,,Lando,Norris,Lando Norris,https://www.formula1.com/content/dam/fom-website/drivers/L/LANNOR01_Lando_Norris/lannor01.png.transform/1col/image.png,,,,,,,,,,,16,2020,Sakhir,Sakhir
-51,P FITTIPALDI,FIT,,Haas F1 Team,787878,,Pietro,Fittipaldi,Pietro Fittipaldi,None,,,,,,,,,,,16,2020,Sakhir,Sakhir
-33,M VERSTAPPEN,VER,,Red Bull Racing,1E41FF,,Max,Verstappen,Max Verstappen,https://www.formula1.com/content/dam/fom-website/drivers/M/MAXVER01_Max_Verstappen/maxver01.png.transform/1col/image.png,,,,,,,,,,,17,2020,Abu Dhabi,Yas Island
-77,V BOTTAS,BOT,,Mercedes,00D2BE,,Valtteri,Bottas,Valtteri Bottas,https://www.formula1.com/content/dam/fom-website/drivers/V/VALBOT01_Valtteri_Bottas/valbot01.png.transform/1col/image.png,,,,,,,,,,,17,2020,Abu Dhabi,Yas Island
-44,L HAMILTON,HAM,,Mercedes,00D2BE,,Lewis,Hamilton,Lewis Hamilton,https://www.formula1.com/content/dam/fom-website/drivers/L/LEWHAM01_Lewis_Hamilton/lewham01.png.transform/1col/image.png,,,,,,,,,,,17,2020,Abu Dhabi,Yas Island
-4,L NORRIS,NOR,,McLaren,FF8700,,Lando,Norris,Lando Norris,https://www.formula1.com/content/dam/fom-website/drivers/L/LANNOR01_Lando_Norris/lannor01.png.transform/1col/image.png,,,,,,,,,,,17,2020,Abu Dhabi,Yas Island
-23,A ALBON,ALB,,Red Bull Racing,1E41FF,,Alexander,Albon,Alexander Albon,https://www.formula1.com/content/dam/fom-website/drivers/A/ALEALB01_Alexander_Albon/alealb01.png.transform/1col/image.png,,,,,,,,,,,17,2020,Abu Dhabi,Yas Island
-55,C SAINZ,SAI,,McLaren,FF8700,,Carlos,Sainz,Carlos Sainz,https://www.formula1.com/content/dam/fom-website/drivers/C/CARSAI01_Carlos_Sainz/carsai01.png.transform/1col/image.png,,,,,,,,,,,17,2020,Abu Dhabi,Yas Island
-26,D KVYAT,KVY,,AlphaTauri,ffffff,,Daniil,Kvyat,Daniil Kvyat,https://www.formula1.com/content/dam/fom-website/drivers/D/DANKVY01_Daniil_Kvyat/dankvy01.png.transform/1col/image.png,,,,,,,,,,,17,2020,Abu Dhabi,Yas Island
-18,L STROLL,STR,,Racing Point,F596C8,,Lance,Stroll,Lance Stroll,https://www.formula1.com/content/dam/fom-website/drivers/L/LANSTR01_Lance_Stroll/lanstr01.png.transform/1col/image.png,,,,,,,,,,,17,2020,Abu Dhabi,Yas Island
-10,P GASLY,GAS,,AlphaTauri,ffffff,,Pierre,Gasly,Pierre Gasly,https://www.formula1.com/content/dam/fom-website/drivers/P/PIEGAS01_Pierre_Gasly/piegas01.png.transform/1col/image.png,,,,,,,,,,,17,2020,Abu Dhabi,Yas Island
-31,E OCON,OCO,,Renault,FFF500,,Esteban,Ocon,Esteban Ocon,https://www.formula1.com/content/dam/fom-website/drivers/E/ESTOCO01_Esteban_Ocon/estoco01.png.transform/1col/image.png,,,,,,,,,,,17,2020,Abu Dhabi,Yas Island
-3,D RICCIARDO,RIC,,Renault,FFF500,,Daniel,Ricciardo,Daniel Ricciardo,https://www.formula1.com/content/dam/fom-website/drivers/D/DANRIC01_Daniel_Ricciardo/danric01.png.transform/1col/image.png,,,,,,,,,,,17,2020,Abu Dhabi,Yas Island
-16,C LECLERC,LEC,,Ferrari,DC0000,,Charles,Leclerc,Charles Leclerc,https://www.formula1.com/content/dam/fom-website/drivers/C/CHALEC01_Charles_Leclerc/chalec01.png.transform/1col/image.png,,,,,,,,,,,17,2020,Abu Dhabi,Yas Island
-5,S VETTEL,VET,,Ferrari,DC0000,,Sebastian,Vettel,Sebastian Vettel,https://www.formula1.com/content/dam/fom-website/drivers/S/SEBVET01_Sebastian_Vettel/sebvet01.png.transform/1col/image.png,,,,,,,,,,,17,2020,Abu Dhabi,Yas Island
-99,A GIOVINAZZI,GIO,,Alfa Romeo Racing,9B0000,,Antonio,Giovinazzi,Antonio Giovinazzi,https://www.formula1.com/content/dam/fom-website/drivers/A/ANTGIO01_Antonio_Giovinazzi/antgio01.png.transform/1col/image.png,,,,,,,,,,,17,2020,Abu Dhabi,Yas Island
-7,K RAIKKONEN,RAI,,Alfa Romeo Racing,9B0000,,Kimi,Räikkönen,Kimi Räikkönen,https://www.formula1.com/content/dam/fom-website/drivers/K/KIMRAI01_Kimi_R%C3%A4ikk%C3%B6nen/kimrai01.png.transform/1col/image.png,,,,,,,,,,,17,2020,Abu Dhabi,Yas Island
-63,G RUSSELL,RUS,,Williams,0082fa,,George,Russell,George Russell,https://www.formula1.com/content/dam/fom-website/drivers/G/GEORUS01_George_Russell/georus01.png.transform/1col/image.png,,,,,,,,,,,17,2020,Abu Dhabi,Yas Island
-51,P FITTIPALDI,FIT,,Haas F1 Team,787878,,Pietro,Fittipaldi,Pietro Fittipaldi,None,,,,,,,,,,,17,2020,Abu Dhabi,Yas Island
-6,N LATIFI,LAT,,Williams,0082fa,,Nicholas,Latifi,Nicholas Latifi,https://www.formula1.com/content/dam/fom-website/drivers/N/NICLAF01_Nicholas_Latifi/niclaf01.png.transform/1col/image.png,,,,,,,,,,,17,2020,Abu Dhabi,Yas Island
-11,S PEREZ,PER,,Racing Point,F596C8,,Sergio,Perez,Sergio Perez,https://www.formula1.com/content/dam/fom-website/drivers/S/SERPER01_Sergio_Perez/serper01.png.transform/1col/image.png,,,,,,,,,,,17,2020,Abu Dhabi,Yas Island
-20,K MAGNUSSEN,MAG,,Haas F1 Team,787878,,Kevin,Magnussen,Kevin Magnussen,https://www.formula1.com/content/dam/fom-website/drivers/K/KEVMAG01_Kevin_Magnussen/kevmag01.png.transform/1col/image.png,,,,,,,,,,,17,2020,Abu Dhabi,Yas Island
+Race ID,Position,Last Name,First Name,Constructor,Points,Fastest Lap Time,Fastest Lap Avg Speed (kph)
+1,1,Bottas,Valtteri,Mercedes,25,1:07.657,229.758
+1,2,Leclerc,Charles,Ferrari,18,1:07.901,228.933
+1,3,Norris,Lando,McLaren,16,1:07.475,230.378
+1,4,Hamilton,Lewis,Mercedes,12,1:07.712,229.572
+1,5,Sainz,Carlos,McLaren,10,1:07.974,228.687
+1,6,Pérez,Sergio,Racing Point,8,1:08.305,227.579
+1,7,Gasly,Pierre,AlphaTauri,6,1:09.025,225.205
+1,8,Ocon,Esteban,Renault,4,1:08.932,225.509
+1,9,Giovinazzi,Antonio,Alfa Romeo,2,1:08.796,225.954
+1,10,Vettel,Sebastian,Ferrari,1,1:08.623,226.524
+1,11,Latifi,Nicholas,Williams,0,1:09.662,223.146
+1,12,Kvyat,Daniil,AlphaTauri,0,1:09.135,224.847
+1,13,Albon,Alexander,Red Bull,0,1:08.432,227.156
+1,14,Räikkönen,Kimi,Alfa Romeo,0,1:09.031,225.185
+1,15,Russell,George,Williams,0,1:09.317,224.256
+1,16,Grosjean,Romain,Haas F1 Team,0,1:10.228,221.347
+1,17,Magnussen,Kevin,Haas F1 Team,0,1:10.720,219.807
+1,18,Stroll,Lance,Racing Point,0,1:10.326,221.039
+1,19,Ricciardo,Daniel,Renault,0,1:10.610,220.150
+1,20,Verstappen,Max,Red Bull,0,1:09.351,224.146
+2,1,Hamilton,Lewis,Mercedes,25,1:06.719,232.989
+2,2,Bottas,Valtteri,Mercedes,18,1:07.534,230.177
+2,3,Verstappen,Max,Red Bull,15,1:06.145,235.010
+2,4,Albon,Alexander,Red Bull,12,1:07.299,230.981
+2,5,Norris,Lando,McLaren,10,1:07.193,231.345
+2,6,Pérez,Sergio,Racing Point,8,1:07.188,231.362
+2,7,Stroll,Lance,Racing Point,6,1:07.833,229.162
+2,8,Ricciardo,Daniel,Renault,4,1:07.832,229.166
+2,9,Sainz,Carlos,McLaren,3,1:05.619,236.894
+2,10,Kvyat,Daniil,AlphaTauri,1,1:08.378,227.336
+2,11,Räikkönen,Kimi,Alfa Romeo,0,1:08.382,227.322
+2,12,Magnussen,Kevin,Haas F1 Team,0,1:08.009,228.569
+2,13,Grosjean,Romain,Haas F1 Team,0,1:08.047,228.442
+2,14,Giovinazzi,Antonio,Alfa Romeo,0,1:08.512,226.891
+2,15,Gasly,Pierre,AlphaTauri,0,1:07.827,229.183
+2,16,Russell,George,Williams,0,1:08.601,226.597
+2,17,Latifi,Nicholas,Williams,0,1:08.806,225.922
+2,18,Ocon,Esteban,Renault,0,1:09.321,224.243
+2,19,Leclerc,Charles,Ferrari,0,1:35.379,162.979
+2,20,Vettel,Sebastian,Ferrari,0,,
+3,1,Hamilton,Lewis,Mercedes,26,1:16.627,205.823
+3,2,Verstappen,Max,Red Bull,18,1:19.184,199.176
+3,3,Bottas,Valtteri,Mercedes,15,1:17.665,203.072
+3,4,Stroll,Lance,Racing Point,12,1:18.973,199.708
+3,5,Albon,Alexander,Red Bull,10,1:19.440,198.534
+3,6,Vettel,Sebastian,Ferrari,8,1:20.363,196.254
+3,7,Pérez,Sergio,Racing Point,6,1:20.090,196.923
+3,8,Ricciardo,Daniel,Renault,4,1:19.532,198.305
+3,9,Sainz,Carlos,McLaren,2,1:20.477,195.976
+3,10,Magnussen,Kevin,Haas F1 Team,1,1:19.457,198.492
+3,11,Leclerc,Charles,Ferrari,0,1:20.821,195.142
+3,12,Kvyat,Daniil,AlphaTauri,0,1:20.946,194.841
+3,13,Norris,Lando,McLaren,0,1:19.945,197.280
+3,14,Ocon,Esteban,Renault,0,1:20.261,196.503
+3,15,Räikkönen,Kimi,Alfa Romeo,0,1:20.889,194.978
+3,16,Grosjean,Romain,Haas F1 Team,0,1:20.232,196.574
+3,17,Giovinazzi,Antonio,Alfa Romeo,0,1:20.096,196.908
+3,18,Russell,George,Williams,0,1:19.984,197.184
+3,19,Latifi,Nicholas,Williams,0,1:21.198,194.236
+3,20,Gasly,Pierre,AlphaTauri,0,1:23.939,187.893
+4,1,Hamilton,Lewis,Mercedes,25,1:29.238,237.652
+4,2,Verstappen,Max,Red Bull,19,1:27.097,243.494
+4,3,Leclerc,Charles,Ferrari,15,1:29.813,236.130
+4,4,Ricciardo,Daniel,Renault,12,1:29.482,237.004
+4,5,Norris,Lando,McLaren,10,1:30.058,235.488
+4,6,Ocon,Esteban,Renault,8,1:29.491,236.980
+4,7,Gasly,Pierre,AlphaTauri,6,1:29.603,236.684
+4,8,Albon,Alexander,Red Bull,4,1:28.689,239.123
+4,9,Stroll,Lance,Racing Point,2,1:30.475,234.402
+4,10,Vettel,Sebastian,Ferrari,1,1:30.537,234.242
+4,11,Bottas,Valtteri,Mercedes,0,1:29.265,237.580
+4,12,Russell,George,Williams,0,1:30.862,233.404
+4,13,Sainz,Carlos,McLaren,0,1:29.948,235.776
+4,14,Giovinazzi,Antonio,Alfa Romeo,0,1:30.977,233.109
+4,15,Latifi,Nicholas,Williams,0,1:30.501,234.335
+4,16,Grosjean,Romain,Haas F1 Team,0,1:29.782,236.212
+4,17,Räikkönen,Kimi,Alfa Romeo,0,1:29.973,235.710
+4,18,Kvyat,Daniil,AlphaTauri,0,1:32.443,229.412
+4,19,Magnussen,Kevin,Haas F1 Team,0,,
+4,20,Hülkenberg,Nico,Racing Point,0,,
+5,1,Verstappen,Max,Red Bull,25,1:29.465,237.049
+5,2,Hamilton,Lewis,Mercedes,19,1:28.451,239.766
+5,3,Bottas,Valtteri,Mercedes,15,1:29.765,236.256
+5,4,Leclerc,Charles,Ferrari,12,1:30.552,234.203
+5,5,Albon,Alexander,Red Bull,10,1:29.477,237.017
+5,6,Stroll,Lance,Racing Point,8,1:30.877,233.365
+5,7,Hülkenberg,Nico,Racing Point,6,1:30.087,235.412
+5,8,Ocon,Esteban,Renault,4,1:30.575,234.144
+5,9,Norris,Lando,McLaren,2,1:30.698,233.826
+5,10,Kvyat,Daniil,AlphaTauri,1,1:30.738,233.723
+5,11,Gasly,Pierre,AlphaTauri,0,1:30.092,235.399
+5,12,Vettel,Sebastian,Ferrari,0,1:30.785,233.602
+5,13,Sainz,Carlos,McLaren,0,1:30.556,234.193
+5,14,Ricciardo,Daniel,Renault,0,1:31.168,232.621
+5,15,Räikkönen,Kimi,Alfa Romeo,0,1:31.756,231.130
+5,16,Grosjean,Romain,Haas F1 Team,0,1:30.793,233.581
+5,17,Giovinazzi,Antonio,Alfa Romeo,0,1:31.826,230.954
+5,18,Russell,George,Williams,0,1:31.408,232.010
+5,19,Latifi,Nicholas,Williams,0,1:29.950,235.770
+5,20,Magnussen,Kevin,Haas F1 Team,0,1:31.830,230.944
+6,1,Hamilton,Lewis,Mercedes,25,1:19.822,209.942
+6,2,Verstappen,Max,Red Bull,18,1:21.477,205.677
+6,3,Bottas,Valtteri,Mercedes,16,1:18.183,214.343
+6,4,Stroll,Lance,Racing Point,12,1:22.024,204.306
+6,5,Pérez,Sergio,Racing Point,10,1:22.515,203.090
+6,6,Sainz,Carlos,McLaren,8,1:21.771,204.938
+6,7,Vettel,Sebastian,Ferrari,6,1:22.707,202.618
+6,8,Albon,Alexander,Red Bull,4,1:22.194,203.883
+6,9,Gasly,Pierre,AlphaTauri,2,1:22.543,203.021
+6,10,Norris,Lando,McLaren,1,1:22.392,203.393
+6,11,Ricciardo,Daniel,Renault,0,1:22.464,203.215
+6,12,Kvyat,Daniil,AlphaTauri,0,1:22.336,203.531
+6,13,Ocon,Esteban,Renault,0,1:22.174,203.933
+6,14,Räikkönen,Kimi,Alfa Romeo,0,1:21.888,204.645
+6,15,Magnussen,Kevin,Haas F1 Team,0,1:23.474,200.757
+6,16,Giovinazzi,Antonio,Alfa Romeo,0,1:21.801,204.863
+6,17,Russell,George,Williams,0,1:22.503,203.119
+6,18,Latifi,Nicholas,Williams,0,1:22.030,204.291
+6,19,Grosjean,Romain,Haas F1 Team,0,1:20.409,208.409
+6,20,Leclerc,Charles,Ferrari,0,1:23.968,199.576
+7,1,Hamilton,Lewis,Mercedes,25,1:47.758,233.990
+7,2,Bottas,Valtteri,Mercedes,18,1:47.983,233.503
+7,3,Verstappen,Max,Red Bull,15,1:48.305,232.809
+7,4,Ricciardo,Daniel,Renault,13,1:47.483,234.589
+7,5,Ocon,Esteban,Renault,10,1:48.540,232.305
+7,6,Albon,Alexander,Red Bull,8,1:48.736,231.886
+7,7,Norris,Lando,McLaren,6,1:48.552,232.279
+7,8,Gasly,Pierre,AlphaTauri,4,1:47.839,233.815
+7,9,Stroll,Lance,Racing Point,2,1:49.136,231.036
+7,10,Pérez,Sergio,Racing Point,1,1:48.389,232.628
+7,11,Kvyat,Daniil,AlphaTauri,0,1:49.832,229.572
+7,12,Räikkönen,Kimi,Alfa Romeo,0,1:49.822,229.593
+7,13,Vettel,Sebastian,Ferrari,0,1:49.958,229.309
+7,14,Leclerc,Charles,Ferrari,0,1:47.840,233.813
+7,15,Grosjean,Romain,Haas F1 Team,0,1:50.018,229.184
+7,16,Latifi,Nicholas,Williams,0,1:48.048,233.362
+7,17,Magnussen,Kevin,Haas F1 Team,0,1:48.083,233.287
+7,18,Giovinazzi,Antonio,Alfa Romeo,0,1:51.793,225.545
+7,19,Russell,George,Williams,0,1:51.754,225.624
+7,20,Sainz,Carlos,McLaren,0,,
+8,1,Gasly,Pierre,AlphaTauri,25,1:24.037,248.162
+8,2,Sainz,Carlos,McLaren,18,1:23.882,248.620
+8,3,Stroll,Lance,Racing Point,15,1:23.897,248.576
+8,4,Norris,Lando,McLaren,12,1:24.232,247.587
+8,5,Bottas,Valtteri,Mercedes,10,1:23.961,248.386
+8,6,Ricciardo,Daniel,Renault,8,1:23.898,248.573
+8,7,Hamilton,Lewis,Mercedes,7,1:22.746,252.033
+8,8,Ocon,Esteban,Renault,4,1:24.490,246.831
+8,9,Kvyat,Daniil,AlphaTauri,2,1:24.479,246.863
+8,10,Pérez,Sergio,Racing Point,1,1:24.336,247.282
+8,11,Latifi,Nicholas,Williams,0,1:24.999,245.353
+8,12,Grosjean,Romain,Haas F1 Team,0,1:24.785,245.972
+8,13,Räikkönen,Kimi,Alfa Romeo,0,1:24.835,245.827
+8,14,Russell,George,Williams,0,1:24.421,247.033
+8,15,Albon,Alexander,Red Bull,0,1:24.926,245.564
+8,16,Giovinazzi,Antonio,Alfa Romeo,0,1:24.856,245.766
+8,17,Verstappen,Max,Red Bull,0,1:25.539,243.804
+8,18,Leclerc,Charles,Ferrari,0,1:26.026,242.424
+8,19,Magnussen,Kevin,Haas F1 Team,0,1:25.787,243.099
+8,20,Vettel,Sebastian,Ferrari,0,1:27.107,239.415
+9,1,Hamilton,Lewis,Mercedes,26,1:18.833,239.518
+9,2,Bottas,Valtteri,Mercedes,18,1:19.432,237.712
+9,3,Albon,Alexander,Red Bull,15,1:20.039,235.909
+9,4,Ricciardo,Daniel,Renault,12,1:20.426,234.774
+9,5,Pérez,Sergio,Racing Point,10,1:20.632,234.175
+9,6,Norris,Lando,McLaren,8,1:21.198,232.542
+9,7,Kvyat,Daniil,AlphaTauri,6,1:21.458,231.800
+9,8,Leclerc,Charles,Ferrari,4,1:21.229,232.453
+9,9,Räikkönen,Kimi,Alfa Romeo,2,1:21.164,232.640
+9,10,Vettel,Sebastian,Ferrari,1,1:21.202,232.531
+9,11,Russell,George,Williams,0,1:21.645,231.269
+9,12,Grosjean,Romain,Haas F1 Team,0,1:22.263,229.532
+9,13,Stroll,Lance,Racing Point,0,1:22.068,230.077
+9,14,Ocon,Esteban,Renault,0,2:11.793,143.270
+9,15,Latifi,Nicholas,Williams,0,2:11.365,143.736
+9,16,Magnussen,Kevin,Haas F1 Team,0,2:13.812,141.108
+9,17,Giovinazzi,Antonio,Alfa Romeo,0,2:13.809,141.111
+9,18,Sainz,Carlos,McLaren,0,2:14.103,140.802
+9,19,Verstappen,Max,Red Bull,0,,
+9,20,Gasly,Pierre,AlphaTauri,0,,
+10,1,Bottas,Valtteri,Mercedes,26,1:37.030,216.972
+10,2,Verstappen,Max,Red Bull,18,1:37.332,216.298
+10,3,Hamilton,Lewis,Mercedes,15,1:38.075,214.660
+10,4,Pérez,Sergio,Racing Point,12,1:38.141,214.515
+10,5,Ricciardo,Daniel,Renault,10,1:37.886,215.074
+10,6,Leclerc,Charles,Ferrari,8,1:39.053,212.540
+10,7,Ocon,Esteban,Renault,6,1:39.216,212.191
+10,8,Kvyat,Daniil,AlphaTauri,4,1:39.133,212.369
+10,9,Gasly,Pierre,AlphaTauri,2,1:37.231,216.523
+10,10,Albon,Alexander,Red Bull,1,1:38.377,214.001
+10,11,Giovinazzi,Antonio,Alfa Romeo,0,1:39.766,211.021
+10,12,Magnussen,Kevin,Haas F1 Team,0,1:40.380,209.731
+10,13,Vettel,Sebastian,Ferrari,0,1:39.588,211.398
+10,14,Räikkönen,Kimi,Alfa Romeo,0,1:38.858,212.960
+10,15,Norris,Lando,McLaren,0,1:37.377,216.198
+10,16,Latifi,Nicholas,Williams,0,1:41.044,208.352
+10,17,Grosjean,Romain,Haas F1 Team,0,1:39.614,211.343
+10,18,Russell,George,Williams,0,1:37.352,216.254
+10,19,Sainz,Carlos,McLaren,0,,
+10,20,Stroll,Lance,Racing Point,0,,
+11,1,Hamilton,Lewis,Mercedes,25,1:28.145,210.253
+11,2,Verstappen,Max,Red Bull,19,1:28.139,210.267
+11,3,Ricciardo,Daniel,Renault,15,1:29.584,206.876
+11,4,Pérez,Sergio,Racing Point,12,1:29.700,206.608
+11,5,Sainz,Carlos,McLaren,10,1:30.129,205.625
+11,6,Gasly,Pierre,AlphaTauri,8,1:30.110,205.668
+11,7,Leclerc,Charles,Ferrari,6,1:30.712,204.303
+11,8,Hülkenberg,Nico,Racing Point,4,1:30.733,204.256
+11,9,Grosjean,Romain,Haas F1 Team,2,1:31.562,202.407
+11,10,Giovinazzi,Antonio,Alfa Romeo,1,1:30.909,203.861
+11,11,Vettel,Sebastian,Ferrari,0,1:30.408,204.990
+11,12,Räikkönen,Kimi,Alfa Romeo,0,1:30.512,204.755
+11,13,Magnussen,Kevin,Haas F1 Team,0,1:30.456,204.881
+11,14,Latifi,Nicholas,Williams,0,1:31.377,202.816
+11,15,Kvyat,Daniil,AlphaTauri,0,1:32.214,200.975
+11,16,Norris,Lando,McLaren,0,1:32.328,200.727
+11,17,Albon,Alexander,Red Bull,0,1:32.330,200.723
+11,18,Ocon,Esteban,Renault,0,1:33.189,198.873
+11,19,Bottas,Valtteri,Mercedes,0,1:31.884,201.697
+11,20,Russell,George,Williams,0,1:34.526,196.060
+12,1,Hamilton,Lewis,Mercedes,26,1:18.750,212.708
+12,2,Bottas,Valtteri,Mercedes,18,1:19.345,211.113
+12,3,Verstappen,Max,Red Bull,15,1:19.854,209.767
+12,4,Leclerc,Charles,Ferrari,12,1:20.408,208.322
+12,5,Gasly,Pierre,AlphaTauri,10,1:20.551,207.952
+12,6,Sainz,Carlos,McLaren,8,1:20.268,208.685
+12,7,Pérez,Sergio,Racing Point,6,1:20.802,207.306
+12,8,Ocon,Esteban,Renault,4,1:20.859,207.160
+12,9,Ricciardo,Daniel,Renault,2,1:20.906,207.040
+12,10,Vettel,Sebastian,Ferrari,1,1:20.731,207.489
+12,11,Räikkönen,Kimi,Alfa Romeo,0,1:21.058,206.652
+12,12,Albon,Alexander,Red Bull,0,1:19.890,209.673
+12,13,Norris,Lando,McLaren,0,1:19.360,211.073
+12,14,Russell,George,Williams,0,1:20.882,207.101
+12,15,Giovinazzi,Antonio,Alfa Romeo,0,1:21.893,204.544
+12,16,Magnussen,Kevin,Haas F1 Team,0,1:21.460,205.632
+12,17,Grosjean,Romain,Haas F1 Team,0,1:21.664,205.118
+12,18,Latifi,Nicholas,Williams,0,1:21.859,204.629
+12,19,Kvyat,Daniil,AlphaTauri,0,1:20.449,208.216
+12,20,Stroll,Lance,Racing Point,0,1:21.694,205.043
+13,1,Hamilton,Lewis,Mercedes,26,1:15.484,234.121
+13,2,Bottas,Valtteri,Mercedes,18,1:15.902,232.831
+13,3,Ricciardo,Daniel,Renault,15,1:17.552,227.878
+13,4,Kvyat,Daniil,AlphaTauri,12,1:17.666,227.543
+13,5,Leclerc,Charles,Ferrari,10,1:18.173,226.067
+13,6,Pérez,Sergio,Racing Point,8,1:18.084,226.325
+13,7,Sainz,Carlos,McLaren,6,1:18.118,226.226
+13,8,Norris,Lando,McLaren,4,1:18.069,226.368
+13,9,Räikkönen,Kimi,Alfa Romeo,2,1:18.088,226.313
+13,10,Giovinazzi,Antonio,Alfa Romeo,1,1:18.794,224.286
+13,11,Latifi,Nicholas,Williams,0,1:18.719,224.499
+13,12,Vettel,Sebastian,Ferrari,0,1:17.767,227.248
+13,13,Stroll,Lance,Racing Point,0,1:18.360,225.528
+13,14,Grosjean,Romain,Haas F1 Team,0,1:18.822,224.206
+13,15,Albon,Alexander,Red Bull,0,1:16.177,231.991
+13,16,Russell,George,Williams,0,1:18.811,224.237
+13,17,Verstappen,Max,Red Bull,0,1:17.637,227.628
+13,18,Magnussen,Kevin,Haas F1 Team,0,1:19.273,222.930
+13,19,Ocon,Esteban,Renault,0,1:19.606,221.998
+13,20,Gasly,Pierre,AlphaTauri,0,1:20.403,219.797
+14,1,Hamilton,Lewis,Mercedes,25,1:39.413,193.302
+14,2,Pérez,Sergio,Racing Point,18,1:40.392,191.417
+14,3,Vettel,Sebastian,Ferrari,15,1:39.662,192.819
+14,4,Leclerc,Charles,Ferrari,12,1:39.961,192.242
+14,5,Sainz,Carlos,McLaren,10,1:38.754,194.592
+14,6,Verstappen,Max,Red Bull,8,1:38.431,195.231
+14,7,Albon,Alexander,Red Bull,6,1:39.099,193.915
+14,8,Norris,Lando,McLaren,5,1:36.806,198.508
+14,9,Stroll,Lance,Racing Point,2,1:39.921,192.319
+14,10,Ricciardo,Daniel,Renault,1,1:40.677,190.875
+14,11,Ocon,Esteban,Renault,0,1:41.006,190.254
+14,12,Kvyat,Daniil,AlphaTauri,0,1:41.019,190.229
+14,13,Gasly,Pierre,AlphaTauri,0,1:39.586,192.966
+14,14,Bottas,Valtteri,Mercedes,0,1:38.193,195.704
+14,15,Räikkönen,Kimi,Alfa Romeo,0,1:39.743,192.663
+14,16,Russell,George,Williams,0,1:40.814,190.616
+14,17,Magnussen,Kevin,Haas F1 Team,0,1:40.948,190.363
+14,18,Grosjean,Romain,Haas F1 Team,0,1:43.281,186.063
+14,19,Latifi,Nicholas,Williams,0,1:43.495,185.678
+14,20,Giovinazzi,Antonio,Alfa Romeo,0,1:51.122,172.934
+15,1,Hamilton,Lewis,Mercedes,25,1:32.864,209.803
+15,2,Verstappen,Max,Red Bull,19,1:32.014,211.741
+15,3,Albon,Alexander,Red Bull,15,1:33.684,207.967
+15,4,Norris,Lando,McLaren,12,1:33.588,208.180
+15,5,Sainz,Carlos,McLaren,10,1:33.411,208.575
+15,6,Gasly,Pierre,AlphaTauri,8,1:34.817,205.482
+15,7,Ricciardo,Daniel,Renault,6,1:32.827,209.887
+15,8,Bottas,Valtteri,Mercedes,4,1:33.352,208.706
+15,9,Ocon,Esteban,Renault,2,1:34.354,206.490
+15,10,Leclerc,Charles,Ferrari,1,1:33.625,208.098
+15,11,Kvyat,Daniil,AlphaTauri,0,1:34.141,206.957
+15,12,Russell,George,Williams,0,1:35.042,204.995
+15,13,Vettel,Sebastian,Ferrari,0,1:33.861,207.575
+15,14,Latifi,Nicholas,Williams,0,1:34.591,205.973
+15,15,Räikkönen,Kimi,Alfa Romeo,0,1:33.573,208.213
+15,16,Giovinazzi,Antonio,Alfa Romeo,0,1:34.536,206.092
+15,17,Magnussen,Kevin,Haas F1 Team,0,1:35.241,204.567
+15,18,Pérez,Sergio,Racing Point,0,1:33.629,208.089
+15,19,Stroll,Lance,Racing Point,0,,
+15,20,Grosjean,Romain,Haas F1 Team,0,,
+16,1,Pérez,Sergio,Racing Point,25,0:56.789,224.599
+16,2,Ocon,Esteban,Renault,18,0:57.350,222.402
+16,3,Stroll,Lance,Racing Point,15,0:57.388,222.255
+16,4,Sainz,Carlos,McLaren,12,0:57.165,223.122
+16,5,Ricciardo,Daniel,Renault,10,0:56.979,223.850
+16,6,Albon,Alexander,Red Bull,8,0:57.056,223.548
+16,7,Kvyat,Daniil,AlphaTauri,6,0:57.001,223.764
+16,8,Bottas,Valtteri,Mercedes,4,0:56.563,225.497
+16,9,Russell,George,Mercedes,3,0:55.404,230.214
+16,10,Norris,Lando,McLaren,1,0:57.270,222.713
+16,11,Gasly,Pierre,AlphaTauri,0,0:57.220,222.908
+16,12,Vettel,Sebastian,Ferrari,0,0:56.905,224.141
+16,13,Giovinazzi,Antonio,Alfa Romeo,0,0:56.887,224.212
+16,14,Räikkönen,Kimi,Alfa Romeo,0,0:57.375,222.305
+16,15,Magnussen,Kevin,Haas F1 Team,0,0:57.516,221.760
+16,16,Aitken,Jack,Williams,0,0:57.392,222.240
+16,17,Fittipaldi,Pietro,Haas F1 Team,0,0:57.742,220.892
+16,18,Latifi,Nicholas,Williams,0,0:58.206,219.132
+16,19,Verstappen,Max,Red Bull,0,,
+16,20,Leclerc,Charles,Ferrari,0,,
+17,1,Verstappen,Max,Red Bull,25,1:40.958,198.046
+17,2,Bottas,Valtteri,Mercedes,18,1:41.131,197.707
+17,3,Hamilton,Lewis,Mercedes,15,1:41.420,197.144
+17,4,Albon,Alexander,Red Bull,12,1:41.227,197.520
+17,5,Norris,Lando,McLaren,10,1:41.964,196.092
+17,6,Sainz,Carlos,McLaren,8,1:41.947,196.125
+17,7,Ricciardo,Daniel,Renault,7,1:40.926,198.109
+17,8,Gasly,Pierre,AlphaTauri,4,1:42.474,195.116
+17,9,Ocon,Esteban,Renault,2,1:42.894,194.320
+17,10,Stroll,Lance,Racing Point,1,1:41.866,196.281
+17,11,Kvyat,Daniil,AlphaTauri,0,1:42.704,194.679
+17,12,Räikkönen,Kimi,Alfa Romeo,0,1:42.148,195.739
+17,13,Leclerc,Charles,Ferrari,0,1:41.908,196.200
+17,14,Vettel,Sebastian,Ferrari,0,1:41.475,197.037
+17,15,Russell,George,Williams,0,1:43.328,193.504
+17,16,Giovinazzi,Antonio,Alfa Romeo,0,1:41.675,196.650
+17,17,Latifi,Nicholas,Williams,0,1:42.497,195.073
+17,18,Magnussen,Kevin,Haas F1 Team,0,1:41.999,196.025
+17,19,Fittipaldi,Pietro,Haas F1 Team,0,1:41.707,196.588
+17,20,Pérez,Sergio,Racing Point,0,1:43.263,193.625
