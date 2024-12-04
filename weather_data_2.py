@@ -103,7 +103,7 @@ def main():
                                                   ).drop('min_distance')
         closest_stations = closest_stations.withColumn('schedule_date', F.to_date('schedule_date'))
         closest_stations = closest_stations.withColumnRenamed('station', 'closest_station')
-        closest_stations = closest_stations.select('Round','Locality', 'Country', 'schedule_date','station')
+        closest_stations = closest_stations.select('Round','Locality', 'Country', 'schedule_date','closest_station')
         closest_stations = closest_stations.cache()
         closest_stations.show(22)
 
@@ -119,7 +119,7 @@ def main():
         # Parse the date string into a real date object
         obs = obs.withColumn('newdate', functions.to_date(obs['date'], 'yyyyMMdd'))
         obs = obs.drop('date').withColumnRenamed('newdate', 'date')
-
+        obs.show(20)
         obs = obs.join(closest_stations.hint("broadcast"), (obs['station'] == closest_stations['closest_station'] )& (obs['date'] == closest_stations['schedule_date']))
         #obs = obs.filter(obs['date'] == obs['schedule_date']).drop('date')
         obs = obs.drop('date')

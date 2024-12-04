@@ -1,6 +1,6 @@
 import pandas as pd
 
-file_path = '/Users/DELL/Documents/GitHub/F1-Race-Predictor/2022_weather_data/part-00000-0743f964-8b23-4023-8add-56e3ed266146-c000.csv.gz'
+file_path = '/Users/DELL/Documents/GitHub/F1-Race-Predictor/2022_weather_data/part-00000-bc8144dd-cce0-47d9-a4b9-a22a2ba122da-c000.csv.gz'
 
 # Read the compressed CSV file into a Pandas DataFrame
 df = pd.read_csv(file_path, compression='gzip')
