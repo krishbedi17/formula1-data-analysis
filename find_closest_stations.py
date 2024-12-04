@@ -14,7 +14,7 @@ spark = SparkSession.builder.appName('GHCN Extracter').getOrCreate()
 # Paths to your data files
 ghcn_path = '/courses/datasets/ghcn-splits'
 ghcn_stations = '/courses/datasets/ghcn-more/ghcnd-stations.txt'
-season_schedule_file = '/user/rda66/.sparkStaging/2022_season_schedule.csv'  # Your 2018 season schedule file
+season_schedule_file = '/user/kba89/.sparkStaging/2018_season_schedule.csv'  # Your 2018 season schedule file
 output = 'ghcn-subset'
 
 # Define schemas for observations and stations
@@ -107,35 +107,39 @@ def main():
         closest_stations = closest_stations.cache()
         closest_stations.show(22)
 
-        ## Observations data...
-        obs = spark.read.csv(ghcn_path, header=None, schema=observation_schema)
+        closest_stations = closest_stations.coalesce(1)
+        closest_stations = closest_stations.orderBy('Round')
+        closest_stations.write.csv(output + '/2018_closest_stations', mode='overwrite', header=True, compression='gzip')
 
-        ## Filter observations to match year and valid data
-        obs = obs.filter((obs['date'] >= '2022') & (obs['date'] <= '2022'))
-        obs = obs.filter(functions.isnull(obs['qflag']))
-        obs = obs.drop(obs['mflag']).drop(obs['qflag']).drop(obs['sflag']).drop(obs['obstime'])
-        obs = obs.filter(obs['observation'].isin('TMAX', 'TMIN', 'PRCP', 'WND', 'HMD', 'PRES'))
 
-        # Parse the date string into a real date object
-        obs = obs.withColumn('newdate', functions.to_date(obs['date'], 'yyyyMMdd'))
-        obs = obs.drop('date').withColumnRenamed('newdate', 'date')
-        obs.show(20)
-        obs = obs.join(closest_stations.hint("broadcast"), (obs['station'] == closest_stations['closest_station'] )& (obs['date'] == closest_stations['schedule_date']))
-        #obs = obs.filter(obs['date'] == obs['schedule_date']).drop('date')
-        obs = obs.drop('date')
-        obs = obs.cache()
-        ## Calculate Mean Weather Data
-        mean_weather = obs.groupBy('Locality', 'Country', 'schedule_date', 'Round', 'observation').agg(
-            functions.mean('value').alias('mean_value')
-        )
-        mean_weather = mean_weather.withColumn('year', functions.lit(2022))
-        # # Debug: Show the first few rows of the mean weather data
-        # print("Mean Weather Data:")
-        # mean_weather.show(5)
 
-        # Save Results
-        mean_weather = mean_weather.coalesce(1)
-        obs = obs.coalesce(1)
-        obs.write.csv(output + '/2022_weather_data', mode='overwrite', header=True, compression='gzip')
+        # ## Observations data...
+        # obs = spark.read.csv(ghcn_path, header=None, schema=observation_schema)
+        #
+        # ## Filter observations to match year and valid data
+        # obs = obs.filter((obs['date'] == 2018))
+        # obs = obs.filter(functions.isnull(obs['qflag']))
+        # obs = obs.drop(obs['mflag']).drop(obs['qflag']).drop(obs['sflag']).drop(obs['obstime'])
+        # obs = obs.filter(obs['observation'].isin('TMAX', 'TMIN', 'PRCP', 'WND', 'HMD', 'PRES'))
+        #
+        # # Parse the date string into a real date object
+        # obs = obs.withColumn('newdate', functions.to_date(obs['date'], 'yyyyMMdd'))
+        # obs = obs.drop('date').withColumnRenamed('newdate', 'date')
+        # obs.show(20)
+        # obs = obs.join(closest_stations.hint("broadcast"), (obs['station'] == closest_stations['closest_station'] )& (obs['date'] == closest_stations['schedule_date']))
+        # #obs = obs.filter(obs['date'] == obs['schedule_date']).drop('date')
+        # obs = obs.drop('date')
+        # obs = obs.cache()
+        # ## Calculate Mean Weather Data
+        # mean_weather = obs.groupBy('Locality', 'Country', 'schedule_date', 'Round', 'observation').agg(
+        #     functions.mean('value').alias('mean_value')
+        # )
+        # mean_weather = mean_weather.withColumn('year', functions.lit(2022))
+        # # # Debug: Show the first few rows of the mean weather data
+        # # print("Mean Weather Data:")
+        # # mean_weather.show(5)
+        #
+        # # Save Results
+        # mean_weather = mean_weather.coalesce(1)
 
 main()

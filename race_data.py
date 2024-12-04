@@ -36,7 +36,7 @@ def get_race_data(year,round):
         race_df['year'] = year
         race_df = race_df[[
             'raceID', 'position', 'Driver.driverId', 'Driver.familyName', 'Driver.givenName',
-            'Constructor.name','Constructor.constructorId', 'points', 'FastestLap.Time.time', 'FastestLap.AverageSpeed.speed'
+            'Constructor.name','Constructor.constructorId', 'points', 'status', 'FastestLap.Time.time', 'FastestLap.AverageSpeed.speed'
         ]]
 
         race_df.rename(columns={
@@ -49,6 +49,7 @@ def get_race_data(year,round):
             'Constructor.constructorId': 'Constructor ID',
             'Constructor.name': 'Constructor',
             'points': 'Points',
+            'status': 'Status',
             'FastestLap.Time.time': 'Fastest Lap Time',
             'FastestLap.AverageSpeed.speed': 'Fastest Lap Avg Speed (kph)'
         }, inplace=True)
