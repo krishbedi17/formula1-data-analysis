@@ -3,6 +3,7 @@ import pandas as pd
 
 years = [2018, 2019, 2020, 2021, 2022]
 file_paths = [f"race_data/{year}_race_results.csv" for year in years]
+file_paths2 = [f"pit_stops_data/{year}_pit_stops.csv" for year in years]
 team_collision_counts = {}
 team_total_races = {}
 
