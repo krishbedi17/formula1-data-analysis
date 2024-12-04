@@ -87,7 +87,8 @@ def main():
             pit_stops = get_pit_stops(i, j)
             if not pit_stops.empty:
                 # Calculate the average duration for each driver in each race
-                avg_pit_stop = pit_stops.groupby(['Round', 'Driver ID'])['Duration'].mean().reset_index()
+                avg_pit_stop = pit_stops.groupby(['Round', 'Driver ID'])['Duration'].agg(Mean ='mean', StdDev = 'std').reset_index()
+                avg_pit_stop['StdDev'] = avg_pit_stop['StdDev'].fillna(0)
                 avg_pit_stop['Year'] = i
                 all_pit_stops.append(avg_pit_stop)
 
