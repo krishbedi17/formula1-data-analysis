@@ -14,7 +14,7 @@ def get_quali_results(year, round):
 
             if quali_results:
                 for result in quali_results:
-                    result['Round'] = round
+                    result['Round'] = round + 1
 
                 quali_df = pd.json_normalize(quali_results)
 
