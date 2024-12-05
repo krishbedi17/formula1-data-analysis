@@ -13,9 +13,6 @@ def main():
         driver_yearly = pd.read_csv(f"driver_data/{year}_driver_data.csv")
         driver_yearly['year'] = year
         driver_merged = pd.concat([driver_merged, driver_yearly])
-
-        # pitstop_yearly = pd.read_csv(f"pit_stops_average_data/{year}_pit_stops_average.csv")
-
         quali_yearly = pd.read_csv(f"quali_data/{year}_quali_results.csv")
         quali_yearly['year'] = year
         quali_merged = pd.concat([quali_merged, quali_yearly])
@@ -59,26 +56,16 @@ def main():
         'Time' : 'Race Time',
     })
 
-    #
     merged_data = quali_merged
     merged_data = pd.merge(merged_data, race_merged, on=['Driver ID', 'Year', 'Round'], how='outer')
     merged_data = pd.merge(merged_data, weather_merged, on=['Year', 'Round'], how='outer')
     merged_data = pd.merge(merged_data, pit_stops_merged, on=['Driver ID', 'Year', 'Round'], how='outer')
     merged_data = pd.merge(merged_data, schedule_merged, on=['Year', 'Round'], how='outer')
-
-    # Sort merged data by 'Round' and 'Year' in ascending order
     merged_data = merged_data.sort_values(by=['Year', 'Round', 'Race Position'], ascending=[True, True, True])
-
-    # Optionally, reset the index if you want to clean up the index after sorting
     merged_data = merged_data.reset_index(drop=True)
-
     merged_data = merged_data.drop(columns=['Wins', 'Constructor Name', 'Constructor', 'EventName', 'Location', 'Time'])
 
-    # Save the sorted data to a CSV file
     merged_data.to_csv("merged_data/merged_data.csv", index=False)
-
-    # training_data =
-
 
 main()
 
