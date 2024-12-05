@@ -1,419 +1,419 @@
-Round,Driver First Name,Driver Last Name,Constructor Name,Position,Q1 Time,Q2 Time,Q3 Time
-1,Lewis,Hamilton,Mercedes,1,1:22.043,1:21.014,1:20.486
-1,Valtteri,Bottas,Mercedes,2,1:22.367,1:21.193,1:20.598
-1,Sebastian,Vettel,Ferrari,3,1:22.885,1:21.912,1:21.190
-1,Max,Verstappen,Red Bull,4,1:22.876,1:21.678,1:21.320
-1,Charles,Leclerc,Ferrari,5,1:22.017,1:21.739,1:21.442
-1,Romain,Grosjean,Haas F1 Team,6,1:22.959,1:21.870,1:21.826
-1,Kevin,Magnussen,Haas F1 Team,7,1:22.519,1:22.221,1:22.099
-1,Lando,Norris,McLaren,8,1:22.702,1:22.423,1:22.304
-1,Kimi,Räikkönen,Alfa Romeo,9,1:22.966,1:22.349,1:22.314
-1,Sergio,Pérez,Racing Point,10,1:22.908,1:22.532,1:22.781
-1,Nico,Hülkenberg,Renault,11,1:22.540,1:22.562,
-1,Daniel,Ricciardo,Renault,12,1:22.921,1:22.570,
-1,Alexander,Albon,Toro Rosso,13,1:22.757,1:22.636,
-1,Antonio,Giovinazzi,Alfa Romeo,14,1:22.431,1:22.714,
-1,Daniil,Kvyat,Toro Rosso,15,1:22.511,1:22.774,
-1,Lance,Stroll,Racing Point,16,1:23.017,,
-1,Pierre,Gasly,Red Bull,17,1:23.020,,
-1,Carlos,Sainz,McLaren,18,1:23.084,,
-1,George,Russell,Williams,19,1:24.360,,
-1,Robert,Kubica,Williams,20,1:26.067,,
-2,Lewis,Hamilton,Mercedes,1,1:22.043,1:21.014,1:20.486
-2,Valtteri,Bottas,Mercedes,2,1:22.367,1:21.193,1:20.598
-2,Sebastian,Vettel,Ferrari,3,1:22.885,1:21.912,1:21.190
-2,Max,Verstappen,Red Bull,4,1:22.876,1:21.678,1:21.320
-2,Charles,Leclerc,Ferrari,5,1:22.017,1:21.739,1:21.442
-2,Romain,Grosjean,Haas F1 Team,6,1:22.959,1:21.870,1:21.826
-2,Kevin,Magnussen,Haas F1 Team,7,1:22.519,1:22.221,1:22.099
-2,Lando,Norris,McLaren,8,1:22.702,1:22.423,1:22.304
-2,Kimi,Räikkönen,Alfa Romeo,9,1:22.966,1:22.349,1:22.314
-2,Sergio,Pérez,Racing Point,10,1:22.908,1:22.532,1:22.781
-2,Nico,Hülkenberg,Renault,11,1:22.540,1:22.562,
-2,Daniel,Ricciardo,Renault,12,1:22.921,1:22.570,
-2,Alexander,Albon,Toro Rosso,13,1:22.757,1:22.636,
-2,Antonio,Giovinazzi,Alfa Romeo,14,1:22.431,1:22.714,
-2,Daniil,Kvyat,Toro Rosso,15,1:22.511,1:22.774,
-2,Lance,Stroll,Racing Point,16,1:23.017,,
-2,Pierre,Gasly,Red Bull,17,1:23.020,,
-2,Carlos,Sainz,McLaren,18,1:23.084,,
-2,George,Russell,Williams,19,1:24.360,,
-2,Robert,Kubica,Williams,20,1:26.067,,
-3,Charles,Leclerc,Ferrari,1,1:28.495,1:28.046,1:27.866
-3,Sebastian,Vettel,Ferrari,2,1:28.733,1:28.356,1:28.160
-3,Lewis,Hamilton,Mercedes,3,1:29.262,1:28.578,1:28.190
-3,Valtteri,Bottas,Mercedes,4,1:29.498,1:28.830,1:28.256
-3,Max,Verstappen,Red Bull,5,1:29.579,1:29.109,1:28.752
-3,Kevin,Magnussen,Haas F1 Team,6,1:29.532,1:29.017,1:28.757
-3,Carlos,Sainz,McLaren,7,1:29.528,1:29.055,1:28.813
-3,Romain,Grosjean,Haas F1 Team,8,1:29.688,1:29.249,1:29.015
-3,Kimi,Räikkönen,Alfa Romeo,9,1:29.959,1:29.471,1:29.022
-3,Lando,Norris,McLaren,10,1:29.381,1:29.258,1:29.043
-3,Daniel,Ricciardo,Renault,11,1:29.859,1:29.488,
-3,Alexander,Albon,Toro Rosso,12,1:29.514,1:29.513,
-3,Pierre,Gasly,Red Bull,13,1:29.900,1:29.526,
-3,Sergio,Pérez,Racing Point,14,1:29.893,1:29.756,
-3,Daniil,Kvyat,Toro Rosso,15,1:29.876,1:29.854,
-3,Antonio,Giovinazzi,Alfa Romeo,16,1:30.026,,
-3,Nico,Hülkenberg,Renault,17,1:30.034,,
-3,Lance,Stroll,Racing Point,18,1:30.217,,
-3,George,Russell,Williams,19,1:31.759,,
-3,Robert,Kubica,Williams,20,1:31.799,,
-4,Valtteri,Bottas,Mercedes,1,1:32.658,1:31.728,1:31.547
-4,Lewis,Hamilton,Mercedes,2,1:33.115,1:31.637,1:31.570
-4,Sebastian,Vettel,Ferrari,3,1:33.557,1:32.232,1:31.848
-4,Charles,Leclerc,Ferrari,4,1:32.712,1:32.324,1:31.865
-4,Max,Verstappen,Red Bull,5,1:33.274,1:32.369,1:32.089
-4,Pierre,Gasly,Red Bull,6,1:33.863,1:32.948,1:32.930
-4,Daniel,Ricciardo,Renault,7,1:33.709,1:33.214,1:32.958
-4,Nico,Hülkenberg,Renault,8,1:33.644,1:33.968,1:32.962
-4,Kevin,Magnussen,Haas F1 Team,9,1:34.036,1:33.150,
-4,Romain,Grosjean,Haas F1 Team,10,1:33.752,1:33.156,
-4,Daniil,Kvyat,Toro Rosso,11,1:33.783,1:33.236,
-4,Sergio,Pérez,Racing Point,12,1:34.026,1:33.299,
-4,Kimi,Räikkönen,Alfa Romeo,13,1:34.125,1:33.419,
-4,Carlos,Sainz,McLaren,14,1:33.686,1:33.523,
-4,Lando,Norris,McLaren,15,1:34.148,1:33.967,
-4,Lance,Stroll,Racing Point,16,1:34.292,,
-4,George,Russell,Williams,17,1:35.253,,
-4,Robert,Kubica,Williams,18,1:35.281,,
-5,Valtteri,Bottas,Mercedes,1,1:42.026,1:41.500,1:40.495
-5,Lewis,Hamilton,Mercedes,2,1:41.614,1:41.580,1:40.554
-5,Sebastian,Vettel,Ferrari,3,1:42.042,1:41.889,1:40.797
-5,Max,Verstappen,Red Bull,4,1:41.727,1:41.388,1:41.069
-5,Sergio,Pérez,Racing Point,5,1:42.249,1:41.870,1:41.593
-5,Daniil,Kvyat,Toro Rosso,6,1:42.324,1:42.221,1:41.681
-5,Lando,Norris,McLaren,7,1:42.371,1:42.084,1:41.886
-5,Antonio,Giovinazzi,Alfa Romeo,8,1:42.140,1:42.381,1:42.424
-5,Charles,Leclerc,Ferrari,9,1:41.426,1:41.995,
-5,Carlos,Sainz,McLaren,10,1:41.936,1:42.398,
-5,Daniel,Ricciardo,Renault,11,1:42.486,1:42.477,
-5,Alexander,Albon,Toro Rosso,12,1:42.154,1:42.494,
-5,Kevin,Magnussen,Haas F1 Team,13,1:42.382,1:42.699,
-5,Lance,Stroll,Racing Point,14,1:42.630,,
-5,Romain,Grosjean,Haas F1 Team,15,1:43.407,,
-5,Nico,Hülkenberg,Renault,16,1:43.427,,
-5,George,Russell,Williams,17,1:45.062,,
-5,Robert,Kubica,Williams,18,1:45.455,,
-5,Kimi,Räikkönen,Alfa Romeo,19,,,
-5,Pierre,Gasly,Red Bull,20,,,
-6,Valtteri,Bottas,Mercedes,1,1:16.979,1:15.924,1:15.406
-6,Lewis,Hamilton,Mercedes,2,1:17.292,1:16.038,1:16.040
-6,Sebastian,Vettel,Ferrari,3,1:17.425,1:16.667,1:16.272
-6,Max,Verstappen,Red Bull,4,1:17.244,1:16.726,1:16.357
-6,Charles,Leclerc,Ferrari,5,1:17.388,1:16.714,1:16.588
-6,Pierre,Gasly,Red Bull,6,1:17.862,1:16.932,1:16.708
-6,Romain,Grosjean,Haas F1 Team,7,1:18.042,1:17.066,1:16.911
-6,Kevin,Magnussen,Haas F1 Team,8,1:17.669,1:17.272,1:16.922
-6,Daniil,Kvyat,Toro Rosso,9,1:17.914,1:17.243,1:17.573
-6,Daniel,Ricciardo,Renault,10,1:18.385,1:17.299,1:18.106
-6,Lando,Norris,McLaren,11,1:17.611,1:17.338,
-6,Alexander,Albon,Toro Rosso,12,1:17.796,1:17.445,
-6,Carlos,Sainz,McLaren,13,1:17.760,1:17.599,
-6,Kimi,Räikkönen,Alfa Romeo,14,1:18.132,1:17.788,
-6,Sergio,Pérez,Racing Point,15,1:18.286,1:17.886,
-6,Nico,Hülkenberg,Renault,16,1:18.404,,
-6,Lance,Stroll,Racing Point,17,1:18.471,,
-6,Antonio,Giovinazzi,Alfa Romeo,18,1:18.664,,
-6,George,Russell,Williams,19,1:19.072,,
-6,Robert,Kubica,Williams,20,1:20.254,,
-7,Lewis,Hamilton,Mercedes,1,1:11.542,1:10.835,1:10.166
-7,Valtteri,Bottas,Mercedes,2,1:11.562,1:10.701,1:10.252
-7,Max,Verstappen,Red Bull,3,1:11.597,1:10.618,1:10.641
-7,Sebastian,Vettel,Ferrari,4,1:11.434,1:11.227,1:10.947
-7,Pierre,Gasly,Red Bull,5,1:11.740,1:11.457,1:11.041
-7,Kevin,Magnussen,Haas F1 Team,6,1:11.865,1:11.363,1:11.109
-7,Daniel,Ricciardo,Renault,7,1:11.767,1:11.543,1:11.218
-7,Daniil,Kvyat,Toro Rosso,8,1:11.602,1:11.412,1:11.271
-7,Carlos,Sainz,McLaren,9,1:11.872,1:11.608,1:11.417
-7,Alexander,Albon,Toro Rosso,10,1:12.007,1:11.429,1:11.653
-7,Nico,Hülkenberg,Renault,11,1:12.097,1:11.670,
-7,Lando,Norris,McLaren,12,1:11.845,1:11.724,
-7,Romain,Grosjean,Haas F1 Team,13,1:11.837,1:12.027,
-7,Kimi,Räikkönen,Alfa Romeo,14,1:11.993,1:12.115,
-7,Antonio,Giovinazzi,Alfa Romeo,15,1:11.976,1:12.185,
-7,Charles,Leclerc,Ferrari,16,1:12.149,,
-7,Sergio,Pérez,Racing Point,17,1:12.233,,
-7,Lance,Stroll,Racing Point,18,1:12.846,,
-7,George,Russell,Williams,19,1:13.477,,
-7,Robert,Kubica,Williams,20,1:13.751,,
-8,Sebastian,Vettel,Ferrari,1,1:11.200,1:11.142,1:10.240
-8,Lewis,Hamilton,Mercedes,2,1:11.518,1:11.010,1:10.446
-8,Charles,Leclerc,Ferrari,3,1:11.214,1:11.205,1:10.920
-8,Daniel,Ricciardo,Renault,4,1:11.837,1:11.532,1:11.071
-8,Pierre,Gasly,Red Bull,5,1:12.023,1:11.196,1:11.079
-8,Valtteri,Bottas,Mercedes,6,1:11.229,1:11.095,1:11.101
-8,Nico,Hülkenberg,Renault,7,1:11.720,1:11.553,1:11.324
-8,Lando,Norris,McLaren,8,1:11.780,1:11.735,1:11.863
-8,Carlos,Sainz,McLaren,9,1:11.750,1:11.572,1:13.981
-8,Kevin,Magnussen,Haas F1 Team,10,1:12.107,1:11.786,
-8,Max,Verstappen,Red Bull,11,1:11.619,1:11.800,
-8,Daniil,Kvyat,Toro Rosso,12,1:11.965,1:11.921,
-8,Antonio,Giovinazzi,Alfa Romeo,13,1:12.122,1:12.136,
-8,Alexander,Albon,Toro Rosso,14,1:12.020,1:12.193,
-8,Romain,Grosjean,Haas F1 Team,15,1:12.109,,
-8,Sergio,Pérez,Racing Point,16,1:12.197,,
-8,Kimi,Räikkönen,Alfa Romeo,17,1:12.230,,
-8,Lance,Stroll,Racing Point,18,1:12.266,,
-8,George,Russell,Williams,19,1:13.617,,
-8,Robert,Kubica,Williams,20,1:14.393,,
-9,Lewis,Hamilton,Mercedes,1,1:30.609,1:29.520,1:28.319
-9,Valtteri,Bottas,Mercedes,2,1:30.550,1:29.437,1:28.605
-9,Charles,Leclerc,Ferrari,3,1:30.647,1:29.699,1:28.965
-9,Max,Verstappen,Red Bull,4,1:31.327,1:30.099,1:29.409
-9,Lando,Norris,McLaren,5,1:30.989,1:30.019,1:29.418
-9,Carlos,Sainz,McLaren,6,1:31.073,1:30.319,1:29.522
-9,Sebastian,Vettel,Ferrari,7,1:31.075,1:29.506,1:29.799
-9,Daniel,Ricciardo,Renault,8,1:30.954,1:30.369,1:29.918
-9,Pierre,Gasly,Red Bull,9,1:31.152,1:30.421,1:30.184
-9,Antonio,Giovinazzi,Alfa Romeo,10,1:31.180,1:30.408,1:33.420
-9,Alexander,Albon,Toro Rosso,11,1:31.445,1:30.461,
-9,Kimi,Räikkönen,Alfa Romeo,12,1:30.972,1:30.533,
-9,Nico,Hülkenberg,Renault,13,1:30.865,1:30.544,
-9,Sergio,Pérez,Racing Point,14,1:30.964,1:30.738,
-9,Kevin,Magnussen,Haas F1 Team,15,1:31.166,1:31.440,
-9,Daniil,Kvyat,Toro Rosso,16,1:31.564,,
-9,Romain,Grosjean,Haas F1 Team,17,1:31.626,,
-9,Lance,Stroll,Racing Point,18,1:31.726,,
-9,George,Russell,Williams,19,1:32.789,,
-9,Robert,Kubica,Williams,20,1:33.205,,
-10,Charles,Leclerc,Ferrari,1,1:04.138,1:03.378,1:03.003
-10,Lewis,Hamilton,Mercedes,2,1:03.818,1:03.803,1:03.262
-10,Max,Verstappen,Red Bull,3,1:03.807,1:03.835,1:03.439
-10,Valtteri,Bottas,Mercedes,4,1:04.084,1:03.863,1:03.537
-10,Kevin,Magnussen,Haas F1 Team,5,1:04.778,1:04.466,1:04.072
-10,Lando,Norris,McLaren,6,1:04.361,1:04.211,1:04.099
-10,Kimi,Räikkönen,Alfa Romeo,7,1:04.615,1:04.056,1:04.166
-10,Antonio,Giovinazzi,Alfa Romeo,8,1:04.450,1:04.194,1:04.179
-10,Pierre,Gasly,Red Bull,9,1:04.412,1:03.988,1:04.199
-10,Sebastian,Vettel,Ferrari,10,1:04.430,1:03.667,
-10,Romain,Grosjean,Haas F1 Team,11,1:04.552,1:04.490,
-10,Nico,Hülkenberg,Renault,12,1:04.733,1:04.516,
-10,Alexander,Albon,Toro Rosso,13,1:04.708,1:04.665,
-10,Daniel,Ricciardo,Renault,14,1:04.647,1:04.790,
-10,Carlos,Sainz,McLaren,15,1:04.453,1:13.601,
-10,Sergio,Pérez,Racing Point,16,1:04.789,,
-10,Lance,Stroll,Racing Point,17,1:04.832,,
-10,Daniil,Kvyat,Toro Rosso,18,1:05.324,,
-10,George,Russell,Williams,19,1:05.904,,
-10,Robert,Kubica,Williams,20,1:06.206,,
-11,Valtteri,Bottas,Mercedes,1,1:25.750,1:25.672,1:25.093
-11,Lewis,Hamilton,Mercedes,2,1:25.513,1:25.840,1:25.099
-11,Charles,Leclerc,Ferrari,3,1:25.533,1:25.546,1:25.172
-11,Max,Verstappen,Red Bull,4,1:25.700,1:25.848,1:25.276
-11,Pierre,Gasly,Red Bull,5,1:26.273,1:26.038,1:25.590
-11,Sebastian,Vettel,Ferrari,6,1:25.898,1:26.023,1:25.787
-11,Daniel,Ricciardo,Renault,7,1:26.428,1:26.283,1:26.182
-11,Lando,Norris,McLaren,8,1:26.079,1:26.385,1:26.224
-11,Alexander,Albon,Toro Rosso,9,1:26.482,1:26.403,1:26.345
-11,Nico,Hülkenberg,Renault,10,1:26.568,1:26.397,1:26.386
-11,Antonio,Giovinazzi,Alfa Romeo,11,1:26.449,1:26.519,
-11,Kimi,Räikkönen,Alfa Romeo,12,1:26.558,1:26.546,
-11,Carlos,Sainz,McLaren,13,1:26.203,1:26.578,
-11,Romain,Grosjean,Haas F1 Team,14,1:26.347,1:26.757,
-11,Sergio,Pérez,Racing Point,15,1:26.649,1:26.928,
-11,Kevin,Magnussen,Haas F1 Team,16,1:26.662,,
-11,Daniil,Kvyat,Toro Rosso,17,1:26.721,,
-11,Lance,Stroll,Racing Point,18,1:26.762,,
-11,George,Russell,Williams,19,1:27.789,,
-11,Robert,Kubica,Williams,20,1:28.257,,
-12,Lewis,Hamilton,Mercedes,1,1:12.852,1:12.149,1:11.767
-12,Max,Verstappen,Red Bull,2,1:12.593,1:12.427,1:12.113
-12,Valtteri,Bottas,Mercedes,3,1:13.075,1:12.424,1:12.129
-12,Pierre,Gasly,Red Bull,4,1:12.991,1:12.385,1:12.522
-12,Kimi,Räikkönen,Alfa Romeo,5,1:13.066,1:12.519,1:12.538
-12,Romain,Grosjean,Haas F1 Team,6,1:13.146,1:12.769,1:12.851
-12,Carlos,Sainz,McLaren,7,1:13.221,1:12.632,1:12.897
-12,Sergio,Pérez,Racing Point,8,1:13.194,1:12.776,1:13.065
-12,Nico,Hülkenberg,Renault,9,1:13.186,1:12.766,1:13.126
-12,Charles,Leclerc,Ferrari,10,1:12.229,1:12.344,
-12,Antonio,Giovinazzi,Alfa Romeo,11,1:13.170,1:12.786,
-12,Kevin,Magnussen,Haas F1 Team,12,1:13.103,1:12.789,
-12,Daniel,Ricciardo,Renault,13,1:13.131,1:12.799,
-12,Daniil,Kvyat,Toro Rosso,14,1:13.278,1:13.135,
-12,Lance,Stroll,Racing Point,15,1:13.256,1:13.450,
-12,Lando,Norris,McLaren,16,1:13.333,,
-12,Alexander,Albon,Toro Rosso,17,1:13.461,,
-12,George,Russell,Williams,18,1:14.721,,
-12,Robert,Kubica,Williams,19,1:14.839,,
-12,Sebastian,Vettel,Ferrari,20,,,
-13,Max,Verstappen,Red Bull,1,1:15.817,1:15.573,1:14.572
-13,Valtteri,Bottas,Mercedes,2,1:16.078,1:15.669,1:14.590
-13,Lewis,Hamilton,Mercedes,3,1:16.068,1:15.548,1:14.769
-13,Charles,Leclerc,Ferrari,4,1:16.337,1:15.792,1:15.043
-13,Sebastian,Vettel,Ferrari,5,1:16.452,1:15.885,1:15.071
-13,Pierre,Gasly,Red Bull,6,1:16.716,1:16.393,1:15.450
-13,Lando,Norris,McLaren,7,1:16.697,1:16.060,1:15.800
-13,Carlos,Sainz,McLaren,8,1:16.493,1:16.308,1:15.852
-13,Romain,Grosjean,Haas F1 Team,9,1:16.978,1:16.319,1:16.013
-13,Kimi,Räikkönen,Alfa Romeo,10,1:16.506,1:16.518,1:16.041
-13,Nico,Hülkenberg,Renault,11,1:16.790,1:16.565,
-13,Alexander,Albon,Toro Rosso,12,1:16.912,1:16.687,
-13,Daniil,Kvyat,Toro Rosso,13,1:16.750,1:16.692,
-13,Antonio,Giovinazzi,Alfa Romeo,14,1:16.894,1:16.804,
-13,Kevin,Magnussen,Haas F1 Team,15,1:16.122,1:17.081,
-13,George,Russell,Williams,16,1:17.031,,
-13,Sergio,Pérez,Racing Point,17,1:17.109,,
-13,Daniel,Ricciardo,Renault,18,1:17.257,,
-13,Lance,Stroll,Racing Point,19,1:17.542,,
-13,Robert,Kubica,Williams,20,1:18.324,,
-14,Charles,Leclerc,Ferrari,1,1:43.587,1:42.938,1:42.519
-14,Sebastian,Vettel,Ferrari,2,1:44.109,1:43.037,1:43.267
-14,Lewis,Hamilton,Mercedes,3,1:45.260,1:43.592,1:43.282
-14,Valtteri,Bottas,Mercedes,4,1:45.141,1:43.980,1:43.415
-14,Max,Verstappen,Red Bull,5,1:44.622,1:44.132,1:43.690
-14,Daniel,Ricciardo,Renault,6,1:45.560,1:44.103,1:44.257
-14,Nico,Hülkenberg,Renault,7,1:45.899,1:44.549,1:44.542
-14,Kimi,Räikkönen,Alfa Romeo,8,1:45.842,1:44.140,1:44.557
-14,Sergio,Pérez,Racing Point,9,1:45.732,1:44.707,1:44.706
-14,Kevin,Magnussen,Haas F1 Team,10,1:45.839,1:44.738,1:45.086
-14,Romain,Grosjean,Haas F1 Team,11,1:45.694,1:44.797,
-14,Lando,Norris,McLaren,12,1:46.154,1:44.847,
-14,Lance,Stroll,Racing Point,13,1:46.000,1:45.047,
-14,Alexander,Albon,Red Bull,14,1:45.528,1:45.799,
-14,Antonio,Giovinazzi,Alfa Romeo,15,1:45.637,,
-14,Pierre,Gasly,Toro Rosso,16,1:46.435,,
-14,Carlos,Sainz,McLaren,17,1:46.507,,
-14,Daniil,Kvyat,Toro Rosso,18,1:46.518,,
-14,George,Russell,Williams,19,1:47.548,,
-14,Robert,Kubica,Williams,20,,,
-15,Charles,Leclerc,Ferrari,1,1:20.126,1:19.553,1:19.307
-15,Lewis,Hamilton,Mercedes,2,1:20.272,1:19.464,1:19.346
-15,Valtteri,Bottas,Mercedes,3,1:20.156,1:20.018,1:19.354
-15,Sebastian,Vettel,Ferrari,4,1:20.378,1:19.715,1:19.457
-15,Daniel,Ricciardo,Renault,5,1:20.374,1:19.833,1:19.839
-15,Nico,Hülkenberg,Renault,6,1:20.155,1:20.275,1:20.049
-15,Carlos,Sainz,McLaren,7,1:20.413,1:20.202,1:20.455
-15,Alexander,Albon,Red Bull,8,1:20.382,1:20.021,
-15,Lance,Stroll,Racing Point,9,1:20.643,1:20.498,
-15,Kimi,Räikkönen,Alfa Romeo,10,1:20.634,1:20.515,
-15,Antonio,Giovinazzi,Alfa Romeo,11,1:20.657,1:20.517,
-15,Kevin,Magnussen,Haas F1 Team,12,1:20.616,1:20.615,
-15,Daniil,Kvyat,Toro Rosso,13,1:20.723,1:20.630,
-15,Lando,Norris,McLaren,14,1:20.646,1:21.068,
-15,Pierre,Gasly,Toro Rosso,15,1:20.508,1:21.125,
-15,Romain,Grosjean,Haas F1 Team,16,1:20.784,,
-15,Sergio,Pérez,Racing Point,17,1:21.291,,
-15,George,Russell,Williams,18,1:21.800,,
-15,Robert,Kubica,Williams,19,1:22.356,,
-15,Max,Verstappen,Red Bull,20,,,
-16,Charles,Leclerc,Ferrari,1,1:38.014,1:36.650,1:36.217
-16,Lewis,Hamilton,Mercedes,2,1:37.565,1:36.933,1:36.408
-16,Sebastian,Vettel,Ferrari,3,1:38.374,1:36.720,1:36.437
-16,Max,Verstappen,Red Bull,4,1:38.540,1:37.089,1:36.813
-16,Valtteri,Bottas,Mercedes,5,1:37.317,1:37.142,1:37.146
-16,Alexander,Albon,Red Bull,6,1:39.106,1:37.865,1:37.411
-16,Carlos,Sainz,McLaren,7,1:38.882,1:37.982,1:37.818
-16,Nico,Hülkenberg,Renault,8,1:39.001,1:38.580,1:38.264
-16,Lando,Norris,McLaren,9,1:38.606,1:37.572,1:38.329
-16,Sergio,Pérez,Racing Point,10,1:39.909,1:38.520,
-16,Antonio,Giovinazzi,Alfa Romeo,11,1:39.272,1:38.697,
-16,Pierre,Gasly,Toro Rosso,12,1:39.085,1:38.699,
-16,Kimi,Räikkönen,Alfa Romeo,13,1:39.454,1:38.858,
-16,Kevin,Magnussen,Haas F1 Team,14,1:39.942,1:39.650,
-16,Daniil,Kvyat,Toro Rosso,15,1:39.957,,
-16,Lance,Stroll,Racing Point,16,1:39.979,,
-16,Romain,Grosjean,Haas F1 Team,17,1:40.277,,
-16,George,Russell,Williams,18,1:40.867,,
-16,Robert,Kubica,Williams,19,1:41.186,,
-16,Daniel,Ricciardo,Renault,20,,,
-17,Charles,Leclerc,Ferrari,1,1:33.613,1:32.434,1:31.628
-17,Lewis,Hamilton,Mercedes,2,1:33.230,1:33.134,1:32.030
-17,Sebastian,Vettel,Ferrari,3,1:33.032,1:32.536,1:32.053
-17,Max,Verstappen,Red Bull,4,1:33.368,1:32.634,1:32.310
-17,Valtteri,Bottas,Mercedes,5,1:33.413,1:33.281,1:32.632
-17,Carlos,Sainz,McLaren,6,1:34.184,1:33.807,1:33.222
-17,Nico,Hülkenberg,Renault,7,1:34.236,1:33.898,1:33.289
-17,Lando,Norris,McLaren,8,1:34.201,1:33.725,1:33.301
-17,Romain,Grosjean,Haas F1 Team,9,1:34.283,1:33.643,1:33.517
-17,Daniel,Ricciardo,Renault,10,1:34.138,1:33.862,1:33.661
-17,Pierre,Gasly,Toro Rosso,11,1:34.456,1:33.950,
-17,Sergio,Pérez,Racing Point,12,1:34.336,1:33.958,
-17,Antonio,Giovinazzi,Alfa Romeo,13,1:34.755,1:34.037,
-17,Kevin,Magnussen,Haas F1 Team,14,1:33.889,1:34.082,
-17,Lance,Stroll,Racing Point,15,1:34.287,1:34.233,
-17,Kimi,Räikkönen,Alfa Romeo,16,1:34.840,,
-17,George,Russell,Williams,17,1:35.356,,
-17,Robert,Kubica,Williams,18,1:36.474,,
-17,Alexander,Albon,Red Bull,19,1:39.197,,
-17,Daniil,Kvyat,Toro Rosso,20,1:39.544,,
-18,Sebastian,Vettel,Ferrari,1,1:28.988,1:28.174,1:27.064
-18,Charles,Leclerc,Ferrari,2,1:28.405,1:28.179,1:27.253
-18,Valtteri,Bottas,Mercedes,3,1:28.896,1:27.688,1:27.293
-18,Lewis,Hamilton,Mercedes,4,1:28.735,1:27.826,1:27.302
-18,Max,Verstappen,Red Bull,5,1:28.754,1:28.499,1:27.851
-18,Alexander,Albon,Red Bull,6,1:29.351,1:28.156,1:27.851
-18,Carlos,Sainz,McLaren,7,1:29.018,1:28.577,1:28.304
-18,Lando,Norris,McLaren,8,1:28.873,1:28.571,1:28.464
-18,Pierre,Gasly,Toro Rosso,9,1:29.411,1:28.779,1:28.836
-18,Romain,Grosjean,Haas F1 Team,10,1:29.572,1:29.144,1:29.341
-18,Antonio,Giovinazzi,Alfa Romeo,11,1:29.604,1:29.254,
-18,Lance,Stroll,Racing Point,12,1:29.594,1:29.345,
-18,Kimi,Räikkönen,Alfa Romeo,13,1:29.636,1:29.358,
-18,Daniil,Kvyat,Toro Rosso,14,1:29.723,1:29.563,
-18,Nico,Hülkenberg,Renault,15,1:29.619,1:30.112,
-18,Daniel,Ricciardo,Renault,16,1:29.822,,
-18,Sergio,Pérez,Racing Point,17,1:30.344,,
-18,George,Russell,Williams,18,1:30.364,,
-18,Kevin,Magnussen,Haas F1 Team,19,,,
-18,Robert,Kubica,Williams,20,,,
-19,Max,Verstappen,Red Bull,1,1:15.949,1:16.136,1:14.758
-19,Charles,Leclerc,Ferrari,2,1:16.364,1:16.219,1:15.024
-19,Sebastian,Vettel,Ferrari,3,1:16.696,1:15.914,1:15.170
-19,Lewis,Hamilton,Mercedes,4,1:16.424,1:15.721,1:15.262
-19,Alexander,Albon,Red Bull,5,1:16.175,1:16.574,1:15.336
-19,Valtteri,Bottas,Mercedes,6,1:17.062,1:15.852,1:15.338
-19,Carlos,Sainz,McLaren,7,1:17.044,1:16.267,1:16.014
-19,Lando,Norris,McLaren,8,1:17.092,1:16.447,1:16.322
-19,Daniil,Kvyat,Toro Rosso,9,1:17.041,1:16.657,1:16.469
-19,Pierre,Gasly,Toro Rosso,10,1:17.065,1:16.679,1:16.586
-19,Sergio,Pérez,Racing Point,11,1:17.465,1:16.687,
-19,Nico,Hülkenberg,Renault,12,1:17.608,1:16.885,
-19,Daniel,Ricciardo,Renault,13,1:17.270,1:16.933,
-19,Kimi,Räikkönen,Alfa Romeo,14,1:17.225,1:16.967,
-19,Antonio,Giovinazzi,Alfa Romeo,15,1:17.794,1:17.269,
-19,Lance,Stroll,Racing Point,16,1:18.065,,
-19,Kevin,Magnussen,Haas F1 Team,17,1:18.436,,
-19,Romain,Grosjean,Haas F1 Team,18,1:18.599,,
-19,George,Russell,Williams,19,1:18.823,,
-19,Robert,Kubica,Williams,20,1:20.179,,
-20,Valtteri,Bottas,Mercedes,1,1:33.750,1:33.160,1:32.029
-20,Sebastian,Vettel,Ferrari,2,1:33.766,1:33.782,1:32.041
-20,Max,Verstappen,Red Bull,3,1:33.549,1:33.120,1:32.096
-20,Charles,Leclerc,Ferrari,4,1:33.988,1:32.760,1:32.137
-20,Lewis,Hamilton,Mercedes,5,1:33.454,1:33.045,1:32.321
-20,Alexander,Albon,Red Bull,6,1:33.984,1:32.898,1:32.548
-20,Carlos,Sainz,McLaren,7,1:33.916,1:33.422,1:32.847
-20,Lando,Norris,McLaren,8,1:33.353,1:33.316,1:33.175
-20,Daniel,Ricciardo,Renault,9,1:33.835,1:33.608,1:33.488
-20,Pierre,Gasly,Toro Rosso,10,1:33.556,1:33.715,1:33.601
-20,Nico,Hülkenberg,Renault,11,1:34.092,1:33.815,
-20,Kevin,Magnussen,Haas F1 Team,12,1:33.812,1:33.979,
-20,Daniil,Kvyat,Toro Rosso,13,1:34.138,1:33.989,
-20,Lance,Stroll,Racing Point,14,1:33.921,1:34.100,
-20,Romain,Grosjean,Haas F1 Team,15,1:34.161,1:34.158,
-20,Antonio,Giovinazzi,Alfa Romeo,16,1:34.226,,
-20,Kimi,Räikkönen,Alfa Romeo,17,1:34.369,,
-20,George,Russell,Williams,18,1:35.372,,
-20,Sergio,Pérez,Racing Point,19,1:35.808,,
-20,Robert,Kubica,Williams,20,1:35.889,,
-21,Max,Verstappen,Red Bull,1,1:08.242,1:07.503,1:07.508
-21,Sebastian,Vettel,Ferrari,2,1:08.556,1:08.050,1:07.631
-21,Lewis,Hamilton,Mercedes,3,1:08.614,1:08.088,1:07.699
-21,Charles,Leclerc,Ferrari,4,1:08.496,1:07.888,1:07.728
-21,Valtteri,Bottas,Mercedes,5,1:08.545,1:08.232,1:07.874
-21,Alexander,Albon,Red Bull,6,1:08.503,1:08.117,1:07.935
-21,Pierre,Gasly,Toro Rosso,7,1:08.909,1:08.770,1:08.837
-21,Romain,Grosjean,Haas F1 Team,8,1:09.197,1:08.705,1:08.854
-21,Kimi,Räikkönen,Alfa Romeo,9,1:09.276,1:08.858,1:08.984
-21,Kevin,Magnussen,Haas F1 Team,10,1:08.875,1:08.803,1:09.037
-21,Lando,Norris,McLaren,11,1:08.891,1:08.868,
-21,Daniel,Ricciardo,Renault,12,1:09.086,1:08.903,
-21,Antonio,Giovinazzi,Alfa Romeo,13,1:09.175,1:08.919,
-21,Nico,Hülkenberg,Renault,14,1:09.050,1:08.921,
-21,Sergio,Pérez,Racing Point,15,1:09.288,1:09.035,
-21,Daniil,Kvyat,Toro Rosso,16,1:09.320,,
-21,Lance,Stroll,Racing Point,17,1:09.536,,
-21,George,Russell,Williams,18,1:10.126,,
-21,Robert,Kubica,Williams,19,1:10.614,,
-21,Carlos,Sainz,McLaren,20,,,
+Round,Driver Id,Driver First Name,Driver Last Name,Constructor Name,Position,Q1 Time,Q2 Time,Q3 Time
+1,hamilton,Lewis,Hamilton,Mercedes,1,1:22.043,1:21.014,1:20.486
+1,bottas,Valtteri,Bottas,Mercedes,2,1:22.367,1:21.193,1:20.598
+1,vettel,Sebastian,Vettel,Ferrari,3,1:22.885,1:21.912,1:21.190
+1,max_verstappen,Max,Verstappen,Red Bull,4,1:22.876,1:21.678,1:21.320
+1,leclerc,Charles,Leclerc,Ferrari,5,1:22.017,1:21.739,1:21.442
+1,grosjean,Romain,Grosjean,Haas F1 Team,6,1:22.959,1:21.870,1:21.826
+1,kevin_magnussen,Kevin,Magnussen,Haas F1 Team,7,1:22.519,1:22.221,1:22.099
+1,norris,Lando,Norris,McLaren,8,1:22.702,1:22.423,1:22.304
+1,raikkonen,Kimi,Räikkönen,Alfa Romeo,9,1:22.966,1:22.349,1:22.314
+1,perez,Sergio,Pérez,Racing Point,10,1:22.908,1:22.532,1:22.781
+1,hulkenberg,Nico,Hülkenberg,Renault,11,1:22.540,1:22.562,
+1,ricciardo,Daniel,Ricciardo,Renault,12,1:22.921,1:22.570,
+1,albon,Alexander,Albon,Toro Rosso,13,1:22.757,1:22.636,
+1,giovinazzi,Antonio,Giovinazzi,Alfa Romeo,14,1:22.431,1:22.714,
+1,kvyat,Daniil,Kvyat,Toro Rosso,15,1:22.511,1:22.774,
+1,stroll,Lance,Stroll,Racing Point,16,1:23.017,,
+1,gasly,Pierre,Gasly,Red Bull,17,1:23.020,,
+1,sainz,Carlos,Sainz,McLaren,18,1:23.084,,
+1,russell,George,Russell,Williams,19,1:24.360,,
+1,kubica,Robert,Kubica,Williams,20,1:26.067,,
+2,hamilton,Lewis,Hamilton,Mercedes,1,1:22.043,1:21.014,1:20.486
+2,bottas,Valtteri,Bottas,Mercedes,2,1:22.367,1:21.193,1:20.598
+2,vettel,Sebastian,Vettel,Ferrari,3,1:22.885,1:21.912,1:21.190
+2,max_verstappen,Max,Verstappen,Red Bull,4,1:22.876,1:21.678,1:21.320
+2,leclerc,Charles,Leclerc,Ferrari,5,1:22.017,1:21.739,1:21.442
+2,grosjean,Romain,Grosjean,Haas F1 Team,6,1:22.959,1:21.870,1:21.826
+2,kevin_magnussen,Kevin,Magnussen,Haas F1 Team,7,1:22.519,1:22.221,1:22.099
+2,norris,Lando,Norris,McLaren,8,1:22.702,1:22.423,1:22.304
+2,raikkonen,Kimi,Räikkönen,Alfa Romeo,9,1:22.966,1:22.349,1:22.314
+2,perez,Sergio,Pérez,Racing Point,10,1:22.908,1:22.532,1:22.781
+2,hulkenberg,Nico,Hülkenberg,Renault,11,1:22.540,1:22.562,
+2,ricciardo,Daniel,Ricciardo,Renault,12,1:22.921,1:22.570,
+2,albon,Alexander,Albon,Toro Rosso,13,1:22.757,1:22.636,
+2,giovinazzi,Antonio,Giovinazzi,Alfa Romeo,14,1:22.431,1:22.714,
+2,kvyat,Daniil,Kvyat,Toro Rosso,15,1:22.511,1:22.774,
+2,stroll,Lance,Stroll,Racing Point,16,1:23.017,,
+2,gasly,Pierre,Gasly,Red Bull,17,1:23.020,,
+2,sainz,Carlos,Sainz,McLaren,18,1:23.084,,
+2,russell,George,Russell,Williams,19,1:24.360,,
+2,kubica,Robert,Kubica,Williams,20,1:26.067,,
+3,leclerc,Charles,Leclerc,Ferrari,1,1:28.495,1:28.046,1:27.866
+3,vettel,Sebastian,Vettel,Ferrari,2,1:28.733,1:28.356,1:28.160
+3,hamilton,Lewis,Hamilton,Mercedes,3,1:29.262,1:28.578,1:28.190
+3,bottas,Valtteri,Bottas,Mercedes,4,1:29.498,1:28.830,1:28.256
+3,max_verstappen,Max,Verstappen,Red Bull,5,1:29.579,1:29.109,1:28.752
+3,kevin_magnussen,Kevin,Magnussen,Haas F1 Team,6,1:29.532,1:29.017,1:28.757
+3,sainz,Carlos,Sainz,McLaren,7,1:29.528,1:29.055,1:28.813
+3,grosjean,Romain,Grosjean,Haas F1 Team,8,1:29.688,1:29.249,1:29.015
+3,raikkonen,Kimi,Räikkönen,Alfa Romeo,9,1:29.959,1:29.471,1:29.022
+3,norris,Lando,Norris,McLaren,10,1:29.381,1:29.258,1:29.043
+3,ricciardo,Daniel,Ricciardo,Renault,11,1:29.859,1:29.488,
+3,albon,Alexander,Albon,Toro Rosso,12,1:29.514,1:29.513,
+3,gasly,Pierre,Gasly,Red Bull,13,1:29.900,1:29.526,
+3,perez,Sergio,Pérez,Racing Point,14,1:29.893,1:29.756,
+3,kvyat,Daniil,Kvyat,Toro Rosso,15,1:29.876,1:29.854,
+3,giovinazzi,Antonio,Giovinazzi,Alfa Romeo,16,1:30.026,,
+3,hulkenberg,Nico,Hülkenberg,Renault,17,1:30.034,,
+3,stroll,Lance,Stroll,Racing Point,18,1:30.217,,
+3,russell,George,Russell,Williams,19,1:31.759,,
+3,kubica,Robert,Kubica,Williams,20,1:31.799,,
+4,bottas,Valtteri,Bottas,Mercedes,1,1:32.658,1:31.728,1:31.547
+4,hamilton,Lewis,Hamilton,Mercedes,2,1:33.115,1:31.637,1:31.570
+4,vettel,Sebastian,Vettel,Ferrari,3,1:33.557,1:32.232,1:31.848
+4,leclerc,Charles,Leclerc,Ferrari,4,1:32.712,1:32.324,1:31.865
+4,max_verstappen,Max,Verstappen,Red Bull,5,1:33.274,1:32.369,1:32.089
+4,gasly,Pierre,Gasly,Red Bull,6,1:33.863,1:32.948,1:32.930
+4,ricciardo,Daniel,Ricciardo,Renault,7,1:33.709,1:33.214,1:32.958
+4,hulkenberg,Nico,Hülkenberg,Renault,8,1:33.644,1:33.968,1:32.962
+4,kevin_magnussen,Kevin,Magnussen,Haas F1 Team,9,1:34.036,1:33.150,
+4,grosjean,Romain,Grosjean,Haas F1 Team,10,1:33.752,1:33.156,
+4,kvyat,Daniil,Kvyat,Toro Rosso,11,1:33.783,1:33.236,
+4,perez,Sergio,Pérez,Racing Point,12,1:34.026,1:33.299,
+4,raikkonen,Kimi,Räikkönen,Alfa Romeo,13,1:34.125,1:33.419,
+4,sainz,Carlos,Sainz,McLaren,14,1:33.686,1:33.523,
+4,norris,Lando,Norris,McLaren,15,1:34.148,1:33.967,
+4,stroll,Lance,Stroll,Racing Point,16,1:34.292,,
+4,russell,George,Russell,Williams,17,1:35.253,,
+4,kubica,Robert,Kubica,Williams,18,1:35.281,,
+5,bottas,Valtteri,Bottas,Mercedes,1,1:42.026,1:41.500,1:40.495
+5,hamilton,Lewis,Hamilton,Mercedes,2,1:41.614,1:41.580,1:40.554
+5,vettel,Sebastian,Vettel,Ferrari,3,1:42.042,1:41.889,1:40.797
+5,max_verstappen,Max,Verstappen,Red Bull,4,1:41.727,1:41.388,1:41.069
+5,perez,Sergio,Pérez,Racing Point,5,1:42.249,1:41.870,1:41.593
+5,kvyat,Daniil,Kvyat,Toro Rosso,6,1:42.324,1:42.221,1:41.681
+5,norris,Lando,Norris,McLaren,7,1:42.371,1:42.084,1:41.886
+5,giovinazzi,Antonio,Giovinazzi,Alfa Romeo,8,1:42.140,1:42.381,1:42.424
+5,leclerc,Charles,Leclerc,Ferrari,9,1:41.426,1:41.995,
+5,sainz,Carlos,Sainz,McLaren,10,1:41.936,1:42.398,
+5,ricciardo,Daniel,Ricciardo,Renault,11,1:42.486,1:42.477,
+5,albon,Alexander,Albon,Toro Rosso,12,1:42.154,1:42.494,
+5,kevin_magnussen,Kevin,Magnussen,Haas F1 Team,13,1:42.382,1:42.699,
+5,stroll,Lance,Stroll,Racing Point,14,1:42.630,,
+5,grosjean,Romain,Grosjean,Haas F1 Team,15,1:43.407,,
+5,hulkenberg,Nico,Hülkenberg,Renault,16,1:43.427,,
+5,russell,George,Russell,Williams,17,1:45.062,,
+5,kubica,Robert,Kubica,Williams,18,1:45.455,,
+5,raikkonen,Kimi,Räikkönen,Alfa Romeo,19,,,
+5,gasly,Pierre,Gasly,Red Bull,20,,,
+6,bottas,Valtteri,Bottas,Mercedes,1,1:16.979,1:15.924,1:15.406
+6,hamilton,Lewis,Hamilton,Mercedes,2,1:17.292,1:16.038,1:16.040
+6,vettel,Sebastian,Vettel,Ferrari,3,1:17.425,1:16.667,1:16.272
+6,max_verstappen,Max,Verstappen,Red Bull,4,1:17.244,1:16.726,1:16.357
+6,leclerc,Charles,Leclerc,Ferrari,5,1:17.388,1:16.714,1:16.588
+6,gasly,Pierre,Gasly,Red Bull,6,1:17.862,1:16.932,1:16.708
+6,grosjean,Romain,Grosjean,Haas F1 Team,7,1:18.042,1:17.066,1:16.911
+6,kevin_magnussen,Kevin,Magnussen,Haas F1 Team,8,1:17.669,1:17.272,1:16.922
+6,kvyat,Daniil,Kvyat,Toro Rosso,9,1:17.914,1:17.243,1:17.573
+6,ricciardo,Daniel,Ricciardo,Renault,10,1:18.385,1:17.299,1:18.106
+6,norris,Lando,Norris,McLaren,11,1:17.611,1:17.338,
+6,albon,Alexander,Albon,Toro Rosso,12,1:17.796,1:17.445,
+6,sainz,Carlos,Sainz,McLaren,13,1:17.760,1:17.599,
+6,raikkonen,Kimi,Räikkönen,Alfa Romeo,14,1:18.132,1:17.788,
+6,perez,Sergio,Pérez,Racing Point,15,1:18.286,1:17.886,
+6,hulkenberg,Nico,Hülkenberg,Renault,16,1:18.404,,
+6,stroll,Lance,Stroll,Racing Point,17,1:18.471,,
+6,giovinazzi,Antonio,Giovinazzi,Alfa Romeo,18,1:18.664,,
+6,russell,George,Russell,Williams,19,1:19.072,,
+6,kubica,Robert,Kubica,Williams,20,1:20.254,,
+7,hamilton,Lewis,Hamilton,Mercedes,1,1:11.542,1:10.835,1:10.166
+7,bottas,Valtteri,Bottas,Mercedes,2,1:11.562,1:10.701,1:10.252
+7,max_verstappen,Max,Verstappen,Red Bull,3,1:11.597,1:10.618,1:10.641
+7,vettel,Sebastian,Vettel,Ferrari,4,1:11.434,1:11.227,1:10.947
+7,gasly,Pierre,Gasly,Red Bull,5,1:11.740,1:11.457,1:11.041
+7,kevin_magnussen,Kevin,Magnussen,Haas F1 Team,6,1:11.865,1:11.363,1:11.109
+7,ricciardo,Daniel,Ricciardo,Renault,7,1:11.767,1:11.543,1:11.218
+7,kvyat,Daniil,Kvyat,Toro Rosso,8,1:11.602,1:11.412,1:11.271
+7,sainz,Carlos,Sainz,McLaren,9,1:11.872,1:11.608,1:11.417
+7,albon,Alexander,Albon,Toro Rosso,10,1:12.007,1:11.429,1:11.653
+7,hulkenberg,Nico,Hülkenberg,Renault,11,1:12.097,1:11.670,
+7,norris,Lando,Norris,McLaren,12,1:11.845,1:11.724,
+7,grosjean,Romain,Grosjean,Haas F1 Team,13,1:11.837,1:12.027,
+7,raikkonen,Kimi,Räikkönen,Alfa Romeo,14,1:11.993,1:12.115,
+7,giovinazzi,Antonio,Giovinazzi,Alfa Romeo,15,1:11.976,1:12.185,
+7,leclerc,Charles,Leclerc,Ferrari,16,1:12.149,,
+7,perez,Sergio,Pérez,Racing Point,17,1:12.233,,
+7,stroll,Lance,Stroll,Racing Point,18,1:12.846,,
+7,russell,George,Russell,Williams,19,1:13.477,,
+7,kubica,Robert,Kubica,Williams,20,1:13.751,,
+8,vettel,Sebastian,Vettel,Ferrari,1,1:11.200,1:11.142,1:10.240
+8,hamilton,Lewis,Hamilton,Mercedes,2,1:11.518,1:11.010,1:10.446
+8,leclerc,Charles,Leclerc,Ferrari,3,1:11.214,1:11.205,1:10.920
+8,ricciardo,Daniel,Ricciardo,Renault,4,1:11.837,1:11.532,1:11.071
+8,gasly,Pierre,Gasly,Red Bull,5,1:12.023,1:11.196,1:11.079
+8,bottas,Valtteri,Bottas,Mercedes,6,1:11.229,1:11.095,1:11.101
+8,hulkenberg,Nico,Hülkenberg,Renault,7,1:11.720,1:11.553,1:11.324
+8,norris,Lando,Norris,McLaren,8,1:11.780,1:11.735,1:11.863
+8,sainz,Carlos,Sainz,McLaren,9,1:11.750,1:11.572,1:13.981
+8,kevin_magnussen,Kevin,Magnussen,Haas F1 Team,10,1:12.107,1:11.786,
+8,max_verstappen,Max,Verstappen,Red Bull,11,1:11.619,1:11.800,
+8,kvyat,Daniil,Kvyat,Toro Rosso,12,1:11.965,1:11.921,
+8,giovinazzi,Antonio,Giovinazzi,Alfa Romeo,13,1:12.122,1:12.136,
+8,albon,Alexander,Albon,Toro Rosso,14,1:12.020,1:12.193,
+8,grosjean,Romain,Grosjean,Haas F1 Team,15,1:12.109,,
+8,perez,Sergio,Pérez,Racing Point,16,1:12.197,,
+8,raikkonen,Kimi,Räikkönen,Alfa Romeo,17,1:12.230,,
+8,stroll,Lance,Stroll,Racing Point,18,1:12.266,,
+8,russell,George,Russell,Williams,19,1:13.617,,
+8,kubica,Robert,Kubica,Williams,20,1:14.393,,
+9,hamilton,Lewis,Hamilton,Mercedes,1,1:30.609,1:29.520,1:28.319
+9,bottas,Valtteri,Bottas,Mercedes,2,1:30.550,1:29.437,1:28.605
+9,leclerc,Charles,Leclerc,Ferrari,3,1:30.647,1:29.699,1:28.965
+9,max_verstappen,Max,Verstappen,Red Bull,4,1:31.327,1:30.099,1:29.409
+9,norris,Lando,Norris,McLaren,5,1:30.989,1:30.019,1:29.418
+9,sainz,Carlos,Sainz,McLaren,6,1:31.073,1:30.319,1:29.522
+9,vettel,Sebastian,Vettel,Ferrari,7,1:31.075,1:29.506,1:29.799
+9,ricciardo,Daniel,Ricciardo,Renault,8,1:30.954,1:30.369,1:29.918
+9,gasly,Pierre,Gasly,Red Bull,9,1:31.152,1:30.421,1:30.184
+9,giovinazzi,Antonio,Giovinazzi,Alfa Romeo,10,1:31.180,1:30.408,1:33.420
+9,albon,Alexander,Albon,Toro Rosso,11,1:31.445,1:30.461,
+9,raikkonen,Kimi,Räikkönen,Alfa Romeo,12,1:30.972,1:30.533,
+9,hulkenberg,Nico,Hülkenberg,Renault,13,1:30.865,1:30.544,
+9,perez,Sergio,Pérez,Racing Point,14,1:30.964,1:30.738,
+9,kevin_magnussen,Kevin,Magnussen,Haas F1 Team,15,1:31.166,1:31.440,
+9,kvyat,Daniil,Kvyat,Toro Rosso,16,1:31.564,,
+9,grosjean,Romain,Grosjean,Haas F1 Team,17,1:31.626,,
+9,stroll,Lance,Stroll,Racing Point,18,1:31.726,,
+9,russell,George,Russell,Williams,19,1:32.789,,
+9,kubica,Robert,Kubica,Williams,20,1:33.205,,
+10,leclerc,Charles,Leclerc,Ferrari,1,1:04.138,1:03.378,1:03.003
+10,hamilton,Lewis,Hamilton,Mercedes,2,1:03.818,1:03.803,1:03.262
+10,max_verstappen,Max,Verstappen,Red Bull,3,1:03.807,1:03.835,1:03.439
+10,bottas,Valtteri,Bottas,Mercedes,4,1:04.084,1:03.863,1:03.537
+10,kevin_magnussen,Kevin,Magnussen,Haas F1 Team,5,1:04.778,1:04.466,1:04.072
+10,norris,Lando,Norris,McLaren,6,1:04.361,1:04.211,1:04.099
+10,raikkonen,Kimi,Räikkönen,Alfa Romeo,7,1:04.615,1:04.056,1:04.166
+10,giovinazzi,Antonio,Giovinazzi,Alfa Romeo,8,1:04.450,1:04.194,1:04.179
+10,gasly,Pierre,Gasly,Red Bull,9,1:04.412,1:03.988,1:04.199
+10,vettel,Sebastian,Vettel,Ferrari,10,1:04.430,1:03.667,
+10,grosjean,Romain,Grosjean,Haas F1 Team,11,1:04.552,1:04.490,
+10,hulkenberg,Nico,Hülkenberg,Renault,12,1:04.733,1:04.516,
+10,albon,Alexander,Albon,Toro Rosso,13,1:04.708,1:04.665,
+10,ricciardo,Daniel,Ricciardo,Renault,14,1:04.647,1:04.790,
+10,sainz,Carlos,Sainz,McLaren,15,1:04.453,1:13.601,
+10,perez,Sergio,Pérez,Racing Point,16,1:04.789,,
+10,stroll,Lance,Stroll,Racing Point,17,1:04.832,,
+10,kvyat,Daniil,Kvyat,Toro Rosso,18,1:05.324,,
+10,russell,George,Russell,Williams,19,1:05.904,,
+10,kubica,Robert,Kubica,Williams,20,1:06.206,,
+11,bottas,Valtteri,Bottas,Mercedes,1,1:25.750,1:25.672,1:25.093
+11,hamilton,Lewis,Hamilton,Mercedes,2,1:25.513,1:25.840,1:25.099
+11,leclerc,Charles,Leclerc,Ferrari,3,1:25.533,1:25.546,1:25.172
+11,max_verstappen,Max,Verstappen,Red Bull,4,1:25.700,1:25.848,1:25.276
+11,gasly,Pierre,Gasly,Red Bull,5,1:26.273,1:26.038,1:25.590
+11,vettel,Sebastian,Vettel,Ferrari,6,1:25.898,1:26.023,1:25.787
+11,ricciardo,Daniel,Ricciardo,Renault,7,1:26.428,1:26.283,1:26.182
+11,norris,Lando,Norris,McLaren,8,1:26.079,1:26.385,1:26.224
+11,albon,Alexander,Albon,Toro Rosso,9,1:26.482,1:26.403,1:26.345
+11,hulkenberg,Nico,Hülkenberg,Renault,10,1:26.568,1:26.397,1:26.386
+11,giovinazzi,Antonio,Giovinazzi,Alfa Romeo,11,1:26.449,1:26.519,
+11,raikkonen,Kimi,Räikkönen,Alfa Romeo,12,1:26.558,1:26.546,
+11,sainz,Carlos,Sainz,McLaren,13,1:26.203,1:26.578,
+11,grosjean,Romain,Grosjean,Haas F1 Team,14,1:26.347,1:26.757,
+11,perez,Sergio,Pérez,Racing Point,15,1:26.649,1:26.928,
+11,kevin_magnussen,Kevin,Magnussen,Haas F1 Team,16,1:26.662,,
+11,kvyat,Daniil,Kvyat,Toro Rosso,17,1:26.721,,
+11,stroll,Lance,Stroll,Racing Point,18,1:26.762,,
+11,russell,George,Russell,Williams,19,1:27.789,,
+11,kubica,Robert,Kubica,Williams,20,1:28.257,,
+12,hamilton,Lewis,Hamilton,Mercedes,1,1:12.852,1:12.149,1:11.767
+12,max_verstappen,Max,Verstappen,Red Bull,2,1:12.593,1:12.427,1:12.113
+12,bottas,Valtteri,Bottas,Mercedes,3,1:13.075,1:12.424,1:12.129
+12,gasly,Pierre,Gasly,Red Bull,4,1:12.991,1:12.385,1:12.522
+12,raikkonen,Kimi,Räikkönen,Alfa Romeo,5,1:13.066,1:12.519,1:12.538
+12,grosjean,Romain,Grosjean,Haas F1 Team,6,1:13.146,1:12.769,1:12.851
+12,sainz,Carlos,Sainz,McLaren,7,1:13.221,1:12.632,1:12.897
+12,perez,Sergio,Pérez,Racing Point,8,1:13.194,1:12.776,1:13.065
+12,hulkenberg,Nico,Hülkenberg,Renault,9,1:13.186,1:12.766,1:13.126
+12,leclerc,Charles,Leclerc,Ferrari,10,1:12.229,1:12.344,
+12,giovinazzi,Antonio,Giovinazzi,Alfa Romeo,11,1:13.170,1:12.786,
+12,kevin_magnussen,Kevin,Magnussen,Haas F1 Team,12,1:13.103,1:12.789,
+12,ricciardo,Daniel,Ricciardo,Renault,13,1:13.131,1:12.799,
+12,kvyat,Daniil,Kvyat,Toro Rosso,14,1:13.278,1:13.135,
+12,stroll,Lance,Stroll,Racing Point,15,1:13.256,1:13.450,
+12,norris,Lando,Norris,McLaren,16,1:13.333,,
+12,albon,Alexander,Albon,Toro Rosso,17,1:13.461,,
+12,russell,George,Russell,Williams,18,1:14.721,,
+12,kubica,Robert,Kubica,Williams,19,1:14.839,,
+12,vettel,Sebastian,Vettel,Ferrari,20,,,
+13,max_verstappen,Max,Verstappen,Red Bull,1,1:15.817,1:15.573,1:14.572
+13,bottas,Valtteri,Bottas,Mercedes,2,1:16.078,1:15.669,1:14.590
+13,hamilton,Lewis,Hamilton,Mercedes,3,1:16.068,1:15.548,1:14.769
+13,leclerc,Charles,Leclerc,Ferrari,4,1:16.337,1:15.792,1:15.043
+13,vettel,Sebastian,Vettel,Ferrari,5,1:16.452,1:15.885,1:15.071
+13,gasly,Pierre,Gasly,Red Bull,6,1:16.716,1:16.393,1:15.450
+13,norris,Lando,Norris,McLaren,7,1:16.697,1:16.060,1:15.800
+13,sainz,Carlos,Sainz,McLaren,8,1:16.493,1:16.308,1:15.852
+13,grosjean,Romain,Grosjean,Haas F1 Team,9,1:16.978,1:16.319,1:16.013
+13,raikkonen,Kimi,Räikkönen,Alfa Romeo,10,1:16.506,1:16.518,1:16.041
+13,hulkenberg,Nico,Hülkenberg,Renault,11,1:16.790,1:16.565,
+13,albon,Alexander,Albon,Toro Rosso,12,1:16.912,1:16.687,
+13,kvyat,Daniil,Kvyat,Toro Rosso,13,1:16.750,1:16.692,
+13,giovinazzi,Antonio,Giovinazzi,Alfa Romeo,14,1:16.894,1:16.804,
+13,kevin_magnussen,Kevin,Magnussen,Haas F1 Team,15,1:16.122,1:17.081,
+13,russell,George,Russell,Williams,16,1:17.031,,
+13,perez,Sergio,Pérez,Racing Point,17,1:17.109,,
+13,ricciardo,Daniel,Ricciardo,Renault,18,1:17.257,,
+13,stroll,Lance,Stroll,Racing Point,19,1:17.542,,
+13,kubica,Robert,Kubica,Williams,20,1:18.324,,
+14,leclerc,Charles,Leclerc,Ferrari,1,1:43.587,1:42.938,1:42.519
+14,vettel,Sebastian,Vettel,Ferrari,2,1:44.109,1:43.037,1:43.267
+14,hamilton,Lewis,Hamilton,Mercedes,3,1:45.260,1:43.592,1:43.282
+14,bottas,Valtteri,Bottas,Mercedes,4,1:45.141,1:43.980,1:43.415
+14,max_verstappen,Max,Verstappen,Red Bull,5,1:44.622,1:44.132,1:43.690
+14,ricciardo,Daniel,Ricciardo,Renault,6,1:45.560,1:44.103,1:44.257
+14,hulkenberg,Nico,Hülkenberg,Renault,7,1:45.899,1:44.549,1:44.542
+14,raikkonen,Kimi,Räikkönen,Alfa Romeo,8,1:45.842,1:44.140,1:44.557
+14,perez,Sergio,Pérez,Racing Point,9,1:45.732,1:44.707,1:44.706
+14,kevin_magnussen,Kevin,Magnussen,Haas F1 Team,10,1:45.839,1:44.738,1:45.086
+14,grosjean,Romain,Grosjean,Haas F1 Team,11,1:45.694,1:44.797,
+14,norris,Lando,Norris,McLaren,12,1:46.154,1:44.847,
+14,stroll,Lance,Stroll,Racing Point,13,1:46.000,1:45.047,
+14,albon,Alexander,Albon,Red Bull,14,1:45.528,1:45.799,
+14,giovinazzi,Antonio,Giovinazzi,Alfa Romeo,15,1:45.637,,
+14,gasly,Pierre,Gasly,Toro Rosso,16,1:46.435,,
+14,sainz,Carlos,Sainz,McLaren,17,1:46.507,,
+14,kvyat,Daniil,Kvyat,Toro Rosso,18,1:46.518,,
+14,russell,George,Russell,Williams,19,1:47.548,,
+14,kubica,Robert,Kubica,Williams,20,,,
+15,leclerc,Charles,Leclerc,Ferrari,1,1:20.126,1:19.553,1:19.307
+15,hamilton,Lewis,Hamilton,Mercedes,2,1:20.272,1:19.464,1:19.346
+15,bottas,Valtteri,Bottas,Mercedes,3,1:20.156,1:20.018,1:19.354
+15,vettel,Sebastian,Vettel,Ferrari,4,1:20.378,1:19.715,1:19.457
+15,ricciardo,Daniel,Ricciardo,Renault,5,1:20.374,1:19.833,1:19.839
+15,hulkenberg,Nico,Hülkenberg,Renault,6,1:20.155,1:20.275,1:20.049
+15,sainz,Carlos,Sainz,McLaren,7,1:20.413,1:20.202,1:20.455
+15,albon,Alexander,Albon,Red Bull,8,1:20.382,1:20.021,
+15,stroll,Lance,Stroll,Racing Point,9,1:20.643,1:20.498,
+15,raikkonen,Kimi,Räikkönen,Alfa Romeo,10,1:20.634,1:20.515,
+15,giovinazzi,Antonio,Giovinazzi,Alfa Romeo,11,1:20.657,1:20.517,
+15,kevin_magnussen,Kevin,Magnussen,Haas F1 Team,12,1:20.616,1:20.615,
+15,kvyat,Daniil,Kvyat,Toro Rosso,13,1:20.723,1:20.630,
+15,norris,Lando,Norris,McLaren,14,1:20.646,1:21.068,
+15,gasly,Pierre,Gasly,Toro Rosso,15,1:20.508,1:21.125,
+15,grosjean,Romain,Grosjean,Haas F1 Team,16,1:20.784,,
+15,perez,Sergio,Pérez,Racing Point,17,1:21.291,,
+15,russell,George,Russell,Williams,18,1:21.800,,
+15,kubica,Robert,Kubica,Williams,19,1:22.356,,
+15,max_verstappen,Max,Verstappen,Red Bull,20,,,
+16,leclerc,Charles,Leclerc,Ferrari,1,1:38.014,1:36.650,1:36.217
+16,hamilton,Lewis,Hamilton,Mercedes,2,1:37.565,1:36.933,1:36.408
+16,vettel,Sebastian,Vettel,Ferrari,3,1:38.374,1:36.720,1:36.437
+16,max_verstappen,Max,Verstappen,Red Bull,4,1:38.540,1:37.089,1:36.813
+16,bottas,Valtteri,Bottas,Mercedes,5,1:37.317,1:37.142,1:37.146
+16,albon,Alexander,Albon,Red Bull,6,1:39.106,1:37.865,1:37.411
+16,sainz,Carlos,Sainz,McLaren,7,1:38.882,1:37.982,1:37.818
+16,hulkenberg,Nico,Hülkenberg,Renault,8,1:39.001,1:38.580,1:38.264
+16,norris,Lando,Norris,McLaren,9,1:38.606,1:37.572,1:38.329
+16,perez,Sergio,Pérez,Racing Point,10,1:39.909,1:38.520,
+16,giovinazzi,Antonio,Giovinazzi,Alfa Romeo,11,1:39.272,1:38.697,
+16,gasly,Pierre,Gasly,Toro Rosso,12,1:39.085,1:38.699,
+16,raikkonen,Kimi,Räikkönen,Alfa Romeo,13,1:39.454,1:38.858,
+16,kevin_magnussen,Kevin,Magnussen,Haas F1 Team,14,1:39.942,1:39.650,
+16,kvyat,Daniil,Kvyat,Toro Rosso,15,1:39.957,,
+16,stroll,Lance,Stroll,Racing Point,16,1:39.979,,
+16,grosjean,Romain,Grosjean,Haas F1 Team,17,1:40.277,,
+16,russell,George,Russell,Williams,18,1:40.867,,
+16,kubica,Robert,Kubica,Williams,19,1:41.186,,
+16,ricciardo,Daniel,Ricciardo,Renault,20,,,
+17,leclerc,Charles,Leclerc,Ferrari,1,1:33.613,1:32.434,1:31.628
+17,hamilton,Lewis,Hamilton,Mercedes,2,1:33.230,1:33.134,1:32.030
+17,vettel,Sebastian,Vettel,Ferrari,3,1:33.032,1:32.536,1:32.053
+17,max_verstappen,Max,Verstappen,Red Bull,4,1:33.368,1:32.634,1:32.310
+17,bottas,Valtteri,Bottas,Mercedes,5,1:33.413,1:33.281,1:32.632
+17,sainz,Carlos,Sainz,McLaren,6,1:34.184,1:33.807,1:33.222
+17,hulkenberg,Nico,Hülkenberg,Renault,7,1:34.236,1:33.898,1:33.289
+17,norris,Lando,Norris,McLaren,8,1:34.201,1:33.725,1:33.301
+17,grosjean,Romain,Grosjean,Haas F1 Team,9,1:34.283,1:33.643,1:33.517
+17,ricciardo,Daniel,Ricciardo,Renault,10,1:34.138,1:33.862,1:33.661
+17,gasly,Pierre,Gasly,Toro Rosso,11,1:34.456,1:33.950,
+17,perez,Sergio,Pérez,Racing Point,12,1:34.336,1:33.958,
+17,giovinazzi,Antonio,Giovinazzi,Alfa Romeo,13,1:34.755,1:34.037,
+17,kevin_magnussen,Kevin,Magnussen,Haas F1 Team,14,1:33.889,1:34.082,
+17,stroll,Lance,Stroll,Racing Point,15,1:34.287,1:34.233,
+17,raikkonen,Kimi,Räikkönen,Alfa Romeo,16,1:34.840,,
+17,russell,George,Russell,Williams,17,1:35.356,,
+17,kubica,Robert,Kubica,Williams,18,1:36.474,,
+17,albon,Alexander,Albon,Red Bull,19,1:39.197,,
+17,kvyat,Daniil,Kvyat,Toro Rosso,20,1:39.544,,
+18,vettel,Sebastian,Vettel,Ferrari,1,1:28.988,1:28.174,1:27.064
+18,leclerc,Charles,Leclerc,Ferrari,2,1:28.405,1:28.179,1:27.253
+18,bottas,Valtteri,Bottas,Mercedes,3,1:28.896,1:27.688,1:27.293
+18,hamilton,Lewis,Hamilton,Mercedes,4,1:28.735,1:27.826,1:27.302
+18,max_verstappen,Max,Verstappen,Red Bull,5,1:28.754,1:28.499,1:27.851
+18,albon,Alexander,Albon,Red Bull,6,1:29.351,1:28.156,1:27.851
+18,sainz,Carlos,Sainz,McLaren,7,1:29.018,1:28.577,1:28.304
+18,norris,Lando,Norris,McLaren,8,1:28.873,1:28.571,1:28.464
+18,gasly,Pierre,Gasly,Toro Rosso,9,1:29.411,1:28.779,1:28.836
+18,grosjean,Romain,Grosjean,Haas F1 Team,10,1:29.572,1:29.144,1:29.341
+18,giovinazzi,Antonio,Giovinazzi,Alfa Romeo,11,1:29.604,1:29.254,
+18,stroll,Lance,Stroll,Racing Point,12,1:29.594,1:29.345,
+18,raikkonen,Kimi,Räikkönen,Alfa Romeo,13,1:29.636,1:29.358,
+18,kvyat,Daniil,Kvyat,Toro Rosso,14,1:29.723,1:29.563,
+18,hulkenberg,Nico,Hülkenberg,Renault,15,1:29.619,1:30.112,
+18,ricciardo,Daniel,Ricciardo,Renault,16,1:29.822,,
+18,perez,Sergio,Pérez,Racing Point,17,1:30.344,,
+18,russell,George,Russell,Williams,18,1:30.364,,
+18,kevin_magnussen,Kevin,Magnussen,Haas F1 Team,19,,,
+18,kubica,Robert,Kubica,Williams,20,,,
+19,max_verstappen,Max,Verstappen,Red Bull,1,1:15.949,1:16.136,1:14.758
+19,leclerc,Charles,Leclerc,Ferrari,2,1:16.364,1:16.219,1:15.024
+19,vettel,Sebastian,Vettel,Ferrari,3,1:16.696,1:15.914,1:15.170
+19,hamilton,Lewis,Hamilton,Mercedes,4,1:16.424,1:15.721,1:15.262
+19,albon,Alexander,Albon,Red Bull,5,1:16.175,1:16.574,1:15.336
+19,bottas,Valtteri,Bottas,Mercedes,6,1:17.062,1:15.852,1:15.338
+19,sainz,Carlos,Sainz,McLaren,7,1:17.044,1:16.267,1:16.014
+19,norris,Lando,Norris,McLaren,8,1:17.092,1:16.447,1:16.322
+19,kvyat,Daniil,Kvyat,Toro Rosso,9,1:17.041,1:16.657,1:16.469
+19,gasly,Pierre,Gasly,Toro Rosso,10,1:17.065,1:16.679,1:16.586
+19,perez,Sergio,Pérez,Racing Point,11,1:17.465,1:16.687,
+19,hulkenberg,Nico,Hülkenberg,Renault,12,1:17.608,1:16.885,
+19,ricciardo,Daniel,Ricciardo,Renault,13,1:17.270,1:16.933,
+19,raikkonen,Kimi,Räikkönen,Alfa Romeo,14,1:17.225,1:16.967,
+19,giovinazzi,Antonio,Giovinazzi,Alfa Romeo,15,1:17.794,1:17.269,
+19,stroll,Lance,Stroll,Racing Point,16,1:18.065,,
+19,kevin_magnussen,Kevin,Magnussen,Haas F1 Team,17,1:18.436,,
+19,grosjean,Romain,Grosjean,Haas F1 Team,18,1:18.599,,
+19,russell,George,Russell,Williams,19,1:18.823,,
+19,kubica,Robert,Kubica,Williams,20,1:20.179,,
+20,bottas,Valtteri,Bottas,Mercedes,1,1:33.750,1:33.160,1:32.029
+20,vettel,Sebastian,Vettel,Ferrari,2,1:33.766,1:33.782,1:32.041
+20,max_verstappen,Max,Verstappen,Red Bull,3,1:33.549,1:33.120,1:32.096
+20,leclerc,Charles,Leclerc,Ferrari,4,1:33.988,1:32.760,1:32.137
+20,hamilton,Lewis,Hamilton,Mercedes,5,1:33.454,1:33.045,1:32.321
+20,albon,Alexander,Albon,Red Bull,6,1:33.984,1:32.898,1:32.548
+20,sainz,Carlos,Sainz,McLaren,7,1:33.916,1:33.422,1:32.847
+20,norris,Lando,Norris,McLaren,8,1:33.353,1:33.316,1:33.175
+20,ricciardo,Daniel,Ricciardo,Renault,9,1:33.835,1:33.608,1:33.488
+20,gasly,Pierre,Gasly,Toro Rosso,10,1:33.556,1:33.715,1:33.601
+20,hulkenberg,Nico,Hülkenberg,Renault,11,1:34.092,1:33.815,
+20,kevin_magnussen,Kevin,Magnussen,Haas F1 Team,12,1:33.812,1:33.979,
+20,kvyat,Daniil,Kvyat,Toro Rosso,13,1:34.138,1:33.989,
+20,stroll,Lance,Stroll,Racing Point,14,1:33.921,1:34.100,
+20,grosjean,Romain,Grosjean,Haas F1 Team,15,1:34.161,1:34.158,
+20,giovinazzi,Antonio,Giovinazzi,Alfa Romeo,16,1:34.226,,
+20,raikkonen,Kimi,Räikkönen,Alfa Romeo,17,1:34.369,,
+20,russell,George,Russell,Williams,18,1:35.372,,
+20,perez,Sergio,Pérez,Racing Point,19,1:35.808,,
+20,kubica,Robert,Kubica,Williams,20,1:35.889,,
+21,max_verstappen,Max,Verstappen,Red Bull,1,1:08.242,1:07.503,1:07.508
+21,vettel,Sebastian,Vettel,Ferrari,2,1:08.556,1:08.050,1:07.631
+21,hamilton,Lewis,Hamilton,Mercedes,3,1:08.614,1:08.088,1:07.699
+21,leclerc,Charles,Leclerc,Ferrari,4,1:08.496,1:07.888,1:07.728
+21,bottas,Valtteri,Bottas,Mercedes,5,1:08.545,1:08.232,1:07.874
+21,albon,Alexander,Albon,Red Bull,6,1:08.503,1:08.117,1:07.935
+21,gasly,Pierre,Gasly,Toro Rosso,7,1:08.909,1:08.770,1:08.837
+21,grosjean,Romain,Grosjean,Haas F1 Team,8,1:09.197,1:08.705,1:08.854
+21,raikkonen,Kimi,Räikkönen,Alfa Romeo,9,1:09.276,1:08.858,1:08.984
+21,kevin_magnussen,Kevin,Magnussen,Haas F1 Team,10,1:08.875,1:08.803,1:09.037
+21,norris,Lando,Norris,McLaren,11,1:08.891,1:08.868,
+21,ricciardo,Daniel,Ricciardo,Renault,12,1:09.086,1:08.903,
+21,giovinazzi,Antonio,Giovinazzi,Alfa Romeo,13,1:09.175,1:08.919,
+21,hulkenberg,Nico,Hülkenberg,Renault,14,1:09.050,1:08.921,
+21,perez,Sergio,Pérez,Racing Point,15,1:09.288,1:09.035,
+21,kvyat,Daniil,Kvyat,Toro Rosso,16,1:09.320,,
+21,stroll,Lance,Stroll,Racing Point,17,1:09.536,,
+21,russell,George,Russell,Williams,18,1:10.126,,
+21,kubica,Robert,Kubica,Williams,19,1:10.614,,
+21,sainz,Carlos,Sainz,McLaren,20,,,
