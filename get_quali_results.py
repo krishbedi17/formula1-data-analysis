@@ -15,12 +15,15 @@ def get_quali_results(year, round):
             if quali_results:
                 for result in quali_results:
                     result['Round'] = round + 1
+                    result['Driver Id'] = result['Driver']['driverId']
+
 
                 quali_df = pd.json_normalize(quali_results)
 
                 # Filter the relevant columns
                 quali_df = quali_df[[
-                    'Round', 'Driver.givenName', 'Driver.familyName', 'Constructor.name', 'position', 'Q1', 'Q2', 'Q3'
+                    'Round', 'Driver Id', 'Driver.givenName', 'Driver.familyName', 'Constructor.name', 'position', 'Q1',
+                    'Q2', 'Q3'
                 ]]
 
                 # Rename the columns for clarity
