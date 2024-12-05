@@ -3,24 +3,19 @@ import pandas as pd
 import requests
 
 def convert_duration_to_seconds(duration):
-    """
-    Convert duration string in format 'mm:ss.mmm' to total seconds (including milliseconds).
-    """
-    if pd.isna(duration):  # Handle missing values
+    if pd.isna(duration):
         return 0
 
     if ':' in duration:
-        # Split into minutes and seconds
-        minutes, seconds = duration.split(':')
-        minutes = float(minutes)
+        seconds, milliseconds = duration.split(':')
         seconds = float(seconds)
-        # Convert total duration to seconds
-        total_seconds = minutes * 60 + seconds
+        milliseconds, garbage = milliseconds.split('.')
+        milliseconds = float(milliseconds) / 1000
+        total_seconds = seconds + milliseconds
     else:
-        # If no ":" is present, assume it's "seconds.milliseconds"
         seconds, milliseconds = duration.split('.')
         seconds = float(seconds)
-        milliseconds = float(milliseconds) / 1000  # Convert milliseconds to fraction of a second
+        milliseconds = float(milliseconds) / 1000
         total_seconds = seconds + milliseconds
 
     return total_seconds
@@ -51,12 +46,9 @@ def get_pit_stops(year, round):
                     'time': 'Time',
                     'duration': 'Duration'
                 }, inplace=True)
-
-                # Convert 'Duration' from string to numeric (total seconds)
                 pit_stop_df['DuraNumeric'] = pit_stop_df['Duration'].apply(convert_duration_to_seconds)
                 pit_stop_df.drop(columns=['Time', 'Duration'], inplace=True)
                 pit_stop_df.rename(columns={'DuraNumeric': 'Duration'}, inplace=True)
-
                 return pit_stop_df
         else:
             print(f"No data available for the year {year}, round {round}.")
@@ -86,14 +78,12 @@ def main():
         for j in range(1, round_count + 1):
             pit_stops = get_pit_stops(i, j)
             if not pit_stops.empty:
-                # Calculate the average duration for each driver in each race
                 avg_pit_stop = pit_stops.groupby(['Round', 'Driver ID'])['Duration'].agg(Mean ='mean', StdDev = 'std').reset_index()
                 avg_pit_stop['StdDev'] = avg_pit_stop['StdDev'].fillna(0)
                 avg_pit_stop['Year'] = i
                 all_pit_stops.append(avg_pit_stop)
 
     if all_pit_stops:
-        # Combine all results and write to a single CSV file
         avg_pit_stops_df = pd.concat(all_pit_stops, ignore_index=True)
         avg_pit_stops_df.to_csv(output_file, index=False)
         print(f"Data saved to {output_file}")
