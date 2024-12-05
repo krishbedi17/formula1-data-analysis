@@ -8,6 +8,8 @@ def get_season_schedule(year):
         schedule = response.json().get('MRData', {}).get('RaceTable', {}).get('Races', [])
         if schedule:
             schedule_df = pd.json_normalize(schedule)
+            schedule_df['time'] = schedule_df.get('time', None)
+
             schedule_df = schedule_df[[
                 'round', 'raceName', 'Circuit.circuitId', 'Circuit.circuitName',
                 'Circuit.Location.locality', 'Circuit.Location.country',
@@ -36,7 +38,7 @@ def get_season_schedule(year):
 
 
 def main():
-    for i in range(2018, 2024):
+    for i in range(2000, 2024):
         schedule = get_season_schedule(i)
         schedule.to_csv(f"season_schedule/{i}_season_schedule.csv", index=False)
 

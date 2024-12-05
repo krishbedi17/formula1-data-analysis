@@ -1,0 +1,321 @@
+Race ID,Year,Position,Driver ID,Last Name,First Name,Constructor,Constructor ID,Points,Status,Fastest Lap Time,Fastest Lap Avg Speed (kph),Total Points,Wins,Total Wins
+1,2003,1,coulthard,Coulthard,David,McLaren,mclaren,10,Finished,,,189.0,1,7.0
+1,2003,2,montoya,Pablo Montoya,Juan,Williams,williams,8,Finished,,,89.0,0,1.0
+1,2003,3,raikkonen,Räikkönen,Kimi,McLaren,mclaren,6,Finished,,,1604.0,0,20.0
+1,2003,4,michael_schumacher,Schumacher,Michael,Ferrari,ferrari,5,Finished,,,380.0,0,29.0
+1,2003,5,trulli,Trulli,Jarno,Renault,renault,4,Finished,,,31.0,0,0.0
+1,2003,6,frentzen,Frentzen,Heinz-Harald,Sauber,sauber,3,Finished,,,22.0,0,0.0
+1,2003,7,alonso,Alonso,Fernando,Renault,renault,2,Finished,,,1851.0,0,32.0
+1,2003,8,ralf_schumacher,Schumacher,Ralf,Williams,williams,1,Finished,,,116.0,0,4.0
+1,2003,9,villeneuve,Villeneuve,Jacques,BAR,bar,0,Finished,,,33.0,0,0.0
+1,2003,10,button,Button,Jenson,BAR,bar,0,Finished,,,28.0,0,0.0
+1,2003,11,verstappen,Verstappen,Jos,Minardi,minardi,0,+1 Lap,,,6.0,0,0.0
+1,2003,12,fisichella,Fisichella,Giancarlo,Jordan,jordan,0,Gearbox,,,33.0,0,0.0
+1,2003,13,pizzonia,Pizzonia,Antônio,Jaguar,jaguar,0,Suspension,,,0.0,0,0.0
+1,2003,14,panis,Panis,Olivier,Toyota,toyota,0,Fuel pressure,,,8.0,0,0.0
+1,2003,15,heidfeld,Heidfeld,Nick,Sauber,sauber,0,Suspension,,,19.0,0,0.0
+1,2003,16,wilson,Wilson,Justin,Minardi,minardi,0,Radiator,,,0.0,0,0.0
+1,2003,17,webber,Webber,Mark,Jaguar,jaguar,0,Suspension,,,2.0,0,0.0
+1,2003,18,matta,da Matta,Cristiano,Toyota,toyota,0,Spun off,,,0.0,0,0.0
+1,2003,19,firman,Firman,Ralph,Jordan,jordan,0,Accident,,,0.0,0,0.0
+1,2003,20,barrichello,Barrichello,Rubens,Ferrari,ferrari,0,Accident,,,195.0,0,5.0
+2,2003,1,raikkonen,Räikkönen,Kimi,McLaren,mclaren,10,Finished,,,1614.0,1,21.0
+2,2003,2,barrichello,Barrichello,Rubens,Ferrari,ferrari,8,Finished,,,203.0,0,5.0
+2,2003,3,alonso,Alonso,Fernando,Renault,renault,6,Finished,,,1857.0,0,32.0
+2,2003,4,ralf_schumacher,Schumacher,Ralf,Williams,williams,5,Finished,,,121.0,0,4.0
+2,2003,5,trulli,Trulli,Jarno,Renault,renault,4,+1 Lap,,,35.0,0,0.0
+2,2003,6,michael_schumacher,Schumacher,Michael,Ferrari,ferrari,3,+1 Lap,,,383.0,0,29.0
+2,2003,7,button,Button,Jenson,BAR,bar,2,+1 Lap,,,30.0,0,0.0
+2,2003,8,heidfeld,Heidfeld,Nick,Sauber,sauber,1,+1 Lap,,,20.0,0,0.0
+2,2003,9,frentzen,Frentzen,Heinz-Harald,Sauber,sauber,0,+1 Lap,,,22.0,0,0.0
+2,2003,10,firman,Firman,Ralph,Jordan,jordan,0,+1 Lap,,,0.0,0,0.0
+2,2003,11,matta,da Matta,Cristiano,Toyota,toyota,0,+1 Lap,,,0.0,0,0.0
+2,2003,12,montoya,Pablo Montoya,Juan,Williams,williams,0,+3 Laps,,,89.0,0,1.0
+2,2003,13,verstappen,Verstappen,Jos,Minardi,minardi,0,+4 Laps,,,6.0,0,0.0
+2,2003,14,pizzonia,Pizzonia,Antônio,Jaguar,jaguar,0,Spun off,,,0.0,0,0.0
+2,2003,15,wilson,Wilson,Justin,Minardi,minardi,0,Mechanical,,,0.0,0,0.0
+2,2003,16,webber,Webber,Mark,Jaguar,jaguar,0,Engine,,,2.0,0,0.0
+2,2003,17,panis,Panis,Olivier,Toyota,toyota,0,Fuel pressure,,,8.0,0,0.0
+2,2003,18,coulthard,Coulthard,David,McLaren,mclaren,0,Electrical,,,189.0,0,7.0
+2,2003,19,fisichella,Fisichella,Giancarlo,Jordan,jordan,0,Electrical,,,33.0,0,0.0
+2,2003,20,villeneuve,Villeneuve,Jacques,BAR,bar,0,Electrical,,,33.0,0,0.0
+3,2003,1,fisichella,Fisichella,Giancarlo,Jordan,jordan,10,Finished,,,43.0,1,1.0
+3,2003,2,raikkonen,Räikkönen,Kimi,McLaren,mclaren,8,Finished,,,1622.0,0,21.0
+3,2003,3,alonso,Alonso,Fernando,Renault,renault,6,Finished,,,1863.0,0,32.0
+3,2003,4,coulthard,Coulthard,David,McLaren,mclaren,5,Finished,,,194.0,0,7.0
+3,2003,5,frentzen,Frentzen,Heinz-Harald,Sauber,sauber,4,Finished,,,26.0,0,0.0
+3,2003,6,villeneuve,Villeneuve,Jacques,BAR,bar,3,Finished,,,36.0,0,0.0
+3,2003,7,ralf_schumacher,Schumacher,Ralf,Williams,williams,2,Finished,,,123.0,0,4.0
+3,2003,8,trulli,Trulli,Jarno,Renault,renault,1,Finished,,,36.0,0,0.0
+3,2003,9,webber,Webber,Mark,Jaguar,jaguar,0,Accident,,,2.0,0,0.0
+3,2003,10,matta,da Matta,Cristiano,Toyota,toyota,0,+1 Lap,,,0.0,0,0.0
+3,2003,11,barrichello,Barrichello,Rubens,Ferrari,ferrari,0,Fuel system,,,203.0,0,5.0
+3,2003,12,button,Button,Jenson,BAR,bar,0,Accident,,,30.0,0,0.0
+3,2003,13,verstappen,Verstappen,Jos,Minardi,minardi,0,Spun off,,,6.0,0,0.0
+3,2003,14,michael_schumacher,Schumacher,Michael,Ferrari,ferrari,0,Accident,,,383.0,0,29.0
+3,2003,15,montoya,Pablo Montoya,Juan,Williams,williams,0,Accident,,,89.0,0,1.0
+3,2003,16,pizzonia,Pizzonia,Antônio,Jaguar,jaguar,0,Accident,,,0.0,0,0.0
+3,2003,17,panis,Panis,Olivier,Toyota,toyota,0,Collision,,,8.0,0,0.0
+3,2003,18,firman,Firman,Ralph,Jordan,jordan,0,Suspension,,,0.0,0,0.0
+3,2003,19,wilson,Wilson,Justin,Minardi,minardi,0,Spun off,,,0.0,0,0.0
+3,2003,20,heidfeld,Heidfeld,Nick,Sauber,sauber,0,Engine,,,20.0,0,0.0
+4,2003,1,michael_schumacher,Schumacher,Michael,Ferrari,ferrari,10,Finished,,,393.0,1,30.0
+4,2003,2,raikkonen,Räikkönen,Kimi,McLaren,mclaren,8,Finished,,,1630.0,0,21.0
+4,2003,3,barrichello,Barrichello,Rubens,Ferrari,ferrari,6,Finished,,,209.0,0,5.0
+4,2003,4,ralf_schumacher,Schumacher,Ralf,Williams,williams,5,Finished,,,128.0,0,4.0
+4,2003,5,coulthard,Coulthard,David,McLaren,mclaren,4,Finished,,,198.0,0,7.0
+4,2003,6,alonso,Alonso,Fernando,Renault,renault,3,Finished,,,1866.0,0,32.0
+4,2003,7,montoya,Pablo Montoya,Juan,Williams,williams,2,Finished,,,91.0,0,1.0
+4,2003,8,button,Button,Jenson,BAR,bar,1,+1 Lap,,,31.0,0,0.0
+4,2003,9,panis,Panis,Olivier,Toyota,toyota,0,+1 Lap,,,8.0,0,0.0
+4,2003,10,heidfeld,Heidfeld,Nick,Sauber,sauber,0,+1 Lap,,,20.0,0,0.0
+4,2003,11,frentzen,Frentzen,Heinz-Harald,Sauber,sauber,0,+1 Lap,,,26.0,0,0.0
+4,2003,12,matta,da Matta,Cristiano,Toyota,toyota,0,+1 Lap,,,0.0,0,0.0
+4,2003,13,trulli,Trulli,Jarno,Renault,renault,0,+1 Lap,,,36.0,0,0.0
+4,2003,14,pizzonia,Pizzonia,Antônio,Jaguar,jaguar,0,+2 Laps,,,0.0,0,0.0
+4,2003,15,fisichella,Fisichella,Giancarlo,Jordan,jordan,0,+5 Laps,,,43.0,0,1.0
+4,2003,16,webber,Webber,Mark,Jaguar,jaguar,0,Driveshaft,,,2.0,0,0.0
+4,2003,17,firman,Firman,Ralph,Jordan,jordan,0,Oil line,,,0.0,0,0.0
+4,2003,18,verstappen,Verstappen,Jos,Minardi,minardi,0,Electrical,,,6.0,0,0.0
+4,2003,19,wilson,Wilson,Justin,Minardi,minardi,0,Fuel rig,,,0.0,0,0.0
+4,2003,20,villeneuve,Villeneuve,Jacques,BAR,bar,0,Engine,,,36.0,0,0.0
+5,2003,1,michael_schumacher,Schumacher,Michael,Ferrari,ferrari,10,Finished,,,403.0,1,31.0
+5,2003,2,alonso,Alonso,Fernando,Renault,renault,8,Finished,,,1874.0,0,32.0
+5,2003,3,barrichello,Barrichello,Rubens,Ferrari,ferrari,6,Finished,,,215.0,0,5.0
+5,2003,4,montoya,Pablo Montoya,Juan,Williams,williams,5,Finished,,,96.0,0,1.0
+5,2003,5,ralf_schumacher,Schumacher,Ralf,Williams,williams,4,+1 Lap,,,132.0,0,4.0
+5,2003,6,matta,da Matta,Cristiano,Toyota,toyota,3,+1 Lap,,,3.0,0,0.0
+5,2003,7,webber,Webber,Mark,Jaguar,jaguar,2,+1 Lap,,,4.0,0,0.0
+5,2003,8,firman,Firman,Ralph,Jordan,jordan,1,+2 Laps,,,1.0,0,0.0
+5,2003,9,button,Button,Jenson,BAR,bar,0,+2 Laps,,,31.0,0,0.0
+5,2003,10,heidfeld,Heidfeld,Nick,Sauber,sauber,0,+2 Laps,,,20.0,0,0.0
+5,2003,11,wilson,Wilson,Justin,Minardi,minardi,0,+2 Laps,,,0.0,0,0.0
+5,2003,12,verstappen,Verstappen,Jos,Minardi,minardi,0,+3 Laps,,,6.0,0,0.0
+5,2003,13,fisichella,Fisichella,Giancarlo,Jordan,jordan,0,Engine,,,43.0,0,1.0
+5,2003,14,panis,Panis,Olivier,Toyota,toyota,0,Gearbox,,,8.0,0,0.0
+5,2003,15,frentzen,Frentzen,Heinz-Harald,Sauber,sauber,0,Suspension,,,26.0,0,0.0
+5,2003,16,coulthard,Coulthard,David,McLaren,mclaren,0,Collision,,,198.0,0,7.0
+5,2003,17,villeneuve,Villeneuve,Jacques,BAR,bar,0,Electrical,,,36.0,0,0.0
+5,2003,18,trulli,Trulli,Jarno,Renault,renault,0,Collision,,,36.0,0,0.0
+5,2003,19,pizzonia,Pizzonia,Antônio,Jaguar,jaguar,0,Launch control,,,0.0,0,0.0
+5,2003,20,raikkonen,Räikkönen,Kimi,McLaren,mclaren,0,Collision,,,1630.0,0,21.0
+6,2003,1,michael_schumacher,Schumacher,Michael,Ferrari,ferrari,10,Finished,,,413.0,1,32.0
+6,2003,2,raikkonen,Räikkönen,Kimi,McLaren,mclaren,8,Finished,,,1638.0,0,21.0
+6,2003,3,barrichello,Barrichello,Rubens,Ferrari,ferrari,6,Finished,,,221.0,0,5.0
+6,2003,4,button,Button,Jenson,BAR,bar,5,Finished,,,36.0,0,0.0
+6,2003,5,coulthard,Coulthard,David,McLaren,mclaren,4,Finished,,,202.0,0,7.0
+6,2003,6,ralf_schumacher,Schumacher,Ralf,Williams,williams,3,+1 Lap,,,135.0,0,4.0
+6,2003,7,webber,Webber,Mark,Jaguar,jaguar,2,+1 Lap,,,6.0,0,0.0
+6,2003,8,trulli,Trulli,Jarno,Renault,renault,1,+1 Lap,,,37.0,0,0.0
+6,2003,9,pizzonia,Pizzonia,Antônio,Jaguar,jaguar,0,+1 Lap,,,0.0,0,0.0
+6,2003,10,matta,da Matta,Cristiano,Toyota,toyota,0,+1 Lap,,,3.0,0,0.0
+6,2003,11,firman,Firman,Ralph,Jordan,jordan,0,+1 Lap,,,1.0,0,0.0
+6,2003,12,villeneuve,Villeneuve,Jacques,BAR,bar,0,+1 Lap,,,36.0,0,0.0
+6,2003,13,wilson,Wilson,Justin,Minardi,minardi,0,+2 Laps,,,0.0,0,0.0
+6,2003,14,fisichella,Fisichella,Giancarlo,Jordan,jordan,0,Fuel system,,,43.0,0,1.0
+6,2003,15,heidfeld,Heidfeld,Nick,Sauber,sauber,0,Engine,,,20.0,0,0.0
+6,2003,16,alonso,Alonso,Fernando,Renault,renault,0,Engine,,,1874.0,0,32.0
+6,2003,17,montoya,Pablo Montoya,Juan,Williams,williams,0,Engine,,,96.0,0,1.0
+6,2003,18,panis,Panis,Olivier,Toyota,toyota,0,Suspension,,,8.0,0,0.0
+6,2003,19,verstappen,Verstappen,Jos,Minardi,minardi,0,Clutch,,,6.0,0,0.0
+6,2003,20,frentzen,Frentzen,Heinz-Harald,Sauber,sauber,0,Clutch,,,26.0,0,0.0
+7,2003,1,montoya,Pablo Montoya,Juan,Williams,williams,10,Finished,,,106.0,1,2.0
+7,2003,2,raikkonen,Räikkönen,Kimi,McLaren,mclaren,8,Finished,,,1646.0,0,21.0
+7,2003,3,michael_schumacher,Schumacher,Michael,Ferrari,ferrari,6,Finished,,,419.0,0,32.0
+7,2003,4,ralf_schumacher,Schumacher,Ralf,Williams,williams,5,Finished,,,140.0,0,4.0
+7,2003,5,alonso,Alonso,Fernando,Renault,renault,4,Finished,,,1878.0,0,32.0
+7,2003,6,trulli,Trulli,Jarno,Renault,renault,3,Finished,,,40.0,0,0.0
+7,2003,7,coulthard,Coulthard,David,McLaren,mclaren,2,Finished,,,204.0,0,7.0
+7,2003,8,barrichello,Barrichello,Rubens,Ferrari,ferrari,1,Finished,,,222.0,0,5.0
+7,2003,9,matta,da Matta,Cristiano,Toyota,toyota,0,+1 Lap,,,3.0,0,0.0
+7,2003,10,fisichella,Fisichella,Giancarlo,Jordan,jordan,0,+1 Lap,,,43.0,0,1.0
+7,2003,11,heidfeld,Heidfeld,Nick,Sauber,sauber,0,+2 Laps,,,20.0,0,0.0
+7,2003,12,firman,Firman,Ralph,Jordan,jordan,0,+2 Laps,,,1.0,0,0.0
+7,2003,13,panis,Panis,Olivier,Toyota,toyota,0,+4 Laps,,,8.0,0,0.0
+7,2003,14,villeneuve,Villeneuve,Jacques,BAR,bar,0,Engine,,,36.0,0,0.0
+7,2003,15,wilson,Wilson,Justin,Minardi,minardi,0,Fuel system,,,0.0,0,0.0
+7,2003,16,verstappen,Verstappen,Jos,Minardi,minardi,0,Fuel system,,,6.0,0,0.0
+7,2003,17,webber,Webber,Mark,Jaguar,jaguar,0,Hydraulics,,,6.0,0,0.0
+7,2003,18,pizzonia,Pizzonia,Antônio,Jaguar,jaguar,0,Electrical,,,0.0,0,0.0
+7,2003,19,frentzen,Frentzen,Heinz-Harald,Sauber,sauber,0,Accident,,,26.0,0,0.0
+7,2003,20,button,Button,Jenson,BAR,bar,0,Injured,,,36.0,0,0.0
+8,2003,1,michael_schumacher,Schumacher,Michael,Ferrari,ferrari,10,Finished,,,429.0,1,33.0
+8,2003,2,ralf_schumacher,Schumacher,Ralf,Williams,williams,8,Finished,,,148.0,0,4.0
+8,2003,3,montoya,Pablo Montoya,Juan,Williams,williams,6,Finished,,,112.0,0,2.0
+8,2003,4,alonso,Alonso,Fernando,Renault,renault,5,Finished,,,1883.0,0,32.0
+8,2003,5,barrichello,Barrichello,Rubens,Ferrari,ferrari,4,Finished,,,226.0,0,5.0
+8,2003,6,raikkonen,Räikkönen,Kimi,McLaren,mclaren,3,Finished,,,1649.0,0,21.0
+8,2003,7,webber,Webber,Mark,Jaguar,jaguar,2,+1 Lap,,,8.0,0,0.0
+8,2003,8,panis,Panis,Olivier,Toyota,toyota,1,+1 Lap,,,9.0,0,0.0
+8,2003,9,verstappen,Verstappen,Jos,Minardi,minardi,0,+2 Laps,,,6.0,0,0.0
+8,2003,10,pizzonia,Pizzonia,Antônio,Jaguar,jaguar,0,+4 Laps,,,0.0,0,0.0
+8,2003,11,matta,da Matta,Cristiano,Toyota,toyota,0,+6 Laps,,,3.0,0,0.0
+8,2003,12,wilson,Wilson,Justin,Minardi,minardi,0,Gearbox,,,0.0,0,0.0
+8,2003,13,button,Button,Jenson,BAR,bar,0,Gearbox,,,36.0,0,0.0
+8,2003,14,coulthard,Coulthard,David,McLaren,mclaren,0,Gearbox,,,204.0,0,7.0
+8,2003,15,heidfeld,Heidfeld,Nick,Sauber,sauber,0,Engine,,,20.0,0,0.0
+8,2003,16,trulli,Trulli,Jarno,Renault,renault,0,Accident,,,40.0,0,0.0
+8,2003,17,fisichella,Fisichella,Giancarlo,Jordan,jordan,0,Gearbox,,,43.0,0,1.0
+8,2003,18,firman,Firman,Ralph,Jordan,jordan,0,Engine,,,1.0,0,0.0
+8,2003,19,villeneuve,Villeneuve,Jacques,BAR,bar,0,Brakes,,,36.0,0,0.0
+8,2003,20,frentzen,Frentzen,Heinz-Harald,Sauber,sauber,0,Electronics,,,26.0,0,0.0
+9,2003,1,ralf_schumacher,Schumacher,Ralf,Williams,williams,10,Finished,,,158.0,1,5.0
+9,2003,2,montoya,Pablo Montoya,Juan,Williams,williams,8,Finished,,,120.0,0,2.0
+9,2003,3,barrichello,Barrichello,Rubens,Ferrari,ferrari,6,Finished,,,232.0,0,5.0
+9,2003,4,alonso,Alonso,Fernando,Renault,renault,5,Finished,,,1888.0,0,32.0
+9,2003,5,michael_schumacher,Schumacher,Michael,Ferrari,ferrari,4,Finished,,,433.0,0,33.0
+9,2003,6,webber,Webber,Mark,Jaguar,jaguar,3,+1 Lap,,,11.0,0,0.0
+9,2003,7,button,Button,Jenson,BAR,bar,2,+1 Lap,,,38.0,0,0.0
+9,2003,8,heidfeld,Heidfeld,Nick,Sauber,sauber,1,+1 Lap,,,21.0,0,0.0
+9,2003,9,frentzen,Frentzen,Heinz-Harald,Sauber,sauber,0,+1 Lap,,,26.0,0,0.0
+9,2003,10,pizzonia,Pizzonia,Antônio,Jaguar,jaguar,0,+1 Lap,,,0.0,0,0.0
+9,2003,11,firman,Firman,Ralph,Jordan,jordan,0,+2 Laps,,,1.0,0,0.0
+9,2003,12,fisichella,Fisichella,Giancarlo,Jordan,jordan,0,+2 Laps,,,43.0,0,1.0
+9,2003,13,wilson,Wilson,Justin,Minardi,minardi,0,+2 Laps,,,0.0,0,0.0
+9,2003,14,verstappen,Verstappen,Jos,Minardi,minardi,0,+3 Laps,,,6.0,0,0.0
+9,2003,15,coulthard,Coulthard,David,McLaren,mclaren,0,+4 Laps,,,204.0,0,7.0
+9,2003,16,matta,da Matta,Cristiano,Toyota,toyota,0,Engine,,,3.0,0,0.0
+9,2003,17,villeneuve,Villeneuve,Jacques,BAR,bar,0,Gearbox,,,36.0,0,0.0
+9,2003,18,trulli,Trulli,Jarno,Renault,renault,0,Fuel pressure,,,40.0,0,0.0
+9,2003,19,panis,Panis,Olivier,Toyota,toyota,0,Spun off,,,9.0,0,0.0
+9,2003,20,raikkonen,Räikkönen,Kimi,McLaren,mclaren,0,Engine,,,1649.0,0,21.0
+10,2003,1,ralf_schumacher,Schumacher,Ralf,Williams,williams,10,Finished,,,168.0,1,6.0
+10,2003,2,montoya,Pablo Montoya,Juan,Williams,williams,8,Finished,,,128.0,0,2.0
+10,2003,3,michael_schumacher,Schumacher,Michael,Ferrari,ferrari,6,Finished,,,439.0,0,33.0
+10,2003,4,raikkonen,Räikkönen,Kimi,McLaren,mclaren,5,Finished,,,1654.0,0,21.0
+10,2003,5,coulthard,Coulthard,David,McLaren,mclaren,4,Finished,,,208.0,0,7.0
+10,2003,6,webber,Webber,Mark,Jaguar,jaguar,3,Finished,,,14.0,0,0.0
+10,2003,7,barrichello,Barrichello,Rubens,Ferrari,ferrari,2,+1 Lap,,,234.0,0,5.0
+10,2003,8,panis,Panis,Olivier,Toyota,toyota,1,+1 Lap,,,10.0,0,0.0
+10,2003,9,villeneuve,Villeneuve,Jacques,BAR,bar,0,+1 Lap,,,36.0,0,0.0
+10,2003,10,pizzonia,Pizzonia,Antônio,Jaguar,jaguar,0,+1 Lap,,,0.0,0,0.0
+10,2003,11,matta,da Matta,Cristiano,Toyota,toyota,0,+1 Lap,,,3.0,0,0.0
+10,2003,12,frentzen,Frentzen,Heinz-Harald,Sauber,sauber,0,+2 Laps,,,26.0,0,0.0
+10,2003,13,heidfeld,Heidfeld,Nick,Sauber,sauber,0,+2 Laps,,,21.0,0,0.0
+10,2003,14,wilson,Wilson,Justin,Minardi,minardi,0,+3 Laps,,,0.0,0,0.0
+10,2003,15,firman,Firman,Ralph,Jordan,jordan,0,+3 Laps,,,1.0,0,0.0
+10,2003,16,verstappen,Verstappen,Jos,Minardi,minardi,0,+4 Laps,,,6.0,0,0.0
+10,2003,17,trulli,Trulli,Jarno,Renault,renault,0,Engine,,,40.0,0,0.0
+10,2003,18,alonso,Alonso,Fernando,Renault,renault,0,Engine,,,1888.0,0,32.0
+10,2003,19,fisichella,Fisichella,Giancarlo,Jordan,jordan,0,Engine,,,43.0,0,1.0
+10,2003,20,button,Button,Jenson,BAR,bar,0,Fuel,,,38.0,0,0.0
+11,2003,1,barrichello,Barrichello,Rubens,Ferrari,ferrari,10,Finished,,,244.0,1,6.0
+11,2003,2,montoya,Pablo Montoya,Juan,Williams,williams,8,Finished,,,136.0,0,2.0
+11,2003,3,raikkonen,Räikkönen,Kimi,McLaren,mclaren,6,Finished,,,1660.0,0,21.0
+11,2003,4,michael_schumacher,Schumacher,Michael,Ferrari,ferrari,5,Finished,,,444.0,0,33.0
+11,2003,5,coulthard,Coulthard,David,McLaren,mclaren,4,Finished,,,212.0,0,7.0
+11,2003,6,trulli,Trulli,Jarno,Renault,renault,3,Finished,,,43.0,0,0.0
+11,2003,7,matta,da Matta,Cristiano,Toyota,toyota,2,Finished,,,5.0,0,0.0
+11,2003,8,button,Button,Jenson,BAR,bar,1,Finished,,,39.0,0,0.0
+11,2003,9,ralf_schumacher,Schumacher,Ralf,Williams,williams,0,Finished,,,168.0,0,6.0
+11,2003,10,villeneuve,Villeneuve,Jacques,BAR,bar,0,Finished,,,36.0,0,0.0
+11,2003,11,panis,Panis,Olivier,Toyota,toyota,0,Finished,,,10.0,0,0.0
+11,2003,12,frentzen,Frentzen,Heinz-Harald,Sauber,sauber,0,Finished,,,26.0,0,0.0
+11,2003,13,firman,Firman,Ralph,Jordan,jordan,0,+1 Lap,,,1.0,0,0.0
+11,2003,14,webber,Webber,Mark,Jaguar,jaguar,0,+1 Lap,,,14.0,0,0.0
+11,2003,15,verstappen,Verstappen,Jos,Minardi,minardi,0,+2 Laps,,,6.0,0,0.0
+11,2003,16,wilson,Wilson,Justin,Minardi,minardi,0,+2 Laps,,,0.0,0,0.0
+11,2003,17,heidfeld,Heidfeld,Nick,Sauber,sauber,0,+2 Laps,,,21.0,0,0.0
+11,2003,18,alonso,Alonso,Fernando,Renault,renault,0,Gearbox,,,1888.0,0,32.0
+11,2003,19,fisichella,Fisichella,Giancarlo,Jordan,jordan,0,Suspension,,,43.0,0,1.0
+11,2003,20,pizzonia,Pizzonia,Antônio,Jaguar,jaguar,0,Engine,,,0.0,0,0.0
+12,2003,1,montoya,Pablo Montoya,Juan,Williams,williams,10,Finished,,,146.0,1,3.0
+12,2003,2,coulthard,Coulthard,David,McLaren,mclaren,8,Finished,,,220.0,0,7.0
+12,2003,3,trulli,Trulli,Jarno,Renault,renault,6,Finished,,,49.0,0,0.0
+12,2003,4,alonso,Alonso,Fernando,Renault,renault,5,Finished,,,1893.0,0,32.0
+12,2003,5,panis,Panis,Olivier,Toyota,toyota,4,+1 Lap,,,14.0,0,0.0
+12,2003,6,matta,da Matta,Cristiano,Toyota,toyota,3,+1 Lap,,,8.0,0,0.0
+12,2003,7,michael_schumacher,Schumacher,Michael,Ferrari,ferrari,2,+1 Lap,,,446.0,0,33.0
+12,2003,8,button,Button,Jenson,BAR,bar,1,+1 Lap,,,40.0,0,0.0
+12,2003,9,villeneuve,Villeneuve,Jacques,BAR,bar,0,+2 Laps,,,36.0,0,0.0
+12,2003,10,heidfeld,Heidfeld,Nick,Sauber,sauber,0,+2 Laps,,,21.0,0,0.0
+12,2003,11,webber,Webber,Mark,Jaguar,jaguar,0,Accident,,,14.0,0,0.0
+12,2003,12,kiesa,Kiesa,Nicolas,Minardi,minardi,0,+5 Laps,,,0.0,0,0.0
+12,2003,13,fisichella,Fisichella,Giancarlo,Jordan,jordan,0,Engine,,,43.0,0,1.0
+12,2003,14,verstappen,Verstappen,Jos,Minardi,minardi,0,Hydraulics,,,6.0,0,0.0
+12,2003,15,wilson,Wilson,Justin,Jaguar,jaguar,0,Gearbox,,,0.0,0,0.0
+12,2003,16,ralf_schumacher,Schumacher,Ralf,Williams,williams,0,Accident,,,168.0,0,6.0
+12,2003,17,frentzen,Frentzen,Heinz-Harald,Sauber,sauber,0,Accident,,,26.0,0,0.0
+12,2003,18,barrichello,Barrichello,Rubens,Ferrari,ferrari,0,Accident,,,244.0,0,6.0
+12,2003,19,raikkonen,Räikkönen,Kimi,McLaren,mclaren,0,Accident,,,1660.0,0,21.0
+12,2003,20,firman,Firman,Ralph,Jordan,jordan,0,Accident,,,1.0,0,0.0
+13,2003,1,alonso,Alonso,Fernando,Renault,renault,10,Finished,,,1903.0,1,33.0
+13,2003,2,raikkonen,Räikkönen,Kimi,McLaren,mclaren,8,Finished,,,1668.0,0,21.0
+13,2003,3,montoya,Pablo Montoya,Juan,Williams,williams,6,Finished,,,152.0,0,3.0
+13,2003,4,ralf_schumacher,Schumacher,Ralf,Williams,williams,5,Finished,,,173.0,0,6.0
+13,2003,5,coulthard,Coulthard,David,McLaren,mclaren,4,Finished,,,224.0,0,7.0
+13,2003,6,webber,Webber,Mark,Jaguar,jaguar,3,Finished,,,17.0,0,0.0
+13,2003,7,trulli,Trulli,Jarno,Renault,renault,2,+1 Lap,,,51.0,0,0.0
+13,2003,8,michael_schumacher,Schumacher,Michael,Ferrari,ferrari,1,+1 Lap,,,447.0,0,33.0
+13,2003,9,heidfeld,Heidfeld,Nick,Sauber,sauber,0,+1 Lap,,,21.0,0,0.0
+13,2003,10,button,Button,Jenson,BAR,bar,0,+1 Lap,,,40.0,0,0.0
+13,2003,11,matta,da Matta,Cristiano,Toyota,toyota,0,+2 Laps,,,8.0,0,0.0
+13,2003,12,verstappen,Verstappen,Jos,Minardi,minardi,0,+3 Laps,,,6.0,0,0.0
+13,2003,13,kiesa,Kiesa,Nicolas,Minardi,minardi,0,+4 Laps,,,0.0,0,0.0
+13,2003,14,frentzen,Frentzen,Heinz-Harald,Sauber,sauber,0,Out of fuel,,,26.0,0,0.0
+13,2003,15,wilson,Wilson,Justin,Jaguar,jaguar,0,Engine,,,0.0,0,0.0
+13,2003,16,baumgartner,Baumgartner,Zsolt,Jordan,jordan,0,Engine,,,0.0,0,0.0
+13,2003,17,panis,Panis,Olivier,Toyota,toyota,0,Gearbox,,,14.0,0,0.0
+13,2003,18,fisichella,Fisichella,Giancarlo,Jordan,jordan,0,Engine,,,43.0,0,1.0
+13,2003,19,barrichello,Barrichello,Rubens,Ferrari,ferrari,0,Suspension,,,244.0,0,6.0
+13,2003,20,villeneuve,Villeneuve,Jacques,BAR,bar,0,Hydraulics,,,36.0,0,0.0
+14,2003,1,michael_schumacher,Schumacher,Michael,Ferrari,ferrari,10,Finished,,,457.0,1,34.0
+14,2003,2,montoya,Pablo Montoya,Juan,Williams,williams,8,Finished,,,160.0,0,3.0
+14,2003,3,barrichello,Barrichello,Rubens,Ferrari,ferrari,6,Finished,,,250.0,0,6.0
+14,2003,4,raikkonen,Räikkönen,Kimi,McLaren,mclaren,5,Finished,,,1673.0,0,21.0
+14,2003,5,gene,Gené,Marc,Williams,williams,4,Finished,,,4.0,0,0.0
+14,2003,6,villeneuve,Villeneuve,Jacques,BAR,bar,3,+1 Lap,,,39.0,0,0.0
+14,2003,7,webber,Webber,Mark,Jaguar,jaguar,2,+1 Lap,,,19.0,0,0.0
+14,2003,8,alonso,Alonso,Fernando,Renault,renault,1,+1 Lap,,,1904.0,0,33.0
+14,2003,9,heidfeld,Heidfeld,Nick,Sauber,sauber,0,+1 Lap,,,21.0,0,0.0
+14,2003,10,fisichella,Fisichella,Giancarlo,Jordan,jordan,0,+1 Lap,,,43.0,0,1.0
+14,2003,11,baumgartner,Baumgartner,Zsolt,Jordan,jordan,0,+2 Laps,,,0.0,0,0.0
+14,2003,12,kiesa,Kiesa,Nicolas,Minardi,minardi,0,+2 Laps,,,0.0,0,0.0
+14,2003,13,frentzen,Frentzen,Heinz-Harald,Sauber,sauber,0,+3 Laps,,,26.0,0,0.0
+14,2003,14,coulthard,Coulthard,David,McLaren,mclaren,0,Fuel pressure,,,224.0,0,7.0
+14,2003,15,panis,Panis,Olivier,Toyota,toyota,0,Brakes,,,14.0,0,0.0
+14,2003,16,verstappen,Verstappen,Jos,Minardi,minardi,0,Oil leak,,,6.0,0,0.0
+14,2003,17,button,Button,Jenson,BAR,bar,0,Gearbox,,,40.0,0,0.0
+14,2003,18,matta,da Matta,Cristiano,Toyota,toyota,0,Tyre,,,8.0,0,0.0
+14,2003,19,wilson,Wilson,Justin,Jaguar,jaguar,0,Gearbox,,,0.0,0,0.0
+14,2003,20,trulli,Trulli,Jarno,Renault,renault,0,Hydraulics,,,51.0,0,0.0
+15,2003,1,michael_schumacher,Schumacher,Michael,Ferrari,ferrari,10,Finished,,,467.0,1,35.0
+15,2003,2,raikkonen,Räikkönen,Kimi,McLaren,mclaren,8,Finished,,,1681.0,0,21.0
+15,2003,3,frentzen,Frentzen,Heinz-Harald,Sauber,sauber,6,Finished,,,32.0,0,0.0
+15,2003,4,trulli,Trulli,Jarno,Renault,renault,5,Finished,,,56.0,0,0.0
+15,2003,5,heidfeld,Heidfeld,Nick,Sauber,sauber,4,Finished,,,25.0,0,0.0
+15,2003,6,montoya,Pablo Montoya,Juan,Williams,williams,3,+1 Lap,,,163.0,0,3.0
+15,2003,7,fisichella,Fisichella,Giancarlo,Jordan,jordan,2,+1 Lap,,,45.0,0,1.0
+15,2003,8,wilson,Wilson,Justin,Jaguar,jaguar,1,+2 Laps,,,1.0,0,0.0
+15,2003,9,matta,da Matta,Cristiano,Toyota,toyota,0,+2 Laps,,,8.0,0,0.0
+15,2003,10,verstappen,Verstappen,Jos,Minardi,minardi,0,+4 Laps,,,6.0,0,0.0
+15,2003,11,kiesa,Kiesa,Nicolas,Minardi,minardi,0,+4 Laps,,,0.0,0,0.0
+15,2003,12,villeneuve,Villeneuve,Jacques,BAR,bar,0,Engine,,,39.0,0,0.0
+15,2003,13,firman,Firman,Ralph,Jordan,jordan,0,Spun off,,,1.0,0,0.0
+15,2003,14,coulthard,Coulthard,David,McLaren,mclaren,0,Gearbox,,,224.0,0,7.0
+15,2003,15,alonso,Alonso,Fernando,Renault,renault,0,Engine,,,1904.0,0,33.0
+15,2003,16,button,Button,Jenson,BAR,bar,0,Engine,,,40.0,0,0.0
+15,2003,17,panis,Panis,Olivier,Toyota,toyota,0,Accident,,,14.0,0,0.0
+15,2003,18,webber,Webber,Mark,Jaguar,jaguar,0,Accident,,,19.0,0,0.0
+15,2003,19,ralf_schumacher,Schumacher,Ralf,Williams,williams,0,Accident,,,173.0,0,6.0
+15,2003,20,barrichello,Barrichello,Rubens,Ferrari,ferrari,0,Collision,,,250.0,0,6.0
+16,2003,1,barrichello,Barrichello,Rubens,Ferrari,ferrari,10,Finished,,,260.0,1,7.0
+16,2003,2,raikkonen,Räikkönen,Kimi,McLaren,mclaren,8,Finished,,,1689.0,0,21.0
+16,2003,3,coulthard,Coulthard,David,McLaren,mclaren,6,Finished,,,230.0,0,7.0
+16,2003,4,button,Button,Jenson,BAR,bar,5,Finished,,,45.0,0,0.0
+16,2003,5,trulli,Trulli,Jarno,Renault,renault,4,Finished,,,60.0,0,0.0
+16,2003,6,sato,Sato,Takuma,BAR,bar,3,Finished,,,5.0,0,0.0
+16,2003,7,matta,da Matta,Cristiano,Toyota,toyota,2,Finished,,,10.0,0,0.0
+16,2003,8,michael_schumacher,Schumacher,Michael,Ferrari,ferrari,1,Finished,,,468.0,0,35.0
+16,2003,9,heidfeld,Heidfeld,Nick,Sauber,sauber,0,Finished,,,25.0,0,0.0
+16,2003,10,panis,Panis,Olivier,Toyota,toyota,0,Finished,,,14.0,0,0.0
+16,2003,11,webber,Webber,Mark,Jaguar,jaguar,0,Finished,,,19.0,0,0.0
+16,2003,12,ralf_schumacher,Schumacher,Ralf,Williams,williams,0,+1 Lap,,,173.0,0,6.0
+16,2003,13,wilson,Wilson,Justin,Jaguar,jaguar,0,+1 Lap,,,1.0,0,0.0
+16,2003,14,firman,Firman,Ralph,Jordan,jordan,0,+2 Laps,,,1.0,0,0.0
+16,2003,15,verstappen,Verstappen,Jos,Minardi,minardi,0,+2 Laps,,,6.0,0,0.0
+16,2003,16,kiesa,Kiesa,Nicolas,Minardi,minardi,0,+3 Laps,,,0.0,0,0.0
+16,2003,17,fisichella,Fisichella,Giancarlo,Jordan,jordan,0,Out of fuel,,,45.0,0,1.0
+16,2003,18,alonso,Alonso,Fernando,Renault,renault,0,Engine,,,1904.0,0,33.0
+16,2003,19,frentzen,Frentzen,Heinz-Harald,Sauber,sauber,0,Engine,,,32.0,0,0.0
+16,2003,20,montoya,Pablo Montoya,Juan,Williams,williams,0,Hydraulics,,,163.0,0,3.0

@@ -1,0 +1,397 @@
+Race ID,Year,Position,Driver ID,Last Name,First Name,Constructor,Constructor ID,Points,Status,Fastest Lap Time,Fastest Lap Avg Speed (kph),Total Points,Wins,Total Wins
+1,2006,1,alonso,Alonso,Fernando,Renault,renault,10,Finished,1:32.534,210.551,2106.0,1,41.0
+1,2006,2,michael_schumacher,Schumacher,Michael,Ferrari,ferrari,8,Finished,1:32.523,210.576,686.0,0,49.0
+1,2006,3,raikkonen,Räikkönen,Kimi,McLaren,mclaren,6,Finished,1:32.864,209.803,1852.0,0,29.0
+1,2006,4,button,Button,Jenson,Honda,honda,5,Finished,1:32.729,210.109,172.0,0,0.0
+1,2006,5,montoya,Pablo Montoya,Juan,McLaren,mclaren,4,Finished,1:32.771,210.013,285.0,0,7.0
+1,2006,6,webber,Webber,Mark,Williams,williams,3,Finished,1:32.660,210.265,65.0,0,0.0
+1,2006,7,rosberg,Rosberg,Nico,Williams,williams,2,Finished,1:32.408,210.838,2.0,0,0.0
+1,2006,8,klien,Klien,Christian,Red Bull,red_bull,1,Finished,1:33.212,209.020,13.0,0,0.0
+1,2006,9,massa,Massa,Felipe,Ferrari,ferrari,0,Finished,1:32.739,210.086,27.0,0,0.0
+1,2006,10,coulthard,Coulthard,David,Red Bull,red_bull,0,Finished,1:33.376,208.653,278.0,0,7.0
+1,2006,11,liuzzi,Liuzzi,Vitantonio,Toro Rosso,toro_rosso,0,Finished,1:33.480,208.421,1.0,0,0.0
+1,2006,12,heidfeld,Heidfeld,Nick,BMW Sauber,bmw_sauber,0,+1 Lap,1:33.772,207.772,56.0,0,0.0
+1,2006,13,speed,Speed,Scott,Toro Rosso,toro_rosso,0,+1 Lap,1:33.108,209.253,0.0,0,0.0
+1,2006,14,ralf_schumacher,Schumacher,Ralf,Toyota,toyota,0,+1 Lap,1:34.112,207.021,242.0,0,6.0
+1,2006,15,barrichello,Barrichello,Rubens,Honda,honda,0,+1 Lap,1:33.840,207.621,412.0,0,9.0
+1,2006,16,trulli,Trulli,Jarno,Toyota,toyota,0,+1 Lap,1:34.852,205.406,149.0,0,1.0
+1,2006,17,monteiro,Monteiro,Tiago,MF1,mf1,0,+2 Laps,1:35.940,203.076,7.0,0,0.0
+1,2006,18,sato,Sato,Takuma,Super Aguri,super_aguri,0,+4 Laps,1:37.104,200.642,40.0,0,0.0
+1,2006,19,ide,Ide,Yuji,Super Aguri,super_aguri,0,Mechanical,1:38.302,198.197,0.0,0,0.0
+1,2006,20,villeneuve,Villeneuve,Jacques,BMW Sauber,bmw_sauber,0,Engine,1:33.694,207.945,48.0,0,0.0
+1,2006,21,fisichella,Fisichella,Giancarlo,Renault,renault,0,Hydraulics,1:34.320,206.564,125.0,0,2.0
+1,2006,22,albers,Albers,Christijan,MF1,mf1,0,Driveshaft,,,4.0,0,0.0
+2,2006,1,fisichella,Fisichella,Giancarlo,Renault,renault,10,Finished,1:35.294,209.402,135.0,1,3.0
+2,2006,2,alonso,Alonso,Fernando,Renault,renault,8,Finished,1:34.803,210.487,2114.0,0,41.0
+2,2006,3,button,Button,Jenson,Honda,honda,6,Finished,1:35.604,208.723,178.0,0,0.0
+2,2006,4,montoya,Pablo Montoya,Juan,McLaren,mclaren,5,Finished,1:35.566,208.806,290.0,0,7.0
+2,2006,5,massa,Massa,Felipe,Ferrari,ferrari,4,Finished,1:35.954,207.962,31.0,0,0.0
+2,2006,6,michael_schumacher,Schumacher,Michael,Ferrari,ferrari,3,Finished,1:35.647,208.629,689.0,0,49.0
+2,2006,7,villeneuve,Villeneuve,Jacques,BMW Sauber,bmw_sauber,2,Finished,1:36.002,207.858,50.0,0,0.0
+2,2006,8,ralf_schumacher,Schumacher,Ralf,Toyota,toyota,1,Finished,1:35.686,208.544,243.0,0,6.0
+2,2006,9,trulli,Trulli,Jarno,Toyota,toyota,0,+1 Lap,1:36.380,207.042,149.0,0,1.0
+2,2006,10,barrichello,Barrichello,Rubens,Honda,honda,0,+1 Lap,1:36.188,207.456,412.0,0,9.0
+2,2006,11,liuzzi,Liuzzi,Vitantonio,Toro Rosso,toro_rosso,0,+2 Laps,1:37.387,204.902,1.0,0,0.0
+2,2006,12,albers,Albers,Christijan,MF1,mf1,0,+2 Laps,1:38.198,203.209,4.0,0,0.0
+2,2006,13,monteiro,Monteiro,Tiago,MF1,mf1,0,+2 Laps,1:39.510,200.530,7.0,0,0.0
+2,2006,14,sato,Sato,Takuma,Super Aguri,super_aguri,0,+3 Laps,1:40.199,199.151,40.0,0,0.0
+2,2006,15,heidfeld,Heidfeld,Nick,BMW Sauber,bmw_sauber,0,Engine,1:35.751,208.403,56.0,0,0.0
+2,2006,16,speed,Speed,Scott,Toro Rosso,toro_rosso,0,Clutch,1:37.313,205.057,0.0,0,0.0
+2,2006,17,ide,Ide,Yuji,Super Aguri,super_aguri,0,Mechanical,1:42.833,194.050,0.0,0,0.0
+2,2006,18,klien,Klien,Christian,Red Bull,red_bull,0,Hydraulics,1:36.867,206.002,13.0,0,0.0
+2,2006,19,webber,Webber,Mark,Williams,williams,0,Hydraulics,1:36.771,206.206,65.0,0,0.0
+2,2006,20,coulthard,Coulthard,David,Red Bull,red_bull,0,Hydraulics,1:38.078,203.458,278.0,0,7.0
+2,2006,21,rosberg,Rosberg,Nico,Williams,williams,0,Engine,1:37.366,204.946,2.0,0,0.0
+2,2006,22,raikkonen,Räikkönen,Kimi,McLaren,mclaren,0,Accident,,,1852.0,0,29.0
+3,2006,1,alonso,Alonso,Fernando,Renault,renault,10,Finished,1:26.189,221.499,2124.0,1,42.0
+3,2006,2,raikkonen,Räikkönen,Kimi,McLaren,mclaren,8,Finished,1:26.045,221.869,1860.0,0,29.0
+3,2006,3,ralf_schumacher,Schumacher,Ralf,Toyota,toyota,6,Finished,1:27.810,217.410,249.0,0,6.0
+3,2006,4,heidfeld,Heidfeld,Nick,BMW Sauber,bmw_sauber,5,Finished,1:27.700,217.683,61.0,0,0.0
+3,2006,5,fisichella,Fisichella,Giancarlo,Renault,renault,4,Finished,1:27.561,218.028,139.0,0,3.0
+3,2006,6,villeneuve,Villeneuve,Jacques,BMW Sauber,bmw_sauber,3,Finished,1:28.321,216.152,53.0,0,0.0
+3,2006,7,barrichello,Barrichello,Rubens,Honda,honda,2,Finished,1:27.690,217.707,414.0,0,9.0
+3,2006,8,coulthard,Coulthard,David,Red Bull,red_bull,1,Finished,1:28.250,216.326,279.0,0,7.0
+3,2006,9,speed,Speed,Scott,Toro Rosso,toro_rosso,0,Finished,1:28.367,216.039,0.0,0,0.0
+3,2006,10,button,Button,Jenson,Honda,honda,0,+1 Lap,1:27.799,217.437,178.0,0,0.0
+3,2006,11,albers,Albers,Christijan,MF1,mf1,0,+1 Lap,1:29.238,213.931,4.0,0,0.0
+3,2006,12,sato,Sato,Takuma,Super Aguri,super_aguri,0,+2 Laps,1:30.574,210.775,40.0,0,0.0
+3,2006,13,ide,Ide,Yuji,Super Aguri,super_aguri,0,+3 Laps,1:33.737,203.663,0.0,0,0.0
+3,2006,14,montoya,Pablo Montoya,Juan,McLaren,mclaren,0,Electrical,1:27.464,218.270,290.0,0,7.0
+3,2006,15,monteiro,Monteiro,Tiago,MF1,mf1,0,Mechanical,1:29.687,212.860,7.0,0,0.0
+3,2006,16,liuzzi,Liuzzi,Vitantonio,Toro Rosso,toro_rosso,0,Accident,1:27.988,216.970,1.0,0,0.0
+3,2006,17,michael_schumacher,Schumacher,Michael,Ferrari,ferrari,0,Accident,1:27.180,218.981,689.0,0,49.0
+3,2006,18,webber,Webber,Mark,Williams,williams,0,Transmission,1:27.800,217.435,65.0,0,0.0
+3,2006,19,klien,Klien,Christian,Red Bull,red_bull,0,Accident,1:41.351,188.363,13.0,0,0.0
+3,2006,20,trulli,Trulli,Jarno,Toyota,toyota,0,Accident,,,149.0,0,1.0
+3,2006,21,rosberg,Rosberg,Nico,Williams,williams,0,Accident,,,2.0,0,0.0
+3,2006,22,massa,Massa,Felipe,Ferrari,ferrari,0,Accident,,,31.0,0,0.0
+4,2006,1,michael_schumacher,Schumacher,Michael,Ferrari,ferrari,10,Finished,1:24.624,210.961,699.0,1,50.0
+4,2006,2,alonso,Alonso,Fernando,Renault,renault,8,Finished,1:24.569,211.098,2132.0,0,42.0
+4,2006,3,montoya,Pablo Montoya,Juan,McLaren,mclaren,6,Finished,1:25.096,209.791,296.0,0,7.0
+4,2006,4,massa,Massa,Felipe,Ferrari,ferrari,5,Finished,1:25.528,208.731,36.0,0,0.0
+4,2006,5,raikkonen,Räikkönen,Kimi,McLaren,mclaren,4,Finished,1:25.027,209.961,1864.0,0,29.0
+4,2006,6,webber,Webber,Mark,Williams,williams,3,Finished,1:25.488,208.829,68.0,0,0.0
+4,2006,7,button,Button,Jenson,Honda,honda,2,Finished,1:25.347,209.174,180.0,0,0.0
+4,2006,8,fisichella,Fisichella,Giancarlo,Renault,renault,1,Finished,1:25.353,209.159,140.0,0,3.0
+4,2006,9,ralf_schumacher,Schumacher,Ralf,Toyota,toyota,0,Finished,1:25.316,209.250,249.0,0,6.0
+4,2006,10,barrichello,Barrichello,Rubens,Honda,honda,0,Finished,1:26.129,207.275,414.0,0,9.0
+4,2006,11,rosberg,Rosberg,Nico,Williams,williams,0,Finished,1:26.418,206.581,2.0,0,0.0
+4,2006,12,villeneuve,Villeneuve,Jacques,BMW Sauber,bmw_sauber,0,Finished,1:25.438,208.951,53.0,0,0.0
+4,2006,13,heidfeld,Heidfeld,Nick,BMW Sauber,bmw_sauber,0,+1 Lap,1:25.996,207.595,61.0,0,0.0
+4,2006,14,liuzzi,Liuzzi,Vitantonio,Toro Rosso,toro_rosso,0,+1 Lap,1:25.679,208.363,1.0,0,0.0
+4,2006,15,speed,Speed,Scott,Toro Rosso,toro_rosso,0,+1 Lap,1:26.248,206.989,0.0,0,0.0
+4,2006,16,monteiro,Monteiro,Tiago,MF1,mf1,0,+2 Laps,1:27.160,204.823,7.0,0,0.0
+4,2006,17,coulthard,Coulthard,David,Red Bull,red_bull,0,Driveshaft,1:26.855,205.542,279.0,0,7.0
+4,2006,18,sato,Sato,Takuma,Super Aguri,super_aguri,0,Spun off,1:29.100,200.363,40.0,0,0.0
+4,2006,19,klien,Klien,Christian,Red Bull,red_bull,0,Hydraulics,1:26.759,205.770,13.0,0,0.0
+4,2006,20,ide,Ide,Yuji,Super Aguri,super_aguri,0,Suspension,1:31.032,196.111,0.0,0,0.0
+4,2006,21,trulli,Trulli,Jarno,Toyota,toyota,0,Steering,1:28.039,202.778,149.0,0,1.0
+4,2006,22,albers,Albers,Christijan,MF1,mf1,0,Accident,,,4.0,0,0.0
+5,2006,1,michael_schumacher,Schumacher,Michael,Ferrari,ferrari,10,Finished,1:32.099,201.226,709.0,1,51.0
+5,2006,2,alonso,Alonso,Fernando,Renault,renault,8,Finished,1:32.532,200.285,2140.0,0,42.0
+5,2006,3,massa,Massa,Felipe,Ferrari,ferrari,6,Finished,1:33.099,199.065,42.0,0,0.0
+5,2006,4,raikkonen,Räikkönen,Kimi,McLaren,mclaren,5,Finished,1:32.472,200.415,1869.0,0,29.0
+5,2006,5,barrichello,Barrichello,Rubens,Honda,honda,4,Finished,1:33.952,197.258,418.0,0,9.0
+5,2006,6,fisichella,Fisichella,Giancarlo,Renault,renault,3,Finished,1:32.964,199.354,143.0,0,3.0
+5,2006,7,rosberg,Rosberg,Nico,Williams,williams,2,Finished,1:33.579,198.044,4.0,0,0.0
+5,2006,8,villeneuve,Villeneuve,Jacques,BMW Sauber,bmw_sauber,1,Finished,1:34.037,197.079,54.0,0,0.0
+5,2006,9,trulli,Trulli,Jarno,Toyota,toyota,0,+1 Lap,1:33.953,197.256,149.0,0,1.0
+5,2006,10,heidfeld,Heidfeld,Nick,BMW Sauber,bmw_sauber,0,+1 Lap,1:34.035,197.084,61.0,0,0.0
+5,2006,11,speed,Speed,Scott,Toro Rosso,toro_rosso,0,+1 Lap,1:34.091,196.966,0.0,0,0.0
+5,2006,12,monteiro,Monteiro,Tiago,MF1,mf1,0,+1 Lap,1:35.504,194.052,7.0,0,0.0
+5,2006,13,albers,Albers,Christijan,MF1,mf1,0,+1 Lap,1:35.428,194.207,4.0,0,0.0
+5,2006,14,ralf_schumacher,Schumacher,Ralf,Toyota,toyota,0,Engine,1:33.607,197.985,249.0,0,6.0
+5,2006,15,montoya,Pablo Montoya,Juan,McLaren,mclaren,0,Engine,1:33.571,198.061,296.0,0,7.0
+5,2006,16,sato,Sato,Takuma,Super Aguri,super_aguri,0,Hydraulics,1:36.706,191.640,40.0,0,0.0
+5,2006,17,montagny,Montagny,Franck,Super Aguri,super_aguri,0,Hydraulics,1:37.214,190.639,0.0,0,0.0
+5,2006,18,button,Button,Jenson,Honda,honda,0,Engine,1:34.042,197.069,180.0,0,0.0
+5,2006,19,klien,Klien,Christian,Red Bull,red_bull,0,Gearbox,1:34.553,196.004,13.0,0,0.0
+5,2006,20,webber,Webber,Mark,Williams,williams,0,Hydraulics,1:35.415,194.233,68.0,0,0.0
+5,2006,21,coulthard,Coulthard,David,Red Bull,red_bull,0,Accident,2:24.500,128.254,279.0,0,7.0
+5,2006,22,liuzzi,Liuzzi,Vitantonio,Toro Rosso,toro_rosso,0,Accident,,,1.0,0,0.0
+6,2006,1,alonso,Alonso,Fernando,Renault,renault,10,Finished,1:16.723,217.108,2150.0,1,43.0
+6,2006,2,michael_schumacher,Schumacher,Michael,Ferrari,ferrari,8,Finished,1:16.922,216.546,717.0,0,51.0
+6,2006,3,fisichella,Fisichella,Giancarlo,Renault,renault,6,Finished,1:17.083,216.094,149.0,0,3.0
+6,2006,4,massa,Massa,Felipe,Ferrari,ferrari,5,Finished,1:16.648,217.320,47.0,0,0.0
+6,2006,5,raikkonen,Räikkönen,Kimi,McLaren,mclaren,4,Finished,1:17.357,215.328,1873.0,0,29.0
+6,2006,6,button,Button,Jenson,Honda,honda,3,Finished,1:17.367,215.301,183.0,0,0.0
+6,2006,7,barrichello,Barrichello,Rubens,Honda,honda,2,+1 Lap,1:17.399,215.212,420.0,0,9.0
+6,2006,8,heidfeld,Heidfeld,Nick,BMW Sauber,bmw_sauber,1,+1 Lap,1:17.869,213.913,62.0,0,0.0
+6,2006,9,webber,Webber,Mark,Williams,williams,0,+1 Lap,1:17.900,213.827,68.0,0,0.0
+6,2006,10,trulli,Trulli,Jarno,Toyota,toyota,0,+1 Lap,1:18.465,212.288,149.0,0,1.0
+6,2006,11,rosberg,Rosberg,Nico,Williams,williams,0,+1 Lap,1:17.861,213.935,4.0,0,0.0
+6,2006,12,villeneuve,Villeneuve,Jacques,BMW Sauber,bmw_sauber,0,+1 Lap,1:18.050,213.417,54.0,0,0.0
+6,2006,13,klien,Klien,Christian,Red Bull,red_bull,0,+1 Lap,1:18.516,212.150,13.0,0,0.0
+6,2006,14,coulthard,Coulthard,David,Red Bull,red_bull,0,+1 Lap,1:17.862,213.932,279.0,0,7.0
+6,2006,15,liuzzi,Liuzzi,Vitantonio,Toro Rosso,toro_rosso,0,Hydraulics,1:18.488,212.226,1.0,0,0.0
+6,2006,16,monteiro,Monteiro,Tiago,MF1,mf1,0,+3 Laps,1:19.265,210.145,7.0,0,0.0
+6,2006,17,sato,Sato,Takuma,Super Aguri,super_aguri,0,+4 Laps,1:20.411,207.150,40.0,0,0.0
+6,2006,18,albers,Albers,Christijan,MF1,mf1,0,Broken wing,1:19.532,209.440,4.0,0,0.0
+6,2006,19,speed,Speed,Scott,Toro Rosso,toro_rosso,0,Engine,1:18.541,212.082,0.0,0,0.0
+6,2006,20,ralf_schumacher,Schumacher,Ralf,Toyota,toyota,0,Electronics,1:18.621,211.867,249.0,0,6.0
+6,2006,21,montoya,Pablo Montoya,Juan,McLaren,mclaren,0,Spun off,1:19.482,209.571,296.0,0,7.0
+6,2006,22,montagny,Montagny,Franck,Super Aguri,super_aguri,0,Driveshaft,1:22.389,202.177,0.0,0,0.0
+7,2006,1,alonso,Alonso,Fernando,Renault,renault,10,Finished,1:15.671,158.898,2160.0,1,44.0
+7,2006,2,montoya,Pablo Montoya,Juan,McLaren,mclaren,8,Finished,1:16.008,158.193,304.0,0,7.0
+7,2006,3,coulthard,Coulthard,David,Red Bull,red_bull,6,Finished,1:17.849,154.452,285.0,0,7.0
+7,2006,4,barrichello,Barrichello,Rubens,Honda,honda,5,Finished,1:17.320,155.509,425.0,0,9.0
+7,2006,5,michael_schumacher,Schumacher,Michael,Ferrari,ferrari,4,Finished,1:15.143,160.014,721.0,0,51.0
+7,2006,6,fisichella,Fisichella,Giancarlo,Renault,renault,3,Finished,1:15.919,158.379,152.0,0,3.0
+7,2006,7,heidfeld,Heidfeld,Nick,BMW Sauber,bmw_sauber,2,+1 Lap,1:17.319,155.511,64.0,0,0.0
+7,2006,8,ralf_schumacher,Schumacher,Ralf,Toyota,toyota,1,+1 Lap,1:17.540,155.068,250.0,0,6.0
+7,2006,9,massa,Massa,Felipe,Ferrari,ferrari,0,+1 Lap,1:16.612,156.946,47.0,0,0.0
+7,2006,10,liuzzi,Liuzzi,Vitantonio,Toro Rosso,toro_rosso,0,+1 Lap,1:17.660,154.828,1.0,0,0.0
+7,2006,11,button,Button,Jenson,Honda,honda,0,+1 Lap,1:17.300,155.549,183.0,0,0.0
+7,2006,12,albers,Albers,Christijan,MF1,mf1,0,+1 Lap,1:17.603,154.942,4.0,0,0.0
+7,2006,13,speed,Speed,Scott,Toro Rosso,toro_rosso,0,+1 Lap,1:17.481,155.186,0.0,0,0.0
+7,2006,14,villeneuve,Villeneuve,Jacques,BMW Sauber,bmw_sauber,0,+1 Lap,1:17.767,154.615,54.0,0,0.0
+7,2006,15,monteiro,Monteiro,Tiago,MF1,mf1,0,+2 Laps,1:17.329,155.491,7.0,0,0.0
+7,2006,16,montagny,Montagny,Franck,Super Aguri,super_aguri,0,+3 Laps,1:19.104,152.002,0.0,0,0.0
+7,2006,17,trulli,Trulli,Jarno,Toyota,toyota,0,Hydraulics,1:17.180,155.791,149.0,0,1.0
+7,2006,18,klien,Klien,Christian,Red Bull,red_bull,0,Transmission,1:17.930,154.292,13.0,0,0.0
+7,2006,19,rosberg,Rosberg,Nico,Williams,williams,0,Accident,1:17.227,155.696,4.0,0,0.0
+7,2006,20,raikkonen,Räikkönen,Kimi,McLaren,mclaren,0,Heat shield fire,1:15.325,159.628,1873.0,0,29.0
+7,2006,21,webber,Webber,Mark,Williams,williams,0,Exhaust,1:15.680,158.879,68.0,0,0.0
+7,2006,22,sato,Sato,Takuma,Super Aguri,super_aguri,0,Electrical,1:18.793,152.602,40.0,0,0.0
+8,2006,1,alonso,Alonso,Fernando,Renault,renault,10,Finished,1:21.599,226.811,2170.0,1,45.0
+8,2006,2,michael_schumacher,Schumacher,Michael,Ferrari,ferrari,8,Finished,1:21.934,225.884,729.0,0,51.0
+8,2006,3,raikkonen,Räikkönen,Kimi,McLaren,mclaren,6,Finished,1:22.461,224.440,1879.0,0,29.0
+8,2006,4,fisichella,Fisichella,Giancarlo,Renault,renault,5,Finished,1:22.238,225.049,157.0,0,3.0
+8,2006,5,massa,Massa,Felipe,Ferrari,ferrari,4,Finished,1:22.371,224.685,51.0,0,0.0
+8,2006,6,montoya,Pablo Montoya,Juan,McLaren,mclaren,3,Finished,1:22.780,223.575,307.0,0,7.0
+8,2006,7,heidfeld,Heidfeld,Nick,BMW Sauber,bmw_sauber,2,Finished,1:22.706,223.775,66.0,0,0.0
+8,2006,8,villeneuve,Villeneuve,Jacques,BMW Sauber,bmw_sauber,1,Finished,1:22.921,223.195,55.0,0,0.0
+8,2006,9,rosberg,Rosberg,Nico,Williams,williams,0,Finished,1:22.916,223.209,4.0,0,0.0
+8,2006,10,barrichello,Barrichello,Rubens,Honda,honda,0,+1 Lap,1:23.224,222.382,425.0,0,9.0
+8,2006,11,trulli,Trulli,Jarno,Toyota,toyota,0,+1 Lap,1:22.744,223.673,149.0,0,1.0
+8,2006,12,coulthard,Coulthard,David,Red Bull,red_bull,0,+1 Lap,1:23.995,220.341,285.0,0,7.0
+8,2006,13,liuzzi,Liuzzi,Vitantonio,Toro Rosso,toro_rosso,0,+1 Lap,1:24.221,219.750,1.0,0,0.0
+8,2006,14,klien,Klien,Christian,Red Bull,red_bull,0,+1 Lap,1:23.712,221.086,13.0,0,0.0
+8,2006,15,albers,Albers,Christijan,MF1,mf1,0,+1 Lap,1:23.977,220.388,4.0,0,0.0
+8,2006,16,monteiro,Monteiro,Tiago,MF1,mf1,0,+2 Laps,1:24.636,218.672,7.0,0,0.0
+8,2006,17,sato,Sato,Takuma,Super Aguri,super_aguri,0,+3 Laps,1:26.520,213.911,40.0,0,0.0
+8,2006,18,montagny,Montagny,Franck,Super Aguri,super_aguri,0,+3 Laps,1:27.167,212.323,0.0,0,0.0
+8,2006,19,button,Button,Jenson,Honda,honda,0,Oil leak,1:25.207,217.207,183.0,0,0.0
+8,2006,20,speed,Speed,Scott,Toro Rosso,toro_rosso,0,Accident,,,0.0,0,0.0
+8,2006,21,ralf_schumacher,Schumacher,Ralf,Toyota,toyota,0,Accident,,,250.0,0,6.0
+8,2006,22,webber,Webber,Mark,Williams,williams,0,Accident,,,68.0,0,0.0
+9,2006,1,alonso,Alonso,Fernando,Renault,renault,10,Finished,1:15.911,206.815,2180.0,1,46.0
+9,2006,2,michael_schumacher,Schumacher,Michael,Ferrari,ferrari,8,Finished,1:15.993,206.592,737.0,0,51.0
+9,2006,3,raikkonen,Räikkönen,Kimi,McLaren,mclaren,6,Finished,1:15.841,207.006,1885.0,0,29.0
+9,2006,4,fisichella,Fisichella,Giancarlo,Renault,renault,5,Finished,1:16.669,204.771,162.0,0,3.0
+9,2006,5,massa,Massa,Felipe,Ferrari,ferrari,4,Finished,1:17.308,203.078,55.0,0,0.0
+9,2006,6,trulli,Trulli,Jarno,Toyota,toyota,3,+1 Lap,1:17.503,202.567,152.0,0,1.0
+9,2006,7,heidfeld,Heidfeld,Nick,BMW Sauber,bmw_sauber,2,+1 Lap,1:17.454,202.695,68.0,0,0.0
+9,2006,8,coulthard,Coulthard,David,Red Bull,red_bull,1,+1 Lap,1:17.619,202.264,286.0,0,7.0
+9,2006,9,button,Button,Jenson,Honda,honda,0,+1 Lap,1:18.001,201.274,183.0,0,0.0
+9,2006,10,speed,Speed,Scott,Toro Rosso,toro_rosso,0,+1 Lap,1:17.720,202.002,0.0,0,0.0
+9,2006,11,klien,Klien,Christian,Red Bull,red_bull,0,+1 Lap,1:17.576,202.377,13.0,0,0.0
+9,2006,12,webber,Webber,Mark,Williams,williams,0,+1 Lap,1:17.705,202.041,68.0,0,0.0
+9,2006,13,liuzzi,Liuzzi,Vitantonio,Toro Rosso,toro_rosso,0,+2 Laps,1:18.078,201.075,1.0,0,0.0
+9,2006,14,monteiro,Monteiro,Tiago,MF1,mf1,0,+4 Laps,1:19.291,197.999,7.0,0,0.0
+9,2006,15,sato,Sato,Takuma,Super Aguri,super_aguri,0,Accident,1:20.490,195.050,40.0,0,0.0
+9,2006,16,villeneuve,Villeneuve,Jacques,BMW Sauber,bmw_sauber,0,Accident,1:17.394,202.852,55.0,0,0.0
+9,2006,17,ralf_schumacher,Schumacher,Ralf,Toyota,toyota,0,Retired,1:18.793,199.251,250.0,0,6.0
+9,2006,18,montoya,Pablo Montoya,Juan,McLaren,mclaren,0,Accident,1:18.493,200.012,307.0,0,7.0
+9,2006,19,barrichello,Barrichello,Rubens,Honda,honda,0,Mechanical,1:19.286,198.012,425.0,0,9.0
+9,2006,20,montagny,Montagny,Franck,Super Aguri,super_aguri,0,Engine,2:07.709,122.932,0.0,0,0.0
+9,2006,21,rosberg,Rosberg,Nico,Williams,williams,0,Accident,,,4.0,0,0.0
+9,2006,22,albers,Albers,Christijan,MF1,mf1,0,Accident,,,4.0,0,0.0
+10,2006,1,michael_schumacher,Schumacher,Michael,Ferrari,ferrari,10,Finished,1:12.719,207.527,747.0,1,52.0
+10,2006,2,massa,Massa,Felipe,Ferrari,ferrari,8,Finished,1:12.954,206.859,63.0,0,0.0
+10,2006,3,fisichella,Fisichella,Giancarlo,Renault,renault,6,Finished,1:13.131,206.358,168.0,0,3.0
+10,2006,4,trulli,Trulli,Jarno,Toyota,toyota,5,Finished,1:13.269,205.969,157.0,0,1.0
+10,2006,5,alonso,Alonso,Fernando,Renault,renault,4,Finished,1:13.316,205.837,2184.0,0,46.0
+10,2006,6,barrichello,Barrichello,Rubens,Honda,honda,3,Finished,1:13.611,205.012,428.0,0,9.0
+10,2006,7,coulthard,Coulthard,David,Red Bull,red_bull,2,+1 Lap,1:14.730,201.942,288.0,0,7.0
+10,2006,8,liuzzi,Liuzzi,Vitantonio,Toro Rosso,toro_rosso,1,+1 Lap,1:14.286,203.149,2.0,0,0.0
+10,2006,9,rosberg,Rosberg,Nico,Williams,williams,0,+1 Lap,1:14.707,202.005,4.0,0,0.0
+10,2006,10,ralf_schumacher,Schumacher,Ralf,Toyota,toyota,0,+11 Laps,1:13.225,206.093,250.0,0,6.0
+10,2006,11,albers,Albers,Christijan,MF1,mf1,0,Transmission,1:14.731,201.940,4.0,0,0.0
+10,2006,12,villeneuve,Villeneuve,Jacques,BMW Sauber,bmw_sauber,0,Engine,1:13.934,204.117,55.0,0,0.0
+10,2006,13,monteiro,Monteiro,Tiago,MF1,mf1,0,Accident,1:22.036,183.958,7.0,0,0.0
+10,2006,14,sato,Sato,Takuma,Super Aguri,super_aguri,0,Accident,1:43.802,145.384,40.0,0,0.0
+10,2006,15,button,Button,Jenson,Honda,honda,0,Accident,2:04.692,121.027,183.0,0,0.0
+10,2006,16,raikkonen,Räikkönen,Kimi,McLaren,mclaren,0,Accident,,,1885.0,0,29.0
+10,2006,17,heidfeld,Heidfeld,Nick,BMW Sauber,bmw_sauber,0,Accident,,,68.0,0,0.0
+10,2006,18,montoya,Pablo Montoya,Juan,McLaren,mclaren,0,Accident,,,307.0,0,7.0
+10,2006,19,webber,Webber,Mark,Williams,williams,0,Accident,,,68.0,0,0.0
+10,2006,20,speed,Speed,Scott,Toro Rosso,toro_rosso,0,Accident,,,0.0,0,0.0
+10,2006,21,klien,Klien,Christian,Red Bull,red_bull,0,Accident,,,13.0,0,0.0
+10,2006,22,montagny,Montagny,Franck,Super Aguri,super_aguri,0,Accident,,,0.0,0,0.0
+11,2006,1,michael_schumacher,Schumacher,Michael,Ferrari,ferrari,10,Finished,1:17.111,205.931,757.0,1,53.0
+11,2006,2,alonso,Alonso,Fernando,Renault,renault,8,Finished,1:17.770,204.186,2192.0,0,46.0
+11,2006,3,massa,Massa,Felipe,Ferrari,ferrari,6,Finished,1:17.141,205.851,69.0,0,0.0
+11,2006,4,ralf_schumacher,Schumacher,Ralf,Toyota,toyota,5,Finished,1:17.809,204.084,255.0,0,6.0
+11,2006,5,raikkonen,Räikkönen,Kimi,McLaren,mclaren,4,Finished,1:17.717,204.325,1889.0,0,29.0
+11,2006,6,fisichella,Fisichella,Giancarlo,Renault,renault,3,Finished,1:18.057,203.435,171.0,0,3.0
+11,2006,7,rosa,de la Rosa,Pedro,McLaren,mclaren,2,Finished,1:17.625,204.568,11.0,0,0.0
+11,2006,8,heidfeld,Heidfeld,Nick,BMW Sauber,bmw_sauber,1,+1 Lap,1:18.809,201.494,69.0,0,0.0
+11,2006,9,coulthard,Coulthard,David,Red Bull,red_bull,0,+1 Lap,1:18.978,201.063,288.0,0,7.0
+11,2006,10,speed,Speed,Scott,Toro Rosso,toro_rosso,0,+1 Lap,1:18.674,201.840,0.0,0,0.0
+11,2006,11,villeneuve,Villeneuve,Jacques,BMW Sauber,bmw_sauber,0,+1 Lap,1:17.906,203.830,55.0,0,0.0
+11,2006,12,klien,Klien,Christian,Red Bull,red_bull,0,+1 Lap,1:18.968,201.089,13.0,0,0.0
+11,2006,13,liuzzi,Liuzzi,Vitantonio,Toro Rosso,toro_rosso,0,+1 Lap,1:18.241,202.957,2.0,0,0.0
+11,2006,14,rosberg,Rosberg,Nico,Williams,williams,0,+2 Laps,1:18.796,201.527,4.0,0,0.0
+11,2006,15,albers,Albers,Christijan,MF1,mf1,0,+2 Laps,1:19.356,200.105,4.0,0,0.0
+11,2006,16,montagny,Montagny,Franck,Super Aguri,super_aguri,0,+3 Laps,1:20.113,198.215,0.0,0,0.0
+11,2006,17,button,Button,Jenson,Honda,honda,0,Technical,1:18.510,202.262,183.0,0,0.0
+11,2006,18,webber,Webber,Mark,Williams,williams,0,Wheel rim,1:18.859,201.366,68.0,0,0.0
+11,2006,19,trulli,Trulli,Jarno,Toyota,toyota,0,Brakes,1:18.036,203.490,157.0,0,1.0
+11,2006,20,barrichello,Barrichello,Rubens,Honda,honda,0,Engine,1:20.094,198.262,428.0,0,9.0
+11,2006,21,monteiro,Monteiro,Tiago,MF1,mf1,0,Mechanical,1:21.663,194.452,7.0,0,0.0
+11,2006,22,sato,Sato,Takuma,Super Aguri,super_aguri,0,Transmission,,,40.0,0,0.0
+12,2006,1,michael_schumacher,Schumacher,Michael,Ferrari,ferrari,10,Finished,1:16.357,215.650,767.0,1,54.0
+12,2006,2,massa,Massa,Felipe,Ferrari,ferrari,8,Finished,1:16.392,215.551,77.0,0,0.0
+12,2006,3,raikkonen,Räikkönen,Kimi,McLaren,mclaren,6,Finished,1:16.475,215.317,1895.0,0,29.0
+12,2006,4,button,Button,Jenson,Honda,honda,5,Finished,1:16.818,214.356,188.0,0,0.0
+12,2006,5,alonso,Alonso,Fernando,Renault,renault,4,Finished,1:17.256,213.140,2196.0,0,46.0
+12,2006,6,fisichella,Fisichella,Giancarlo,Renault,renault,3,Finished,1:16.981,213.902,174.0,0,3.0
+12,2006,7,trulli,Trulli,Jarno,Toyota,toyota,2,Finished,1:16.807,214.386,159.0,0,1.0
+12,2006,8,klien,Klien,Christian,Red Bull,red_bull,1,Finished,1:17.719,211.870,14.0,0,0.0
+12,2006,9,ralf_schumacher,Schumacher,Ralf,Toyota,toyota,0,Finished,1:16.763,214.509,255.0,0,6.0
+12,2006,10,liuzzi,Liuzzi,Vitantonio,Toro Rosso,toro_rosso,0,+1 Lap,1:17.407,212.724,2.0,0,0.0
+12,2006,11,coulthard,Coulthard,David,Red Bull,red_bull,0,+1 Lap,1:17.811,211.620,288.0,0,7.0
+12,2006,12,speed,Speed,Scott,Toro Rosso,toro_rosso,0,+1 Lap,1:17.450,212.606,0.0,0,0.0
+12,2006,13,webber,Webber,Mark,Williams,williams,0,Water leak,1:16.812,214.372,68.0,0,0.0
+12,2006,14,sato,Sato,Takuma,Super Aguri,super_aguri,0,Gearbox,1:19.413,207.351,40.0,0,0.0
+12,2006,15,villeneuve,Villeneuve,Jacques,BMW Sauber,bmw_sauber,0,Accident,1:18.904,208.689,55.0,0,0.0
+12,2006,16,barrichello,Barrichello,Rubens,Honda,honda,0,Engine,1:18.029,211.029,428.0,0,9.0
+12,2006,17,heidfeld,Heidfeld,Nick,BMW Sauber,bmw_sauber,0,Brakes,1:19.264,207.741,69.0,0,0.0
+12,2006,18,rosa,de la Rosa,Pedro,McLaren,mclaren,0,Fuel pump,1:19.649,206.737,11.0,0,0.0
+12,2006,19,yamamoto,Yamamoto,Sakon,Super Aguri,super_aguri,0,Driveshaft,,,0.0,0,0.0
+12,2006,20,rosberg,Rosberg,Nico,Williams,williams,0,Accident,,,4.0,0,0.0
+12,2006,21,albers,Albers,Christijan,MF1,mf1,0,Disqualified,1:18.247,210.441,4.0,0,0.0
+12,2006,22,monteiro,Monteiro,Tiago,MF1,mf1,0,Disqualified,1:18.718,209.182,7.0,0,0.0
+13,2006,1,button,Button,Jenson,Honda,honda,10,Finished,1:25.143,185.236,198.0,1,1.0
+13,2006,2,rosa,de la Rosa,Pedro,McLaren,mclaren,8,Finished,1:24.315,187.055,19.0,0,0.0
+13,2006,3,heidfeld,Heidfeld,Nick,BMW Sauber,bmw_sauber,6,Finished,1:25.801,183.816,75.0,0,0.0
+13,2006,4,barrichello,Barrichello,Rubens,Honda,honda,5,Finished,1:24.678,186.253,433.0,0,9.0
+13,2006,5,coulthard,Coulthard,David,Red Bull,red_bull,4,+1 Lap,1:27.572,180.098,292.0,0,7.0
+13,2006,6,ralf_schumacher,Schumacher,Ralf,Toyota,toyota,3,+1 Lap,1:25.247,185.010,258.0,0,6.0
+13,2006,7,massa,Massa,Felipe,Ferrari,ferrari,2,+1 Lap,1:23.516,188.845,79.0,0,0.0
+13,2006,8,michael_schumacher,Schumacher,Michael,Ferrari,ferrari,1,Track rod,1:27.834,179.561,768.0,0,54.0
+13,2006,9,monteiro,Monteiro,Tiago,MF1,mf1,0,+3 Laps,1:28.178,178.860,7.0,0,0.0
+13,2006,10,albers,Albers,Christijan,MF1,mf1,0,+3 Laps,1:26.117,183.141,4.0,0,0.0
+13,2006,11,speed,Speed,Scott,Toro Rosso,toro_rosso,0,+4 Laps,1:26.249,182.861,0.0,0,0.0
+13,2006,12,trulli,Trulli,Jarno,Toyota,toyota,0,Engine,1:25.779,183.863,159.0,0,1.0
+13,2006,13,sato,Sato,Takuma,Super Aguri,super_aguri,0,+5 Laps,1:30.957,173.396,40.0,0,0.0
+13,2006,14,alonso,Alonso,Fernando,Renault,renault,0,Driveshaft,1:29.408,176.400,2196.0,0,46.0
+13,2006,15,raikkonen,Räikkönen,Kimi,McLaren,mclaren,0,Collision,1:33.690,168.338,1895.0,0,29.0
+13,2006,16,liuzzi,Liuzzi,Vitantonio,Toro Rosso,toro_rosso,0,Collision,1:38.858,159.537,2.0,0,0.0
+13,2006,17,rosberg,Rosberg,Nico,Williams,williams,0,Electrical,1:38.964,159.367,4.0,0,0.0
+13,2006,18,fisichella,Fisichella,Giancarlo,Renault,renault,0,Spun off,1:35.550,165.061,174.0,0,3.0
+13,2006,19,klien,Klien,Christian,Red Bull,red_bull,0,Spun off,1:38.702,159.790,14.0,0,0.0
+13,2006,20,webber,Webber,Mark,Williams,williams,0,Accident,,,68.0,0,0.0
+13,2006,21,yamamoto,Yamamoto,Sakon,Super Aguri,super_aguri,0,Engine,,,0.0,0,0.0
+13,2006,22,kubica,Kubica,Robert,BMW Sauber,bmw_sauber,0,Disqualified,1:28.154,178.909,0.0,0,0.0
+14,2006,1,massa,Massa,Felipe,Ferrari,ferrari,10,Finished,1:28.123,218.067,89.0,1,1.0
+14,2006,2,alonso,Alonso,Fernando,Renault,renault,8,Finished,1:28.245,217.766,2204.0,0,46.0
+14,2006,3,michael_schumacher,Schumacher,Michael,Ferrari,ferrari,6,Finished,1:28.005,218.360,774.0,0,54.0
+14,2006,4,button,Button,Jenson,Honda,honda,5,Finished,1:28.474,217.202,203.0,0,1.0
+14,2006,5,rosa,de la Rosa,Pedro,McLaren,mclaren,4,Finished,1:28.959,216.018,23.0,0,0.0
+14,2006,6,fisichella,Fisichella,Giancarlo,Renault,renault,3,Finished,1:28.546,217.026,177.0,0,3.0
+14,2006,7,ralf_schumacher,Schumacher,Ralf,Toyota,toyota,2,Finished,1:29.084,215.715,260.0,0,6.0
+14,2006,8,barrichello,Barrichello,Rubens,Honda,honda,1,Finished,1:28.733,216.568,434.0,0,9.0
+14,2006,9,trulli,Trulli,Jarno,Toyota,toyota,0,+1 Lap,1:30.048,213.406,159.0,0,1.0
+14,2006,10,webber,Webber,Mark,Williams,williams,0,+1 Lap,1:30.088,213.311,68.0,0,0.0
+14,2006,11,klien,Klien,Christian,Red Bull,red_bull,0,+1 Lap,1:30.025,213.460,14.0,0,0.0
+14,2006,12,kubica,Kubica,Robert,BMW Sauber,bmw_sauber,0,+1 Lap,1:29.723,214.179,0.0,0,0.0
+14,2006,13,speed,Speed,Scott,Toro Rosso,toro_rosso,0,+1 Lap,1:29.933,213.679,0.0,0,0.0
+14,2006,14,heidfeld,Heidfeld,Nick,BMW Sauber,bmw_sauber,0,+2 Laps,1:30.335,212.728,75.0,0,0.0
+14,2006,15,coulthard,Coulthard,David,Red Bull,red_bull,0,Gearbox,1:30.026,213.458,292.0,0,7.0
+14,2006,16,albers,Albers,Christijan,MF1,mf1,0,Spun off,1:30.403,212.568,4.0,0,0.0
+14,2006,17,sato,Sato,Takuma,Super Aguri,super_aguri,0,+17 Laps,1:31.814,209.301,40.0,0,0.0
+14,2006,18,rosberg,Rosberg,Nico,Williams,williams,0,Water leak,1:30.071,213.351,4.0,0,0.0
+14,2006,19,yamamoto,Yamamoto,Sakon,Super Aguri,super_aguri,0,Spun off,1:32.337,208.115,0.0,0,0.0
+14,2006,20,liuzzi,Liuzzi,Vitantonio,Toro Rosso,toro_rosso,0,Spun off,1:32.148,208.542,2.0,0,0.0
+14,2006,21,raikkonen,Räikkönen,Kimi,McLaren,mclaren,0,Collision,,,1895.0,0,29.0
+14,2006,22,monteiro,Monteiro,Tiago,MF1,mf1,0,Collision,,,7.0,0,0.0
+15,2006,1,michael_schumacher,Schumacher,Michael,Ferrari,ferrari,10,Finished,1:22.575,252.555,784.0,1,55.0
+15,2006,2,raikkonen,Räikkönen,Kimi,McLaren,mclaren,8,Finished,1:22.559,252.604,1903.0,0,29.0
+15,2006,3,kubica,Kubica,Robert,BMW Sauber,bmw_sauber,6,Finished,1:23.111,250.927,6.0,0,0.0
+15,2006,4,fisichella,Fisichella,Giancarlo,Renault,renault,5,Finished,1:23.617,249.408,182.0,0,3.0
+15,2006,5,button,Button,Jenson,Honda,honda,4,Finished,1:23.518,249.704,207.0,0,1.0
+15,2006,6,barrichello,Barrichello,Rubens,Honda,honda,3,Finished,1:23.794,248.881,437.0,0,9.0
+15,2006,7,trulli,Trulli,Jarno,Toyota,toyota,2,Finished,1:23.869,248.659,161.0,0,1.0
+15,2006,8,heidfeld,Heidfeld,Nick,BMW Sauber,bmw_sauber,1,Finished,1:23.294,250.375,76.0,0,0.0
+15,2006,9,massa,Massa,Felipe,Ferrari,ferrari,0,Finished,1:23.003,251.253,89.0,0,1.0
+15,2006,10,webber,Webber,Mark,Williams,williams,0,Finished,1:24.197,247.690,68.0,0,0.0
+15,2006,11,klien,Klien,Christian,Red Bull,red_bull,0,+1 Lap,1:24.571,246.595,14.0,0,0.0
+15,2006,12,coulthard,Coulthard,David,Red Bull,red_bull,0,+1 Lap,1:24.984,245.396,292.0,0,7.0
+15,2006,13,speed,Speed,Scott,Toro Rosso,toro_rosso,0,+1 Lap,1:25.094,245.079,0.0,0,0.0
+15,2006,14,liuzzi,Liuzzi,Vitantonio,Toro Rosso,toro_rosso,0,+1 Lap,1:24.764,246.033,2.0,0,0.0
+15,2006,15,ralf_schumacher,Schumacher,Ralf,Toyota,toyota,0,+1 Lap,1:24.837,245.821,260.0,0,6.0
+15,2006,16,sato,Sato,Takuma,Super Aguri,super_aguri,0,+2 Laps,1:25.676,243.414,40.0,0,0.0
+15,2006,17,albers,Albers,Christijan,Spyker MF1,spyker_mf1,0,+2 Laps,1:25.494,243.932,4.0,0,0.0
+15,2006,18,monteiro,Monteiro,Tiago,Spyker MF1,spyker_mf1,0,Brakes,1:24.822,245.865,7.0,0,0.0
+15,2006,19,alonso,Alonso,Fernando,Renault,renault,0,Engine,1:23.121,250.896,2204.0,0,46.0
+15,2006,20,rosa,de la Rosa,Pedro,McLaren,mclaren,0,Engine,1:23.702,249.155,23.0,0,0.0
+15,2006,21,yamamoto,Yamamoto,Sakon,Super Aguri,super_aguri,0,Hydraulics,1:26.548,240.962,0.0,0,0.0
+15,2006,22,rosberg,Rosberg,Nico,Williams,williams,0,Driveshaft,1:25.362,244.310,4.0,0,0.0
+16,2006,1,michael_schumacher,Schumacher,Michael,Ferrari,ferrari,10,Finished,1:38.553,199.117,794.0,1,56.0
+16,2006,2,alonso,Alonso,Fernando,Renault,renault,8,Finished,1:37.586,201.090,2212.0,0,46.0
+16,2006,3,fisichella,Fisichella,Giancarlo,Renault,renault,6,Finished,1:39.332,197.555,188.0,0,3.0
+16,2006,4,button,Button,Jenson,Honda,honda,5,Finished,1:39.206,197.806,212.0,0,1.0
+16,2006,5,rosa,de la Rosa,Pedro,McLaren,mclaren,4,Finished,1:39.149,197.920,27.0,0,0.0
+16,2006,6,barrichello,Barrichello,Rubens,Honda,honda,3,Finished,1:39.749,196.729,440.0,0,9.0
+16,2006,7,heidfeld,Heidfeld,Nick,BMW Sauber,bmw_sauber,2,Finished,1:39.164,197.890,78.0,0,0.0
+16,2006,8,webber,Webber,Mark,Williams,williams,1,Finished,1:39.907,196.418,69.0,0,0.0
+16,2006,9,coulthard,Coulthard,David,Red Bull,red_bull,0,Finished,1:40.549,195.164,292.0,0,7.0
+16,2006,10,liuzzi,Liuzzi,Vitantonio,Toro Rosso,toro_rosso,0,+1 Lap,1:41.710,192.936,2.0,0,0.0
+16,2006,11,rosberg,Rosberg,Nico,Williams,williams,0,+1 Lap,1:40.471,195.316,4.0,0,0.0
+16,2006,12,doornbos,Doornbos,Robert,Red Bull,red_bull,0,+1 Lap,1:39.801,196.627,0.0,0,0.0
+16,2006,13,kubica,Kubica,Robert,BMW Sauber,bmw_sauber,0,+1 Lap,1:40.193,195.857,6.0,0,0.0
+16,2006,14,speed,Speed,Scott,Toro Rosso,toro_rosso,0,+1 Lap,1:39.681,196.863,0.0,0,0.0
+16,2006,15,albers,Albers,Christijan,Spyker MF1,spyker_mf1,0,+3 Laps,1:41.483,193.368,4.0,0,0.0
+16,2006,16,yamamoto,Yamamoto,Sakon,Super Aguri,super_aguri,0,+4 Laps,1:41.847,192.677,0.0,0,0.0
+16,2006,17,ralf_schumacher,Schumacher,Ralf,Toyota,toyota,0,Oil pressure,1:39.823,196.583,260.0,0,6.0
+16,2006,18,massa,Massa,Felipe,Ferrari,ferrari,0,Collision,1:39.397,197.426,89.0,0,1.0
+16,2006,19,trulli,Trulli,Jarno,Toyota,toyota,0,Pneumatics,1:44.787,187.271,161.0,0,1.0
+16,2006,20,monteiro,Monteiro,Tiago,Spyker MF1,spyker_mf1,0,Spun off,1:45.356,186.259,7.0,0,0.0
+16,2006,21,raikkonen,Räikkönen,Kimi,McLaren,mclaren,0,Throttle,1:44.094,188.518,1903.0,0,29.0
+16,2006,22,sato,Sato,Takuma,Super Aguri,super_aguri,0,Disqualified,1:40.856,194.570,40.0,0,0.0
+17,2006,1,alonso,Alonso,Fernando,Renault,renault,10,Finished,1:32.676,225.572,2222.0,1,47.0
+17,2006,2,massa,Massa,Felipe,Ferrari,ferrari,8,Finished,1:33.296,224.073,97.0,0,1.0
+17,2006,3,fisichella,Fisichella,Giancarlo,Renault,renault,6,Finished,1:33.564,223.432,194.0,0,3.0
+17,2006,4,button,Button,Jenson,Honda,honda,5,Finished,1:33.451,223.702,217.0,0,1.0
+17,2006,5,raikkonen,Räikkönen,Kimi,McLaren,mclaren,4,Finished,1:33.344,223.958,1907.0,0,29.0
+17,2006,6,trulli,Trulli,Jarno,Toyota,toyota,3,Finished,1:33.866,222.713,164.0,0,1.0
+17,2006,7,ralf_schumacher,Schumacher,Ralf,Toyota,toyota,2,Finished,1:33.607,223.329,262.0,0,6.0
+17,2006,8,heidfeld,Heidfeld,Nick,BMW Sauber,bmw_sauber,1,Finished,1:34.525,221.160,79.0,0,0.0
+17,2006,9,kubica,Kubica,Robert,BMW Sauber,bmw_sauber,0,Finished,1:33.509,223.563,6.0,0,0.0
+17,2006,10,rosberg,Rosberg,Nico,Williams,williams,0,+1 Lap,1:34.802,220.514,4.0,0,0.0
+17,2006,11,rosa,de la Rosa,Pedro,McLaren,mclaren,0,+1 Lap,1:34.120,222.112,27.0,0,0.0
+17,2006,12,barrichello,Barrichello,Rubens,Honda,honda,0,+1 Lap,1:34.071,222.227,440.0,0,9.0
+17,2006,13,doornbos,Doornbos,Robert,Red Bull,red_bull,0,+1 Lap,1:35.099,219.825,0.0,0,0.0
+17,2006,14,liuzzi,Liuzzi,Vitantonio,Toro Rosso,toro_rosso,0,+1 Lap,1:34.131,222.086,2.0,0,0.0
+17,2006,15,sato,Sato,Takuma,Super Aguri,super_aguri,0,+1 Lap,1:35.082,219.864,40.0,0,0.0
+17,2006,16,monteiro,Monteiro,Tiago,Spyker MF1,spyker_mf1,0,+2 Laps,1:35.260,219.454,7.0,0,0.0
+17,2006,17,yamamoto,Yamamoto,Sakon,Super Aguri,super_aguri,0,+3 Laps,1:35.594,218.687,0.0,0,0.0
+17,2006,18,speed,Speed,Scott,Toro Rosso,toro_rosso,0,Steering,1:34.560,221.078,0.0,0,0.0
+17,2006,19,webber,Webber,Mark,Williams,williams,0,Accident,1:35.092,219.841,69.0,0,0.0
+17,2006,20,michael_schumacher,Schumacher,Michael,Ferrari,ferrari,0,Engine,1:32.792,225.290,794.0,0,56.0
+17,2006,21,coulthard,Coulthard,David,Red Bull,red_bull,0,Gearbox,1:35.052,219.934,292.0,0,7.0
+17,2006,22,albers,Albers,Christijan,Spyker MF1,spyker_mf1,0,Driveshaft,1:36.036,217.680,4.0,0,0.0
+18,2006,1,massa,Massa,Felipe,Ferrari,ferrari,10,Finished,1:12.877,212.857,107.0,1,2.0
+18,2006,2,alonso,Alonso,Fernando,Renault,renault,8,Finished,1:12.961,212.612,2230.0,0,47.0
+18,2006,3,button,Button,Jenson,Honda,honda,6,Finished,1:13.053,212.344,223.0,0,1.0
+18,2006,4,michael_schumacher,Schumacher,Michael,Ferrari,ferrari,5,Finished,1:12.162,214.966,799.0,0,56.0
+18,2006,5,raikkonen,Räikkönen,Kimi,McLaren,mclaren,4,Finished,1:13.281,211.683,1911.0,0,29.0
+18,2006,6,fisichella,Fisichella,Giancarlo,Renault,renault,3,Finished,1:13.121,212.146,197.0,0,3.0
+18,2006,7,barrichello,Barrichello,Rubens,Honda,honda,2,Finished,1:13.391,211.366,442.0,0,9.0
+18,2006,8,rosa,de la Rosa,Pedro,McLaren,mclaren,1,Finished,1:13.817,210.146,28.0,0,0.0
+18,2006,9,kubica,Kubica,Robert,BMW Sauber,bmw_sauber,0,Finished,1:14.117,209.296,6.0,0,0.0
+18,2006,10,sato,Sato,Takuma,Super Aguri,super_aguri,0,+1 Lap,1:13.401,211.337,40.0,0,0.0
+18,2006,11,speed,Speed,Scott,Toro Rosso,toro_rosso,0,+1 Lap,1:13.862,210.018,0.0,0,0.0
+18,2006,12,doornbos,Doornbos,Robert,Red Bull,red_bull,0,+1 Lap,1:13.700,210.480,0.0,0,0.0
+18,2006,13,liuzzi,Liuzzi,Vitantonio,Toro Rosso,toro_rosso,0,+1 Lap,1:13.687,210.517,2.0,0,0.0
+18,2006,14,albers,Albers,Christijan,Spyker MF1,spyker_mf1,0,+1 Lap,1:14.591,207.966,4.0,0,0.0
+18,2006,15,monteiro,Monteiro,Tiago,Spyker MF1,spyker_mf1,0,+2 Laps,1:14.410,208.471,7.0,0,0.0
+18,2006,16,yamamoto,Yamamoto,Sakon,Super Aguri,super_aguri,0,+2 Laps,1:13.379,211.401,0.0,0,0.0
+18,2006,17,heidfeld,Heidfeld,Nick,BMW Sauber,bmw_sauber,0,Accident,1:14.163,209.166,79.0,0,0.0
+18,2006,18,coulthard,Coulthard,David,Red Bull,red_bull,0,Gearbox,1:16.045,203.989,292.0,0,7.0
+18,2006,19,trulli,Trulli,Jarno,Toyota,toyota,0,Suspension,1:14.882,207.157,164.0,0,1.0
+18,2006,20,ralf_schumacher,Schumacher,Ralf,Toyota,toyota,0,Suspension,1:16.835,201.892,262.0,0,6.0
+18,2006,21,webber,Webber,Mark,Williams,williams,0,Collision,,,69.0,0,0.0
+18,2006,22,rosberg,Rosberg,Nico,Williams,williams,0,Collision,,,4.0,0,0.0

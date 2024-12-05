@@ -66,7 +66,7 @@ def main():
 
     all_pit_stops = []
 
-    for i in range(2018, 2024):
+    for i in range(2000, 2024):
         filename = f"season_schedule/{i}_season_schedule.csv"
         if not os.path.exists(filename):
             print(f"File not found: {filename}")

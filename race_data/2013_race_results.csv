@@ -1,0 +1,419 @@
+Race ID,Year,Position,Driver ID,Last Name,First Name,Constructor,Constructor ID,Points,Status,Fastest Lap Time,Fastest Lap Avg Speed (kph),Total Points,Wins,Total Wins
+1,2013,1,raikkonen,Räikkönen,Kimi,Lotus F1,lotus_f1,25,Finished,1:29.274,213.845,2376.0,1,40.0
+1,2013,2,alonso,Alonso,Fernando,Ferrari,ferrari,18,Finished,1:29.560,213.162,3231.0,0,62.0
+1,2013,3,vettel,Vettel,Sebastian,Red Bull,red_bull,15,Finished,1:30.409,211.160,3494.0,0,73.0
+1,2013,4,massa,Massa,Felipe,Ferrari,ferrari,12,Finished,1:30.239,211.558,716.0,0,11.0
+1,2013,5,hamilton,Hamilton,Lewis,Mercedes,mercedes,10,Finished,1:29.759,212.689,3533.0,0,83.0
+1,2013,6,webber,Webber,Mark,Red Bull,red_bull,8,Finished,1:29.732,212.753,856.5,0,9.0
+1,2013,7,sutil,Sutil,Adrian,Force India,force_india,6,Finished,1:30.710,210.459,101.0,0,0.0
+1,2013,8,resta,di Resta,Paul,Force India,force_india,4,Finished,1:30.894,210.033,77.0,0,0.0
+1,2013,9,button,Button,Jenson,McLaren,mclaren,2,Finished,1:30.198,211.654,1001.0,0,15.0
+1,2013,10,grosjean,Grosjean,Romain,Lotus F1,lotus_f1,1,Finished,1:30.395,211.193,441.0,0,0.0
+1,2013,11,perez,Pérez,Sergio,McLaren,mclaren,0,Finished,1:29.926,212.294,547.0,0,0.0
+1,2013,12,vergne,Vergne,Jean-Éric,Toro Rosso,toro_rosso,0,Finished,1:29.498,213.309,16.0,0,0.0
+1,2013,13,gutierrez,Gutiérrez,Esteban,Sauber,sauber,0,+1 Lap,1:31.415,208.836,0.0,0,0.0
+1,2013,14,bottas,Bottas,Valtteri,Williams,williams,0,+1 Lap,1:30.652,210.594,716.0,0,3.0
+1,2013,15,jules_bianchi,Bianchi,Jules,Marussia,marussia,0,+1 Lap,1:30.454,211.055,0.0,0,0.0
+1,2013,16,pic,Pic,Charles,Caterham,caterham,0,+2 Laps,1:32.261,206.921,0.0,0,0.0
+1,2013,17,chilton,Chilton,Max,Marussia,marussia,0,+2 Laps,1:32.210,207.036,0.0,0,0.0
+1,2013,18,garde,van der Garde,Giedo,Caterham,caterham,0,+2 Laps,1:32.636,206.084,0.0,0,0.0
+1,2013,19,ricciardo,Ricciardo,Daniel,Toro Rosso,toro_rosso,0,Hydraulics,1:30.881,210.063,826.0,0,5.0
+1,2013,20,rosberg,Rosberg,Nico,Mercedes,mercedes,0,Electrical,1:32.259,206.926,399.5,0,1.0
+1,2013,21,maldonado,Maldonado,Pastor,Williams,williams,0,Spun off,1:32.915,205.465,46.0,0,1.0
+1,2013,22,hulkenberg,Hülkenberg,Nico,Sauber,sauber,0,Fuel system,,,490.0,0,0.0
+2,2013,1,vettel,Vettel,Sebastian,Red Bull,red_bull,25,Finished,1:40.446,198.661,3519.0,1,74.0
+2,2013,2,webber,Webber,Mark,Red Bull,red_bull,18,Finished,1:40.685,198.190,874.5,0,9.0
+2,2013,3,hamilton,Hamilton,Lewis,Mercedes,mercedes,15,Finished,1:41.001,197.570,3548.0,0,83.0
+2,2013,4,rosberg,Rosberg,Nico,Mercedes,mercedes,12,Finished,1:40.755,198.052,411.5,0,1.0
+2,2013,5,massa,Massa,Felipe,Ferrari,ferrari,10,Finished,1:39.805,199.937,726.0,0,11.0
+2,2013,6,grosjean,Grosjean,Romain,Lotus F1,lotus_f1,8,Finished,1:41.226,197.131,449.0,0,0.0
+2,2013,7,raikkonen,Räikkönen,Kimi,Lotus F1,lotus_f1,6,Finished,1:41.769,196.079,2382.0,0,40.0
+2,2013,8,hulkenberg,Hülkenberg,Nico,Sauber,sauber,4,Finished,1:40.727,198.107,494.0,0,0.0
+2,2013,9,perez,Pérez,Sergio,McLaren,mclaren,2,Finished,1:39.199,201.159,549.0,0,0.0
+2,2013,10,vergne,Vergne,Jean-Éric,Toro Rosso,toro_rosso,1,Finished,1:40.492,198.571,17.0,0,0.0
+2,2013,11,bottas,Bottas,Valtteri,Williams,williams,0,Finished,1:41.373,196.845,716.0,0,3.0
+2,2013,12,gutierrez,Gutiérrez,Esteban,Sauber,sauber,0,+1 Lap,1:40.929,197.711,0.0,0,0.0
+2,2013,13,jules_bianchi,Bianchi,Jules,Marussia,marussia,0,+1 Lap,1:42.423,194.827,0.0,0,0.0
+2,2013,14,pic,Pic,Charles,Caterham,caterham,0,+1 Lap,1:42.942,193.845,0.0,0,0.0
+2,2013,15,garde,van der Garde,Giedo,Caterham,caterham,0,+1 Lap,1:43.157,193.441,0.0,0,0.0
+2,2013,16,chilton,Chilton,Max,Marussia,marussia,0,+2 Laps,1:43.150,193.454,0.0,0,0.0
+2,2013,17,button,Button,Jenson,McLaren,mclaren,0,Withdrew,1:40.556,198.444,1001.0,0,15.0
+2,2013,18,ricciardo,Ricciardo,Daniel,Toro Rosso,toro_rosso,0,Retired,1:42.581,194.527,826.0,0,5.0
+2,2013,19,maldonado,Maldonado,Pastor,Williams,williams,0,Retired,1:43.465,192.865,46.0,0,1.0
+2,2013,20,sutil,Sutil,Adrian,Force India,force_india,0,Wheel nut,1:42.791,194.129,101.0,0,0.0
+2,2013,21,resta,di Resta,Paul,Force India,force_india,0,Wheel nut,1:43.094,193.559,77.0,0,0.0
+2,2013,22,alonso,Alonso,Fernando,Ferrari,ferrari,0,Collision,,,3231.0,0,62.0
+3,2013,1,alonso,Alonso,Fernando,Ferrari,ferrari,25,Finished,1:39.506,197.210,3256.0,1,63.0
+3,2013,2,raikkonen,Räikkönen,Kimi,Lotus F1,lotus_f1,18,Finished,1:39.955,196.324,2400.0,0,40.0
+3,2013,3,hamilton,Hamilton,Lewis,Mercedes,mercedes,15,Finished,1:39.981,196.273,3563.0,0,83.0
+3,2013,4,vettel,Vettel,Sebastian,Red Bull,red_bull,12,Finished,1:36.808,202.706,3531.0,0,74.0
+3,2013,5,button,Button,Jenson,McLaren,mclaren,10,Finished,1:38.058,200.122,1011.0,0,15.0
+3,2013,6,massa,Massa,Felipe,Ferrari,ferrari,8,Finished,1:40.284,195.680,734.0,0,11.0
+3,2013,7,ricciardo,Ricciardo,Daniel,Toro Rosso,toro_rosso,6,Finished,1:40.240,195.766,832.0,0,5.0
+3,2013,8,resta,di Resta,Paul,Force India,force_india,4,Finished,1:40.101,196.038,81.0,0,0.0
+3,2013,9,grosjean,Grosjean,Romain,Lotus F1,lotus_f1,2,Finished,1:40.563,195.137,451.0,0,0.0
+3,2013,10,hulkenberg,Hülkenberg,Nico,Sauber,sauber,1,Finished,1:40.630,195.007,495.0,0,0.0
+3,2013,11,perez,Pérez,Sergio,McLaren,mclaren,0,Finished,1:41.281,193.754,549.0,0,0.0
+3,2013,12,vergne,Vergne,Jean-Éric,Toro Rosso,toro_rosso,0,Finished,1:40.138,195.965,17.0,0,0.0
+3,2013,13,bottas,Bottas,Valtteri,Williams,williams,0,Finished,1:38.200,199.832,716.0,0,3.0
+3,2013,14,maldonado,Maldonado,Pastor,Williams,williams,0,Finished,1:40.968,194.354,46.0,0,1.0
+3,2013,15,jules_bianchi,Bianchi,Jules,Marussia,marussia,0,+1 Lap,1:41.537,193.265,0.0,0,0.0
+3,2013,16,pic,Pic,Charles,Caterham,caterham,0,+1 Lap,1:41.997,192.393,0.0,0,0.0
+3,2013,17,chilton,Chilton,Max,Marussia,marussia,0,+1 Lap,1:41.978,192.429,0.0,0,0.0
+3,2013,18,garde,van der Garde,Giedo,Caterham,caterham,0,+1 Lap,1:42.357,191.717,0.0,0,0.0
+3,2013,19,rosberg,Rosberg,Nico,Mercedes,mercedes,0,Suspension,1:43.378,189.823,411.5,0,1.0
+3,2013,20,webber,Webber,Mark,Red Bull,red_bull,0,Wheel,1:43.416,189.754,874.5,0,9.0
+3,2013,21,sutil,Sutil,Adrian,Force India,force_india,0,Collision,1:44.257,188.223,101.0,0,0.0
+3,2013,22,gutierrez,Gutiérrez,Esteban,Sauber,sauber,0,Collision,1:44.775,187.292,0.0,0,0.0
+4,2013,1,vettel,Vettel,Sebastian,Red Bull,red_bull,25,Finished,1:36.961,200.938,3556.0,1,75.0
+4,2013,2,raikkonen,Räikkönen,Kimi,Lotus F1,lotus_f1,18,Finished,1:38.164,198.476,2418.0,0,40.0
+4,2013,3,grosjean,Grosjean,Romain,Lotus F1,lotus_f1,15,Finished,1:37.627,199.567,466.0,0,0.0
+4,2013,4,resta,di Resta,Paul,Force India,force_india,12,Finished,1:38.336,198.128,93.0,0,0.0
+4,2013,5,hamilton,Hamilton,Lewis,Mercedes,mercedes,10,Finished,1:38.204,198.395,3573.0,0,83.0
+4,2013,6,perez,Pérez,Sergio,McLaren,mclaren,8,Finished,1:37.913,198.984,557.0,0,0.0
+4,2013,7,webber,Webber,Mark,Red Bull,red_bull,6,Finished,1:38.557,197.684,880.5,0,9.0
+4,2013,8,alonso,Alonso,Fernando,Ferrari,ferrari,4,Finished,1:37.204,200.436,3260.0,0,63.0
+4,2013,9,rosberg,Rosberg,Nico,Mercedes,mercedes,2,Finished,1:37.588,199.647,413.5,0,1.0
+4,2013,10,button,Button,Jenson,McLaren,mclaren,1,Finished,1:37.743,199.330,1012.0,0,15.0
+4,2013,11,maldonado,Maldonado,Pastor,Williams,williams,0,Finished,1:38.962,196.875,46.0,0,1.0
+4,2013,12,hulkenberg,Hülkenberg,Nico,Sauber,sauber,0,Finished,1:38.770,197.258,495.0,0,0.0
+4,2013,13,sutil,Sutil,Adrian,Force India,force_india,0,Finished,1:37.070,200.712,101.0,0,0.0
+4,2013,14,bottas,Bottas,Valtteri,Williams,williams,0,Finished,1:38.192,198.419,716.0,0,3.0
+4,2013,15,massa,Massa,Felipe,Ferrari,ferrari,0,Finished,1:38.839,197.120,734.0,0,11.0
+4,2013,16,ricciardo,Ricciardo,Daniel,Toro Rosso,toro_rosso,0,+1 Lap,1:39.579,195.655,832.0,0,5.0
+4,2013,17,pic,Pic,Charles,Caterham,caterham,0,+1 Lap,1:39.546,195.720,0.0,0,0.0
+4,2013,18,gutierrez,Gutiérrez,Esteban,Sauber,sauber,0,+1 Lap,1:38.202,198.399,0.0,0,0.0
+4,2013,19,jules_bianchi,Bianchi,Jules,Marussia,marussia,0,+1 Lap,1:38.756,197.286,0.0,0,0.0
+4,2013,20,chilton,Chilton,Max,Marussia,marussia,0,+1 Lap,1:39.279,196.246,0.0,0,0.0
+4,2013,21,garde,van der Garde,Giedo,Caterham,caterham,0,+2 Laps,1:39.334,196.138,0.0,0,0.0
+4,2013,22,vergne,Vergne,Jean-Éric,Toro Rosso,toro_rosso,0,Puncture,1:43.107,188.960,17.0,0,0.0
+5,2013,1,alonso,Alonso,Fernando,Ferrari,ferrari,25,Finished,1:26.681,193.329,3285.0,1,64.0
+5,2013,2,raikkonen,Räikkönen,Kimi,Lotus F1,lotus_f1,18,Finished,1:26.757,193.160,2436.0,0,40.0
+5,2013,3,massa,Massa,Felipe,Ferrari,ferrari,15,Finished,1:26.394,193.971,749.0,0,11.0
+5,2013,4,vettel,Vettel,Sebastian,Red Bull,red_bull,12,Finished,1:27.036,192.541,3568.0,0,75.0
+5,2013,5,webber,Webber,Mark,Red Bull,red_bull,10,Finished,1:27.017,192.583,890.5,0,9.0
+5,2013,6,rosberg,Rosberg,Nico,Mercedes,mercedes,8,Finished,1:27.591,191.321,421.5,0,1.0
+5,2013,7,resta,di Resta,Paul,Force India,force_india,6,Finished,1:26.776,193.117,99.0,0,0.0
+5,2013,8,button,Button,Jenson,McLaren,mclaren,4,Finished,1:27.957,190.524,1016.0,0,15.0
+5,2013,9,perez,Pérez,Sergio,McLaren,mclaren,2,Finished,1:27.251,192.066,559.0,0,0.0
+5,2013,10,ricciardo,Ricciardo,Daniel,Toro Rosso,toro_rosso,1,+1 Lap,1:28.083,190.252,833.0,0,5.0
+5,2013,11,gutierrez,Gutiérrez,Esteban,Sauber,sauber,0,+1 Lap,1:26.217,194.370,0.0,0,0.0
+5,2013,12,hamilton,Hamilton,Lewis,Mercedes,mercedes,0,+1 Lap,1:27.895,190.659,3573.0,0,83.0
+5,2013,13,sutil,Sutil,Adrian,Force India,force_india,0,+1 Lap,1:26.564,193.590,101.0,0,0.0
+5,2013,14,maldonado,Maldonado,Pastor,Williams,williams,0,+1 Lap,1:27.849,190.759,46.0,0,1.0
+5,2013,15,hulkenberg,Hülkenberg,Nico,Sauber,sauber,0,+1 Lap,1:26.586,193.541,495.0,0,0.0
+5,2013,16,bottas,Bottas,Valtteri,Williams,williams,0,+1 Lap,1:29.747,186.724,716.0,0,3.0
+5,2013,17,pic,Pic,Charles,Caterham,caterham,0,+1 Lap,1:29.362,187.529,0.0,0,0.0
+5,2013,18,jules_bianchi,Bianchi,Jules,Marussia,marussia,0,+2 Laps,1:28.884,188.537,0.0,0,0.0
+5,2013,19,chilton,Chilton,Max,Marussia,marussia,0,+2 Laps,1:28.011,190.408,0.0,0,0.0
+5,2013,20,vergne,Vergne,Jean-Éric,Toro Rosso,toro_rosso,0,Accident,1:28.231,189.933,17.0,0,0.0
+5,2013,21,garde,van der Garde,Giedo,Caterham,caterham,0,Wheel,1:30.597,184.973,0.0,0,0.0
+5,2013,22,grosjean,Grosjean,Romain,Lotus F1,lotus_f1,0,Suspension,1:31.136,183.879,466.0,0,0.0
+6,2013,1,rosberg,Rosberg,Nico,Mercedes,mercedes,25,Finished,1:18.327,153.510,446.5,1,2.0
+6,2013,2,vettel,Vettel,Sebastian,Red Bull,red_bull,18,Finished,1:16.577,157.018,3586.0,0,75.0
+6,2013,3,webber,Webber,Mark,Red Bull,red_bull,15,Finished,1:18.262,153.637,905.5,0,9.0
+6,2013,4,hamilton,Hamilton,Lewis,Mercedes,mercedes,12,Finished,1:18.133,153.891,3585.0,0,83.0
+6,2013,5,sutil,Sutil,Adrian,Force India,force_india,10,Finished,1:18.292,153.578,111.0,0,0.0
+6,2013,6,button,Button,Jenson,McLaren,mclaren,8,Finished,1:18.720,152.743,1024.0,0,15.0
+6,2013,7,alonso,Alonso,Fernando,Ferrari,ferrari,6,Finished,1:19.340,151.550,3291.0,0,64.0
+6,2013,8,vergne,Vergne,Jean-Éric,Toro Rosso,toro_rosso,4,Finished,1:19.151,151.912,21.0,0,0.0
+6,2013,9,resta,di Resta,Paul,Force India,force_india,2,Finished,1:19.215,151.789,101.0,0,0.0
+6,2013,10,raikkonen,Räikkönen,Kimi,Lotus F1,lotus_f1,1,Finished,1:17.392,155.364,2437.0,0,40.0
+6,2013,11,hulkenberg,Hülkenberg,Nico,Sauber,sauber,0,Finished,1:19.853,150.576,495.0,0,0.0
+6,2013,12,bottas,Bottas,Valtteri,Williams,williams,0,Finished,1:20.921,148.589,716.0,0,3.0
+6,2013,13,gutierrez,Gutiérrez,Esteban,Sauber,sauber,0,Finished,1:18.685,152.811,0.0,0,0.0
+6,2013,14,chilton,Chilton,Max,Marussia,marussia,0,Finished,1:19.016,152.171,0.0,0,0.0
+6,2013,15,garde,van der Garde,Giedo,Caterham,caterham,0,Finished,1:20.494,149.377,0.0,0,0.0
+6,2013,16,perez,Pérez,Sergio,McLaren,mclaren,0,Suspension,1:19.530,151.188,559.0,0,0.0
+6,2013,17,grosjean,Grosjean,Romain,Lotus F1,lotus_f1,0,Collision,1:20.969,148.501,466.0,0,0.0
+6,2013,18,ricciardo,Ricciardo,Daniel,Toro Rosso,toro_rosso,0,Collision,1:19.426,151.386,833.0,0,5.0
+6,2013,19,jules_bianchi,Bianchi,Jules,Marussia,marussia,0,Brakes,1:20.617,149.149,0.0,0,0.0
+6,2013,20,maldonado,Maldonado,Pastor,Williams,williams,0,Collision,1:20.881,148.662,46.0,0,1.0
+6,2013,21,massa,Massa,Felipe,Ferrari,ferrari,0,Accident,1:20.064,150.179,749.0,0,11.0
+6,2013,22,pic,Pic,Charles,Caterham,caterham,0,Gearbox,1:22.772,145.266,0.0,0,0.0
+7,2013,1,vettel,Vettel,Sebastian,Red Bull,red_bull,25,Finished,1:16.561,205.060,3611.0,1,76.0
+7,2013,2,alonso,Alonso,Fernando,Ferrari,ferrari,18,Finished,1:16.203,206.023,3309.0,0,64.0
+7,2013,3,hamilton,Hamilton,Lewis,Mercedes,mercedes,15,Finished,1:16.354,205.615,3600.0,0,83.0
+7,2013,4,webber,Webber,Mark,Red Bull,red_bull,12,Finished,1:16.182,206.080,917.5,0,9.0
+7,2013,5,rosberg,Rosberg,Nico,Mercedes,mercedes,10,Finished,1:16.534,205.132,456.5,0,2.0
+7,2013,6,vergne,Vergne,Jean-Éric,Toro Rosso,toro_rosso,8,+1 Lap,1:17.909,201.512,29.0,0,0.0
+7,2013,7,resta,di Resta,Paul,Force India,force_india,6,+1 Lap,1:17.841,201.688,107.0,0,0.0
+7,2013,8,massa,Massa,Felipe,Ferrari,ferrari,4,+1 Lap,1:16.939,204.052,753.0,0,11.0
+7,2013,9,raikkonen,Räikkönen,Kimi,Lotus F1,lotus_f1,2,+1 Lap,1:17.766,201.882,2439.0,0,40.0
+7,2013,10,sutil,Sutil,Adrian,Force India,force_india,1,+1 Lap,1:17.694,202.069,112.0,0,0.0
+7,2013,11,perez,Pérez,Sergio,McLaren,mclaren,0,+1 Lap,1:17.369,202.918,559.0,0,0.0
+7,2013,12,button,Button,Jenson,McLaren,mclaren,0,+1 Lap,1:17.458,202.685,1024.0,0,15.0
+7,2013,13,grosjean,Grosjean,Romain,Lotus F1,lotus_f1,0,+1 Lap,1:17.607,202.296,466.0,0,0.0
+7,2013,14,bottas,Bottas,Valtteri,Williams,williams,0,+1 Lap,1:18.004,201.266,716.0,0,3.0
+7,2013,15,ricciardo,Ricciardo,Daniel,Toro Rosso,toro_rosso,0,+2 Laps,1:18.257,200.615,833.0,0,5.0
+7,2013,16,maldonado,Maldonado,Pastor,Williams,williams,0,+2 Laps,1:18.105,201.006,46.0,0,1.0
+7,2013,17,jules_bianchi,Bianchi,Jules,Marussia,marussia,0,+2 Laps,1:18.873,199.049,0.0,0,0.0
+7,2013,18,pic,Pic,Charles,Caterham,caterham,0,+3 Laps,1:19.380,197.777,0.0,0,0.0
+7,2013,19,chilton,Chilton,Max,Marussia,marussia,0,+3 Laps,1:19.566,197.315,0.0,0,0.0
+7,2013,20,gutierrez,Gutiérrez,Esteban,Sauber,sauber,0,Accident,1:19.478,197.533,0.0,0,0.0
+7,2013,21,hulkenberg,Hülkenberg,Nico,Sauber,sauber,0,Collision,1:19.056,198.588,495.0,0,0.0
+7,2013,22,garde,van der Garde,Giedo,Caterham,caterham,0,Collision,1:21.811,191.900,0.0,0,0.0
+8,2013,1,rosberg,Rosberg,Nico,Mercedes,mercedes,25,Finished,1:33.531,226.744,481.5,1,3.0
+8,2013,2,webber,Webber,Mark,Red Bull,red_bull,18,Finished,1:33.401,227.059,935.5,0,9.0
+8,2013,3,alonso,Alonso,Fernando,Ferrari,ferrari,15,Finished,1:34.090,225.396,3324.0,0,64.0
+8,2013,4,hamilton,Hamilton,Lewis,Mercedes,mercedes,12,Finished,1:34.159,225.231,3612.0,0,83.0
+8,2013,5,raikkonen,Räikkönen,Kimi,Lotus F1,lotus_f1,10,Finished,1:35.384,222.339,2449.0,0,40.0
+8,2013,6,massa,Massa,Felipe,Ferrari,ferrari,8,Finished,1:35.273,222.598,761.0,0,11.0
+8,2013,7,sutil,Sutil,Adrian,Force India,force_india,6,Finished,1:35.961,221.002,118.0,0,0.0
+8,2013,8,ricciardo,Ricciardo,Daniel,Toro Rosso,toro_rosso,4,Finished,1:35.927,221.080,837.0,0,5.0
+8,2013,9,resta,di Resta,Paul,Force India,force_india,2,Finished,1:35.330,222.465,109.0,0,0.0
+8,2013,10,hulkenberg,Hülkenberg,Nico,Sauber,sauber,1,Finished,1:36.013,220.882,496.0,0,0.0
+8,2013,11,maldonado,Maldonado,Pastor,Williams,williams,0,Finished,1:35.907,221.126,46.0,0,1.0
+8,2013,12,bottas,Bottas,Valtteri,Williams,williams,0,Finished,1:36.312,220.196,716.0,0,3.0
+8,2013,13,button,Button,Jenson,McLaren,mclaren,0,Finished,1:36.356,220.096,1024.0,0,15.0
+8,2013,14,gutierrez,Gutiérrez,Esteban,Sauber,sauber,0,Finished,1:36.439,219.906,0.0,0,0.0
+8,2013,15,pic,Pic,Charles,Caterham,caterham,0,Finished,1:37.091,218.430,0.0,0,0.0
+8,2013,16,jules_bianchi,Bianchi,Jules,Marussia,marussia,0,Finished,1:37.978,216.452,0.0,0,0.0
+8,2013,17,chilton,Chilton,Max,Marussia,marussia,0,Finished,1:39.156,213.881,0.0,0,0.0
+8,2013,18,garde,van der Garde,Giedo,Caterham,caterham,0,Finished,1:38.722,214.821,0.0,0,0.0
+8,2013,19,grosjean,Grosjean,Romain,Lotus F1,lotus_f1,0,Retired,1:35.614,221.804,466.0,0,0.0
+8,2013,20,perez,Pérez,Sergio,McLaren,mclaren,0,Wheel,1:36.131,220.611,559.0,0,0.0
+8,2013,21,vettel,Vettel,Sebastian,Red Bull,red_bull,0,Gearbox,1:35.018,223.195,3611.0,0,76.0
+8,2013,22,vergne,Vergne,Jean-Éric,Toro Rosso,toro_rosso,0,Tyre,1:38.370,215.590,29.0,0,0.0
+9,2013,1,vettel,Vettel,Sebastian,Red Bull,red_bull,25,Finished,1:34.164,196.814,3636.0,1,77.0
+9,2013,2,raikkonen,Räikkönen,Kimi,Lotus F1,lotus_f1,18,Finished,1:33.767,197.647,2467.0,0,40.0
+9,2013,3,grosjean,Grosjean,Romain,Lotus F1,lotus_f1,15,Finished,1:34.576,195.956,481.0,0,0.0
+9,2013,4,alonso,Alonso,Fernando,Ferrari,ferrari,12,Finished,1:33.468,198.279,3336.0,0,64.0
+9,2013,5,hamilton,Hamilton,Lewis,Mercedes,mercedes,10,Finished,1:34.156,196.830,3622.0,0,83.0
+9,2013,6,button,Button,Jenson,McLaren,mclaren,8,Finished,1:34.201,196.736,1032.0,0,15.0
+9,2013,7,webber,Webber,Mark,Red Bull,red_bull,6,Finished,1:34.782,195.530,941.5,0,9.0
+9,2013,8,perez,Pérez,Sergio,McLaren,mclaren,4,Finished,1:36.134,192.780,563.0,0,0.0
+9,2013,9,rosberg,Rosberg,Nico,Mercedes,mercedes,2,Finished,1:34.181,196.778,483.5,0,3.0
+9,2013,10,hulkenberg,Hülkenberg,Nico,Sauber,sauber,1,Finished,1:34.244,196.647,497.0,0,0.0
+9,2013,11,resta,di Resta,Paul,Force India,force_india,0,Finished,1:36.566,191.918,109.0,0,0.0
+9,2013,12,ricciardo,Ricciardo,Daniel,Toro Rosso,toro_rosso,0,Finished,1:35.982,193.086,837.0,0,5.0
+9,2013,13,sutil,Sutil,Adrian,Force India,force_india,0,Finished,1:35.816,193.420,118.0,0,0.0
+9,2013,14,gutierrez,Gutiérrez,Esteban,Sauber,sauber,0,Finished,1:35.792,193.469,0.0,0,0.0
+9,2013,15,maldonado,Maldonado,Pastor,Williams,williams,0,Finished,1:34.293,196.544,46.0,0,1.0
+9,2013,16,bottas,Bottas,Valtteri,Williams,williams,0,+1 Lap,1:33.972,197.216,716.0,0,3.0
+9,2013,17,pic,Pic,Charles,Caterham,caterham,0,+1 Lap,1:37.584,189.916,0.0,0,0.0
+9,2013,18,garde,van der Garde,Giedo,Caterham,caterham,0,+1 Lap,1:38.509,188.133,0.0,0,0.0
+9,2013,19,chilton,Chilton,Max,Marussia,marussia,0,+1 Lap,1:38.383,188.374,0.0,0,0.0
+9,2013,20,vergne,Vergne,Jean-Éric,Toro Rosso,toro_rosso,0,Hydraulics,1:39.281,186.670,29.0,0,0.0
+9,2013,21,jules_bianchi,Bianchi,Jules,Marussia,marussia,0,Engine,1:39.844,185.617,0.0,0,0.0
+9,2013,22,massa,Massa,Felipe,Ferrari,ferrari,0,Spun off,1:38.890,187.408,761.0,0,11.0
+10,2013,1,hamilton,Hamilton,Lewis,Mercedes,mercedes,25,Finished,1:24.647,186.322,3647.0,1,84.0
+10,2013,2,raikkonen,Räikkönen,Kimi,Lotus F1,lotus_f1,18,Finished,1:25.260,184.982,2485.0,0,40.0
+10,2013,3,vettel,Vettel,Sebastian,Red Bull,red_bull,15,Finished,1:24.553,186.529,3651.0,0,77.0
+10,2013,4,webber,Webber,Mark,Red Bull,red_bull,12,Finished,1:24.069,187.603,953.5,0,9.0
+10,2013,5,alonso,Alonso,Fernando,Ferrari,ferrari,10,Finished,1:25.394,184.692,3346.0,0,64.0
+10,2013,6,grosjean,Grosjean,Romain,Lotus F1,lotus_f1,8,Finished,1:25.328,184.834,489.0,0,0.0
+10,2013,7,button,Button,Jenson,McLaren,mclaren,6,Finished,1:26.195,182.975,1038.0,0,15.0
+10,2013,8,massa,Massa,Felipe,Ferrari,ferrari,4,Finished,1:25.176,185.164,765.0,0,11.0
+10,2013,9,perez,Pérez,Sergio,McLaren,mclaren,2,+1 Lap,1:26.143,183.086,565.0,0,0.0
+10,2013,10,maldonado,Maldonado,Pastor,Williams,williams,1,+1 Lap,1:25.597,184.254,47.0,0,1.0
+10,2013,11,hulkenberg,Hülkenberg,Nico,Sauber,sauber,0,+1 Lap,1:26.740,181.826,497.0,0,0.0
+10,2013,12,vergne,Vergne,Jean-Éric,Toro Rosso,toro_rosso,0,+1 Lap,1:26.491,182.349,29.0,0,0.0
+10,2013,13,ricciardo,Ricciardo,Daniel,Toro Rosso,toro_rosso,0,+1 Lap,1:26.863,181.568,837.0,0,5.0
+10,2013,14,garde,van der Garde,Giedo,Caterham,caterham,0,+2 Laps,1:27.473,180.302,0.0,0,0.0
+10,2013,15,pic,Pic,Charles,Caterham,caterham,0,+2 Laps,1:27.725,179.784,0.0,0,0.0
+10,2013,16,jules_bianchi,Bianchi,Jules,Marussia,marussia,0,+3 Laps,1:28.250,178.715,0.0,0,0.0
+10,2013,17,chilton,Chilton,Max,Marussia,marussia,0,+3 Laps,1:28.160,178.897,0.0,0,0.0
+10,2013,18,resta,di Resta,Paul,Force India,force_india,0,Hydraulics,1:26.608,182.103,109.0,0,0.0
+10,2013,19,rosberg,Rosberg,Nico,Mercedes,mercedes,0,Engine,1:25.089,185.354,483.5,0,3.0
+10,2013,20,bottas,Bottas,Valtteri,Williams,williams,0,Hydraulics,1:27.127,181.018,716.0,0,3.0
+10,2013,21,gutierrez,Gutiérrez,Esteban,Sauber,sauber,0,Transmission,1:29.135,176.940,0.0,0,0.0
+10,2013,22,sutil,Sutil,Adrian,Force India,force_india,0,Hydraulics,1:28.548,178.113,118.0,0,0.0
+11,2013,1,vettel,Vettel,Sebastian,Red Bull,red_bull,25,Finished,1:50.756,227.657,3676.0,1,78.0
+11,2013,2,alonso,Alonso,Fernando,Ferrari,ferrari,18,Finished,1:51.383,226.375,3364.0,0,64.0
+11,2013,3,hamilton,Hamilton,Lewis,Mercedes,mercedes,15,Finished,1:51.596,225.943,3662.0,0,84.0
+11,2013,4,rosberg,Rosberg,Nico,Mercedes,mercedes,12,Finished,1:51.582,225.971,495.5,0,3.0
+11,2013,5,webber,Webber,Mark,Red Bull,red_bull,10,Finished,1:51.397,226.347,963.5,0,9.0
+11,2013,6,button,Button,Jenson,McLaren,mclaren,8,Finished,1:50.823,227.519,1046.0,0,15.0
+11,2013,7,massa,Massa,Felipe,Ferrari,ferrari,6,Finished,1:52.182,224.763,771.0,0,11.0
+11,2013,8,grosjean,Grosjean,Romain,Lotus F1,lotus_f1,4,Finished,1:52.497,224.133,493.0,0,0.0
+11,2013,9,sutil,Sutil,Adrian,Force India,force_india,2,Finished,1:52.226,224.675,120.0,0,0.0
+11,2013,10,ricciardo,Ricciardo,Daniel,Toro Rosso,toro_rosso,1,Finished,1:50.967,227.224,838.0,0,5.0
+11,2013,11,perez,Pérez,Sergio,McLaren,mclaren,0,Finished,1:53.472,222.208,565.0,0,0.0
+11,2013,12,vergne,Vergne,Jean-Éric,Toro Rosso,toro_rosso,0,Finished,1:53.065,223.008,29.0,0,0.0
+11,2013,13,hulkenberg,Hülkenberg,Nico,Sauber,sauber,0,Finished,1:53.110,222.919,497.0,0,0.0
+11,2013,14,gutierrez,Gutiérrez,Esteban,Sauber,sauber,0,Finished,1:51.849,225.432,0.0,0,0.0
+11,2013,15,bottas,Bottas,Valtteri,Williams,williams,0,Finished,1:52.688,223.754,716.0,0,3.0
+11,2013,16,garde,van der Garde,Giedo,Caterham,caterham,0,+1 Lap,1:53.995,221.188,0.0,0,0.0
+11,2013,17,maldonado,Maldonado,Pastor,Williams,williams,0,+1 Lap,1:52.579,223.970,47.0,0,1.0
+11,2013,18,jules_bianchi,Bianchi,Jules,Marussia,marussia,0,+1 Lap,1:54.894,219.457,0.0,0,0.0
+11,2013,19,chilton,Chilton,Max,Marussia,marussia,0,+2 Laps,1:54.924,219.400,0.0,0,0.0
+11,2013,20,resta,di Resta,Paul,Force India,force_india,0,Collision,1:54.757,219.719,109.0,0,0.0
+11,2013,21,raikkonen,Räikkönen,Kimi,Lotus F1,lotus_f1,0,Brakes,1:53.688,221.785,2485.0,0,40.0
+11,2013,22,pic,Pic,Charles,Caterham,caterham,0,Oil leak,1:57.330,214.901,0.0,0,0.0
+12,2013,1,vettel,Vettel,Sebastian,Red Bull,red_bull,25,Finished,1:27.190,239.187,3701.0,1,79.0
+12,2013,2,alonso,Alonso,Fernando,Ferrari,ferrari,18,Finished,1:26.797,240.270,3382.0,0,64.0
+12,2013,3,webber,Webber,Mark,Red Bull,red_bull,15,Finished,1:26.690,240.567,978.5,0,9.0
+12,2013,4,massa,Massa,Felipe,Ferrari,ferrari,12,Finished,1:27.095,239.448,783.0,0,11.0
+12,2013,5,hulkenberg,Hülkenberg,Nico,Sauber,sauber,10,Finished,1:26.716,240.495,507.0,0,0.0
+12,2013,6,rosberg,Rosberg,Nico,Mercedes,mercedes,8,Finished,1:26.500,241.095,503.5,0,3.0
+12,2013,7,ricciardo,Ricciardo,Daniel,Toro Rosso,toro_rosso,6,Finished,1:27.294,238.903,844.0,0,5.0
+12,2013,8,grosjean,Grosjean,Romain,Lotus F1,lotus_f1,4,Finished,1:27.043,239.591,497.0,0,0.0
+12,2013,9,hamilton,Hamilton,Lewis,Mercedes,mercedes,2,Finished,1:25.849,242.924,3664.0,0,84.0
+12,2013,10,button,Button,Jenson,McLaren,mclaren,1,Finished,1:27.830,237.445,1047.0,0,15.0
+12,2013,11,raikkonen,Räikkönen,Kimi,Lotus F1,lotus_f1,0,Finished,1:26.948,239.853,2485.0,0,40.0
+12,2013,12,perez,Pérez,Sergio,McLaren,mclaren,0,Finished,1:27.607,238.049,565.0,0,0.0
+12,2013,13,gutierrez,Gutiérrez,Esteban,Sauber,sauber,0,Finished,1:27.092,239.457,0.0,0,0.0
+12,2013,14,maldonado,Maldonado,Pastor,Williams,williams,0,Finished,1:26.981,239.762,47.0,0,1.0
+12,2013,15,bottas,Bottas,Valtteri,Williams,williams,0,Finished,1:27.166,239.253,716.0,0,3.0
+12,2013,16,sutil,Sutil,Adrian,Force India,force_india,0,+1 Lap,1:27.418,238.564,120.0,0,0.0
+12,2013,17,pic,Pic,Charles,Caterham,caterham,0,+1 Lap,1:28.620,235.328,0.0,0,0.0
+12,2013,18,garde,van der Garde,Giedo,Caterham,caterham,0,+1 Lap,1:28.663,235.214,0.0,0,0.0
+12,2013,19,jules_bianchi,Bianchi,Jules,Marussia,marussia,0,+1 Lap,1:29.595,232.767,0.0,0,0.0
+12,2013,20,chilton,Chilton,Max,Marussia,marussia,0,+1 Lap,1:29.491,233.037,0.0,0,0.0
+12,2013,21,vergne,Vergne,Jean-Éric,Toro Rosso,toro_rosso,0,Transmission,1:29.710,232.469,29.0,0,0.0
+12,2013,22,resta,di Resta,Paul,Force India,force_india,0,Accident,,,109.0,0,0.0
+13,2013,1,vettel,Vettel,Sebastian,Red Bull,red_bull,25,Finished,1:48.574,167.940,3726.0,1,80.0
+13,2013,2,alonso,Alonso,Fernando,Ferrari,ferrari,18,Finished,1:51.082,164.149,3400.0,0,64.0
+13,2013,3,raikkonen,Räikkönen,Kimi,Lotus F1,lotus_f1,15,Finished,1:51.140,164.063,2500.0,0,40.0
+13,2013,4,rosberg,Rosberg,Nico,Mercedes,mercedes,12,Finished,1:50.353,165.233,515.5,0,3.0
+13,2013,5,hamilton,Hamilton,Lewis,Mercedes,mercedes,10,Finished,1:49.916,165.890,3674.0,0,84.0
+13,2013,6,massa,Massa,Felipe,Ferrari,ferrari,8,Finished,1:50.509,165.000,791.0,0,11.0
+13,2013,7,button,Button,Jenson,McLaren,mclaren,6,Finished,1:51.740,163.182,1053.0,0,15.0
+13,2013,8,perez,Pérez,Sergio,McLaren,mclaren,4,Finished,1:51.926,162.911,569.0,0,0.0
+13,2013,9,hulkenberg,Hülkenberg,Nico,Sauber,sauber,2,Finished,1:52.186,162.533,509.0,0,0.0
+13,2013,10,sutil,Sutil,Adrian,Force India,force_india,1,Finished,1:49.656,166.283,121.0,0,0.0
+13,2013,11,maldonado,Maldonado,Pastor,Williams,williams,0,Finished,1:50.708,164.703,47.0,0,1.0
+13,2013,12,gutierrez,Gutiérrez,Esteban,Sauber,sauber,0,Finished,1:52.007,162.793,0.0,0,0.0
+13,2013,13,bottas,Bottas,Valtteri,Williams,williams,0,Finished,1:51.706,163.232,716.0,0,3.0
+13,2013,14,vergne,Vergne,Jean-Éric,Toro Rosso,toro_rosso,0,Finished,1:50.328,165.270,29.0,0,0.0
+13,2013,15,webber,Webber,Mark,Red Bull,red_bull,0,Water pressure,1:49.783,166.091,978.5,0,9.0
+13,2013,16,garde,van der Garde,Giedo,Caterham,caterham,0,+1 Lap,1:52.472,162.120,0.0,0,0.0
+13,2013,17,chilton,Chilton,Max,Marussia,marussia,0,+1 Lap,1:53.041,161.304,0.0,0,0.0
+13,2013,18,jules_bianchi,Bianchi,Jules,Marussia,marussia,0,+1 Lap,1:52.898,161.508,0.0,0,0.0
+13,2013,19,pic,Pic,Charles,Caterham,caterham,0,+1 Lap,1:50.990,164.285,0.0,0,0.0
+13,2013,20,resta,di Resta,Paul,Force India,force_india,0,Accident,1:50.739,164.657,109.0,0,0.0
+13,2013,21,grosjean,Grosjean,Romain,Lotus F1,lotus_f1,0,Pneumatics,1:51.097,164.126,497.0,0,0.0
+13,2013,22,ricciardo,Ricciardo,Daniel,Toro Rosso,toro_rosso,0,Accident,1:53.052,161.288,844.0,0,5.0
+14,2013,1,vettel,Vettel,Sebastian,Red Bull,red_bull,25,Finished,1:41.380,199.388,3751.0,1,81.0
+14,2013,2,raikkonen,Räikkönen,Kimi,Lotus F1,lotus_f1,18,Finished,1:41.975,198.225,2518.0,0,40.0
+14,2013,3,grosjean,Grosjean,Romain,Lotus F1,lotus_f1,15,Finished,1:41.936,198.300,512.0,0,0.0
+14,2013,4,hulkenberg,Hülkenberg,Nico,Sauber,sauber,12,Finished,1:42.608,197.002,521.0,0,0.0
+14,2013,5,hamilton,Hamilton,Lewis,Mercedes,mercedes,10,Finished,1:42.539,197.134,3684.0,0,84.0
+14,2013,6,alonso,Alonso,Fernando,Ferrari,ferrari,8,Finished,1:42.709,196.808,3408.0,0,64.0
+14,2013,7,rosberg,Rosberg,Nico,Mercedes,mercedes,6,Finished,1:42.471,197.265,521.5,0,3.0
+14,2013,8,button,Button,Jenson,McLaren,mclaren,4,Finished,1:43.073,196.113,1057.0,0,15.0
+14,2013,9,massa,Massa,Felipe,Ferrari,ferrari,2,Finished,1:42.954,196.340,793.0,0,11.0
+14,2013,10,perez,Pérez,Sergio,McLaren,mclaren,1,Finished,1:42.973,196.303,570.0,0,0.0
+14,2013,11,gutierrez,Gutiérrez,Esteban,Sauber,sauber,0,Finished,1:42.744,196.741,0.0,0,0.0
+14,2013,12,bottas,Bottas,Valtteri,Williams,williams,0,Finished,1:43.869,194.610,716.0,0,3.0
+14,2013,13,maldonado,Maldonado,Pastor,Williams,williams,0,Finished,1:44.136,194.111,47.0,0,1.0
+14,2013,14,pic,Pic,Charles,Caterham,caterham,0,Finished,1:44.477,193.477,0.0,0,0.0
+14,2013,15,garde,van der Garde,Giedo,Caterham,caterham,0,Finished,1:44.375,193.667,0.0,0,0.0
+14,2013,16,jules_bianchi,Bianchi,Jules,Marussia,marussia,0,Finished,1:44.991,192.530,0.0,0,0.0
+14,2013,17,chilton,Chilton,Max,Marussia,marussia,0,Finished,1:45.408,191.769,0.0,0,0.0
+14,2013,18,vergne,Vergne,Jean-Éric,Toro Rosso,toro_rosso,0,+2 Laps,1:44.090,194.197,29.0,0,0.0
+14,2013,19,ricciardo,Ricciardo,Daniel,Toro Rosso,toro_rosso,0,+3 Laps,1:42.947,196.353,844.0,0,5.0
+14,2013,20,sutil,Sutil,Adrian,Force India,force_india,0,Collision,1:44.095,194.188,121.0,0,0.0
+14,2013,21,webber,Webber,Mark,Red Bull,red_bull,0,Collision,1:43.863,194.621,978.5,0,9.0
+14,2013,22,resta,di Resta,Paul,Force India,force_india,0,Spun off,1:46.411,189.961,109.0,0,0.0
+15,2013,1,vettel,Vettel,Sebastian,Red Bull,red_bull,25,Finished,1:35.317,219.322,3776.0,1,82.0
+15,2013,2,webber,Webber,Mark,Red Bull,red_bull,18,Finished,1:34.587,221.015,996.5,0,9.0
+15,2013,3,grosjean,Grosjean,Romain,Lotus F1,lotus_f1,15,Finished,1:35.991,217.782,527.0,0,0.0
+15,2013,4,alonso,Alonso,Fernando,Ferrari,ferrari,12,Finished,1:35.877,218.041,3420.0,0,64.0
+15,2013,5,raikkonen,Räikkönen,Kimi,Lotus F1,lotus_f1,10,Finished,1:35.516,218.865,2528.0,0,40.0
+15,2013,6,hulkenberg,Hülkenberg,Nico,Sauber,sauber,8,Finished,1:36.482,216.674,529.0,0,0.0
+15,2013,7,gutierrez,Gutiérrez,Esteban,Sauber,sauber,6,Finished,1:36.499,216.636,6.0,0,0.0
+15,2013,8,rosberg,Rosberg,Nico,Mercedes,mercedes,4,Finished,1:34.650,220.868,525.5,0,3.0
+15,2013,9,button,Button,Jenson,McLaren,mclaren,2,Finished,1:35.549,218.790,1059.0,0,15.0
+15,2013,10,massa,Massa,Felipe,Ferrari,ferrari,1,Finished,1:37.001,215.515,794.0,0,11.0
+15,2013,11,resta,di Resta,Paul,Force India,force_india,0,Finished,1:37.407,214.617,109.0,0,0.0
+15,2013,12,vergne,Vergne,Jean-Éric,Toro Rosso,toro_rosso,0,+1 Lap,1:35.895,218.000,29.0,0,0.0
+15,2013,13,ricciardo,Ricciardo,Daniel,Toro Rosso,toro_rosso,0,+1 Lap,1:35.020,220.008,844.0,0,5.0
+15,2013,14,sutil,Sutil,Adrian,Force India,force_india,0,+1 Lap,1:37.367,214.705,121.0,0,0.0
+15,2013,15,perez,Pérez,Sergio,McLaren,mclaren,0,+1 Lap,1:35.845,218.114,570.0,0,0.0
+15,2013,16,maldonado,Maldonado,Pastor,Williams,williams,0,+1 Lap,1:37.423,214.581,47.0,0,1.0
+15,2013,17,bottas,Bottas,Valtteri,Williams,williams,0,+1 Lap,1:37.856,213.632,716.0,0,3.0
+15,2013,18,pic,Pic,Charles,Caterham,caterham,0,+1 Lap,1:37.489,214.436,0.0,0,0.0
+15,2013,19,chilton,Chilton,Max,Marussia,marussia,0,+1 Lap,1:38.713,211.777,0.0,0,0.0
+15,2013,20,hamilton,Hamilton,Lewis,Mercedes,mercedes,0,Puncture,1:41.202,206.569,3684.0,0,84.0
+15,2013,21,garde,van der Garde,Giedo,Caterham,caterham,0,Accident,,,0.0,0,0.0
+15,2013,22,jules_bianchi,Bianchi,Jules,Marussia,marussia,0,Accident,,,0.0,0,0.0
+16,2013,1,vettel,Vettel,Sebastian,Red Bull,red_bull,25,Finished,1:28.116,209.383,3801.0,1,83.0
+16,2013,2,rosberg,Rosberg,Nico,Mercedes,mercedes,18,Finished,1:28.816,207.732,543.5,0,3.0
+16,2013,3,grosjean,Grosjean,Romain,Lotus F1,lotus_f1,15,Finished,1:28.796,207.779,542.0,0,0.0
+16,2013,4,massa,Massa,Felipe,Ferrari,ferrari,12,Finished,1:28.886,207.569,806.0,0,11.0
+16,2013,5,perez,Pérez,Sergio,McLaren,mclaren,10,Finished,1:28.503,208.467,580.0,0,0.0
+16,2013,6,hamilton,Hamilton,Lewis,Mercedes,mercedes,8,Finished,1:29.052,207.182,3692.0,0,84.0
+16,2013,7,raikkonen,Räikkönen,Kimi,Lotus F1,lotus_f1,6,Finished,1:27.679,210.426,2534.0,0,40.0
+16,2013,8,resta,di Resta,Paul,Force India,force_india,4,Finished,1:29.300,206.606,113.0,0,0.0
+16,2013,9,sutil,Sutil,Adrian,Force India,force_india,2,Finished,1:28.419,208.665,123.0,0,0.0
+16,2013,10,ricciardo,Ricciardo,Daniel,Toro Rosso,toro_rosso,1,Finished,1:28.831,207.697,845.0,0,5.0
+16,2013,11,alonso,Alonso,Fernando,Ferrari,ferrari,0,Finished,1:28.709,207.983,3420.0,0,64.0
+16,2013,12,maldonado,Maldonado,Pastor,Williams,williams,0,Finished,1:29.012,207.275,47.0,0,1.0
+16,2013,13,vergne,Vergne,Jean-Éric,Toro Rosso,toro_rosso,0,+1 Lap,1:29.280,206.653,29.0,0,0.0
+16,2013,14,button,Button,Jenson,McLaren,mclaren,0,+1 Lap,1:28.814,207.737,1059.0,0,15.0
+16,2013,15,gutierrez,Gutiérrez,Esteban,Sauber,sauber,0,+1 Lap,1:28.682,208.046,6.0,0,0.0
+16,2013,16,bottas,Bottas,Valtteri,Williams,williams,0,+1 Lap,1:28.928,207.471,716.0,0,3.0
+16,2013,17,chilton,Chilton,Max,Marussia,marussia,0,+2 Laps,1:30.335,204.239,0.0,0,0.0
+16,2013,18,jules_bianchi,Bianchi,Jules,Marussia,marussia,0,+2 Laps,1:30.171,204.611,0.0,0,0.0
+16,2013,19,hulkenberg,Hülkenberg,Nico,Sauber,sauber,0,Mechanical,1:28.947,207.426,529.0,0,0.0
+16,2013,20,webber,Webber,Mark,Red Bull,red_bull,0,Alternator,1:29.500,206.145,996.5,0,9.0
+16,2013,21,pic,Pic,Charles,Caterham,caterham,0,Hydraulics,1:32.907,198.585,0.0,0,0.0
+16,2013,22,garde,van der Garde,Giedo,Caterham,caterham,0,Collision,,,0.0,0,0.0
+17,2013,1,vettel,Vettel,Sebastian,Red Bull,red_bull,25,Finished,1:43.893,192.451,3826.0,1,84.0
+17,2013,2,webber,Webber,Mark,Red Bull,red_bull,18,Finished,1:44.364,191.583,1014.5,0,9.0
+17,2013,3,rosberg,Rosberg,Nico,Mercedes,mercedes,15,Finished,1:44.458,191.410,558.5,0,3.0
+17,2013,4,grosjean,Grosjean,Romain,Lotus F1,lotus_f1,12,Finished,1:44.301,191.699,554.0,0,0.0
+17,2013,5,alonso,Alonso,Fernando,Ferrari,ferrari,10,Finished,1:43.434,193.305,3430.0,0,64.0
+17,2013,6,resta,di Resta,Paul,Force India,force_india,8,Finished,1:45.786,189.007,121.0,0,0.0
+17,2013,7,hamilton,Hamilton,Lewis,Mercedes,mercedes,6,Finished,1:45.463,189.586,3698.0,0,84.0
+17,2013,8,massa,Massa,Felipe,Ferrari,ferrari,4,Finished,1:45.447,189.615,810.0,0,11.0
+17,2013,9,perez,Pérez,Sergio,McLaren,mclaren,2,Finished,1:45.435,189.637,582.0,0,0.0
+17,2013,10,sutil,Sutil,Adrian,Force India,force_india,1,Finished,1:45.609,189.324,124.0,0,0.0
+17,2013,11,maldonado,Maldonado,Pastor,Williams,williams,0,Finished,1:45.530,189.466,47.0,0,1.0
+17,2013,12,button,Button,Jenson,McLaren,mclaren,0,Finished,1:46.336,188.030,1059.0,0,15.0
+17,2013,13,gutierrez,Gutiérrez,Esteban,Sauber,sauber,0,Finished,1:45.974,188.672,6.0,0,0.0
+17,2013,14,hulkenberg,Hülkenberg,Nico,Sauber,sauber,0,+1 Lap,1:45.570,189.394,529.0,0,0.0
+17,2013,15,bottas,Bottas,Valtteri,Williams,williams,0,+1 Lap,1:44.351,191.607,716.0,0,3.0
+17,2013,16,ricciardo,Ricciardo,Daniel,Toro Rosso,toro_rosso,0,+1 Lap,1:46.042,188.551,845.0,0,5.0
+17,2013,17,vergne,Vergne,Jean-Éric,Toro Rosso,toro_rosso,0,+1 Lap,1:44.517,191.302,29.0,0,0.0
+17,2013,18,garde,van der Garde,Giedo,Caterham,caterham,0,+1 Lap,1:46.592,187.578,0.0,0,0.0
+17,2013,19,pic,Pic,Charles,Caterham,caterham,0,+1 Lap,1:46.432,187.860,0.0,0,0.0
+17,2013,20,jules_bianchi,Bianchi,Jules,Marussia,marussia,0,+2 Laps,1:47.619,185.788,0.0,0,0.0
+17,2013,21,chilton,Chilton,Max,Marussia,marussia,0,+2 Laps,1:47.707,185.636,0.0,0,0.0
+17,2013,22,raikkonen,Räikkönen,Kimi,Lotus F1,lotus_f1,0,Accident,,,2534.0,0,40.0
+18,2013,1,vettel,Vettel,Sebastian,Red Bull,red_bull,25,Finished,1:39.856,198.754,3851.0,1,85.0
+18,2013,2,grosjean,Grosjean,Romain,Lotus F1,lotus_f1,18,Finished,1:40.445,197.588,572.0,0,0.0
+18,2013,3,webber,Webber,Mark,Red Bull,red_bull,15,Finished,1:40.591,197.301,1029.5,0,9.0
+18,2013,4,hamilton,Hamilton,Lewis,Mercedes,mercedes,12,Finished,1:40.818,196.857,3710.0,0,84.0
+18,2013,5,alonso,Alonso,Fernando,Ferrari,ferrari,10,Finished,1:41.186,196.141,3440.0,0,64.0
+18,2013,6,hulkenberg,Hülkenberg,Nico,Sauber,sauber,8,Finished,1:40.952,196.596,537.0,0,0.0
+18,2013,7,perez,Pérez,Sergio,McLaren,mclaren,6,Finished,1:41.830,194.901,588.0,0,0.0
+18,2013,8,bottas,Bottas,Valtteri,Williams,williams,4,Finished,1:40.492,197.496,720.0,0,3.0
+18,2013,9,rosberg,Rosberg,Nico,Mercedes,mercedes,2,Finished,1:41.133,196.244,560.5,0,3.0
+18,2013,10,button,Button,Jenson,McLaren,mclaren,1,Finished,1:41.285,195.950,1060.0,0,15.0
+18,2013,11,ricciardo,Ricciardo,Daniel,Toro Rosso,toro_rosso,0,Finished,1:42.119,194.349,845.0,0,5.0
+18,2013,12,vergne,Vergne,Jean-Éric,Toro Rosso,toro_rosso,0,Finished,1:41.320,195.882,29.0,0,0.0
+18,2013,13,massa,Massa,Felipe,Ferrari,ferrari,0,Finished,1:41.209,196.097,810.0,0,11.0
+18,2013,14,gutierrez,Gutiérrez,Esteban,Sauber,sauber,0,Finished,1:41.401,195.725,6.0,0,0.0
+18,2013,15,kovalainen,Kovalainen,Heikki,Lotus F1,lotus_f1,0,Finished,1:41.028,196.448,105.0,0,1.0
+18,2013,16,resta,di Resta,Paul,Force India,force_india,0,Finished,1:41.148,196.215,121.0,0,0.0
+18,2013,17,maldonado,Maldonado,Pastor,Williams,williams,0,+1 Lap,1:43.058,192.578,47.0,0,1.0
+18,2013,18,jules_bianchi,Bianchi,Jules,Marussia,marussia,0,+1 Lap,1:43.419,191.906,0.0,0,0.0
+18,2013,19,garde,van der Garde,Giedo,Caterham,caterham,0,+1 Lap,1:43.933,190.957,0.0,0,0.0
+18,2013,20,pic,Pic,Charles,Caterham,caterham,0,+1 Lap,1:43.968,190.893,0.0,0,0.0
+18,2013,21,chilton,Chilton,Max,Marussia,marussia,0,+2 Laps,1:43.775,191.248,0.0,0,0.0
+18,2013,22,sutil,Sutil,Adrian,Force India,force_india,0,Accident,,,124.0,0,0.0
+19,2013,1,vettel,Vettel,Sebastian,Red Bull,red_bull,25,Finished,1:15.624,205.125,3876.0,1,86.0
+19,2013,2,webber,Webber,Mark,Red Bull,red_bull,18,Finished,1:15.436,205.636,1047.5,0,9.0
+19,2013,3,alonso,Alonso,Fernando,Ferrari,ferrari,15,Finished,1:15.496,205.473,3455.0,0,64.0
+19,2013,4,button,Button,Jenson,McLaren,mclaren,12,Finished,1:16.450,202.909,1072.0,0,15.0
+19,2013,5,rosberg,Rosberg,Nico,Mercedes,mercedes,10,Finished,1:16.442,202.930,570.5,0,3.0
+19,2013,6,perez,Pérez,Sergio,McLaren,mclaren,8,Finished,1:16.246,203.451,596.0,0,0.0
+19,2013,7,massa,Massa,Felipe,Ferrari,ferrari,6,Finished,1:16.470,202.856,816.0,0,11.0
+19,2013,8,hulkenberg,Hülkenberg,Nico,Sauber,sauber,4,Finished,1:16.802,201.979,541.0,0,0.0
+19,2013,9,hamilton,Hamilton,Lewis,Mercedes,mercedes,2,Finished,1:16.692,202.268,3712.0,0,84.0
+19,2013,10,ricciardo,Ricciardo,Daniel,Toro Rosso,toro_rosso,1,+1 Lap,1:16.974,201.527,846.0,0,5.0
+19,2013,11,resta,di Resta,Paul,Force India,force_india,0,+1 Lap,1:16.855,201.839,121.0,0,0.0
+19,2013,12,gutierrez,Gutiérrez,Esteban,Sauber,sauber,0,+1 Lap,1:16.528,202.702,6.0,0,0.0
+19,2013,13,sutil,Sutil,Adrian,Force India,force_india,0,+1 Lap,1:16.049,203.979,124.0,0,0.0
+19,2013,14,kovalainen,Kovalainen,Heikki,Lotus F1,lotus_f1,0,+1 Lap,1:17.249,200.810,105.0,0,1.0
+19,2013,15,vergne,Vergne,Jean-Éric,Toro Rosso,toro_rosso,0,+1 Lap,1:16.790,202.010,29.0,0,0.0
+19,2013,16,maldonado,Maldonado,Pastor,Williams,williams,0,+1 Lap,1:17.554,200.020,47.0,0,1.0
+19,2013,17,jules_bianchi,Bianchi,Jules,Marussia,marussia,0,+2 Laps,1:17.717,199.601,0.0,0,0.0
+19,2013,18,garde,van der Garde,Giedo,Caterham,caterham,0,+2 Laps,1:17.590,199.927,0.0,0,0.0
+19,2013,19,chilton,Chilton,Max,Marussia,marussia,0,+2 Laps,1:17.281,200.727,0.0,0,0.0
+19,2013,20,pic,Pic,Charles,Caterham,caterham,0,Mechanical,1:18.434,197.776,0.0,0,0.0
+19,2013,21,bottas,Bottas,Valtteri,Williams,williams,0,Accident,1:16.840,201.879,720.0,0,3.0
+19,2013,22,grosjean,Grosjean,Romain,Lotus F1,lotus_f1,0,Engine,1:20.898,191.752,572.0,0,0.0

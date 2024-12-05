@@ -1,0 +1,341 @@
+Race ID,Year,Position,Driver ID,Last Name,First Name,Constructor,Constructor ID,Points,Status,Fastest Lap Time,Fastest Lap Avg Speed (kph),Total Points,Wins,Total Wins
+1,2009,1,button,Button,Jenson,Brawn,brawn,10.0,Finished,1:28.020,216.891,242.0,1,2.0
+1,2009,2,barrichello,Barrichello,Rubens,Brawn,brawn,8.0,Finished,1:29.066,214.344,461.0,0,9.0
+1,2009,3,trulli,Trulli,Jarno,Toyota,toyota,6.0,Finished,1:28.916,214.706,209.0,0,1.0
+1,2009,4,glock,Glock,Timo,Toyota,toyota,5.0,Finished,1:28.416,215.920,32.0,0,0.0
+1,2009,5,alonso,Alonso,Fernando,Renault,renault,4.0,Finished,1:28.712,215.199,2404.0,0,53.0
+1,2009,6,rosberg,Rosberg,Nico,Williams,williams,3.0,Finished,1:27.706,217.668,44.0,0,0.0
+1,2009,7,buemi,Buemi,Sébastien,Toro Rosso,toro_rosso,2.0,Finished,1:29.230,213.950,2.0,0,0.0
+1,2009,8,bourdais,Bourdais,Sébastien,Toro Rosso,toro_rosso,1.0,Finished,1:29.823,212.537,5.0,0,0.0
+1,2009,9,sutil,Sutil,Adrian,Force India,force_india,0.0,Finished,1:28.943,214.640,1.0,0,0.0
+1,2009,10,heidfeld,Heidfeld,Nick,BMW Sauber,bmw_sauber,0.0,Finished,1:28.283,216.245,200.0,0,0.0
+1,2009,11,fisichella,Fisichella,Giancarlo,Force India,force_india,0.0,Finished,1:29.005,214.491,218.0,0,3.0
+1,2009,12,webber,Webber,Mark,Red Bull,red_bull,0.0,+1 Lap,1:28.508,215.695,100.0,0,0.0
+1,2009,13,vettel,Vettel,Sebastian,Red Bull,red_bull,0.0,Collision,1:28.140,216.596,2466.0,0,48.0
+1,2009,14,kubica,Kubica,Robert,BMW Sauber,bmw_sauber,0.0,Collision,1:27.988,216.970,120.0,0,1.0
+1,2009,15,raikkonen,Räikkönen,Kimi,Ferrari,ferrari,0.0,Differential,1:28.488,215.744,2096.0,0,37.0
+1,2009,16,massa,Massa,Felipe,Ferrari,ferrari,0.0,Suspension,1:29.141,214.164,298.0,0,11.0
+1,2009,17,piquet_jr,Piquet Jr.,Nelson,Renault,renault,0.0,Spun off,1:30.502,210.943,19.0,0,0.0
+1,2009,18,nakajima,Nakajima,Kazuki,Williams,williams,0.0,Accident,1:29.923,212.301,9.0,0,0.0
+1,2009,19,kovalainen,Kovalainen,Heikki,McLaren,mclaren,0.0,Collision,,,83.0,0,1.0
+1,2009,20,hamilton,Hamilton,Lewis,McLaren,mclaren,0.0,Disqualified,1:29.020,214.455,2817.0,0,71.0
+2,2009,1,button,Button,Jenson,Brawn,brawn,5.0,Finished,1:36.641,206.483,247.0,1,3.0
+2,2009,2,heidfeld,Heidfeld,Nick,BMW Sauber,bmw_sauber,4.0,Finished,1:39.084,201.392,204.0,0,0.0
+2,2009,3,glock,Glock,Timo,Toyota,toyota,3.0,Finished,1:39.406,200.740,35.0,0,0.0
+2,2009,4,trulli,Trulli,Jarno,Toyota,toyota,2.5,Finished,1:37.591,204.473,211.5,0,1.0
+2,2009,5,barrichello,Barrichello,Rubens,Brawn,brawn,2.0,Finished,1:37.484,204.698,463.0,0,9.0
+2,2009,6,webber,Webber,Mark,Red Bull,red_bull,1.5,Finished,1:37.672,204.304,101.5,0,0.0
+2,2009,7,hamilton,Hamilton,Lewis,McLaren,mclaren,1.0,Finished,1:39.141,201.276,2818.0,0,71.0
+2,2009,8,rosberg,Rosberg,Nico,Williams,williams,0.5,Finished,1:37.598,204.459,44.5,0,0.0
+2,2009,9,massa,Massa,Felipe,Ferrari,ferrari,0.0,Finished,1:39.250,201.055,298.0,0,11.0
+2,2009,10,bourdais,Bourdais,Sébastien,Toro Rosso,toro_rosso,0.0,Finished,1:39.242,201.072,5.0,0,0.0
+2,2009,11,alonso,Alonso,Fernando,Renault,renault,0.0,+1 Lap,1:39.006,201.551,2404.0,0,53.0
+2,2009,12,nakajima,Nakajima,Kazuki,Williams,williams,0.0,+1 Lap,1:39.387,200.778,9.0,0,0.0
+2,2009,13,piquet_jr,Piquet Jr.,Nelson,Renault,renault,0.0,+1 Lap,1:39.268,201.019,19.0,0,0.0
+2,2009,14,raikkonen,Räikkönen,Kimi,Ferrari,ferrari,0.0,+1 Lap,1:38.453,202.683,2096.0,0,37.0
+2,2009,15,vettel,Vettel,Sebastian,Red Bull,red_bull,0.0,Spun off,1:38.427,202.737,2466.0,0,48.0
+2,2009,16,buemi,Buemi,Sébastien,Toro Rosso,toro_rosso,0.0,Spun off,1:38.938,201.689,2.0,0,0.0
+2,2009,17,sutil,Sutil,Adrian,Force India,force_india,0.0,+1 Lap,1:39.464,200.623,1.0,0,0.0
+2,2009,18,fisichella,Fisichella,Giancarlo,Force India,force_india,0.0,Spun off,1:39.407,200.738,218.0,0,3.0
+2,2009,19,kubica,Kubica,Robert,BMW Sauber,bmw_sauber,0.0,Engine,,,120.0,0,1.0
+2,2009,20,kovalainen,Kovalainen,Heikki,McLaren,mclaren,0.0,Spun off,,,83.0,0,1.0
+3,2009,1,vettel,Vettel,Sebastian,Red Bull,red_bull,10.0,Finished,1:52.627,174.235,2476.0,1,49.0
+3,2009,2,webber,Webber,Mark,Red Bull,red_bull,8.0,Finished,1:52.980,173.690,109.5,0,0.0
+3,2009,3,button,Button,Jenson,Brawn,brawn,6.0,Finished,1:53.546,172.825,253.0,0,3.0
+3,2009,4,barrichello,Barrichello,Rubens,Brawn,brawn,5.0,Finished,1:52.592,174.289,468.0,0,9.0
+3,2009,5,kovalainen,Kovalainen,Heikki,McLaren,mclaren,4.0,Finished,1:54.516,171.361,87.0,0,1.0
+3,2009,6,hamilton,Hamilton,Lewis,McLaren,mclaren,3.0,Finished,1:54.665,171.138,2821.0,0,71.0
+3,2009,7,glock,Glock,Timo,Toyota,toyota,2.0,Finished,1:52.703,174.117,37.0,0,0.0
+3,2009,8,buemi,Buemi,Sébastien,Toro Rosso,toro_rosso,1.0,Finished,1:54.590,171.250,3.0,0,0.0
+3,2009,9,alonso,Alonso,Fernando,Renault,renault,0.0,Finished,1:54.481,171.413,2404.0,0,53.0
+3,2009,10,raikkonen,Räikkönen,Kimi,Ferrari,ferrari,0.0,Finished,1:55.396,170.054,2096.0,0,37.0
+3,2009,11,bourdais,Bourdais,Sébastien,Toro Rosso,toro_rosso,0.0,Finished,1:53.474,172.934,5.0,0,0.0
+3,2009,12,heidfeld,Heidfeld,Nick,BMW Sauber,bmw_sauber,0.0,Finished,1:54.158,171.898,204.0,0,0.0
+3,2009,13,kubica,Kubica,Robert,BMW Sauber,bmw_sauber,0.0,Finished,1:55.350,170.122,120.0,0,1.0
+3,2009,14,fisichella,Fisichella,Giancarlo,Force India,force_india,0.0,+1 Lap,1:56.239,168.821,218.0,0,3.0
+3,2009,15,rosberg,Rosberg,Nico,Williams,williams,0.0,+1 Lap,1:54.243,171.770,44.5,0,0.0
+3,2009,16,piquet_jr,Piquet Jr.,Nelson,Renault,renault,0.0,+2 Laps,1:55.535,169.849,19.0,0,0.0
+3,2009,17,sutil,Sutil,Adrian,Force India,force_india,0.0,Spun off,1:54.777,170.971,1.0,0,0.0
+3,2009,18,nakajima,Nakajima,Kazuki,Williams,williams,0.0,Retired,1:56.167,168.925,9.0,0,0.0
+3,2009,19,massa,Massa,Felipe,Ferrari,ferrari,0.0,Electronics,1:56.484,168.466,298.0,0,11.0
+3,2009,20,trulli,Trulli,Jarno,Toyota,toyota,0.0,Collision,2:00.330,163.081,211.5,0,1.0
+4,2009,1,button,Button,Jenson,Brawn,brawn,10.0,Finished,1:34.588,205.979,263.0,1,4.0
+4,2009,2,vettel,Vettel,Sebastian,Red Bull,red_bull,8.0,Finished,1:34.756,205.614,2484.0,0,49.0
+4,2009,3,trulli,Trulli,Jarno,Toyota,toyota,6.0,Finished,1:34.556,206.049,217.5,0,1.0
+4,2009,4,hamilton,Hamilton,Lewis,McLaren,mclaren,5.0,Finished,1:34.915,205.269,2826.0,0,71.0
+4,2009,5,barrichello,Barrichello,Rubens,Brawn,brawn,4.0,Finished,1:34.901,205.300,472.0,0,9.0
+4,2009,6,raikkonen,Räikkönen,Kimi,Ferrari,ferrari,3.0,Finished,1:35.498,204.016,2099.0,0,37.0
+4,2009,7,glock,Glock,Timo,Toyota,toyota,2.0,Finished,1:34.574,206.010,39.0,0,0.0
+4,2009,8,alonso,Alonso,Fernando,Renault,renault,1.0,Finished,1:35.722,203.539,2405.0,0,53.0
+4,2009,9,rosberg,Rosberg,Nico,Williams,williams,0.0,Finished,1:35.816,203.339,44.5,0,0.0
+4,2009,10,piquet_jr,Piquet Jr.,Nelson,Renault,renault,0.0,Finished,1:35.441,204.138,19.0,0,0.0
+4,2009,11,webber,Webber,Mark,Red Bull,red_bull,0.0,Finished,1:35.165,204.730,109.5,0,0.0
+4,2009,12,kovalainen,Kovalainen,Heikki,McLaren,mclaren,0.0,Finished,1:35.520,203.969,87.0,0,1.0
+4,2009,13,bourdais,Bourdais,Sébastien,Toro Rosso,toro_rosso,0.0,Finished,1:35.410,204.205,5.0,0,0.0
+4,2009,14,massa,Massa,Felipe,Ferrari,ferrari,0.0,+1 Lap,1:35.065,204.946,298.0,0,11.0
+4,2009,15,fisichella,Fisichella,Giancarlo,Force India,force_india,0.0,+1 Lap,1:36.376,202.158,218.0,0,3.0
+4,2009,16,sutil,Sutil,Adrian,Force India,force_india,0.0,+1 Lap,1:36.219,202.488,1.0,0,0.0
+4,2009,17,buemi,Buemi,Sébastien,Toro Rosso,toro_rosso,0.0,+1 Lap,1:36.473,201.954,3.0,0,0.0
+4,2009,18,kubica,Kubica,Robert,BMW Sauber,bmw_sauber,0.0,+1 Lap,1:35.706,203.573,120.0,0,1.0
+4,2009,19,heidfeld,Heidfeld,Nick,BMW Sauber,bmw_sauber,0.0,+1 Lap,1:35.924,203.110,204.0,0,0.0
+4,2009,20,nakajima,Nakajima,Kazuki,Williams,williams,0.0,Oil pressure,1:36.153,202.627,9.0,0,0.0
+5,2009,1,button,Button,Jenson,Brawn,brawn,10.0,Finished,1:22.899,202.149,273.0,1,5.0
+5,2009,2,barrichello,Barrichello,Rubens,Brawn,brawn,8.0,Finished,1:22.762,202.484,480.0,0,9.0
+5,2009,3,webber,Webber,Mark,Red Bull,red_bull,6.0,Finished,1:23.112,201.631,115.5,0,0.0
+5,2009,4,vettel,Vettel,Sebastian,Red Bull,red_bull,5.0,Finished,1:23.090,201.684,2489.0,0,49.0
+5,2009,5,alonso,Alonso,Fernando,Renault,renault,4.0,Finished,1:23.420,200.887,2409.0,0,53.0
+5,2009,6,massa,Massa,Felipe,Ferrari,ferrari,3.0,Finished,1:23.089,201.687,301.0,0,11.0
+5,2009,7,heidfeld,Heidfeld,Nick,BMW Sauber,bmw_sauber,2.0,Finished,1:23.878,199.790,206.0,0,0.0
+5,2009,8,rosberg,Rosberg,Nico,Williams,williams,1.0,Finished,1:23.621,200.404,45.5,0,0.0
+5,2009,9,hamilton,Hamilton,Lewis,McLaren,mclaren,0.0,+1 Lap,1:23.839,199.883,2826.0,0,71.0
+5,2009,10,glock,Glock,Timo,Toyota,toyota,0.0,+1 Lap,1:24.134,199.182,39.0,0,0.0
+5,2009,11,kubica,Kubica,Robert,BMW Sauber,bmw_sauber,0.0,+1 Lap,1:24.078,199.314,120.0,0,1.0
+5,2009,12,piquet_jr,Piquet Jr.,Nelson,Renault,renault,0.0,+1 Lap,1:24.286,198.823,19.0,0,0.0
+5,2009,13,nakajima,Nakajima,Kazuki,Williams,williams,0.0,+1 Lap,1:24.155,199.132,9.0,0,0.0
+5,2009,14,fisichella,Fisichella,Giancarlo,Force India,force_india,0.0,+1 Lap,1:23.796,199.985,218.0,0,3.0
+5,2009,15,raikkonen,Räikkönen,Kimi,Ferrari,ferrari,0.0,Hydraulics,1:24.490,198.342,2099.0,0,37.0
+5,2009,16,kovalainen,Kovalainen,Heikki,McLaren,mclaren,0.0,Gearbox,1:28.719,188.888,87.0,0,1.0
+5,2009,17,trulli,Trulli,Jarno,Toyota,toyota,0.0,Collision,,,217.5,0,1.0
+5,2009,18,buemi,Buemi,Sébastien,Toro Rosso,toro_rosso,0.0,Collision,,,3.0,0,0.0
+5,2009,19,bourdais,Bourdais,Sébastien,Toro Rosso,toro_rosso,0.0,Collision,,,5.0,0,0.0
+5,2009,20,sutil,Sutil,Adrian,Force India,force_india,0.0,Collision,,,1.0,0,0.0
+6,2009,1,button,Button,Jenson,Brawn,brawn,10.0,Finished,1:15.190,159.914,283.0,1,6.0
+6,2009,2,barrichello,Barrichello,Rubens,Brawn,brawn,8.0,Finished,1:15.685,158.868,488.0,0,9.0
+6,2009,3,raikkonen,Räikkönen,Kimi,Ferrari,ferrari,6.0,Finished,1:15.382,159.507,2105.0,0,37.0
+6,2009,4,massa,Massa,Felipe,Ferrari,ferrari,5.0,Finished,1:15.154,159.991,306.0,0,11.0
+6,2009,5,webber,Webber,Mark,Red Bull,red_bull,4.0,Finished,1:15.321,159.636,119.5,0,0.0
+6,2009,6,rosberg,Rosberg,Nico,Williams,williams,3.0,Finished,1:15.772,158.686,48.5,0,0.0
+6,2009,7,alonso,Alonso,Fernando,Renault,renault,2.0,Finished,1:15.371,159.530,2411.0,0,53.0
+6,2009,8,bourdais,Bourdais,Sébastien,Toro Rosso,toro_rosso,1.0,Finished,1:16.178,157.840,6.0,0,0.0
+6,2009,9,fisichella,Fisichella,Giancarlo,Force India,force_india,0.0,Finished,1:16.419,157.343,218.0,0,3.0
+6,2009,10,glock,Glock,Timo,Toyota,toyota,0.0,+1 Lap,1:16.066,158.073,39.0,0,0.0
+6,2009,11,heidfeld,Heidfeld,Nick,BMW Sauber,bmw_sauber,0.0,+1 Lap,1:16.268,157.654,206.0,0,0.0
+6,2009,12,hamilton,Hamilton,Lewis,McLaren,mclaren,0.0,+1 Lap,1:15.706,158.824,2826.0,0,71.0
+6,2009,13,trulli,Trulli,Jarno,Toyota,toyota,0.0,+1 Lap,1:16.011,158.187,217.5,0,1.0
+6,2009,14,sutil,Sutil,Adrian,Force India,force_india,0.0,+1 Lap,1:16.245,157.702,1.0,0,0.0
+6,2009,15,nakajima,Nakajima,Kazuki,Williams,williams,0.0,Accident,1:15.792,158.644,9.0,0,0.0
+6,2009,16,kovalainen,Kovalainen,Heikki,McLaren,mclaren,0.0,Accident,1:15.672,158.896,87.0,0,1.0
+6,2009,17,kubica,Kubica,Robert,BMW Sauber,bmw_sauber,0.0,Brakes,1:17.558,155.032,120.0,0,1.0
+6,2009,18,vettel,Vettel,Sebastian,Red Bull,red_bull,0.0,Accident,1:17.634,154.880,2489.0,0,49.0
+6,2009,19,piquet_jr,Piquet Jr.,Nelson,Renault,renault,0.0,Collision,1:18.514,153.144,19.0,0,0.0
+6,2009,20,buemi,Buemi,Sébastien,Toro Rosso,toro_rosso,0.0,Collision,1:18.582,153.012,3.0,0,0.0
+7,2009,1,button,Button,Jenson,Brawn,brawn,10.0,Finished,1:27.579,219.422,293.0,1,7.0
+7,2009,2,webber,Webber,Mark,Red Bull,red_bull,8.0,Finished,1:27.809,218.847,127.5,0,0.0
+7,2009,3,vettel,Vettel,Sebastian,Red Bull,red_bull,6.0,Finished,1:27.622,219.314,2495.0,0,49.0
+7,2009,4,trulli,Trulli,Jarno,Toyota,toyota,5.0,Finished,1:27.868,218.700,222.5,0,1.0
+7,2009,5,rosberg,Rosberg,Nico,Williams,williams,4.0,Finished,1:28.222,217.823,52.5,0,0.0
+7,2009,6,massa,Massa,Felipe,Ferrari,ferrari,3.0,Finished,1:28.176,217.936,309.0,0,11.0
+7,2009,7,kubica,Kubica,Robert,BMW Sauber,bmw_sauber,2.0,Finished,1:28.008,218.352,122.0,0,1.0
+7,2009,8,glock,Glock,Timo,Toyota,toyota,1.0,Finished,1:27.883,218.663,40.0,0,0.0
+7,2009,9,raikkonen,Räikkönen,Kimi,Ferrari,ferrari,0.0,Finished,1:28.061,218.221,2105.0,0,37.0
+7,2009,10,alonso,Alonso,Fernando,Renault,renault,0.0,Finished,1:28.389,217.411,2411.0,0,53.0
+7,2009,11,heidfeld,Heidfeld,Nick,BMW Sauber,bmw_sauber,0.0,Finished,1:28.214,217.842,206.0,0,0.0
+7,2009,12,nakajima,Nakajima,Kazuki,Williams,williams,0.0,Finished,1:27.988,218.402,9.0,0,0.0
+7,2009,13,hamilton,Hamilton,Lewis,McLaren,mclaren,0.0,Finished,1:28.562,216.986,2826.0,0,71.0
+7,2009,14,kovalainen,Kovalainen,Heikki,McLaren,mclaren,0.0,+1 Lap,1:29.174,215.497,87.0,0,1.0
+7,2009,15,buemi,Buemi,Sébastien,Toro Rosso,toro_rosso,0.0,+1 Lap,1:28.624,216.835,3.0,0,0.0
+7,2009,16,piquet_jr,Piquet Jr.,Nelson,Renault,renault,0.0,+1 Lap,1:28.340,217.532,19.0,0,0.0
+7,2009,17,sutil,Sutil,Adrian,Force India,force_india,0.0,+1 Lap,1:29.192,215.454,1.0,0,0.0
+7,2009,18,bourdais,Bourdais,Sébastien,Toro Rosso,toro_rosso,0.0,+1 Lap,1:29.022,215.865,6.0,0,0.0
+7,2009,19,barrichello,Barrichello,Rubens,Brawn,brawn,0.0,Gearbox,1:28.526,217.075,488.0,0,9.0
+7,2009,20,fisichella,Fisichella,Giancarlo,Force India,force_india,0.0,Brakes,1:34.070,204.281,218.0,0,3.0
+8,2009,1,vettel,Vettel,Sebastian,Red Bull,red_bull,10.0,Finished,1:20.735,229.238,2505.0,1,50.0
+8,2009,2,webber,Webber,Mark,Red Bull,red_bull,8.0,Finished,1:20.915,228.728,135.5,0,0.0
+8,2009,3,barrichello,Barrichello,Rubens,Brawn,brawn,6.0,Finished,1:21.429,227.285,494.0,0,9.0
+8,2009,4,massa,Massa,Felipe,Ferrari,ferrari,5.0,Finished,1:21.509,227.062,314.0,0,11.0
+8,2009,5,rosberg,Rosberg,Nico,Williams,williams,4.0,Finished,1:21.054,228.336,56.5,0,0.0
+8,2009,6,button,Button,Jenson,Brawn,brawn,3.0,Finished,1:21.189,227.956,296.0,0,7.0
+8,2009,7,trulli,Trulli,Jarno,Toyota,toyota,2.0,Finished,1:21.806,226.237,224.5,0,1.0
+8,2009,8,raikkonen,Räikkönen,Kimi,Ferrari,ferrari,1.0,Finished,1:21.656,226.653,2106.0,0,37.0
+8,2009,9,glock,Glock,Timo,Toyota,toyota,0.0,Finished,1:21.671,226.611,40.0,0,0.0
+8,2009,10,fisichella,Fisichella,Giancarlo,Force India,force_india,0.0,Finished,1:21.810,226.226,218.0,0,3.0
+8,2009,11,nakajima,Nakajima,Kazuki,Williams,williams,0.0,Finished,1:21.845,226.129,9.0,0,0.0
+8,2009,12,piquet_jr,Piquet Jr.,Nelson,Renault,renault,0.0,+1 Lap,1:22.505,224.320,19.0,0,0.0
+8,2009,13,kubica,Kubica,Robert,BMW Sauber,bmw_sauber,0.0,+1 Lap,1:22.182,225.202,122.0,0,1.0
+8,2009,14,alonso,Alonso,Fernando,Renault,renault,0.0,+1 Lap,1:21.852,226.110,2411.0,0,53.0
+8,2009,15,heidfeld,Heidfeld,Nick,BMW Sauber,bmw_sauber,0.0,+1 Lap,1:21.956,225.823,206.0,0,0.0
+8,2009,16,hamilton,Hamilton,Lewis,McLaren,mclaren,0.0,+1 Lap,1:22.576,224.128,2826.0,0,71.0
+8,2009,17,sutil,Sutil,Adrian,Force India,force_india,0.0,+1 Lap,1:23.475,221.714,1.0,0,0.0
+8,2009,18,buemi,Buemi,Sébastien,Toro Rosso,toro_rosso,0.0,+1 Lap,1:22.711,223.762,3.0,0,0.0
+8,2009,19,bourdais,Bourdais,Sébastien,Toro Rosso,toro_rosso,0.0,Collision,1:22.466,224.427,6.0,0,0.0
+8,2009,20,kovalainen,Kovalainen,Heikki,McLaren,mclaren,0.0,Collision,1:22.418,224.557,87.0,0,1.0
+9,2009,1,webber,Webber,Mark,Red Bull,red_bull,10.0,Finished,1:34.003,197.151,145.5,1,1.0
+9,2009,2,vettel,Vettel,Sebastian,Red Bull,red_bull,8.0,Finished,1:34.089,196.970,2513.0,0,50.0
+9,2009,3,massa,Massa,Felipe,Ferrari,ferrari,6.0,Finished,1:34.458,196.201,320.0,0,11.0
+9,2009,4,rosberg,Rosberg,Nico,Williams,williams,5.0,Finished,1:34.403,196.315,61.5,0,0.0
+9,2009,5,button,Button,Jenson,Brawn,brawn,4.0,Finished,1:34.252,196.630,300.0,0,7.0
+9,2009,6,barrichello,Barrichello,Rubens,Brawn,brawn,3.0,Finished,1:34.676,195.749,497.0,0,9.0
+9,2009,7,alonso,Alonso,Fernando,Renault,renault,2.0,Finished,1:33.365,198.498,2413.0,0,53.0
+9,2009,8,kovalainen,Kovalainen,Heikki,McLaren,mclaren,1.0,Finished,1:35.524,194.011,88.0,0,1.0
+9,2009,9,glock,Glock,Timo,Toyota,toyota,0.0,Finished,1:35.369,194.327,40.0,0,0.0
+9,2009,10,heidfeld,Heidfeld,Nick,BMW Sauber,bmw_sauber,0.0,Finished,1:34.559,195.991,206.0,0,0.0
+9,2009,11,fisichella,Fisichella,Giancarlo,Force India,force_india,0.0,Finished,1:35.301,194.465,218.0,0,3.0
+9,2009,12,nakajima,Nakajima,Kazuki,Williams,williams,0.0,Finished,1:34.238,196.659,9.0,0,0.0
+9,2009,13,piquet_jr,Piquet Jr.,Nelson,Renault,renault,0.0,Finished,1:34.876,195.337,19.0,0,0.0
+9,2009,14,kubica,Kubica,Robert,BMW Sauber,bmw_sauber,0.0,Finished,1:34.537,196.037,122.0,0,1.0
+9,2009,15,sutil,Sutil,Adrian,Force India,force_india,0.0,Finished,1:35.366,194.333,1.0,0,0.0
+9,2009,16,buemi,Buemi,Sébastien,Toro Rosso,toro_rosso,0.0,Finished,1:36.279,192.490,3.0,0,0.0
+9,2009,17,trulli,Trulli,Jarno,Toyota,toyota,0.0,Finished,1:33.654,197.885,224.5,0,1.0
+9,2009,18,hamilton,Hamilton,Lewis,McLaren,mclaren,0.0,+1 Lap,1:35.367,194.331,2826.0,0,71.0
+9,2009,19,raikkonen,Räikkönen,Kimi,Ferrari,ferrari,0.0,Engine,1:36.080,192.889,2106.0,0,37.0
+9,2009,20,bourdais,Bourdais,Sébastien,Toro Rosso,toro_rosso,0.0,Hydraulics,1:37.498,190.083,6.0,0,0.0
+10,2009,1,hamilton,Hamilton,Lewis,McLaren,mclaren,10.0,Finished,1:22.479,191.219,2836.0,1,72.0
+10,2009,2,raikkonen,Räikkönen,Kimi,Ferrari,ferrari,8.0,Finished,1:22.434,191.323,2114.0,0,37.0
+10,2009,3,webber,Webber,Mark,Red Bull,red_bull,6.0,Finished,1:21.931,192.498,151.5,0,1.0
+10,2009,4,rosberg,Rosberg,Nico,Williams,williams,5.0,Finished,1:22.468,191.245,66.5,0,0.0
+10,2009,5,kovalainen,Kovalainen,Heikki,McLaren,mclaren,4.0,Finished,1:22.958,190.115,92.0,0,1.0
+10,2009,6,glock,Glock,Timo,Toyota,toyota,3.0,Finished,1:22.506,191.157,43.0,0,0.0
+10,2009,7,button,Button,Jenson,Brawn,brawn,2.0,Finished,1:22.706,190.694,302.0,0,7.0
+10,2009,8,trulli,Trulli,Jarno,Toyota,toyota,1.0,Finished,1:23.261,189.423,225.5,0,1.0
+10,2009,9,nakajima,Nakajima,Kazuki,Williams,williams,0.0,Finished,1:23.180,189.608,9.0,0,0.0
+10,2009,10,barrichello,Barrichello,Rubens,Brawn,brawn,0.0,Finished,1:23.024,189.964,497.0,0,9.0
+10,2009,11,heidfeld,Heidfeld,Nick,BMW Sauber,bmw_sauber,0.0,Finished,1:23.282,189.375,206.0,0,0.0
+10,2009,12,piquet_jr,Piquet Jr.,Nelson,Renault,renault,0.0,Finished,1:23.418,189.067,19.0,0,0.0
+10,2009,13,kubica,Kubica,Robert,BMW Sauber,bmw_sauber,0.0,Finished,1:23.224,189.507,122.0,0,1.0
+10,2009,14,fisichella,Fisichella,Giancarlo,Force India,force_india,0.0,+1 Lap,1:23.174,189.621,218.0,0,3.0
+10,2009,15,alguersuari,Alguersuari,Jaime,Toro Rosso,toro_rosso,0.0,+1 Lap,1:23.444,189.008,0.0,0,0.0
+10,2009,16,buemi,Buemi,Sébastien,Toro Rosso,toro_rosso,0.0,+1 Lap,1:22.955,190.122,3.0,0,0.0
+10,2009,17,vettel,Vettel,Sebastian,Red Bull,red_bull,0.0,Suspension,1:23.457,188.978,2513.0,0,50.0
+10,2009,18,alonso,Alonso,Fernando,Renault,renault,0.0,Wheel,1:23.529,188.815,2413.0,0,53.0
+10,2009,19,sutil,Sutil,Adrian,Force India,force_india,0.0,Overheating,,,1.0,0,0.0
+10,2009,20,massa,Massa,Felipe,Ferrari,ferrari,0.0,Withdrew,,,320.0,0,11.0
+11,2009,1,barrichello,Barrichello,Rubens,Brawn,brawn,10.0,Finished,1:38.990,197.074,507.0,1,10.0
+11,2009,2,hamilton,Hamilton,Lewis,McLaren,mclaren,8.0,Finished,1:39.056,196.943,2844.0,0,72.0
+11,2009,3,raikkonen,Räikkönen,Kimi,Ferrari,ferrari,6.0,Finished,1:39.207,196.643,2120.0,0,37.0
+11,2009,4,kovalainen,Kovalainen,Heikki,McLaren,mclaren,5.0,Finished,1:39.341,196.378,97.0,0,1.0
+11,2009,5,rosberg,Rosberg,Nico,Williams,williams,4.0,Finished,1:39.329,196.401,70.5,0,0.0
+11,2009,6,alonso,Alonso,Fernando,Renault,renault,3.0,Finished,1:39.494,196.076,2416.0,0,53.0
+11,2009,7,button,Button,Jenson,Brawn,brawn,2.0,Finished,1:38.874,197.305,304.0,0,7.0
+11,2009,8,kubica,Kubica,Robert,BMW Sauber,bmw_sauber,1.0,Finished,1:39.374,196.312,123.0,0,1.0
+11,2009,9,webber,Webber,Mark,Red Bull,red_bull,0.0,Finished,1:39.528,196.009,151.5,0,1.0
+11,2009,10,sutil,Sutil,Adrian,Force India,force_india,0.0,Finished,1:39.622,195.824,1.0,0,0.0
+11,2009,11,heidfeld,Heidfeld,Nick,BMW Sauber,bmw_sauber,0.0,Finished,1:39.704,195.663,206.0,0,0.0
+11,2009,12,fisichella,Fisichella,Giancarlo,Force India,force_india,0.0,Finished,1:40.111,194.867,218.0,0,3.0
+11,2009,13,trulli,Trulli,Jarno,Toyota,toyota,0.0,Finished,1:39.941,195.199,225.5,0,1.0
+11,2009,14,glock,Glock,Timo,Toyota,toyota,0.0,Finished,1:38.683,197.687,43.0,0,0.0
+11,2009,15,grosjean,Grosjean,Romain,Renault,renault,0.0,Finished,1:39.428,196.206,344.0,0,0.0
+11,2009,16,alguersuari,Alguersuari,Jaime,Toro Rosso,toro_rosso,0.0,+1 Lap,1:40.935,193.276,0.0,0,0.0
+11,2009,17,badoer,Badoer,Luca,Ferrari,ferrari,0.0,+1 Lap,1:40.590,193.939,0.0,0,0.0
+11,2009,18,nakajima,Nakajima,Kazuki,Williams,williams,0.0,+3 Laps,1:39.747,195.578,9.0,0,0.0
+11,2009,19,buemi,Buemi,Sébastien,Toro Rosso,toro_rosso,0.0,Brakes,1:41.042,193.072,3.0,0,0.0
+11,2009,20,vettel,Vettel,Sebastian,Red Bull,red_bull,0.0,Engine,1:39.992,195.099,2513.0,0,50.0
+12,2009,1,raikkonen,Räikkönen,Kimi,Ferrari,ferrari,10.0,Finished,1:47.674,234.173,2130.0,1,38.0
+12,2009,2,fisichella,Fisichella,Giancarlo,Force India,force_india,8.0,Finished,1:47.737,234.036,226.0,0,3.0
+12,2009,3,vettel,Vettel,Sebastian,Red Bull,red_bull,6.0,Finished,1:47.263,235.070,2519.0,0,50.0
+12,2009,4,kubica,Kubica,Robert,BMW Sauber,bmw_sauber,5.0,Finished,1:47.664,234.195,128.0,0,1.0
+12,2009,5,heidfeld,Heidfeld,Nick,BMW Sauber,bmw_sauber,4.0,Finished,1:47.371,234.834,210.0,0,0.0
+12,2009,6,kovalainen,Kovalainen,Heikki,McLaren,mclaren,3.0,Finished,1:48.348,232.716,100.0,0,1.0
+12,2009,7,barrichello,Barrichello,Rubens,Brawn,brawn,2.0,Finished,1:48.257,232.912,509.0,0,10.0
+12,2009,8,rosberg,Rosberg,Nico,Williams,williams,1.0,Finished,1:47.766,233.973,71.5,0,0.0
+12,2009,9,webber,Webber,Mark,Red Bull,red_bull,0.0,Finished,1:47.783,233.936,151.5,0,1.0
+12,2009,10,glock,Glock,Timo,Toyota,toyota,0.0,Finished,1:47.736,234.038,43.0,0,0.0
+12,2009,11,sutil,Sutil,Adrian,Force India,force_india,0.0,Finished,1:47.859,233.771,1.0,0,0.0
+12,2009,12,buemi,Buemi,Sébastien,Toro Rosso,toro_rosso,0.0,Finished,1:47.763,233.980,3.0,0,0.0
+12,2009,13,nakajima,Nakajima,Kazuki,Williams,williams,0.0,Finished,1:48.205,233.024,9.0,0,0.0
+12,2009,14,badoer,Badoer,Luca,Ferrari,ferrari,0.0,Finished,1:49.803,229.633,0.0,0,0.0
+12,2009,15,alonso,Alonso,Fernando,Renault,renault,0.0,Retired,1:48.634,232.104,2416.0,0,53.0
+12,2009,16,trulli,Trulli,Jarno,Toyota,toyota,0.0,Brakes,1:50.029,229.161,225.5,0,1.0
+12,2009,17,button,Button,Jenson,Brawn,brawn,0.0,Collision,,,304.0,0,7.0
+12,2009,18,grosjean,Grosjean,Romain,Renault,renault,0.0,Collision,,,344.0,0,0.0
+12,2009,19,hamilton,Hamilton,Lewis,McLaren,mclaren,0.0,Collision,,,2844.0,0,72.0
+12,2009,20,alguersuari,Alguersuari,Jaime,Toro Rosso,toro_rosso,0.0,Collision,,,0.0,0,0.0
+13,2009,1,barrichello,Barrichello,Rubens,Brawn,brawn,10.0,Finished,1:24.967,245.445,519.0,1,11.0
+13,2009,2,button,Button,Jenson,Brawn,brawn,8.0,Finished,1:24.935,245.538,312.0,0,7.0
+13,2009,3,raikkonen,Räikkönen,Kimi,Ferrari,ferrari,6.0,Finished,1:24.761,246.042,2136.0,0,38.0
+13,2009,4,sutil,Sutil,Adrian,Force India,force_india,5.0,Finished,1:24.739,246.106,6.0,0,0.0
+13,2009,5,alonso,Alonso,Fernando,Renault,renault,4.0,Finished,1:25.199,244.777,2420.0,0,53.0
+13,2009,6,kovalainen,Kovalainen,Heikki,McLaren,mclaren,3.0,Finished,1:25.109,245.036,103.0,0,1.0
+13,2009,7,heidfeld,Heidfeld,Nick,BMW Sauber,bmw_sauber,2.0,Finished,1:25.488,243.950,212.0,0,0.0
+13,2009,8,vettel,Vettel,Sebastian,Red Bull,red_bull,1.0,Finished,1:25.194,244.791,2520.0,0,50.0
+13,2009,9,fisichella,Fisichella,Giancarlo,Ferrari,ferrari,0.0,Finished,1:25.498,243.921,226.0,0,3.0
+13,2009,10,nakajima,Nakajima,Kazuki,Williams,williams,0.0,Finished,1:25.976,242.565,9.0,0,0.0
+13,2009,11,glock,Glock,Timo,Toyota,toyota,0.0,Finished,1:25.751,243.201,43.0,0,0.0
+13,2009,12,hamilton,Hamilton,Lewis,McLaren,mclaren,0.0,Accident,1:24.802,245.923,2844.0,0,72.0
+13,2009,13,buemi,Buemi,Sébastien,Toro Rosso,toro_rosso,0.0,+1 Lap,1:25.564,243.733,3.0,0,0.0
+13,2009,14,trulli,Trulli,Jarno,Toyota,toyota,0.0,+1 Lap,1:25.700,243.346,225.5,0,1.0
+13,2009,15,grosjean,Grosjean,Romain,Renault,renault,0.0,+1 Lap,1:25.609,243.605,344.0,0,0.0
+13,2009,16,rosberg,Rosberg,Nico,Williams,williams,0.0,+2 Laps,1:25.901,242.777,71.5,0,0.0
+13,2009,17,liuzzi,Liuzzi,Vitantonio,Force India,force_india,0.0,Transmission,1:26.041,242.382,5.0,0,0.0
+13,2009,18,alguersuari,Alguersuari,Jaime,Toro Rosso,toro_rosso,0.0,Retired,1:27.846,237.401,0.0,0,0.0
+13,2009,19,kubica,Kubica,Robert,BMW Sauber,bmw_sauber,0.0,Oil leak,1:27.819,237.474,128.0,0,1.0
+13,2009,20,webber,Webber,Mark,Red Bull,red_bull,0.0,Collision,,,151.5,0,1.0
+14,2009,1,hamilton,Hamilton,Lewis,McLaren,mclaren,10.0,Finished,1:48.345,168.561,2854.0,1,73.0
+14,2009,2,glock,Glock,Timo,Toyota,toyota,8.0,Finished,1:48.396,168.482,51.0,0,0.0
+14,2009,3,alonso,Alonso,Fernando,Renault,renault,6.0,Finished,1:48.240,168.725,2426.0,0,53.0
+14,2009,4,vettel,Vettel,Sebastian,Red Bull,red_bull,5.0,Finished,1:48.398,168.479,2525.0,0,50.0
+14,2009,5,button,Button,Jenson,Brawn,brawn,4.0,Finished,1:48.369,168.524,316.0,0,7.0
+14,2009,6,barrichello,Barrichello,Rubens,Brawn,brawn,3.0,Finished,1:48.598,168.168,522.0,0,11.0
+14,2009,7,kovalainen,Kovalainen,Heikki,McLaren,mclaren,2.0,Finished,1:49.283,167.114,105.0,0,1.0
+14,2009,8,kubica,Kubica,Robert,BMW Sauber,bmw_sauber,1.0,Finished,1:48.847,167.784,129.0,0,1.0
+14,2009,9,nakajima,Nakajima,Kazuki,Williams,williams,0.0,Finished,1:49.371,166.980,9.0,0,0.0
+14,2009,10,raikkonen,Räikkönen,Kimi,Ferrari,ferrari,0.0,Finished,1:48.391,168.490,2136.0,0,38.0
+14,2009,11,rosberg,Rosberg,Nico,Williams,williams,0.0,Finished,1:48.352,168.550,71.5,0,0.0
+14,2009,12,trulli,Trulli,Jarno,Toyota,toyota,0.0,Finished,1:48.816,167.831,225.5,0,1.0
+14,2009,13,fisichella,Fisichella,Giancarlo,Ferrari,ferrari,0.0,Finished,1:49.417,166.910,226.0,0,3.0
+14,2009,14,liuzzi,Liuzzi,Vitantonio,Force India,force_india,0.0,Finished,1:49.852,166.249,5.0,0,0.0
+14,2009,15,alguersuari,Alguersuari,Jaime,Toro Rosso,toro_rosso,0.0,Brakes,1:52.483,162.360,0.0,0,0.0
+14,2009,16,buemi,Buemi,Sébastien,Toro Rosso,toro_rosso,0.0,Gearbox,1:50.636,165.071,3.0,0,0.0
+14,2009,17,webber,Webber,Mark,Red Bull,red_bull,0.0,Brakes,1:49.319,167.059,151.5,0,1.0
+14,2009,18,sutil,Sutil,Adrian,Force India,force_india,0.0,Collision,1:52.623,162.158,6.0,0,0.0
+14,2009,19,heidfeld,Heidfeld,Nick,BMW Sauber,bmw_sauber,0.0,Collision,1:51.346,164.018,212.0,0,0.0
+14,2009,20,grosjean,Grosjean,Romain,Renault,renault,0.0,Brakes,1:57.192,155.836,344.0,0,0.0
+15,2009,1,vettel,Vettel,Sebastian,Red Bull,red_bull,10.0,Finished,1:32.572,225.826,2535.0,1,51.0
+15,2009,2,trulli,Trulli,Jarno,Toyota,toyota,8.0,Finished,1:33.152,224.420,233.5,0,1.0
+15,2009,3,hamilton,Hamilton,Lewis,McLaren,mclaren,6.0,Finished,1:33.259,224.162,2860.0,0,73.0
+15,2009,4,raikkonen,Räikkönen,Kimi,Ferrari,ferrari,5.0,Finished,1:32.999,224.789,2141.0,0,38.0
+15,2009,5,rosberg,Rosberg,Nico,Williams,williams,4.0,Finished,1:33.595,223.358,75.5,0,0.0
+15,2009,6,heidfeld,Heidfeld,Nick,BMW Sauber,bmw_sauber,3.0,Finished,1:33.600,223.346,215.0,0,0.0
+15,2009,7,barrichello,Barrichello,Rubens,Brawn,brawn,2.0,Finished,1:33.910,222.608,524.0,0,11.0
+15,2009,8,button,Button,Jenson,Brawn,brawn,1.0,Finished,1:33.251,224.182,317.0,0,7.0
+15,2009,9,kubica,Kubica,Robert,BMW Sauber,bmw_sauber,0.0,Finished,1:33.334,223.982,129.0,0,1.0
+15,2009,10,alonso,Alonso,Fernando,Renault,renault,0.0,Finished,1:33.946,222.523,2426.0,0,53.0
+15,2009,11,kovalainen,Kovalainen,Heikki,McLaren,mclaren,0.0,Finished,1:33.801,222.867,105.0,0,1.0
+15,2009,12,fisichella,Fisichella,Giancarlo,Ferrari,ferrari,0.0,Finished,1:33.479,223.635,226.0,0,3.0
+15,2009,13,sutil,Sutil,Adrian,Force India,force_india,0.0,Finished,1:33.668,223.184,6.0,0,0.0
+15,2009,14,liuzzi,Liuzzi,Vitantonio,Force India,force_india,0.0,Finished,1:34.294,221.702,5.0,0,0.0
+15,2009,15,nakajima,Nakajima,Kazuki,Williams,williams,0.0,Finished,1:34.783,220.558,9.0,0,0.0
+15,2009,16,grosjean,Grosjean,Romain,Renault,renault,0.0,+1 Lap,1:34.643,220.884,344.0,0,0.0
+15,2009,17,webber,Webber,Mark,Red Bull,red_bull,0.0,+2 Laps,1:32.569,225.833,151.5,0,1.0
+15,2009,18,alguersuari,Alguersuari,Jaime,Toro Rosso,toro_rosso,0.0,Accident,1:34.049,222.279,0.0,0,0.0
+15,2009,19,buemi,Buemi,Sébastien,Toro Rosso,toro_rosso,0.0,Clutch,1:35.392,219.150,3.0,0,0.0
+15,2009,20,glock,Glock,Timo,Toyota,toyota,0.0,Injured,,,51.0,0,0.0
+16,2009,1,webber,Webber,Mark,Red Bull,red_bull,10.0,Finished,1:13.733,210.386,161.5,1,2.0
+16,2009,2,kubica,Kubica,Robert,BMW Sauber,bmw_sauber,8.0,Finished,1:14.155,209.188,137.0,0,1.0
+16,2009,3,hamilton,Hamilton,Lewis,McLaren,mclaren,6.0,Finished,1:14.345,208.654,2866.0,0,73.0
+16,2009,4,vettel,Vettel,Sebastian,Red Bull,red_bull,5.0,Finished,1:13.890,209.939,2540.0,0,51.0
+16,2009,5,button,Button,Jenson,Brawn,brawn,4.0,Finished,1:14.353,208.631,321.0,0,7.0
+16,2009,6,raikkonen,Räikkönen,Kimi,Ferrari,ferrari,3.0,Finished,1:14.558,208.058,2144.0,0,38.0
+16,2009,7,buemi,Buemi,Sébastien,Toro Rosso,toro_rosso,2.0,Finished,1:14.563,208.044,5.0,0,0.0
+16,2009,8,barrichello,Barrichello,Rubens,Brawn,brawn,1.0,Finished,1:13.950,209.768,525.0,0,11.0
+16,2009,9,kovalainen,Kovalainen,Heikki,McLaren,mclaren,0.0,Finished,1:14.303,208.772,105.0,0,1.0
+16,2009,10,kobayashi,Kobayashi,Kamui,Toyota,toyota,0.0,Finished,1:14.676,207.729,0.0,0,0.0
+16,2009,11,fisichella,Fisichella,Giancarlo,Ferrari,ferrari,0.0,Finished,1:14.931,207.022,226.0,0,3.0
+16,2009,12,liuzzi,Liuzzi,Vitantonio,Force India,force_india,0.0,Finished,1:14.990,206.859,5.0,0,0.0
+16,2009,13,grosjean,Grosjean,Romain,Renault,renault,0.0,+1 Lap,1:14.789,207.415,344.0,0,0.0
+16,2009,14,alguersuari,Alguersuari,Jaime,Toro Rosso,toro_rosso,0.0,+1 Lap,1:14.861,207.216,0.0,0,0.0
+16,2009,15,nakajima,Nakajima,Kazuki,Williams,williams,0.0,Accident,1:15.073,206.630,9.0,0,0.0
+16,2009,16,rosberg,Rosberg,Nico,Williams,williams,0.0,Gearbox,1:14.370,208.584,75.5,0,0.0
+16,2009,17,heidfeld,Heidfeld,Nick,BMW Sauber,bmw_sauber,0.0,Out of fuel,1:14.988,206.865,215.0,0,0.0
+16,2009,18,sutil,Sutil,Adrian,Force India,force_india,0.0,Accident,,,6.0,0,0.0
+16,2009,19,trulli,Trulli,Jarno,Toyota,toyota,0.0,Accident,,,233.5,0,1.0
+16,2009,20,alonso,Alonso,Fernando,Renault,renault,0.0,Accident,,,2426.0,0,53.0
+17,2009,1,vettel,Vettel,Sebastian,Red Bull,red_bull,10.0,Finished,1:40.279,199.387,2550.0,1,52.0
+17,2009,2,webber,Webber,Mark,Red Bull,red_bull,8.0,Finished,1:40.571,198.808,169.5,0,2.0
+17,2009,3,button,Button,Jenson,Brawn,brawn,6.0,Finished,1:40.642,198.668,327.0,0,7.0
+17,2009,4,barrichello,Barrichello,Rubens,Brawn,brawn,5.0,Finished,1:40.449,199.050,530.0,0,11.0
+17,2009,5,heidfeld,Heidfeld,Nick,BMW Sauber,bmw_sauber,4.0,Finished,1:40.672,198.609,219.0,0,0.0
+17,2009,6,kobayashi,Kobayashi,Kamui,Toyota,toyota,3.0,Finished,1:40.779,198.398,3.0,0,0.0
+17,2009,7,trulli,Trulli,Jarno,Toyota,toyota,2.0,Finished,1:40.723,198.508,235.5,0,1.0
+17,2009,8,buemi,Buemi,Sébastien,Toro Rosso,toro_rosso,1.0,Finished,1:40.326,199.294,6.0,0,0.0
+17,2009,9,rosberg,Rosberg,Nico,Williams,williams,0.0,Finished,1:40.997,197.970,75.5,0,0.0
+17,2009,10,kubica,Kubica,Robert,BMW Sauber,bmw_sauber,0.0,Finished,1:40.924,198.113,137.0,0,1.0
+17,2009,11,kovalainen,Kovalainen,Heikki,McLaren,mclaren,0.0,Finished,1:41.316,197.346,105.0,0,1.0
+17,2009,12,raikkonen,Räikkönen,Kimi,Ferrari,ferrari,0.0,Finished,1:40.843,198.272,2144.0,0,38.0
+17,2009,13,nakajima,Nakajima,Kazuki,Williams,williams,0.0,Finished,1:40.754,198.447,9.0,0,0.0
+17,2009,14,alonso,Alonso,Fernando,Renault,renault,0.0,Finished,1:40.757,198.441,2426.0,0,53.0
+17,2009,15,liuzzi,Liuzzi,Vitantonio,Force India,force_india,0.0,Finished,1:41.277,197.422,5.0,0,0.0
+17,2009,16,fisichella,Fisichella,Giancarlo,Ferrari,ferrari,0.0,+1 Lap,1:41.132,197.705,226.0,0,3.0
+17,2009,17,sutil,Sutil,Adrian,Force India,force_india,0.0,+1 Lap,1:40.904,198.152,6.0,0,0.0
+17,2009,18,grosjean,Grosjean,Romain,Renault,renault,0.0,+1 Lap,1:42.274,195.498,344.0,0,0.0
+17,2009,19,hamilton,Hamilton,Lewis,McLaren,mclaren,0.0,Brakes,1:40.367,199.212,2866.0,0,73.0
+17,2009,20,alguersuari,Alguersuari,Jaime,Toro Rosso,toro_rosso,0.0,Gearbox,1:43.318,193.522,0.0,0,0.0

@@ -1,0 +1,377 @@
+Race ID,Year,Position,Driver ID,Last Name,First Name,Constructor,Constructor ID,Points,Status,Fastest Lap Time,Fastest Lap Avg Speed (kph),Total Points,Wins,Total Wins
+1,2005,1,fisichella,Fisichella,Giancarlo,Renault,renault,10,Finished,1:25.994,222.001,77.0,1,2.0
+1,2005,2,barrichello,Barrichello,Rubens,Ferrari,ferrari,8,Finished,1:26.233,221.386,382.0,0,9.0
+1,2005,3,alonso,Alonso,Fernando,Renault,renault,6,Finished,1:25.683,222.807,1969.0,0,33.0
+1,2005,4,coulthard,Coulthard,David,Red Bull,red_bull,5,Finished,1:26.690,220.219,259.0,0,7.0
+1,2005,5,webber,Webber,Mark,Williams,williams,4,Finished,1:26.493,220.720,30.0,0,0.0
+1,2005,6,montoya,Pablo Montoya,Juan,McLaren,mclaren,3,Finished,1:26.393,220.976,224.0,0,4.0
+1,2005,7,klien,Klien,Christian,Red Bull,red_bull,2,Finished,1:26.627,220.379,5.0,0,0.0
+1,2005,8,raikkonen,Räikkönen,Kimi,McLaren,mclaren,1,Finished,1:26.255,221.329,1735.0,0,22.0
+1,2005,9,trulli,Trulli,Jarno,Toyota,toyota,0,Finished,1:27.116,219.142,106.0,0,1.0
+1,2005,10,massa,Massa,Felipe,Sauber,sauber,0,Finished,1:26.893,219.704,16.0,0,0.0
+1,2005,11,button,Button,Jenson,BAR,bar,0,+1 Lap,1:26.260,221.316,130.0,0,0.0
+1,2005,12,ralf_schumacher,Schumacher,Ralf,Toyota,toyota,0,+1 Lap,1:26.536,220.611,197.0,0,6.0
+1,2005,13,villeneuve,Villeneuve,Jacques,Sauber,sauber,0,+1 Lap,1:27.745,217.571,39.0,0,0.0
+1,2005,14,sato,Sato,Takuma,BAR,bar,0,+2 Laps,1:27.877,217.244,39.0,0,0.0
+1,2005,15,karthikeyan,Karthikeyan,Narain,Jordan,jordan,0,+2 Laps,1:27.970,217.014,0.0,0,0.0
+1,2005,16,monteiro,Monteiro,Tiago,Jordan,jordan,0,+2 Laps,1:28.999,214.505,0.0,0,0.0
+1,2005,17,friesacher,Friesacher,Patrick,Minardi,minardi,0,+4 Laps,1:32.852,205.604,0.0,0,0.0
+1,2005,18,michael_schumacher,Schumacher,Michael,Ferrari,ferrari,0,Accident,1:26.261,221.314,616.0,0,48.0
+1,2005,19,heidfeld,Heidfeld,Nick,Williams,williams,0,Accident,1:26.854,219.803,28.0,0,0.0
+1,2005,20,albers,Albers,Christijan,Minardi,minardi,0,Gearbox,1:33.144,204.960,0.0,0,0.0
+2,2005,1,alonso,Alonso,Fernando,Renault,renault,10,Finished,1:35.899,208.081,1979.0,1,34.0
+2,2005,2,trulli,Trulli,Jarno,Toyota,toyota,8,Finished,1:35.816,208.261,114.0,0,1.0
+2,2005,3,heidfeld,Heidfeld,Nick,Williams,williams,6,Finished,1:35.712,208.487,34.0,0,0.0
+2,2005,4,montoya,Pablo Montoya,Juan,McLaren,mclaren,5,Finished,1:36.585,206.603,229.0,0,4.0
+2,2005,5,ralf_schumacher,Schumacher,Ralf,Toyota,toyota,4,Finished,1:36.321,207.169,201.0,0,6.0
+2,2005,6,coulthard,Coulthard,David,Red Bull,red_bull,3,Finished,1:36.790,206.165,262.0,0,7.0
+2,2005,7,michael_schumacher,Schumacher,Michael,Ferrari,ferrari,2,Finished,1:36.982,205.757,618.0,0,48.0
+2,2005,8,klien,Klien,Christian,Red Bull,red_bull,1,Finished,1:36.902,205.927,6.0,0,0.0
+2,2005,9,raikkonen,Räikkönen,Kimi,McLaren,mclaren,0,Finished,1:35.483,208.987,1735.0,0,22.0
+2,2005,10,massa,Massa,Felipe,Sauber,sauber,0,+1 Lap,1:37.212,205.270,16.0,0,0.0
+2,2005,11,karthikeyan,Karthikeyan,Narain,Jordan,jordan,0,+2 Laps,1:39.833,199.881,0.0,0,0.0
+2,2005,12,monteiro,Monteiro,Tiago,Jordan,jordan,0,+3 Laps,1:40.432,198.689,0.0,0,0.0
+2,2005,13,albers,Albers,Christijan,Minardi,minardi,0,+4 Laps,1:42.465,194.747,0.0,0,0.0
+2,2005,14,barrichello,Barrichello,Rubens,Ferrari,ferrari,0,Tyre,1:36.878,205.978,382.0,0,9.0
+2,2005,15,fisichella,Fisichella,Giancarlo,Renault,renault,0,Collision,1:36.182,207.469,77.0,0,2.0
+2,2005,16,webber,Webber,Mark,Williams,williams,0,Collision,1:36.026,207.806,30.0,0,0.0
+2,2005,17,villeneuve,Villeneuve,Jacques,Sauber,sauber,0,Spun off,1:38.058,203.499,39.0,0,0.0
+2,2005,18,button,Button,Jenson,BAR,bar,0,Engine,1:37.912,203.803,130.0,0,0.0
+2,2005,19,davidson,Davidson,Anthony,BAR,bar,0,Engine,1:41.470,196.657,0.0,0,0.0
+2,2005,20,friesacher,Friesacher,Patrick,Minardi,minardi,0,Spun off,1:43.558,192.692,0.0,0,0.0
+3,2005,1,alonso,Alonso,Fernando,Renault,renault,10,Finished,1:31.713,212.436,1989.0,1,35.0
+3,2005,2,trulli,Trulli,Jarno,Toyota,toyota,8,Finished,1:32.324,211.030,122.0,0,1.0
+3,2005,3,raikkonen,Räikkönen,Kimi,McLaren,mclaren,6,Finished,1:31.822,212.184,1741.0,0,22.0
+3,2005,4,ralf_schumacher,Schumacher,Ralf,Toyota,toyota,5,Finished,1:32.683,210.213,206.0,0,6.0
+3,2005,5,rosa,de la Rosa,Pedro,McLaren,mclaren,4,Finished,1:31.447,213.054,9.0,0,0.0
+3,2005,6,webber,Webber,Mark,Williams,williams,3,Finished,1:33.087,209.300,33.0,0,0.0
+3,2005,7,massa,Massa,Felipe,Sauber,sauber,2,+1 Lap,1:33.326,208.764,18.0,0,0.0
+3,2005,8,coulthard,Coulthard,David,Red Bull,red_bull,1,+1 Lap,1:33.417,208.561,263.0,0,7.0
+3,2005,9,barrichello,Barrichello,Rubens,Ferrari,ferrari,0,+1 Lap,1:32.976,209.550,382.0,0,9.0
+3,2005,10,monteiro,Monteiro,Tiago,Jordan,jordan,0,+2 Laps,1:35.744,203.492,0.0,0,0.0
+3,2005,11,villeneuve,Villeneuve,Jacques,Sauber,sauber,0,Suspension,1:33.458,208.470,39.0,0,0.0
+3,2005,12,friesacher,Friesacher,Patrick,Minardi,minardi,0,+3 Laps,1:36.432,202.040,0.0,0,0.0
+3,2005,13,albers,Albers,Christijan,Minardi,minardi,0,+4 Laps,1:36.913,201.038,0.0,0,0.0
+3,2005,14,button,Button,Jenson,BAR,bar,0,Clutch,1:32.411,210.832,130.0,0,0.0
+3,2005,15,sato,Sato,Takuma,BAR,bar,0,Brakes,1:33.124,209.217,39.0,0,0.0
+3,2005,16,heidfeld,Heidfeld,Nick,Williams,williams,0,Engine,1:33.055,209.372,34.0,0,0.0
+3,2005,17,michael_schumacher,Schumacher,Michael,Ferrari,ferrari,0,Hydraulics,1:32.886,209.753,618.0,0,48.0
+3,2005,18,fisichella,Fisichella,Giancarlo,Renault,renault,0,Engine,1:37.036,200.783,77.0,0,2.0
+3,2005,19,karthikeyan,Karthikeyan,Narain,Jordan,jordan,0,Electrical,1:37.533,199.760,0.0,0,0.0
+3,2005,20,klien,Klien,Christian,Red Bull,red_bull,0,Electrical,,,6.0,0,0.0
+4,2005,1,alonso,Alonso,Fernando,Renault,renault,10,Finished,1:23.133,213.619,1999.0,1,36.0
+4,2005,2,michael_schumacher,Schumacher,Michael,Ferrari,ferrari,8,Finished,1:21.858,216.946,626.0,0,48.0
+4,2005,3,wurz,Wurz,Alexander,McLaren,mclaren,6,Finished,1:23.023,213.902,8.0,0,0.0
+4,2005,4,villeneuve,Villeneuve,Jacques,Sauber,sauber,5,Finished,1:24.017,211.371,44.0,0,0.0
+4,2005,5,trulli,Trulli,Jarno,Toyota,toyota,4,Finished,1:24.022,211.358,126.0,0,1.0
+4,2005,6,heidfeld,Heidfeld,Nick,Williams,williams,3,Finished,1:23.917,211.623,37.0,0,0.0
+4,2005,7,webber,Webber,Mark,Williams,williams,2,Finished,1:24.419,210.364,35.0,0,0.0
+4,2005,8,liuzzi,Liuzzi,Vitantonio,Red Bull,red_bull,1,Finished,1:23.488,212.710,1.0,0,0.0
+4,2005,9,ralf_schumacher,Schumacher,Ralf,Toyota,toyota,0,Finished,1:24.230,210.836,206.0,0,6.0
+4,2005,10,massa,Massa,Felipe,Sauber,sauber,0,+1 Lap,1:23.602,212.420,18.0,0,0.0
+4,2005,11,coulthard,Coulthard,David,Red Bull,red_bull,0,+1 Lap,1:24.641,209.813,263.0,0,7.0
+4,2005,12,karthikeyan,Karthikeyan,Narain,Jordan,jordan,0,+1 Lap,1:24.094,211.177,0.0,0,0.0
+4,2005,13,monteiro,Monteiro,Tiago,Jordan,jordan,0,+2 Laps,1:24.719,209.620,0.0,0,0.0
+4,2005,14,albers,Albers,Christijan,Minardi,minardi,0,Hydraulics,1:27.420,203.143,0.0,0,0.0
+4,2005,15,barrichello,Barrichello,Rubens,Ferrari,ferrari,0,Electrical,1:24.435,210.325,382.0,0,9.0
+4,2005,16,raikkonen,Räikkönen,Kimi,McLaren,mclaren,0,Driveshaft,1:23.296,213.201,1741.0,0,22.0
+4,2005,17,friesacher,Friesacher,Patrick,Minardi,minardi,0,Clutch,1:28.334,201.041,0.0,0,0.0
+4,2005,18,fisichella,Fisichella,Giancarlo,Renault,renault,0,Accident,1:25.665,207.305,77.0,0,2.0
+4,2005,19,button,Button,Jenson,BAR,bar,0,Disqualified,1:22.604,214.987,130.0,0,0.0
+4,2005,20,sato,Sato,Takuma,BAR,bar,0,Disqualified,1:23.368,213.016,39.0,0,0.0
+5,2005,1,raikkonen,Räikkönen,Kimi,McLaren,mclaren,10,Finished,1:15.977,219.240,1751.0,1,23.0
+5,2005,2,alonso,Alonso,Fernando,Renault,renault,8,Finished,1:16.098,218.891,2007.0,0,36.0
+5,2005,3,trulli,Trulli,Jarno,Toyota,toyota,6,Finished,1:16.614,217.417,132.0,0,1.0
+5,2005,4,ralf_schumacher,Schumacher,Ralf,Toyota,toyota,5,Finished,1:16.469,217.829,211.0,0,6.0
+5,2005,5,fisichella,Fisichella,Giancarlo,Renault,renault,4,Finished,1:15.641,220.213,81.0,0,2.0
+5,2005,6,webber,Webber,Mark,Williams,williams,3,Finished,1:16.761,217.000,38.0,0,0.0
+5,2005,7,montoya,Pablo Montoya,Juan,McLaren,mclaren,2,+1 Lap,1:15.771,219.836,231.0,0,4.0
+5,2005,8,coulthard,Coulthard,David,Red Bull,red_bull,1,+1 Lap,1:16.947,216.476,264.0,0,7.0
+5,2005,9,barrichello,Barrichello,Rubens,Ferrari,ferrari,0,+1 Lap,1:17.156,215.889,382.0,0,9.0
+5,2005,10,heidfeld,Heidfeld,Nick,Williams,williams,0,+1 Lap,1:16.519,217.687,37.0,0,0.0
+5,2005,11,massa,Massa,Felipe,Sauber,sauber,0,Wheel rim,1:16.802,216.884,18.0,0,0.0
+5,2005,12,monteiro,Monteiro,Tiago,Jordan,jordan,0,+3 Laps,1:18.998,210.855,0.0,0,0.0
+5,2005,13,karthikeyan,Karthikeyan,Narain,Jordan,jordan,0,+3 Laps,1:19.734,208.909,0.0,0,0.0
+5,2005,14,villeneuve,Villeneuve,Jacques,Sauber,sauber,0,Engine,1:17.585,214.696,44.0,0,0.0
+5,2005,15,michael_schumacher,Schumacher,Michael,Ferrari,ferrari,0,Puncture,1:15.648,220.193,626.0,0,48.0
+5,2005,16,albers,Albers,Christijan,Minardi,minardi,0,Gearbox,1:20.124,207.892,0.0,0,0.0
+5,2005,17,friesacher,Friesacher,Patrick,Minardi,minardi,0,Spun off,1:20.865,205.987,0.0,0,0.0
+5,2005,18,liuzzi,Liuzzi,Vitantonio,Red Bull,red_bull,0,Spun off,1:19.435,209.695,1.0,0,0.0
+6,2005,1,raikkonen,Räikkönen,Kimi,McLaren,mclaren,10,Finished,1:15.921,158.375,1761.0,1,24.0
+6,2005,2,heidfeld,Heidfeld,Nick,Williams,williams,8,Finished,1:17.159,155.834,45.0,0,0.0
+6,2005,3,webber,Webber,Mark,Williams,williams,6,Finished,1:16.971,156.214,44.0,0,0.0
+6,2005,4,alonso,Alonso,Fernando,Renault,renault,5,Finished,1:16.600,156.971,2012.0,0,36.0
+6,2005,5,montoya,Pablo Montoya,Juan,McLaren,mclaren,4,Finished,1:17.403,155.342,235.0,0,4.0
+6,2005,6,ralf_schumacher,Schumacher,Ralf,Toyota,toyota,3,Finished,1:17.070,156.014,214.0,0,6.0
+6,2005,7,michael_schumacher,Schumacher,Michael,Ferrari,ferrari,2,Finished,1:15.842,158.540,628.0,0,48.0
+6,2005,8,barrichello,Barrichello,Rubens,Ferrari,ferrari,1,Finished,1:16.916,156.326,383.0,0,9.0
+6,2005,9,massa,Massa,Felipe,Sauber,sauber,0,+1 Lap,1:17.799,154.552,18.0,0,0.0
+6,2005,10,trulli,Trulli,Jarno,Toyota,toyota,0,+1 Lap,1:16.812,156.538,132.0,0,1.0
+6,2005,11,villeneuve,Villeneuve,Jacques,Sauber,sauber,0,+1 Lap,1:17.482,155.184,44.0,0,0.0
+6,2005,12,fisichella,Fisichella,Giancarlo,Renault,renault,0,+1 Lap,1:16.776,156.611,81.0,0,2.0
+6,2005,13,monteiro,Monteiro,Tiago,Jordan,jordan,0,+3 Laps,1:20.747,148.909,0.0,0,0.0
+6,2005,14,albers,Albers,Christijan,Minardi,minardi,0,+5 Laps,1:20.237,149.856,0.0,0,0.0
+6,2005,15,liuzzi,Liuzzi,Vitantonio,Red Bull,red_bull,0,Accident,1:18.030,154.094,1.0,0,0.0
+6,2005,16,friesacher,Friesacher,Patrick,Minardi,minardi,0,Accident,1:19.037,152.131,0.0,0,0.0
+6,2005,17,coulthard,Coulthard,David,Red Bull,red_bull,0,Accident,1:17.693,154.762,264.0,0,7.0
+6,2005,18,karthikeyan,Karthikeyan,Narain,Jordan,jordan,0,Hydraulics,1:22.019,146.600,0.0,0,0.0
+7,2005,1,alonso,Alonso,Fernando,Renault,renault,10,Finished,1:30.711,204.305,2022.0,1,37.0
+7,2005,2,heidfeld,Heidfeld,Nick,Williams,williams,8,Finished,1:31.124,203.380,53.0,0,0.0
+7,2005,3,barrichello,Barrichello,Rubens,Ferrari,ferrari,6,Finished,1:31.028,203.594,389.0,0,9.0
+7,2005,4,coulthard,Coulthard,David,Red Bull,red_bull,5,Finished,1:31.306,202.974,269.0,0,7.0
+7,2005,5,michael_schumacher,Schumacher,Michael,Ferrari,ferrari,4,Finished,1:31.503,202.537,632.0,0,48.0
+7,2005,6,fisichella,Fisichella,Giancarlo,Renault,renault,3,Finished,1:31.708,202.084,84.0,0,2.0
+7,2005,7,montoya,Pablo Montoya,Juan,McLaren,mclaren,2,Finished,1:31.807,201.866,237.0,0,4.0
+7,2005,8,trulli,Trulli,Jarno,Toyota,toyota,1,Finished,1:31.779,201.928,133.0,0,1.0
+7,2005,9,liuzzi,Liuzzi,Vitantonio,Red Bull,red_bull,0,Finished,1:31.971,201.506,1.0,0,0.0
+7,2005,10,button,Button,Jenson,BAR,bar,0,Finished,1:31.955,201.542,130.0,0,0.0
+7,2005,11,raikkonen,Räikkönen,Kimi,McLaren,mclaren,0,Accident,1:30.940,203.791,1761.0,0,24.0
+7,2005,12,sato,Sato,Takuma,BAR,bar,0,+1 Lap,1:31.889,201.686,39.0,0,0.0
+7,2005,13,villeneuve,Villeneuve,Jacques,Sauber,sauber,0,+1 Lap,1:32.583,200.174,44.0,0,0.0
+7,2005,14,massa,Massa,Felipe,Sauber,sauber,0,+1 Lap,1:32.329,200.725,18.0,0,0.0
+7,2005,15,monteiro,Monteiro,Tiago,Jordan,jordan,0,+1 Lap,1:33.425,198.370,0.0,0,0.0
+7,2005,16,karthikeyan,Karthikeyan,Narain,Jordan,jordan,0,+1 Lap,1:33.292,198.653,0.0,0,0.0
+7,2005,17,albers,Albers,Christijan,Minardi,minardi,0,+2 Laps,1:35.047,194.985,0.0,0,0.0
+7,2005,18,friesacher,Friesacher,Patrick,Minardi,minardi,0,+3 Laps,1:35.536,193.987,0.0,0,0.0
+7,2005,19,ralf_schumacher,Schumacher,Ralf,Toyota,toyota,0,Spun off,1:31.724,202.049,214.0,0,6.0
+7,2005,20,webber,Webber,Mark,Williams,williams,0,Accident,,,44.0,0,0.0
+8,2005,1,raikkonen,Räikkönen,Kimi,McLaren,mclaren,10,Finished,1:14.384,211.061,1771.0,1,25.0
+8,2005,2,michael_schumacher,Schumacher,Michael,Ferrari,ferrari,8,Finished,1:14.868,209.697,640.0,0,48.0
+8,2005,3,barrichello,Barrichello,Rubens,Ferrari,ferrari,6,Finished,1:15.480,207.996,395.0,0,9.0
+8,2005,4,massa,Massa,Felipe,Sauber,sauber,5,Finished,1:16.008,206.551,23.0,0,0.0
+8,2005,5,webber,Webber,Mark,Williams,williams,4,Finished,1:15.401,208.214,48.0,0,0.0
+8,2005,6,ralf_schumacher,Schumacher,Ralf,Toyota,toyota,3,+1 Lap,1:15.827,207.044,217.0,0,6.0
+8,2005,7,coulthard,Coulthard,David,Red Bull,red_bull,2,+1 Lap,1:16.414,205.454,271.0,0,7.0
+8,2005,8,klien,Klien,Christian,Red Bull,red_bull,1,+1 Lap,1:16.299,205.764,7.0,0,0.0
+8,2005,9,villeneuve,Villeneuve,Jacques,Sauber,sauber,0,+1 Lap,1:15.945,206.723,44.0,0,0.0
+8,2005,10,monteiro,Monteiro,Tiago,Jordan,jordan,0,+3 Laps,1:17.344,202.984,0.0,0,0.0
+8,2005,11,albers,Albers,Christijan,Minardi,minardi,0,+3 Laps,1:18.462,200.091,0.0,0,0.0
+8,2005,12,trulli,Trulli,Jarno,Toyota,toyota,0,Brakes,1:15.872,206.922,133.0,0,1.0
+8,2005,13,button,Button,Jenson,BAR,bar,0,Accident,1:15.189,208.801,130.0,0,0.0
+8,2005,14,heidfeld,Heidfeld,Nick,Williams,williams,0,Engine,1:15.752,207.249,53.0,0,0.0
+8,2005,15,sato,Sato,Takuma,BAR,bar,0,Brakes,1:16.044,206.454,39.0,0,0.0
+8,2005,16,friesacher,Friesacher,Patrick,Minardi,minardi,0,Hydraulics,1:18.709,199.463,0.0,0,0.0
+8,2005,17,alonso,Alonso,Fernando,Renault,renault,0,Suspension,1:14.727,210.092,2022.0,0,37.0
+8,2005,18,fisichella,Fisichella,Giancarlo,Renault,renault,0,Hydraulics,1:14.890,209.635,84.0,0,2.0
+8,2005,19,karthikeyan,Karthikeyan,Narain,Jordan,jordan,0,Suspension,1:17.015,203.851,0.0,0,0.0
+8,2005,20,montoya,Pablo Montoya,Juan,McLaren,mclaren,0,Disqualified,1:14.576,210.518,237.0,0,4.0
+9,2005,1,michael_schumacher,Schumacher,Michael,Ferrari,ferrari,10,Finished,1:11.497,211.074,650.0,1,49.0
+9,2005,2,barrichello,Barrichello,Rubens,Ferrari,ferrari,8,Finished,1:11.649,210.626,403.0,0,9.0
+9,2005,3,monteiro,Monteiro,Tiago,Jordan,jordan,6,+1 Lap,1:13.237,206.059,6.0,0,0.0
+9,2005,4,karthikeyan,Karthikeyan,Narain,Jordan,jordan,5,+1 Lap,1:13.370,205.686,5.0,0,0.0
+9,2005,5,albers,Albers,Christijan,Minardi,minardi,4,+2 Laps,1:13.907,204.191,4.0,0,0.0
+9,2005,6,friesacher,Friesacher,Patrick,Minardi,minardi,3,+2 Laps,1:14.490,202.593,3.0,0,0.0
+9,2005,7,trulli,Trulli,Jarno,Toyota,toyota,0,Withdrew,,,133.0,0,1.0
+9,2005,8,raikkonen,Räikkönen,Kimi,McLaren,mclaren,0,Withdrew,,,1771.0,0,25.0
+9,2005,9,button,Button,Jenson,BAR,bar,0,Withdrew,,,130.0,0,0.0
+9,2005,10,fisichella,Fisichella,Giancarlo,Renault,renault,0,Withdrew,,,84.0,0,2.0
+9,2005,11,alonso,Alonso,Fernando,Renault,renault,0,Withdrew,,,2022.0,0,37.0
+9,2005,12,sato,Sato,Takuma,BAR,bar,0,Withdrew,,,39.0,0,0.0
+9,2005,13,webber,Webber,Mark,Williams,williams,0,Withdrew,,,48.0,0,0.0
+9,2005,14,massa,Massa,Felipe,Sauber,sauber,0,Withdrew,,,23.0,0,0.0
+9,2005,15,montoya,Pablo Montoya,Juan,McLaren,mclaren,0,Withdrew,,,237.0,0,4.0
+9,2005,16,villeneuve,Villeneuve,Jacques,Sauber,sauber,0,Withdrew,,,44.0,0,0.0
+9,2005,17,zonta,Zonta,Ricardo,Toyota,toyota,0,Withdrew,,,3.0,0,0.0
+9,2005,18,klien,Klien,Christian,Red Bull,red_bull,0,Withdrew,,,7.0,0,0.0
+9,2005,19,heidfeld,Heidfeld,Nick,Williams,williams,0,Withdrew,,,53.0,0,0.0
+9,2005,20,coulthard,Coulthard,David,Red Bull,red_bull,0,Withdrew,,,271.0,0,7.0
+10,2005,1,alonso,Alonso,Fernando,Renault,renault,10,Finished,1:16.502,207.571,2032.0,1,38.0
+10,2005,2,raikkonen,Räikkönen,Kimi,McLaren,mclaren,8,Finished,1:16.423,207.785,1779.0,0,25.0
+10,2005,3,michael_schumacher,Schumacher,Michael,Ferrari,ferrari,6,Finished,1:17.714,204.333,656.0,0,49.0
+10,2005,4,button,Button,Jenson,BAR,bar,5,+1 Lap,1:17.408,205.141,135.0,0,0.0
+10,2005,5,trulli,Trulli,Jarno,Toyota,toyota,4,+1 Lap,1:17.792,204.128,137.0,0,1.0
+10,2005,6,fisichella,Fisichella,Giancarlo,Renault,renault,3,+1 Lap,1:17.511,204.868,87.0,0,2.0
+10,2005,7,ralf_schumacher,Schumacher,Ralf,Toyota,toyota,2,+1 Lap,1:18.103,203.316,219.0,0,6.0
+10,2005,8,villeneuve,Villeneuve,Jacques,Sauber,sauber,1,+1 Lap,1:17.841,204.000,45.0,0,0.0
+10,2005,9,barrichello,Barrichello,Rubens,Ferrari,ferrari,0,+1 Lap,1:17.960,203.689,403.0,0,9.0
+10,2005,10,coulthard,Coulthard,David,Red Bull,red_bull,0,+1 Lap,1:17.611,204.605,271.0,0,7.0
+10,2005,11,sato,Sato,Takuma,BAR,bar,0,+1 Lap,1:17.929,203.770,39.0,0,0.0
+10,2005,12,webber,Webber,Mark,Williams,williams,0,+2 Laps,1:18.395,202.558,48.0,0,0.0
+10,2005,13,monteiro,Monteiro,Tiago,Jordan,jordan,0,+3 Laps,1:20.004,198.485,6.0,0,0.0
+10,2005,14,heidfeld,Heidfeld,Nick,Williams,williams,0,+4 Laps,1:18.102,203.318,53.0,0,0.0
+10,2005,15,karthikeyan,Karthikeyan,Narain,Jordan,jordan,0,+4 Laps,1:20.156,198.108,5.0,0,0.0
+10,2005,16,montoya,Pablo Montoya,Juan,McLaren,mclaren,0,Engine,1:16.656,207.154,237.0,0,4.0
+10,2005,17,albers,Albers,Christijan,Minardi,minardi,0,Puncture,1:21.077,195.858,4.0,0,0.0
+10,2005,18,friesacher,Friesacher,Patrick,Minardi,minardi,0,Puncture,1:21.451,194.958,3.0,0,0.0
+10,2005,19,massa,Massa,Felipe,Sauber,sauber,0,Hydraulics,1:17.805,204.094,23.0,0,0.0
+10,2005,20,klien,Klien,Christian,Red Bull,red_bull,0,Fuel pressure,,,7.0,0,0.0
+11,2005,1,montoya,Pablo Montoya,Juan,McLaren,mclaren,10,Finished,1:20.700,229.338,247.0,1,5.0
+11,2005,2,alonso,Alonso,Fernando,Renault,renault,8,Finished,1:21.228,227.847,2040.0,0,38.0
+11,2005,3,raikkonen,Räikkönen,Kimi,McLaren,mclaren,6,Finished,1:20.502,229.902,1785.0,0,25.0
+11,2005,4,fisichella,Fisichella,Giancarlo,Renault,renault,5,Finished,1:21.159,228.041,92.0,0,2.0
+11,2005,5,button,Button,Jenson,BAR,bar,4,Finished,1:21.993,225.721,139.0,0,0.0
+11,2005,6,michael_schumacher,Schumacher,Michael,Ferrari,ferrari,3,Finished,1:21.675,226.600,659.0,0,49.0
+11,2005,7,barrichello,Barrichello,Rubens,Ferrari,ferrari,2,Finished,1:22.302,224.874,405.0,0,9.0
+11,2005,8,ralf_schumacher,Schumacher,Ralf,Toyota,toyota,1,Finished,1:21.960,225.812,220.0,0,6.0
+11,2005,9,trulli,Trulli,Jarno,Toyota,toyota,0,Finished,1:22.112,225.394,137.0,0,1.0
+11,2005,10,massa,Massa,Felipe,Sauber,sauber,0,+1 Lap,1:22.466,224.427,23.0,0,0.0
+11,2005,11,webber,Webber,Mark,Williams,williams,0,+1 Lap,1:23.291,222.204,48.0,0,0.0
+11,2005,12,heidfeld,Heidfeld,Nick,Williams,williams,0,+1 Lap,1:23.360,222.020,53.0,0,0.0
+11,2005,13,coulthard,Coulthard,David,Red Bull,red_bull,0,+1 Lap,1:23.089,222.744,271.0,0,7.0
+11,2005,14,villeneuve,Villeneuve,Jacques,Sauber,sauber,0,+1 Lap,1:23.210,222.420,45.0,0,0.0
+11,2005,15,klien,Klien,Christian,Red Bull,red_bull,0,+1 Lap,1:23.147,222.588,7.0,0,0.0
+11,2005,16,sato,Sato,Takuma,BAR,bar,0,+2 Laps,1:22.551,224.195,39.0,0,0.0
+11,2005,17,monteiro,Monteiro,Tiago,Jordan,jordan,0,+2 Laps,1:24.247,219.682,6.0,0,0.0
+11,2005,18,albers,Albers,Christijan,Minardi,minardi,0,+3 Laps,1:26.182,214.750,4.0,0,0.0
+11,2005,19,friesacher,Friesacher,Patrick,Minardi,minardi,0,+4 Laps,1:26.489,213.987,3.0,0,0.0
+11,2005,20,karthikeyan,Karthikeyan,Narain,Jordan,jordan,0,Electrical,1:25.257,217.080,5.0,0,0.0
+12,2005,1,alonso,Alonso,Fernando,Renault,renault,10,Finished,1:15.235,218.866,2050.0,1,39.0
+12,2005,2,montoya,Pablo Montoya,Juan,McLaren,mclaren,8,Finished,1:15.878,217.011,255.0,0,5.0
+12,2005,3,button,Button,Jenson,BAR,bar,6,Finished,1:15.843,217.111,145.0,0,0.0
+12,2005,4,fisichella,Fisichella,Giancarlo,Renault,renault,5,Finished,1:15.890,216.977,97.0,0,2.0
+12,2005,5,michael_schumacher,Schumacher,Michael,Ferrari,ferrari,4,Finished,1:16.099,216.381,663.0,0,49.0
+12,2005,6,ralf_schumacher,Schumacher,Ralf,Toyota,toyota,3,Finished,1:16.073,216.455,223.0,0,6.0
+12,2005,7,coulthard,Coulthard,David,Red Bull,red_bull,2,Finished,1:16.233,216.000,273.0,0,7.0
+12,2005,8,massa,Massa,Felipe,Sauber,sauber,1,Finished,1:16.288,215.845,24.0,0,0.0
+12,2005,9,klien,Klien,Christian,Red Bull,red_bull,0,Finished,1:16.236,215.992,7.0,0,0.0
+12,2005,10,barrichello,Barrichello,Rubens,Ferrari,ferrari,0,+1 Lap,1:16.528,215.168,405.0,0,9.0
+12,2005,11,heidfeld,Heidfeld,Nick,Williams,williams,0,+1 Lap,1:16.607,214.946,53.0,0,0.0
+12,2005,12,sato,Sato,Takuma,BAR,bar,0,+1 Lap,1:16.725,214.615,39.0,0,0.0
+12,2005,13,albers,Albers,Christijan,Minardi,minardi,0,+2 Laps,1:18.425,209.963,4.0,0,0.0
+12,2005,14,trulli,Trulli,Jarno,Toyota,toyota,0,+3 Laps,1:16.474,215.320,137.0,0,1.0
+12,2005,15,villeneuve,Villeneuve,Jacques,Sauber,sauber,0,+3 Laps,1:17.122,213.511,45.0,0,0.0
+12,2005,16,karthikeyan,Karthikeyan,Narain,Jordan,jordan,0,+3 Laps,1:18.212,210.535,5.0,0,0.0
+12,2005,17,monteiro,Monteiro,Tiago,Jordan,jordan,0,+3 Laps,1:18.106,210.821,6.0,0,0.0
+12,2005,18,doornbos,Doornbos,Robert,Minardi,minardi,0,+4 Laps,1:19.025,208.369,0.0,0,0.0
+12,2005,19,webber,Webber,Mark,Williams,williams,0,+12 Laps,1:16.803,214.397,48.0,0,0.0
+12,2005,20,raikkonen,Räikkönen,Kimi,McLaren,mclaren,0,Hydraulics,1:14.873,219.924,1785.0,0,25.0
+13,2005,1,raikkonen,Räikkönen,Kimi,McLaren,mclaren,10,Finished,1:21.219,194.186,1795.0,1,26.0
+13,2005,2,michael_schumacher,Schumacher,Michael,Ferrari,ferrari,8,Finished,1:21.476,193.573,671.0,0,49.0
+13,2005,3,ralf_schumacher,Schumacher,Ralf,Toyota,toyota,6,Finished,1:21.873,192.634,229.0,0,6.0
+13,2005,4,trulli,Trulli,Jarno,Toyota,toyota,5,Finished,1:21.842,192.707,142.0,0,1.0
+13,2005,5,button,Button,Jenson,BAR,bar,4,Finished,1:22.406,191.388,149.0,0,0.0
+13,2005,6,heidfeld,Heidfeld,Nick,Williams,williams,3,Finished,1:22.053,192.212,56.0,0,0.0
+13,2005,7,webber,Webber,Mark,Williams,williams,2,+1 Lap,1:22.453,191.279,50.0,0,0.0
+13,2005,8,sato,Sato,Takuma,BAR,bar,1,+1 Lap,1:22.399,191.405,40.0,0,0.0
+13,2005,9,fisichella,Fisichella,Giancarlo,Renault,renault,0,+1 Lap,1:22.506,191.157,97.0,0,2.0
+13,2005,10,barrichello,Barrichello,Rubens,Ferrari,ferrari,0,+1 Lap,1:22.768,190.551,405.0,0,9.0
+13,2005,11,alonso,Alonso,Fernando,Renault,renault,0,+1 Lap,1:22.884,190.285,2050.0,0,39.0
+13,2005,12,karthikeyan,Karthikeyan,Narain,Jordan,jordan,0,+3 Laps,1:24.446,186.765,5.0,0,0.0
+13,2005,13,monteiro,Monteiro,Tiago,Jordan,jordan,0,+4 Laps,1:24.774,186.042,6.0,0,0.0
+13,2005,14,massa,Massa,Felipe,Sauber,sauber,0,+7 Laps,1:23.048,189.909,24.0,0,0.0
+13,2005,15,albers,Albers,Christijan,Minardi,minardi,0,+11 Laps,1:25.956,183.484,4.0,0,0.0
+13,2005,16,villeneuve,Villeneuve,Jacques,Sauber,sauber,0,Engine fire,1:23.118,189.749,45.0,0,0.0
+13,2005,17,montoya,Pablo Montoya,Juan,McLaren,mclaren,0,Driveshaft,1:21.237,194.143,255.0,0,5.0
+13,2005,18,doornbos,Doornbos,Robert,Minardi,minardi,0,Hydraulics,1:25.646,184.148,0.0,0,0.0
+13,2005,19,coulthard,Coulthard,David,Red Bull,red_bull,0,Accident,,,273.0,0,7.0
+13,2005,20,klien,Klien,Christian,Red Bull,red_bull,0,Accident,,,7.0,0,0.0
+14,2005,1,raikkonen,Räikkönen,Kimi,McLaren,mclaren,10,Finished,1:25.030,226.000,1805.0,1,27.0
+14,2005,2,alonso,Alonso,Fernando,Renault,renault,8,Finished,1:25.524,224.694,2058.0,0,39.0
+14,2005,3,montoya,Pablo Montoya,Juan,McLaren,mclaren,6,Finished,1:24.770,226.693,261.0,0,5.0
+14,2005,4,fisichella,Fisichella,Giancarlo,Renault,renault,5,Finished,1:25.604,224.484,102.0,0,2.0
+14,2005,5,button,Button,Jenson,BAR,bar,4,Finished,1:25.790,223.998,153.0,0,0.0
+14,2005,6,trulli,Trulli,Jarno,Toyota,toyota,3,Finished,1:26.178,222.989,145.0,0,1.0
+14,2005,7,coulthard,Coulthard,David,Red Bull,red_bull,2,Finished,1:26.417,222.372,275.0,0,7.0
+14,2005,8,klien,Klien,Christian,Red Bull,red_bull,1,Finished,1:26.374,222.483,8.0,0,0.0
+14,2005,9,sato,Sato,Takuma,BAR,bar,0,Finished,1:25.858,223.820,40.0,0,0.0
+14,2005,10,barrichello,Barrichello,Rubens,Ferrari,ferrari,0,+1 Lap,1:26.635,221.813,405.0,0,9.0
+14,2005,11,villeneuve,Villeneuve,Jacques,Sauber,sauber,0,+1 Lap,1:26.967,220.966,45.0,0,0.0
+14,2005,12,ralf_schumacher,Schumacher,Ralf,Toyota,toyota,0,+1 Lap,1:27.025,220.819,229.0,0,6.0
+14,2005,13,doornbos,Doornbos,Robert,Minardi,minardi,0,+3 Laps,1:29.229,215.364,0.0,0,0.0
+14,2005,14,karthikeyan,Karthikeyan,Narain,Jordan,jordan,0,+3 Laps,1:29.286,215.227,5.0,0,0.0
+14,2005,15,monteiro,Monteiro,Tiago,Jordan,jordan,0,+3 Laps,1:29.035,215.834,6.0,0,0.0
+14,2005,16,albers,Albers,Christijan,Minardi,minardi,0,Retired,1:29.392,214.972,4.0,0,0.0
+14,2005,17,michael_schumacher,Schumacher,Michael,Ferrari,ferrari,0,Retired,1:26.991,220.905,671.0,0,49.0
+14,2005,18,heidfeld,Heidfeld,Nick,Williams,williams,0,Tyre,1:27.353,219.990,56.0,0,0.0
+14,2005,19,massa,Massa,Felipe,Sauber,sauber,0,Engine,1:26.514,222.123,24.0,0,0.0
+14,2005,20,webber,Webber,Mark,Williams,williams,0,Tyre,1:26.791,221.414,50.0,0,0.0
+15,2005,1,montoya,Pablo Montoya,Juan,McLaren,mclaren,10,Finished,1:21.828,254.861,271.0,1,6.0
+15,2005,2,alonso,Alonso,Fernando,Renault,renault,8,Finished,1:22.146,253.874,2066.0,0,39.0
+15,2005,3,fisichella,Fisichella,Giancarlo,Renault,renault,6,Finished,1:22.587,252.519,108.0,0,2.0
+15,2005,4,raikkonen,Räikkönen,Kimi,McLaren,mclaren,5,Finished,1:21.504,255.874,1810.0,0,27.0
+15,2005,5,trulli,Trulli,Jarno,Toyota,toyota,4,Finished,1:22.831,251.775,149.0,0,1.0
+15,2005,6,ralf_schumacher,Schumacher,Ralf,Toyota,toyota,3,Finished,1:23.076,251.032,232.0,0,6.0
+15,2005,7,pizzonia,Pizzonia,Antônio,Williams,williams,2,Finished,1:22.870,251.656,8.0,0,0.0
+15,2005,8,button,Button,Jenson,BAR,bar,1,Finished,1:23.161,250.776,154.0,0,0.0
+15,2005,9,massa,Massa,Felipe,Sauber,sauber,0,Finished,1:23.365,250.162,24.0,0,0.0
+15,2005,10,michael_schumacher,Schumacher,Michael,Ferrari,ferrari,0,Finished,1:23.584,249.507,671.0,0,49.0
+15,2005,11,villeneuve,Villeneuve,Jacques,Sauber,sauber,0,+1 Lap,1:23.892,248.591,45.0,0,0.0
+15,2005,12,barrichello,Barrichello,Rubens,Ferrari,ferrari,0,+1 Lap,1:23.466,249.859,405.0,0,9.0
+15,2005,13,klien,Klien,Christian,Red Bull,red_bull,0,+1 Lap,1:23.633,249.360,8.0,0,0.0
+15,2005,14,webber,Webber,Mark,Williams,williams,0,+1 Lap,1:22.935,251.459,50.0,0,0.0
+15,2005,15,coulthard,Coulthard,David,Red Bull,red_bull,0,+1 Lap,1:23.867,248.665,275.0,0,7.0
+15,2005,16,sato,Sato,Takuma,BAR,bar,0,+1 Lap,1:23.341,250.234,40.0,0,0.0
+15,2005,17,monteiro,Monteiro,Tiago,Jordan,jordan,0,+2 Laps,1:24.810,245.900,6.0,0,0.0
+15,2005,18,doornbos,Doornbos,Robert,Minardi,minardi,0,+2 Laps,1:25.193,244.794,0.0,0,0.0
+15,2005,19,albers,Albers,Christijan,Minardi,minardi,0,+2 Laps,1:24.966,245.448,4.0,0,0.0
+15,2005,20,karthikeyan,Karthikeyan,Narain,Jordan,jordan,0,+3 Laps,1:25.146,244.929,5.0,0,0.0
+16,2005,1,raikkonen,Räikkönen,Kimi,McLaren,mclaren,10,Finished,1:53.810,220.662,1820.0,1,28.0
+16,2005,2,alonso,Alonso,Fernando,Renault,renault,8,Finished,1:56.131,216.252,2074.0,0,39.0
+16,2005,3,button,Button,Jenson,BAR,bar,6,Finished,1:53.323,221.610,160.0,0,0.0
+16,2005,4,webber,Webber,Mark,Williams,williams,5,Finished,1:52.287,223.655,55.0,0,0.0
+16,2005,5,barrichello,Barrichello,Rubens,Ferrari,ferrari,4,Finished,1:52.590,223.053,409.0,0,9.0
+16,2005,6,villeneuve,Villeneuve,Jacques,Sauber,sauber,3,Finished,1:54.251,219.810,48.0,0,0.0
+16,2005,7,ralf_schumacher,Schumacher,Ralf,Toyota,toyota,2,Finished,1:51.453,225.329,234.0,0,6.0
+16,2005,8,monteiro,Monteiro,Tiago,Jordan,jordan,1,+1 Lap,1:57.886,213.032,7.0,0,0.0
+16,2005,9,klien,Klien,Christian,Red Bull,red_bull,0,+1 Lap,1:52.582,223.069,8.0,0,0.0
+16,2005,10,massa,Massa,Felipe,Sauber,sauber,0,+1 Lap,1:57.748,213.282,24.0,0,0.0
+16,2005,11,karthikeyan,Karthikeyan,Narain,Jordan,jordan,0,+1 Lap,1:55.885,216.711,5.0,0,0.0
+16,2005,12,albers,Albers,Christijan,Minardi,minardi,0,+2 Laps,2:01.627,206.480,4.0,0,0.0
+16,2005,13,doornbos,Doornbos,Robert,Minardi,minardi,0,+3 Laps,2:01.148,207.296,0.0,0,0.0
+16,2005,14,montoya,Pablo Montoya,Juan,McLaren,mclaren,0,Collision,1:55.988,216.518,271.0,0,6.0
+16,2005,15,pizzonia,Pizzonia,Antônio,Williams,williams,0,Collision,1:57.541,213.658,8.0,0,0.0
+16,2005,16,trulli,Trulli,Jarno,Toyota,toyota,0,Accident,1:56.953,214.732,149.0,0,1.0
+16,2005,17,coulthard,Coulthard,David,Red Bull,red_bull,0,Engine,1:58.451,212.016,275.0,0,7.0
+16,2005,18,michael_schumacher,Schumacher,Michael,Ferrari,ferrari,0,Accident,1:57.444,213.834,671.0,0,49.0
+16,2005,19,sato,Sato,Takuma,BAR,bar,0,Accident,1:57.534,213.670,40.0,0,0.0
+16,2005,20,fisichella,Fisichella,Giancarlo,Renault,renault,0,Accident,1:57.117,214.431,108.0,0,2.0
+17,2005,1,montoya,Pablo Montoya,Juan,McLaren,mclaren,10,Finished,1:12.650,213.522,281.0,1,7.0
+17,2005,2,raikkonen,Räikkönen,Kimi,McLaren,mclaren,8,Finished,1:12.268,214.651,1828.0,0,28.0
+17,2005,3,alonso,Alonso,Fernando,Renault,renault,6,Finished,1:12.653,213.513,2080.0,0,39.0
+17,2005,4,michael_schumacher,Schumacher,Michael,Ferrari,ferrari,5,Finished,1:12.800,213.082,676.0,0,49.0
+17,2005,5,fisichella,Fisichella,Giancarlo,Renault,renault,4,Finished,1:13.190,211.946,112.0,0,2.0
+17,2005,6,barrichello,Barrichello,Rubens,Ferrari,ferrari,3,Finished,1:13.192,211.941,412.0,0,9.0
+17,2005,7,button,Button,Jenson,BAR,bar,2,+1 Lap,1:13.746,210.349,162.0,0,0.0
+17,2005,8,ralf_schumacher,Schumacher,Ralf,Toyota,toyota,1,+1 Lap,1:13.724,210.411,235.0,0,6.0
+17,2005,9,klien,Klien,Christian,Red Bull,red_bull,0,+1 Lap,1:13.800,210.195,8.0,0,0.0
+17,2005,10,sato,Sato,Takuma,BAR,bar,0,+1 Lap,1:14.394,208.516,40.0,0,0.0
+17,2005,11,massa,Massa,Felipe,Sauber,sauber,0,+1 Lap,1:14.343,208.659,24.0,0,0.0
+17,2005,12,villeneuve,Villeneuve,Jacques,Sauber,sauber,0,+1 Lap,1:14.054,209.474,48.0,0,0.0
+17,2005,13,trulli,Trulli,Jarno,Toyota,toyota,0,+2 Laps,1:13.570,210.852,149.0,0,1.0
+17,2005,14,albers,Albers,Christijan,Minardi,minardi,0,+2 Laps,1:15.527,205.388,4.0,0,0.0
+17,2005,15,karthikeyan,Karthikeyan,Narain,Jordan,jordan,0,+3 Laps,1:14.906,207.091,5.0,0,0.0
+17,2005,16,monteiro,Monteiro,Tiago,Jordan,jordan,0,Mechanical,1:15.113,206.520,7.0,0,0.0
+17,2005,17,webber,Webber,Mark,Williams,williams,0,+26 Laps,1:13.590,210.794,55.0,0,0.0
+17,2005,18,doornbos,Doornbos,Robert,Minardi,minardi,0,Engine,1:15.792,204.670,0.0,0,0.0
+17,2005,19,pizzonia,Pizzonia,Antônio,Williams,williams,0,Accident,,,8.0,0,0.0
+17,2005,20,coulthard,Coulthard,David,Red Bull,red_bull,0,Accident,,,275.0,0,7.0
+18,2005,1,raikkonen,Räikkönen,Kimi,McLaren,mclaren,10,Finished,1:31.540,228.372,1838.0,1,29.0
+18,2005,2,fisichella,Fisichella,Giancarlo,Renault,renault,8,Finished,1:32.522,225.948,120.0,0,2.0
+18,2005,3,alonso,Alonso,Fernando,Renault,renault,6,Finished,1:31.599,228.225,2086.0,0,39.0
+18,2005,4,webber,Webber,Mark,Williams,williams,5,Finished,1:33.022,224.733,60.0,0,0.0
+18,2005,5,button,Button,Jenson,BAR,bar,4,Finished,1:32.754,225.383,166.0,0,0.0
+18,2005,6,coulthard,Coulthard,David,Red Bull,red_bull,3,Finished,1:33.023,224.731,278.0,0,7.0
+18,2005,7,michael_schumacher,Schumacher,Michael,Ferrari,ferrari,2,Finished,1:32.763,225.361,678.0,0,49.0
+18,2005,8,ralf_schumacher,Schumacher,Ralf,Toyota,toyota,1,Finished,1:32.795,225.283,236.0,0,6.0
+18,2005,9,klien,Klien,Christian,Red Bull,red_bull,0,Finished,1:33.499,223.587,8.0,0,0.0
+18,2005,10,massa,Massa,Felipe,Sauber,sauber,0,Finished,1:33.232,224.227,24.0,0,0.0
+18,2005,11,barrichello,Barrichello,Rubens,Ferrari,ferrari,0,Finished,1:33.133,224.466,412.0,0,9.0
+18,2005,12,villeneuve,Villeneuve,Jacques,Sauber,sauber,0,Finished,1:33.288,224.093,48.0,0,0.0
+18,2005,13,monteiro,Monteiro,Tiago,Jordan,jordan,0,+1 Lap,1:35.458,218.998,7.0,0,0.0
+18,2005,14,doornbos,Doornbos,Robert,Minardi,minardi,0,+2 Laps,1:36.574,216.468,0.0,0,0.0
+18,2005,15,karthikeyan,Karthikeyan,Narain,Jordan,jordan,0,+2 Laps,1:35.887,218.019,5.0,0,0.0
+18,2005,16,albers,Albers,Christijan,Minardi,minardi,0,+4 Laps,1:36.039,217.674,4.0,0,0.0
+18,2005,17,pizzonia,Pizzonia,Antônio,Williams,williams,0,Accident,1:36.711,216.161,8.0,0,0.0
+18,2005,18,trulli,Trulli,Jarno,Toyota,toyota,0,Accident,1:37.428,214.570,149.0,0,1.0
+18,2005,19,montoya,Pablo Montoya,Juan,McLaren,mclaren,0,Accident,,,281.0,0,7.0
+18,2005,20,sato,Sato,Takuma,BAR,bar,0,Disqualified,1:34.186,221.956,40.0,0,0.0
+19,2005,1,alonso,Alonso,Fernando,Renault,renault,10,Finished,1:33.536,209.797,2096.0,1,40.0
+19,2005,2,raikkonen,Räikkönen,Kimi,McLaren,mclaren,8,Finished,1:33.242,210.458,1846.0,0,29.0
+19,2005,3,ralf_schumacher,Schumacher,Ralf,Toyota,toyota,6,Finished,1:34.035,208.684,242.0,0,6.0
+19,2005,4,fisichella,Fisichella,Giancarlo,Renault,renault,5,Finished,1:33.563,209.736,125.0,0,2.0
+19,2005,5,klien,Klien,Christian,Red Bull,red_bull,4,Finished,1:33.727,209.369,12.0,0,0.0
+19,2005,6,massa,Massa,Felipe,Sauber,sauber,3,Finished,1:34.094,208.553,27.0,0,0.0
+19,2005,7,webber,Webber,Mark,Williams,williams,2,Finished,1:34.271,208.161,62.0,0,0.0
+19,2005,8,button,Button,Jenson,BAR,bar,1,Finished,1:34.766,207.074,167.0,0,0.0
+19,2005,9,coulthard,Coulthard,David,Red Bull,red_bull,0,Finished,1:34.585,207.470,278.0,0,7.0
+19,2005,10,villeneuve,Villeneuve,Jacques,Sauber,sauber,0,Finished,1:34.713,207.190,48.0,0,0.0
+19,2005,11,monteiro,Monteiro,Tiago,Jordan,jordan,0,Finished,1:36.563,203.220,7.0,0,0.0
+19,2005,12,barrichello,Barrichello,Rubens,Ferrari,ferrari,0,Finished,1:35.011,206.540,412.0,0,9.0
+19,2005,13,pizzonia,Pizzonia,Antônio,Williams,williams,0,Tyre puncture,1:34.560,207.525,8.0,0,0.0
+19,2005,14,doornbos,Doornbos,Robert,Minardi,minardi,0,Out of fuel,1:36.894,202.526,0.0,0,0.0
+19,2005,15,trulli,Trulli,Jarno,Toyota,toyota,0,+1 Lap,1:35.347,205.812,149.0,0,1.0
+19,2005,16,albers,Albers,Christijan,Minardi,minardi,0,Wheel nut,1:37.215,201.857,4.0,0,0.0
+19,2005,17,sato,Sato,Takuma,BAR,bar,0,Gearbox,1:35.587,205.295,40.0,0,0.0
+19,2005,18,karthikeyan,Karthikeyan,Narain,Jordan,jordan,0,Accident,1:37.398,201.478,5.0,0,0.0
+19,2005,19,montoya,Pablo Montoya,Juan,McLaren,mclaren,0,Engine,1:34.501,207.654,281.0,0,7.0
+19,2005,20,michael_schumacher,Schumacher,Michael,Ferrari,ferrari,0,Spun off,1:35.877,204.674,678.0,0,49.0

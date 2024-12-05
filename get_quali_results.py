@@ -1,6 +1,56 @@
 import pandas as pd
 import requests
-from statsmodels.graphics.tukeyplot import results
+
+
+def get_rounds(year):
+    if year == 2018:
+        return 21
+    elif year == 2019:
+        return 21
+    elif year == 2020:
+        return 17
+    elif year == 2021:
+        return 22
+    elif year == 2022:
+        return 22
+    elif year == 2023:
+        return 23
+    elif year == 2000:
+        return 18
+    elif year == 2001:
+        return 18
+    elif year == 2002:
+        return 18
+    elif year == 2003:
+        return 17
+    elif year == 2004:
+        return 20
+    elif year == 2005:
+        return 19
+    elif year == 2006:
+        return 18
+    elif year == 2007:
+        return 19
+    elif year == 2008:
+        return 18
+    elif year == 2009:
+        return 18
+    elif year == 2010:
+        return 20
+    elif year == 2011:
+        return 20
+    elif year == 2012:
+        return 21
+    elif year == 2013:
+        return 20
+    elif year == 2014:
+        return 20
+    elif year == 2015:
+        return 20
+    elif year == 2016:
+        return 22
+    elif year == 2017:
+        return 21
 
 
 def get_quali_results(year, round):
@@ -8,19 +58,19 @@ def get_quali_results(year, round):
     response = requests.get(url)
     if response.status_code == 200:
         quali_data = response.json().get('MRData', {}).get('RaceTable', {}).get('Races', [])
-        if quali_data:
-            race = quali_data[0]  # Assuming there's only one race for the given year and round
-            quali_results = race.get('QualifyingResults', [])
 
+        # Check if there is race data
+        if quali_data:
+            quali_results = quali_data[0].get('QualifyingResults', [])
             if quali_results:
                 for result in quali_results:
-                    result['Round'] = round + 1
+                    result['Round'] = round
                     result['Driver Id'] = result['Driver']['driverId']
 
-
                 quali_df = pd.json_normalize(quali_results)
+                quali_df['Q2'] = quali_df.get('time', None)
+                quali_df['Q3'] = quali_df.get('time', None)
 
-                # Filter the relevant columns
                 quali_df = quali_df[[
                     'Round', 'Driver Id', 'Driver.givenName', 'Driver.familyName', 'Constructor.name', 'position', 'Q1',
                     'Q2', 'Q3'
@@ -38,29 +88,29 @@ def get_quali_results(year, round):
                 }, inplace=True)
 
                 return quali_df
+            else:
+                print(f"No qualifying results available for Year: {year}, Round: {round}.")
+                return pd.DataFrame()
         else:
-            print(f"No data available for the year {year}.")
+            print(f"No race data available for Year: {year}, Round: {round}.")
             return pd.DataFrame()
-
     else:
-        print(f"Failed to fetch data: {response.status_code}")
-        return []
+        print(f"Failed to fetch data for Year: {year}, Round: {round}. HTTP Status Code: {response.status_code}")
+        return pd.DataFrame()
 
 
 def main():
-    # results = []
-    for i in range(2018, 2024):
+    for i in range(2000, 2024):
         filename = f"season_schedule/{i}_season_schedule.csv"
-        df = pd.read_csv(filename)
-        round_count = df['Round'].count()
+        round_count = get_rounds(i)
 
         season_results = []
 
-        for j in range(round_count):
+        for j in range(1, round_count + 1):  # Ensure the round count is inclusive
+            print(f"Fetching qualifying data for Year: {i}, Round: {j}")
             results = get_quali_results(i, j)
             if not results.empty:
                 season_results.append(results)
-
 
         if season_results:
             season_df = pd.concat(season_results, ignore_index=True)
@@ -68,7 +118,6 @@ def main():
             season_df.to_csv(f"quali_data/{i}_quali_results.csv", index=False)
         else:
             print(f"No qualifying results found for season {i}.")
-
 
 
 main()

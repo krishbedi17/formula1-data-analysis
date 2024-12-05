@@ -15,6 +15,42 @@ def get_rounds(year):
         return 22
     elif year == 2023:
         return 23
+    elif year == 2000:
+        return 18
+    elif year == 2001:
+        return 18
+    elif year == 2002:
+        return 18
+    elif year == 2003:
+        return 17
+    elif year == 2004:
+        return 20
+    elif year == 2005:
+        return 19
+    elif year == 2006:
+        return 18
+    elif year == 2007:
+        return 19
+    elif year == 2008:
+        return 18
+    elif year == 2009:
+        return 18
+    elif year == 2010:
+        return 20
+    elif year == 2011:
+        return 20
+    elif year == 2012:
+        return 21
+    elif year == 2013:
+        return 20
+    elif year == 2014:
+        return 20
+    elif year == 2015:
+        return 20
+    elif year == 2016:
+        return 22
+    elif year == 2017:
+        return 21
 
 
 def get_race_data(year, total_rounds, total_points, total_wins):
@@ -81,7 +117,7 @@ def main():
     total_points = points_and_wins_until_2017.set_index('Driver ID')['Total Points Until 2017'].to_dict()
     total_wins = points_and_wins_until_2017.set_index('Driver ID')['Total Wins Until 2017'].to_dict()
 
-    for year in range(2018, 2024):
+    for year in range(2000, 2024):
         total_rounds = get_rounds(year)
         race_results, total_points, total_wins = get_race_data(year, total_rounds, total_points, total_wins)
         race_results.to_csv(f"race_data/{year}_race_results.csv", index=False)

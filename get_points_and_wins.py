@@ -59,10 +59,7 @@ def get_driver_points_until_2017(driver_id):
 
 def main():
     data = pd.read_csv("race_error/driver_error_probabilities.csv")
-
-    # Extract the 'Driver ID' column
     driver_ids = data['Driver ID'].tolist()
-
     results = []
     for driver_id in driver_ids:
         driver_stats = get_driver_points_until_2017(driver_id)

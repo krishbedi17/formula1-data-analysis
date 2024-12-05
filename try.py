@@ -1,143 +1,97 @@
 import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-from sklearn.model_selection import train_test_split
-from sklearn.preprocessing import StandardScaler, LabelEncoder
+from sklearn.preprocessing import StandardScaler
 from sklearn.ensemble import RandomForestRegressor
-from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
+from sklearn.metrics import mean_squared_error, accuracy_score
 
-# Load the data (replace with the correct path to your dataset)
-data = pd.read_csv('merged_data/merged_data.csv')  # Replace with the correct path to your dataset
+def time_to_seconds(time_str):
+    if isinstance(time_str, str):
+        parts = time_str.split(':')
+        if len(parts) == 2:  # MM:SS.MS format
+            minutes, seconds = parts
+            total_seconds = int(minutes) * 60 + float(seconds)
+        elif len(parts) == 3:  # HH:MM:SS.MS format
+            hours, minutes, seconds = parts
+            total_seconds = int(hours) * 3600 + int(minutes) * 60 + float(seconds)
+        else:
+            total_seconds = float(time_str)  # If it's already in seconds
+        return total_seconds
+    return time_str
 
-# Data Preprocessing
-def preprocess_data(df):
-    # Create a copy of the dataframe
-    df_processed = df.copy()
 
-    # Select relevant features for prediction
-    numeric_columns = [
-        'Quali Position', 'Race Position', 'Points',
-        'Fastest Lap Avg Speed (kph)', 'Total Points',
-        'Total Wins', 'AirTemp', 'Humidity', 'TrackTemp', 'WindSpeed'
-    ]
+def main():
+    # Load the dataset
+    df = pd.read_csv('merged_data/merged_data.csv')
 
-    # Convert columns to numeric, coercing errors to NaN
-    for col in numeric_columns:
-        df_processed[col] = pd.to_numeric(df_processed[col], errors='coerce')
+    # Split data based on years: Training on 2018-2022 and testing on 2023
+    train_data = df[df['Year'] < 2023]
+    test_data = df[df['Year'] == 2023]
 
-    # Handle missing values (fill with the median)
-    for col in numeric_columns:
-        df_processed[col] = df_processed[col].fillna(df_processed[col].median())
+    # Drop rows with NaN values in the target or feature columns
+    features = ['AirTemp', 'Humidity', 'Pressure', 'TrackTemp', 'WindDirection', 'WindSpeed',
+                'Q1 Time', 'Q2 Time', 'Q3 Time', 'Points', 'Fastest Lap Time', 'Quali Position', 'Total Points',
+                'Total Wins']
+    print(train_data.count())
+    train_data = train_data.dropna(subset=['Points', 'Driver ID'])
+    test_data = test_data.dropna(subset=['Points', 'Driver ID'])
+    print(train_data.count())
+    return
+    # Convert time columns to seconds
+    time_columns = ['Q1 Time', 'Q2 Time', 'Q3 Time', 'Fastest Lap Time']
+    for col in time_columns:
+        train_data.loc[:, col] = train_data[col].apply(time_to_seconds)
+        test_data.loc[:, col] = test_data[col].apply(time_to_seconds)
 
-    # Encode categorical variables (Driver ID and Constructor ID)
-    le_driver = LabelEncoder()
-    le_constructor = LabelEncoder()
+    # Feature scaling
+    scaler = StandardScaler()
+    train_data[features] = scaler.fit_transform(train_data[features])
+    test_data[features] = scaler.transform(test_data[features])
 
-    df_processed['Driver ID'] = le_driver.fit_transform(df_processed['Driver ID'].astype(str))
-    df_processed['Constructor ID'] = le_constructor.fit_transform(df_processed['Constructor ID'].astype(str))
+    # Set the features and target for training and testing
+    X_train = train_data[features]  # Features (input)
+    y_train = train_data['Points']  # Target (output) - Points scored by the driver
 
-    return df_processed, le_driver  # Return the LabelEncoder for Driver ID
+    X_test = test_data[features]  # Features for testing
+    y_test = test_data['Points']  # Target for testing
 
-# Preprocess the data
-processed_data, le_driver = preprocess_data(data)
+    # Train the model
+    model = RandomForestRegressor()
+    model.fit(X_train, y_train)
 
-# Add back the Year column
-processed_data['Year'] = data['Year']
+    # Make predictions
+    y_pred = model.predict(X_test)
 
-# Create a mapping of Driver ID to Driver First Name
-driver_name_mapping = dict(zip(data['Driver ID'], data['Driver First Name']))
+    # Evaluate the model performance using mean squared error
+    mse = mean_squared_error(y_test, y_pred)
+    print(f"Mean Squared Error: {mse:.2f}")
 
-# Separate training and test data (using 2018-2022 for training and 2023 for testing)
-train_data = processed_data[processed_data['Year'] < 2023]
-test_data = processed_data[processed_data['Year'] == 2023]
+    # Add predictions to the test data
+    test_data['Predicted Points Scored'] = y_pred
 
-# Define features (X) and target (y)
-X_train = train_data[[
-    'Driver ID', 'Constructor ID', 'Quali Position',
-    'Race Position', 'Fastest Lap Avg Speed (kph)',
-    'Total Points', 'Total Wins',
-    'AirTemp', 'Humidity', 'TrackTemp', 'WindSpeed', 'Year'
-]]
-y_train = train_data['Points']
+    # Initialize variables for winner prediction
+    actual_winners = []
+    predicted_winners = []
 
-X_test = test_data[[
-    'Driver ID', 'Constructor ID', 'Quali Position',
-    'Race Position', 'Fastest Lap Avg Speed (kph)',
-    'Total Points', 'Total Wins',
-    'AirTemp', 'Humidity', 'TrackTemp', 'WindSpeed', 'Year'
-]]
-y_test = test_data['Points']
+    # Feed the model round by round and predict the points scored
+    print("Round-by-Round Predicted Points for 2023:")
 
-# Scale the features
-scaler = StandardScaler()
-X_train_scaled = scaler.fit_transform(X_train)
-X_test_scaled = scaler.transform(X_test)
+    # Iterate over the test data by race (round)
+    for round_num, round_data in test_data.groupby('Round'):
+        print(f"\nPredictions for Race {round_num}:")
 
-# Train Random Forest Regressor
-rf_regressor = RandomForestRegressor(n_estimators=100, random_state=42)
-rf_regressor.fit(X_train_scaled, y_train)
+        # Find the actual winner (Race Position == 1)
+        actual_winner = round_data[round_data['Race Position'] == 1]['Driver ID'].iloc[0]
+        actual_winners.append(actual_winner)
 
-# Predict and evaluate
-y_pred_rf = rf_regressor.predict(X_test_scaled)
+        predicted_winner = round_data.loc[round_data['Predicted Points Scored'].idxmax()]['Driver ID']
+        predicted_winners.append(predicted_winner)
 
-# Cap the predicted points at a maximum of 25 (maximum points in F1 race)
-y_pred_rf = np.clip(y_pred_rf, 0, 25)  # Ensure no predicted points are higher than 25
+        for _, driver_data in round_data.iterrows():
+            driver_id = driver_data['Driver ID']
+            predicted_points = driver_data['Predicted Points Scored']
+            print(f"Driver ID: {driver_id}, Predicted Points: {predicted_points:.2f}")
 
-# Evaluation Metrics for Random Forest
-print("Random Forest Regression Evaluation Metrics:")
-print("Mean Squared Error:", mean_squared_error(y_test, y_pred_rf))
-print("Mean Absolute Error:", mean_absolute_error(y_test, y_pred_rf))
-print("R-squared Score:", r2_score(y_test, y_pred_rf))
+    accuracy = accuracy_score(actual_winners, predicted_winners)
+    print(f"\nAccuracy of predicting race winners: {accuracy * 100:.2f}%")
 
-# Feature Importance Visualization (Random Forest)
-plt.figure(figsize=(10, 6))
-feature_importance = pd.DataFrame({
-    'feature': X_train.columns,
-    'importance': rf_regressor.feature_importances_
-}).sort_values('importance', ascending=False)
 
-sns.barplot(x='importance', y='feature', data=feature_importance)
-plt.title('Feature Importance for F1 Points Prediction (Random Forest)')
-plt.xlabel('Importance')
-plt.ylabel('Features')
-plt.tight_layout()
-plt.show()
-
-# Scatter plot of actual vs predicted points (Random Forest)
-plt.figure(figsize=(10, 6))
-plt.scatter(y_test, y_pred_rf)
-plt.plot([y_test.min(), y_test.max()], [y_test.min(), y_test.max()], 'r--', lw=2)
-plt.xlabel('Actual Points')
-plt.ylabel('Predicted Points')
-plt.title('Actual vs Predicted Points (Random Forest)')
-plt.tight_layout()
-plt.show()
-
-# ------------------------------
-# Predict the Winning Driver for 2023
-# ------------------------------
-# Get the predicted points for 2023
-test_data.loc[:, 'Predicted Points'] = rf_regressor.predict(X_test_scaled)  # Fix SettingWithCopyWarning
-
-# Cap the predicted points at a maximum of 25 (in case it's not already capped)
-test_data['Predicted Points'] = np.clip(test_data['Predicted Points'], 0, 25)
-
-# Print the Driver ID and Driver Name for all drivers in 2023 with predicted points
-print("\nDriver ID and Driver Name with Predicted Points for 2023:")
-for index, row in test_data.iterrows():
-    driver_id = row['Driver ID']
-    driver_name = driver_name_mapping[le_driver.inverse_transform([driver_id])[0]]  # Inverse transform the encoded driver ID
-    predicted_points = row['Predicted Points']
-    print(f"Driver ID: {driver_id}, Driver Name: {driver_name}, Predicted Points: {predicted_points}")
-
-# ----------------------------
-# Plot the predicted points
-# ----------------------------
-plt.figure(figsize=(10, 6))
-sns.barplot(x='Driver ID', y='Predicted Points', data=test_data.sort_values('Predicted Points', ascending=False))
-plt.title('Predicted Points for 2023 Drivers')
-plt.xlabel('Driver ID')
-plt.ylabel('Predicted Points')
-plt.tight_layout()
-plt.show()
+main()

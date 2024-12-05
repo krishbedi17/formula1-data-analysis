@@ -52,7 +52,6 @@ def get_rounds(year):
         return 21
 
 def get_in(year,round):
-
     weather_df = pd.DataFrame()
     schedule = fastf1.get_event_schedule(year)
     for i in range(1, round):
@@ -95,3 +94,6 @@ def main():
         round = get_rounds(year)
         weather_df = get_in(year,round)
         weather_df.to_csv(f"{year}_weather_data.csv", index=False)
+
+
+main()

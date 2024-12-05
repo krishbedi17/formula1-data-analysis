@@ -9,7 +9,7 @@ def main():
     pit_stops_merged = pd.read_csv('avg_pit_stops_2018_to_2023.csv', header=0)
     schedule_merged = pd.DataFrame()
 
-    for year in range(2018,2024):
+    for year in range(2000,2024):
         driver_yearly = pd.read_csv(f"driver_data/{year}_driver_data.csv")
         driver_yearly['year'] = year
         driver_merged = pd.concat([driver_merged, driver_yearly])
