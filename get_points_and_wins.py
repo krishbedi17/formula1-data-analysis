@@ -2,6 +2,10 @@ import pandas as pd
 import requests
 
 
+def add_driver(driver_list, driver_id):
+    if driver_id not in driver_list:
+        driver_list.append(driver_id)
+
 def get_driver_points_until_2017(driver_id):
     total_wins_until_2017 = 0
     season_points = {2018: 0, 2019: 0, 2020: 0, 2021: 0, 2022: 0, 2023: 0}
@@ -56,8 +60,27 @@ def get_driver_points_until_2017(driver_id):
 
 
 def main():
-    data = pd.read_csv("race_error/driver_error_probabilities.csv")
-    driver_ids = data['Driver ID'].tolist()
+    driver_ids = []
+    yearly_files = [
+        "driver_data/2018_driver_data.csv",
+        "driver_data/2019_driver_data.csv",
+        "driver_data/2020_driver_data.csv",
+        "driver_data/2021_driver_data.csv",
+        "driver_data/2022_driver_data.csv",
+        "driver_data/2023_driver_data.csv"
+    ]
+
+    for file_path in yearly_files:
+        try:
+            data = pd.read_csv(file_path)
+            if "Driver ID" in data.columns:
+                for driver_id in data["Driver ID"].unique():
+                    add_driver(driver_ids, driver_id)
+        except FileNotFoundError:
+            print(f"File not found: {file_path}")
+        except Exception as e:
+            print(f"Error reading {file_path}: {e}")
+
     results = []
     for driver_id in driver_ids:
         driver_stats = get_driver_points_until_2017(driver_id)
