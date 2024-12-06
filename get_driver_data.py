@@ -35,7 +35,7 @@ def get_driver_information(year):
 
 
 def main():
-    for i in range(2018, 2024):
+    for i in range(2000, 2024):
         info = get_driver_information(i)
         info.to_csv(f"driver_data/{i}_driver_data.csv", index=False)
 
