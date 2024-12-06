@@ -10,13 +10,11 @@ from sklearn.tree import DecisionTreeClassifier
 def main():
 
     merge_data = pd.read_csv('merged_data/changed_merged_data.csv')
-
     selected_columns = [
         "TempCategory", "HumidityCategory", "RainfallCategory", "WindSpeedCategory",
         "WindDirectionCategory", "Constructor ID_Encoded", "Driver ID_Encoded", "Circuit ID_Encoded",
         "Quali Position", "Total Points", "Total Wins", "Driver Confidence", "Constructor Confidence"
     ]
-
 
     merge_data['Race Position Category'] = pd.cut(
         merge_data['Race Position'], bins=[0, 3, 10, 20], labels=['Top 3', 'Top 10', 'Other']
