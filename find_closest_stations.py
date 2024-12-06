@@ -1,23 +1,16 @@
 
-import sys
-
-from jmespath.functions import Functions
-from pyspark.sql import SparkSession, functions, types
+from pyspark.sql import SparkSession, types
 from math import radians, sin, cos, sqrt, atan2
 from pyspark.sql import functions as F
 from pyspark.sql.types import DoubleType
 
-
-# Initialize Spark session
 spark = SparkSession.builder.appName('GHCN Extracter').getOrCreate()
 
-# Paths to your data files
 ghcn_path = '/courses/datasets/ghcn-splits'
 ghcn_stations = '/courses/datasets/ghcn-more/ghcnd-stations.txt'
 season_schedule_file = '/user/kba89/.sparkStaging/2018_season_schedule.csv'  # Your 2018 season schedule file
 output = 'ghcn-subset'
 
-# Define schemas for observations and stations
 observation_schema = types.StructType([
     types.StructField('station', types.StringType(), False),
     types.StructField('date', types.StringType(), False),
@@ -55,15 +48,13 @@ def station_data(line):
     return [line[0:11].strip(), float(line[12:20]), float(line[21:30]), float(line[31:37]), line[41:71].strip()]
 
 def haversine(lat1, lon1, lat2, lon2):
-    # Convert latitude and longitude from degrees to radians
     lat1, lon1, lat2, lon2 = map(radians, [lat1, lon1, lat2, lon2])
 
-    # Haversine formula to calculate distance in kilometers
     dlat = lat2 - lat1
     dlon = lon2 - lon1
     a = sin(dlat / 2)**2 + cos(lat1) * cos(lat2) * sin(dlon / 2)**2
     c = 2 * atan2(sqrt(a), sqrt(1 - a))
-    R = 6371  # Radius of the Earth in kilometers
+    R = 6371
     distance = R * c
     return distance
 
@@ -82,7 +73,6 @@ def main():
         schedule_df = schedule_df.withColumnRenamed('Date', 'schedule_date')
 
         joined = schedule_df.crossJoin(stations)
-        #joined = stations.join(schedule_df.hint("broadcast"),(schedule_df.sched_lat == stations.stations_lat) & (schedule_df.sched_lon == stations.stations_lon))
         joined = joined.withColumn(
             'distance',
             F.udf(lambda lat1, lon1, lat2, lon2: haversine(lat1, lon1, lat2, lon2), DoubleType())(
