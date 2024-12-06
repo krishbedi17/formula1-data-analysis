@@ -1,6 +1,5 @@
 import pandas as pd
 import requests
-from statsmodels.graphics.tukeyplot import results
 
 
 def get_driver_information(year):
@@ -14,7 +13,6 @@ def get_driver_information(year):
                 'driverId', 'givenName', 'familyName', 'permanentNumber', 'code', 'dateOfBirth', 'nationality'
             ]]
 
-            # Rename the columns for clarity
             driver_df.rename(columns={
                 'driverId': 'Driver ID',
                 'givenName': 'Driver First Name',
@@ -35,9 +33,8 @@ def get_driver_information(year):
 
 
 def main():
-    for i in range(2000, 2024):
+    for i in range(2018, 2024):
         info = get_driver_information(i)
         info.to_csv(f"driver_data/{i}_driver_data.csv", index=False)
-
 
 main()

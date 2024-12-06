@@ -64,7 +64,7 @@ def main():
     })
 
     driver_error = driver_error.rename(columns={
-        'Probability_of_Error': 'Driver Error',
+        'Probability_of_Error': 'Driver Confidence',
     })
 
     constructor_error = constructor_error.rename(columns={

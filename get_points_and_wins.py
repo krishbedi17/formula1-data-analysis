@@ -3,11 +3,10 @@ import requests
 
 
 def get_driver_points_until_2017(driver_id):
-    total_points_until_2017 = 0
     total_wins_until_2017 = 0
-    season_points = {2018: 0, 2019: 0, 2020: 0, 2021: 0, 2022: 0, 2023: 0}  # Dictionary to store points for each season
-    season_wins = {2018: 0, 2019: 0, 2020: 0, 2021: 0, 2022: 0, 2023: 0}  # Dictionary to store wins for each season
-    points_until_2017 = 0  # To track the points up until 2017
+    season_points = {2018: 0, 2019: 0, 2020: 0, 2021: 0, 2022: 0, 2023: 0}
+    season_wins = {2018: 0, 2019: 0, 2020: 0, 2021: 0, 2022: 0, 2023: 0}
+    points_until_2017 = 0
 
     total_points_after_2017 = 0
     total_wins_after_2017 = 0
@@ -26,16 +25,15 @@ def get_driver_points_until_2017(driver_id):
                 points = float(driver_standings[0].get("points", 0))
                 wins = int(driver_standings[0].get("wins", 0))
 
-                if season <= 2017:  # Accumulate points and wins until 2017
+                if season <= 2017:
                     points_until_2017 += points
                     total_wins_until_2017 += wins
-                elif 2018 <= season <= 2023:  # Store points and wins for seasons 2018-2023
+                elif 2018 <= season <= 2023:
                     season_points[season] = points
                     season_wins[season] = wins
                     total_points_after_2017 += points
                     total_wins_after_2017 += wins
 
-        # Return all the stats, including points until 2017
         return {
             "Driver ID": driver_id,
             "Total Points": points_until_2017 + total_points_after_2017,

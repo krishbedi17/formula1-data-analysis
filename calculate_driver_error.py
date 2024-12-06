@@ -15,17 +15,14 @@ for file_path in file_paths:
         print(f"Processing file: {file_path}")
         print(data.columns)
 
-        # Ensure case consistency in the 'Status' column
         data['Status'] = data['Status'].str.lower()
 
-        # Construct a 'Driver Name' column if 'First Name' and 'Last Name' are present
         if 'First Name' in data.columns and 'Last Name' in data.columns:
             data['Driver Name'] = data['First Name'] + ' ' + data['Last Name']
         else:
             print(f"'First Name' and 'Last Name' columns are missing in {file_path}.")
             continue
 
-        # Use 'Driver Name' for processing
         collision_data = data[data['Status'].str.contains('collision|accident', na=False)]
 
         for _, row in collision_data.iterrows():

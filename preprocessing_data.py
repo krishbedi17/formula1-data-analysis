@@ -62,25 +62,21 @@ def main():
     merge_data["WindSpeedCategory"] = merge_data["WindSpeed"].apply(categorize_wind_speed)
     merge_data["WindDirectionCategory"] = merge_data["WindDirection"].apply(categorize_wind_direction)
 
-    # Encode categorical columns using Label Encoding
     categorical_columns = ["TempCategory", "HumidityCategory", "RainfallCategory", "WindSpeedCategory", "WindDirectionCategory"]
-
-
 
     label_encoders = {}
     for col in categorical_columns:
         le = LabelEncoder()
         merge_data[col] = le.fit_transform(merge_data[col])
-        label_encoders[col] = le  # Store the encoder for later use if needed
+        label_encoders[col] = le
 
     for col in ["Constructor ID", "Driver ID", "Circuit ID"]:
         le = LabelEncoder()
-        merge_data[f"{col}_Encoded"] = le.fit_transform(merge_data[col])  # Create new column with encoded values
+        merge_data[f"{col}_Encoded"] = le.fit_transform(merge_data[col])
         label_encoders[col] = le
 
         continuous_features = [ "Total Points", "Total Wins"]
 
-        # Apply StandardScaler to continuous features
         scaler = StandardScaler()
         merge_data[continuous_features] = scaler.fit_transform(merge_data[continuous_features])
 

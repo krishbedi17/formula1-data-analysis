@@ -15,8 +15,6 @@ def get_season_schedule(year):
                 'Circuit.Location.locality', 'Circuit.Location.country',
                 'Circuit.Location.lat', 'Circuit.Location.long', 'date', 'time'
             ]]
-
-            # Rename columns for better readability
             schedule_df.rename(columns={
                 'round': 'Round',
                 'raceName': 'Race Name',
@@ -38,7 +36,7 @@ def get_season_schedule(year):
 
 
 def main():
-    for i in range(2000, 2024):
+    for i in range(2018, 2024):
         schedule = get_season_schedule(i)
         schedule.to_csv(f"season_schedule/{i}_season_schedule.csv", index=False)
 

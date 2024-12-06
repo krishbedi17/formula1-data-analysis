@@ -3,24 +3,20 @@ import pandas as pd
 
 
 def get_driver_standings(year):
-    """Fetch driver standings for a given year using the Ergast API."""
     url = f"https://ergast.com/api/f1/{year}/driverStandings.json"
     response = requests.get(url)
 
     if response.status_code == 200:
-        # Parse JSON response
         data = response.json()
         standings_list = data.get("MRData", {}).get("StandingsTable", {}).get("StandingsLists", [])
 
         if standings_list:
-            # Get the first (and only) standings list for the season
             driver_standings = standings_list[0].get("DriverStandings", [])
 
-            # Extract relevant details for each driver
             standings_data = []
             for entry in driver_standings:
                 driver_info = entry.get("Driver", {})
-                constructor_info = entry.get("Constructors", [{}])[0]  # Assuming one constructor per driver
+                constructor_info = entry.get("Constructors", [{}])[0]
 
                 standings_data.append({
                     "Position": entry.get("position"),
@@ -32,7 +28,6 @@ def get_driver_standings(year):
                     "Wins": entry.get("wins")
                 })
 
-            # Convert to DataFrame
             standings_df = pd.DataFrame(standings_data)
             return standings_df
 
@@ -45,7 +40,6 @@ def get_driver_standings(year):
         return pd.DataFrame()
 
 
-# Fetch and save 2023 standings
 year = 2023
 standings_2023 = get_driver_standings(year)
 

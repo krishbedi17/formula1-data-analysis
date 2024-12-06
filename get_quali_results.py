@@ -15,43 +15,6 @@ def get_rounds(year):
         return 22
     elif year == 2023:
         return 23
-    elif year == 2000:
-        return 18
-    elif year == 2001:
-        return 18
-    elif year == 2002:
-        return 18
-    elif year == 2003:
-        return 17
-    elif year == 2004:
-        return 20
-    elif year == 2005:
-        return 19
-    elif year == 2006:
-        return 18
-    elif year == 2007:
-        return 19
-    elif year == 2008:
-        return 18
-    elif year == 2009:
-        return 18
-    elif year == 2010:
-        return 20
-    elif year == 2011:
-        return 20
-    elif year == 2012:
-        return 21
-    elif year == 2013:
-        return 20
-    elif year == 2014:
-        return 20
-    elif year == 2015:
-        return 20
-    elif year == 2016:
-        return 22
-    elif year == 2017:
-        return 21
-
 
 def get_quali_results(year, round):
     url = f"http://ergast.com/api/f1/{year}/{round}/qualifying.json"
@@ -59,7 +22,6 @@ def get_quali_results(year, round):
     if response.status_code == 200:
         quali_data = response.json().get('MRData', {}).get('RaceTable', {}).get('Races', [])
 
-        # Check if there is race data
         if quali_data:
             quali_results = quali_data[0].get('QualifyingResults', [])
             if quali_results:
@@ -100,7 +62,7 @@ def get_quali_results(year, round):
 
 
 def main():
-    for i in range(2000, 2024):
+    for i in range(2018, 2024):
         filename = f"season_schedule/{i}_season_schedule.csv"
         round_count = get_rounds(i)
 
@@ -114,7 +76,6 @@ def main():
 
         if season_results:
             season_df = pd.concat(season_results, ignore_index=True)
-            # Save the combined results to a CSV file
             season_df.to_csv(f"quali_data/{i}_quali_results.csv", index=False)
         else:
             print(f"No qualifying results found for season {i}.")
