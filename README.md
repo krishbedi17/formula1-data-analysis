@@ -1,4 +1,5 @@
 # Formula1 Data Analysis
+### How to Run Program  (Heading 3)
 
 **get_season_schedule.py**
 
