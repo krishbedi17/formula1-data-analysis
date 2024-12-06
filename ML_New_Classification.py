@@ -5,6 +5,22 @@ from sklearn.metrics import classification_report, accuracy_score
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.svm import SVC
 from sklearn.tree import DecisionTreeClassifier
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+from sklearn.metrics import confusion_matrix
+
+def plot_confusion_matrix(test_data):
+    cm = confusion_matrix(test_data['Race Position Category'], test_data['Predicted Race Position Category'],
+                          labels=['Top 3', 'Top 10', 'Other'])
+
+    plt.figure(figsize=(8, 6))
+    sns.heatmap(cm, annot=True, fmt='d', cmap='Blues', xticklabels=['Top 3', 'Top 10', 'Other'],
+                yticklabels=['Top 3', 'Top 10', 'Other'])
+    plt.title('Confusion Matrix: Predictions vs Actuals')
+    plt.xlabel('Predicted')
+    plt.ylabel('Actual')
+    plt.savefig('Plots/Confusion Matrix.png')
 
 
 def main():
@@ -56,9 +72,12 @@ def main():
 
     test_data = test_data.copy()
     test_data['Predicted Race Position Category'] = y_pred
+    plot_confusion_matrix(test_data)
 
     test_data.to_csv('ML_Outputs/classifier_predictions.csv', index=False)
     print("Predictions saved to 'ML_Outputs/classifier_predictions.csv'.")
 
 
 main()
+
+
