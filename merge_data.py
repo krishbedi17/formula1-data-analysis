@@ -67,6 +67,10 @@ def main():
         'Probability_of_Error': 'Driver Error',
     })
 
+    constructor_error = constructor_error.rename(columns={
+        'Probability_of_Error': 'Constructor Confidence'
+    })
+
     merged_data = quali_merged
     merged_data = pd.merge(merged_data, race_merged, on=['Driver ID', 'Year', 'Round'], how='outer')
     merged_data = pd.merge(merged_data, weather_merged, on=['Year', 'Round'], how='outer')

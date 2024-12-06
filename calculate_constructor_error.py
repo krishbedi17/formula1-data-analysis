@@ -21,9 +21,9 @@ for file_path in race_file_paths:
         # Filter out irrelevant statuses (e.g., finished, lap) to focus on problematic statuses
         valid_data = data[~data['Status'].str.contains('collision|accident|finished|lap', na=False)]
 
-        for team in valid_data['Constructor'].unique():
-            team_race_count = valid_data[valid_data['Constructor'] == team].shape[0]
-            total_race_count = data[data['Constructor'] == team].shape[0]
+        for team in valid_data['Constructor ID'].unique():
+            team_race_count = valid_data[valid_data['Constructor ID'] == team].shape[0]
+            total_race_count = data[data['Constructor ID'] == team].shape[0]
             if team in team_collision_counts:
                 team_collision_counts[team] += team_race_count
                 team_total_races[team] += total_race_count
@@ -47,7 +47,7 @@ if os.path.exists(pit_stop_file_path):
             # Get the constructor for the driver
             driver_row = data[data['Driver ID'] == driver_id]
             if not driver_row.empty:
-                team = driver_row['Constructor'].iloc[0]
+                team = driver_row['Constructor ID'].iloc[0]
 
                 # Add pit stop data to pit_stop_stats dictionary
                 avg_pit_stop_duration = driver_pit_data['Average Duration'].iloc[0]
@@ -81,12 +81,12 @@ for team in team_collision_counts:
     pit_stop_penalty = avg_pit_time / 20.0  # Assuming 20 seconds as an ideal pit stop time
 
     # Combine the two to calculate adjusted probability of error
-    team_probability_of_error[team] = error_from_races + pit_stop_penalty
+    team_probability_of_error[team] = 1 - error_from_races
 
 # Create DataFrame and save
 team_probability_df = pd.DataFrame(
     [
-        {'Constructor': team, 'Probability_of_Error': probability,
+        {'Constructor ID': team, 'Probability_of_Error': probability,
          'Avg_Pit_Stop_Time': pit_stop_stats.get(team, {'total_pit_time': 0, 'total_pit_stops': 0})['total_pit_time'] /
                               pit_stop_stats.get(team, {'total_pit_time': 0, 'total_pit_stops': 0})[
                                   'total_pit_stops'] if
@@ -97,4 +97,4 @@ team_probability_df = pd.DataFrame(
 
 print(team_probability_df)
 
-team_probability_df.to_csv('team_error_probabilities_with_pit_stops.csv', index=False)
+team_probability_df.to_csv('race_error/team_error_probabilities.csv', index=False)
