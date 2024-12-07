@@ -1,6 +1,6 @@
 # Formula1 Data Analysis
 ## Overview
-This project aims to analyze race and weather data from 2018 to 2022 using machine learning models to predict race position categories: Podium Finishes, Finish in Points or Other, for drivers for all races in 2023.
+This project aims to analyze race and weather data from 2018 to 2022 using machine learning models to predict race position categories: Podium Finishes (1st - 3rd position), Finish in Points (4th - 10th position), or Other positions (10th - 20th position), for drivers for all races in 2023.
 
 ---
 
